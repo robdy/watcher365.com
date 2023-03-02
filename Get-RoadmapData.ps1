@@ -3,8 +3,7 @@ $dataFolder = 'data'
 $roadmapRSSUri = 'https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS/'
 #endregion Settings and variables
 
-$res = Invoke-RestMethod $roadmapRSSUri
-
+#region Functions
 function ConvertRSSToFile {
 	param(
 		[Parameter(Mandatory = $true,
@@ -26,6 +25,10 @@ function ConvertRSSToFile {
 
 	ConvertTo-Json -InputObject $processedObj
 }
+#endregion Functions
+
+#region Processing
+$res = Invoke-RestMethod $roadmapRSSUri
 
 if (-not (Test-Path $dataFolder)) {
 	New-Item -ItemType Directory $dataFolder
@@ -37,3 +40,4 @@ foreach ($entry in $res) {
 	$outFilePath = Join-Path -Path $dataFolder -ChildPath "$fileName.json"
 	$jsonEntry | Out-File -FilePath $outFilePath -Force
 }
+#endregion Processing
