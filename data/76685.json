@@ -1,0 +1,15 @@
+{
+  "guid": "76685",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=76685",
+  "category": [
+    "Developer",
+    "Launched",
+    "Microsoft Graph",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint:  Site Collection Level permissions for Microsoft Graph",
+  "description": ",Applications can now use the new \"Sites.selected\" permission to request access to SharePoint sites.  By default an application that requests “Sites.Selected” instead of a tenant wide permission may not access any SharePoint sites. The tenant administrator can grant or revoke an application’s access to individual sites through new endpoints in the Microsoft Graph API.<br>Preview date: October CY2021",
+  "pubDate": "Thu, 14 Jan 2021 01:35:43 -0800",
+  "updated": "2022-10-31T23:16:36-07:00"
+}

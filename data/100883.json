@@ -1,0 +1,19 @@
+{
+  "guid": "100883",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100883",
+  "category": [
+    "Desktop",
+    "Developer",
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Mobile",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Receive all group chat messages with resource-specific consent",
+  "description": "The resource-specific consent (RSC) permissions\nmodel, originally developed for Teams Graph APIs, is extended for chat and\nchannel scope. Using RSC, you can now request team owners to consent for a bot\nto receive user messages across standard group chats without being @mentioned. <br>More info: https://learn.microsoft.com/microsoftteams/platform/bots/how-to/conversations/channel-messages-with-rsc?tabs=dotnet<br>GA date: March CY2023",
+  "pubDate": "Thu, 10 Nov 2022 00:21:19 -0800",
+  "updated": "2023-01-20T00:11:39-08:00"
+}

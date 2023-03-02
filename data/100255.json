@@ -1,0 +1,17 @@
+{
+  "guid": "100255",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100255",
+  "category": [
+    "Current Channel",
+    "Current Channel (Preview)",
+    "Desktop",
+    "General Availability",
+    "In development",
+    "Outlook",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: Support pop-up messages in Outlook that warn, justify, or block emails being sent with sensitivity labels",
+  "description": ",Outlook desktop native sensitivity labeling will support oversharing pop-up dialogue as AIP plug-in to warn, justify or block email being sent. Admin could use the Microsoft Purview compliance portal to define the oversharing pop-up DLP rules(Roadmap 100157) to group of users. If users has the configured DLP rule trigger when they click send, a warn/justify/block pop up message will show up to make sure customer could comply admin's security double check requirements. As the first stage, Outlook desktop will only support these Pop-up message for DLP rule regarding sending emails to external with specific email and attachment labels. More DLP condition support will come later. <br>GA date: April CY2023<br>Preview date: March CY2023",
+  "pubDate": "Thu, 06 Oct 2022 23:09:02 -0700",
+  "updated": "2023-02-17T23:25:53-08:00"
+}
