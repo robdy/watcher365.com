@@ -1,4 +1,4 @@
-name: Autochecker
+name: RSS watcher
 
 # Run every day at 3AM
 on:
@@ -12,9 +12,10 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
+      - uses: actions/checkout@v3
       - name: Run script
         id: checker
-        run: ./src/Get-RoadmapData.ps1
+        run: ./Get-RoadmapData.ps1
       - name: Commit changes
         run: |
           cd data

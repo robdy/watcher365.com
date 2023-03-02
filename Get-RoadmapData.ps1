@@ -28,10 +28,12 @@ function ConvertRSSToFile {
 #endregion Functions
 
 #region Processing
+Write-Host 'Script starting'
 $res = Invoke-RestMethod $roadmapRSSUri
 
 if (-not (Test-Path $dataFolder)) {
 	New-Item -ItemType Directory $dataFolder
+	Write-Host "Creating $dataFolder folder"
 }
 
 foreach ($entry in $res) {
@@ -40,4 +42,5 @@ foreach ($entry in $res) {
 	$outFilePath = Join-Path -Path $dataFolder -ChildPath "$fileName.json"
 	$jsonEntry | Out-File -FilePath $outFilePath -Force
 }
+Write-Host 'Script finished'
 #endregion Processing
