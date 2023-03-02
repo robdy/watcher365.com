@@ -1,0 +1,25 @@
+name: Autochecker
+
+# Run every day at 3AM
+on:
+  schedule:
+    - cron: "0 2 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Run script
+        id: checker
+        run: ./src/Get-RoadmapData.ps1
+      - name: Commit changes
+        run: |
+          cd data
+          git add .
+          git config --global user.name 'Robert Dyjas'
+          git config --global user.email '15113729+robdy@users.noreply.github.com'
+          git commit -am "$(Get-Date -Format 'yyyy-MM-dd') data update"
+          git push
