@@ -12,7 +12,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Defender for Office 365: Tenant Allow/Block List Limit per SKU",
-  "description": "Today, customers can only create 500 block and 500 allow entries in sender, URL and file category in Tenant allow/block list. Going ahead, customers with MDO P2 or E5 security can create 5000 allows and 10000 blocks in Tenant allow/block list for sender, URL and file category. Spoof in Tenant allow/block list will remain unaffected by this change and all SKUs will have 1024 entries for both allows and blocks. <br>GA date: May CY2023",
+  "description": "Today, customers can only create 500 block and 500 allow entries in sender, URL and file category in Tenant allow/block list. Going ahead, customers with MDO P2 or E5 security can create 5000 allows and 10000 blocks in Tenant allow/block list for sender, URL and file category. Spoof in Tenant allow/block list will remain unaffected by this change and all SKUs will have 1024 entries for both allows and blocks.",
   "pubDate": "Fri, 09 Sep 2022 22:29:20 -0700",
-  "updated": "2023-01-13T00:31:38-08:00"
+  "updated": "2023-01-13T00:31:38-08:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

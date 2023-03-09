@@ -10,7 +10,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Purview | Information Protection: User-defined permissions now support domain name restrictions",
-  "description": ",When you choose a sensitivity label configured for user-defined permissions, they can now use domain names to restrict file access to specific individuals, or to all individuals from that domain. For example, you can specify \"someone@example.com\" or \"@example.com\" and permissions will be restricted based on those parameters. <br>GA date: March CY2023<br>Preview date: December CY2022",
+  "description": ",When you choose a sensitivity label configured for user-defined permissions, they can now use domain names to restrict file access to specific individuals, or to all individuals from that domain. For example, you can specify \"someone@example.com\" or \"@example.com\" and permissions will be restricted based on those parameters.",
   "pubDate": "Mon, 29 Aug 2022 23:33:38 -0700",
-  "updated": "2023-02-17T23:25:53-08:00"
+  "updated": "2023-02-17T23:25:53-08:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": "December CY2022"
 }

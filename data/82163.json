@@ -11,7 +11,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "SharePoint: Security - Granular conditional access policies via “Sensitivity Labels” for SharePoint Online sites",
-  "description": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device, and location policies on a specific SharePoint site collection by simply attaching CA policies to a label. For example, the Top-Secret label can now have a conditional access policy that requires MFA when accessing a site. This feature for GCC-H and DoD environments tracked by the roadmap item 85979.    <br>GA date: September CY2022",
+  "description": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device, and location policies on a specific SharePoint site collection by simply attaching CA policies to a label. For example, the Top-Secret label can now have a conditional access policy that requires MFA when accessing a site. This feature for GCC-H and DoD environments tracked by the roadmap item 85979.",
   "pubDate": "Tue, 02 Nov 2021 17:49:26 -0700",
-  "updated": "2022-11-22T00:04:14-08:00"
+  "updated": "2022-11-22T00:04:14-08:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }

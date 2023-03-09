@@ -9,7 +9,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Purview compliance portal:  Information Protection - Automatically turn on auto-labeling policy",
-  "description": "Admins can configure their auto-labeling policies to be automatically turned on if there aren't any changes to the policy within a set number of days from simulation completion. This configuration has rolled out via cmdlet. We are still in the process of rolling this out in the auto-labeling policy setup in the Microsoft Purview compliance portal. <br>More info: https://docs.microsoft.com/en-us/powershell/module/exchange/set-autosensitivitylabelpolicy?view=exchange-ps<br>GA date: June CY2022",
+  "description": "Admins can configure their auto-labeling policies to be automatically turned on if there aren't any changes to the policy within a set number of days from simulation completion. This configuration has rolled out via cmdlet. We are still in the process of rolling this out in the auto-labeling policy setup in the Microsoft Purview compliance portal. <br>More info: https://docs.microsoft.com/en-us/powershell/module/exchange/set-autosensitivitylabelpolicy?view=exchange-ps",
   "pubDate": "Wed, 25 May 2022 23:07:20 -0700",
-  "updated": "2022-09-09T22:12:31-07:00"
+  "updated": "2022-09-09T22:12:31-07:00",
+  "publicDisclosureAvailabilityDate": "June CY2022",
+  "publicPreviewDate": null
 }

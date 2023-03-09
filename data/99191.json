@@ -14,7 +14,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Teams: People targeting Graph API",
-  "description": "This allows organizations to publish content to multiple teams. Today, the hierarchy is used for task publishing to distribute task lists across multiple teams based on team attributes.  Today, customers must use a preview version of PowerShell since we do not have Graph APIs to upload their hierarchy. Having Graph APIs for this hierarchy would   Give customers capabilities to work with their hierarchies through Graph for both querying the hierarchy and for end-to-end workflows    Remove the barrier of downloading the preview cmdlets from PowerShell once we eventually get the APIs out and release new cmdlets.<br>GA date: October CY2022",
+  "description": "This allows organizations to publish content to multiple teams. Today, the hierarchy is used for task publishing to distribute task lists across multiple teams based on team attributes.  Today, customers must use a preview version of PowerShell since we do not have Graph APIs to upload their hierarchy. Having Graph APIs for this hierarchy would   Give customers capabilities to work with their hierarchies through Graph for both querying the hierarchy and for end-to-end workflows    Remove the barrier of downloading the preview cmdlets from PowerShell once we eventually get the APIs out and release new cmdlets.",
   "pubDate": "Wed, 21 Sep 2022 23:16:20 -0700",
-  "updated": "2022-10-17T23:08:19-07:00"
+  "updated": "2022-10-17T23:08:19-07:00",
+  "publicDisclosureAvailabilityDate": "October CY2022",
+  "publicPreviewDate": null
 }

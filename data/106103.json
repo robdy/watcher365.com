@@ -12,7 +12,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Retention policy support for legacy Teams CDR messages",
-  "description": "Retention policies for Microsoft Teams are being extended to include CDR messages (system-generated messages from Teams meetings). Up until now, only messages generated after October 2022 were supported for retention. This update extends coverage to messages created before October 2022, so that old and new are now supported in the same manner. <br>GA date: June CY2023",
+  "description": "Retention policies for Microsoft Teams are being extended to include CDR messages (system-generated messages from Teams meetings). Up until now, only messages generated after October 2022 were supported for retention. This update extends coverage to messages created before October 2022, so that old and new are now supported in the same manner.",
   "pubDate": "Wed, 30 Nov 2022 00:18:22 -0800",
-  "updated": "2022-11-30T00:13:18-08:00"
+  "updated": "2022-11-30T00:13:18-08:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

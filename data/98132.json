@@ -11,7 +11,9 @@
     "Web"
   ],
   "title": "Microsoft Defender for Office 365: URL and attachment allow & block via submissions for government clouds",
-  "description": "In government clouds, we honor the data residency commitments aligned with these environments. As a result, submissions are not sent to Microsoft. Admins can still create allow or block rules in the tenant allow/block list for emails via admin email submission. With this change, customers in our government cloud environments will be able to create allow and block entries for URLs and attachments in the Tenant allow block list via admin URL and email attachment submission. The data submitted via the submissions experience will not leave the customer tenant just as is standard for admin email submissions. <br>GA date: September CY2022",
+  "description": "In government clouds, we honor the data residency commitments aligned with these environments. As a result, submissions are not sent to Microsoft. Admins can still create allow or block rules in the tenant allow/block list for emails via admin email submission. With this change, customers in our government cloud environments will be able to create allow and block entries for URLs and attachments in the Tenant allow block list via admin URL and email attachment submission. The data submitted via the submissions experience will not leave the customer tenant just as is standard for admin email submissions.",
   "pubDate": "Mon, 29 Aug 2022 23:33:40 -0700",
-  "updated": "2022-09-29T23:37:55-07:00"
+  "updated": "2022-09-29T23:37:55-07:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }

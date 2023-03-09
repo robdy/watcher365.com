@@ -11,7 +11,9 @@
     "Microsoft Purview compliance portal"
   ],
   "title": "Microsoft Purview compliance portal: Information Protection - Maintain label and protection when creating PDF files from VBA in Word, Excel, and PowerPoint (U.S. Government clouds)",
-  "description": "This feature is for VBA developers who use Office fixed format export functions to create PDFs from documents with sensitivity labels and encryption. By default, all PDFs created using Office's fixed format export functions will automatically inherit the source document's label or encryption. Some VBA add-ins may need to be updated to avoid issues when post-processing an encrypted PDF.<br>GA date: January CY2023",
+  "description": "This feature is for VBA developers who use Office fixed format export functions to create PDFs from documents with sensitivity labels and encryption. By default, all PDFs created using Office's fixed format export functions will automatically inherit the source document's label or encryption. Some VBA add-ins may need to be updated to avoid issues when post-processing an encrypted PDF.",
   "pubDate": "Wed, 07 Dec 2022 00:06:38 -0800",
-  "updated": "2023-01-24T00:10:42-08:00"
+  "updated": "2023-01-24T00:10:42-08:00",
+  "publicDisclosureAvailabilityDate": "January CY2023",
+  "publicPreviewDate": null
 }
