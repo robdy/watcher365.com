@@ -66,7 +66,7 @@ foreach ($entry in $res) {
 
 	# Extract changes
 	$currentData = $jsonEntry | ConvertFrom-Json
-	if (Compare-Object $currentData.PSObject.Properties $obj2.PSObject.Properties) {
+	if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
 		# If there are differences
 		$propsToBeCompared = @(
 			'title',
