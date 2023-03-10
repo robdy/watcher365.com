@@ -11,7 +11,6 @@ function ConvertRSSToFile {
 		[Object]
 		$InputObject
 	)
-	[Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSAvoidAssignmentToAutomaticVariable')]
 	$matches = $null
 	$publicPreviewDate = $null
 	$GADate = $null 
