@@ -14,13 +14,13 @@ function ConvertRSSToFile {
 	$matches = $null
 	$publicPreviewDate = $null
 	$GADate = $null 
-	if ($InputObject.description -match '(?:<br>Preview date: )([\w ]+)') {
+	if ($InputObject.description -match '(?: *<br>Preview date: )([\w ]+)') {
 		$publicPreviewDate = $matches.1
-		$InputObject.description = $InputObject.description.Replace($matches.0,'')
+		$InputObject.description = $InputObject.description.Replace($matches.0, '')
 	}
-	if ($InputObject.description -match '(?:<br>GA date: )([\w ]+)') {
+	if ($InputObject.description -match '(?: *<br>GA date: )([\w ]+)') {
 		$GADate = $matches.1
-		$InputObject.description = $InputObject.description.Replace($matches.0,'')
+		$InputObject.description = $InputObject.description.Replace($matches.0, '')
 	}
 
 	$objProperties = [ordered]@{
