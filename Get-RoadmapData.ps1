@@ -11,6 +11,7 @@ function ConvertRSSToFile {
 		[Object]
 		$InputObject
 	)
+	[Diagnostics.CodeAnalysis.SuppressMessageAttribute('PSAvoidAssignmentToAutomaticVariable')]
 	$matches = $null
 	$publicPreviewDate = $null
 	$GADate = $null 
@@ -53,10 +54,33 @@ foreach ($entry in $res) {
 	<#
 	$entry = $res[0]
 	#>
+	# Generate filename
 	$fileName = $entry.guid.'#text'
 	$jsonEntry = $entry | ConvertRSSToFile
 	$outFilePath = Join-Path -Path $dataFolder -ChildPath "$fileName.json"
+
+	# Save previous version
+	$previousData = Get-Content $outFilePath | ConvertFrom-Json
+
+	# Save to file
 	$jsonEntry | Out-File -FilePath $outFilePath -Force
+
+	# Extract changes
+	$currentData = $jsonEntry | ConvertFrom-Json
+	if (Compare-Object $currentData.PSObject.Properties $obj2.PSObject.Properties) {
+		# If there are differences
+		$propsToBeCompared = @(
+			'title',
+			'description',
+			'publicDisclosureAvailabilityDate',
+			'publicPreviewDate'
+		)
+		foreach ($prop in $propsToBeCompared) {
+			if ($currentData.$prop -ne $previousData.$prop) {
+				Write-Host "$prop of $($currentData.guid) changed from $($previousData.$prop) to $($currentData.$prop)"
+			}
+		}
+	}
 }
 Write-Host 'Script finished'
 #endregion Processing
