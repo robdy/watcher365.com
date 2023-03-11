@@ -55,32 +55,40 @@ foreach ($entry in $res) {
 	<#
 	$entry = $res[0]
 	#>
+	$isNew =
 	# Generate filename
 	$fileName = $entry.guid.'#text'
 	$jsonEntry = $entry | ConvertRSSToFile
 	$outFilePath = Join-Path -Path $dataFolder -ChildPath "$fileName.json"
 
 	# Save previous version
-	$previousData = Get-Content $outFilePath | ConvertFrom-Json
+	$isNew = -not (Test-Path $outFilePath)
+	if (-not $isNew) {
+		$previousData = Get-Content $outFilePath | ConvertFrom-Json
+	}
 
 	# Save to file
 	$jsonEntry | Out-File -FilePath $outFilePath -Force
 
 	# Extract changes
-	$currentData = $jsonEntry | ConvertFrom-Json
-	if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
-		# If there are differences
-		$propsToBeCompared = @(
-			'title',
-			'description',
-			'publicDisclosureAvailabilityDate',
-			'publicPreviewDate'
-		)
-		foreach ($prop in $propsToBeCompared) {
-			if ($currentData.$prop -ne $previousData.$prop) {
-				Write-Host "$prop of $($currentData.guid) changed from $($previousData.$prop) to $($currentData.$prop)"
+	if (-not $isNew) {
+		$currentData = $jsonEntry | ConvertFrom-Json
+		if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
+			# If there are differences
+			$propsToBeCompared = @(
+				'title',
+				'description',
+				'publicDisclosureAvailabilityDate',
+				'publicPreviewDate'
+			)
+			foreach ($prop in $propsToBeCompared) {
+				if ($currentData.$prop -ne $previousData.$prop) {
+					Write-Host "$prop of $($currentData.guid) changed from $($previousData.$prop) to $($currentData.$prop)"
+				}
 			}
 		}
+	} else {
+		Write-Host "$($currentData.guid) added: $($currentData.title)"
 	}
 }
 Write-Host 'Script finished'
