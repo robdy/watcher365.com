@@ -4,14 +4,14 @@
   "category": [
     "Exchange",
     "General Availability",
-    "Rolling out",
+    "Launched",
     "Web",
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Exchange: Microsoft multi-geo admin operation auditing",
   "description": "We are pleased to announce that Exchange Online Multi-Geo will be introducing a new feature release in early March, allowing admins to audit operations across all locations with the help of Search-UnifiedAuditLog cmdlet and Microsoft Purview portal. Once the feature has been rolled out to tenants, users can begin testing it by using either Microsoft Purview portal or Search-UnifiedAuditLog cmdlet(not Search-AdminAuditLog) to track admin operations. Please note that this feature is limited to admin operations only and does not include other types of audit logs.",
   "pubDate": "Thu, 02 Mar 2023 00:22:29 -0800",
-  "updated": "2023-03-02T00:17:03-08:00",
+  "updated": "2023-04-11T23:52:39-07:00",
   "publicDisclosureAvailabilityDate": "March CY2023",
   "publicPreviewDate": null
 }
