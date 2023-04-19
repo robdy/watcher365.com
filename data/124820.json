@@ -1,0 +1,20 @@
+{
+  "guid": "124820",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124820",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Auto allow of third-party phish simulation URLs in email message body",
+  "description": "We're enabling automatic allow of URLs present in the email message body for third-party phishing simulation campaigns. With this update, security admins no longer need to configure simulation URLs to allow in the advanced delivery policy as previously required in order to ensure URLs are not blocked/detonated at time of click. These URLs will now be automatically allowed as part of the advanced delivery email message allow.",
+  "pubDate": "Tue, 18 Apr 2023 23:23:55 -0700",
+  "updated": "2023-04-18T23:23:55-07:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
+}
