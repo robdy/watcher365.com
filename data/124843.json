@@ -13,10 +13,10 @@
     "Web",
     "Worldwide (Standard Multi-Tenant)"
   ],
-  "title": "Microsoft SharePoint: Application Site Creation without Sites.FullControl.All",
+  "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
   "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions.",
-  "pubDate": "Tue, 02 May 2023 23:19:55 -0700",
-  "updated": "2023-05-02T23:19:55-07:00",
+  "pubDate": "Tue, 02 May 2023 23:25:18 -0700",
+  "updated": "2023-05-03T23:24:02-07:00",
   "publicDisclosureAvailabilityDate": "December CY2023",
   "publicPreviewDate": null
 }
