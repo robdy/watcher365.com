@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-100;
+  }
+}
+@layer utilities {
+  .active {
+    @apply bg-green-100;
+  }
+}
+.css-1n5o7vh-diff-container pre {
+  padding: 0 8px 0 0;
+}
