@@ -40,7 +40,7 @@ const ListContainer: React.FC<Props> = ({ data, title }) => {
             </li>
           ))
         ) : (
-          <li className="flex  p-2 bg-white mb-3">No changed found</li>
+          <li className="flex  p-2 bg-white mb-3">No changes found</li>
         )}
       </ul>
     </div>
