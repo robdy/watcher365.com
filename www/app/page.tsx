@@ -31,6 +31,18 @@ const getData = async (
     // filtered yesterday changes file from all commits
     const yesterdayChangedFiles = getChangeFiles(response.data, yesterday);
 
+    let commitData = [] as RecentData[];
+    for (const commit of response.data.slice(0,2)) {
+      const latestCommitSHA = commit.sha;
+      const commitResponse = await octokit.rest.repos.getCommit({
+        owner: owner,
+        repo: repo,
+        ref: latestCommitSHA,
+      });
+      commitData = commitData.concat(getLastChangeFile(commitResponse.data, paramsFilter));
+    }
+    console.log(commitData);
+
     // get today commit data
     if (todayChangedFiles.length > 0) {
       const latestCommitSHA = todayChangedFiles[0].sha;
