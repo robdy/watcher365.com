@@ -11,7 +11,7 @@ const Header = () => {
           </Link>
         </div>
 
-        <div className="flex gap-2 items-center">
+        {/* <div className="flex gap-2 items-center">
           <fieldset className=" space-y-1 text-gray-100">
             <div className="relative">
               <span className="absolute inset-y-0 left-0 flex items-center pl-2">
@@ -29,15 +29,15 @@ const Header = () => {
                   </svg>
                 </button>
               </span>
-              {/* <input
+              <input
                 type="search"
                 name="Search"
                 placeholder="Find the File..."
                 className="w-40  bg-slate-100 py-2 pl-10 text-sm rounded-md sm:w-auto focus:outline-none border-gray-800 text-gray-700"
-              /> */}
+              />
             </div>
           </fieldset>
-        </div>
+        </div> */}
       </div>
     </header>
   );
