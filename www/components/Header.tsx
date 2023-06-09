@@ -11,7 +11,7 @@ const Header = () => {
           </Link>
         </div>
 
-        <div className="flex gap-2 items-center">
+        {/* <div className="flex gap-2 items-center">
           <fieldset className=" space-y-1 text-gray-100">
             <div className="relative">
               <span className="absolute inset-y-0 left-0 flex items-center pl-2">
@@ -37,7 +37,7 @@ const Header = () => {
               />
             </div>
           </fieldset>
-        </div>
+        </div> */}
       </div>
     </header>
   );

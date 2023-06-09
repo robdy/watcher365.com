@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Home | M365 ",
+  title: "Home | M365 Roadmap History ",
 };
 
 export default function RootLayout({
