@@ -2,11 +2,7 @@ import { RecentData } from "@/types/RecentData";
 
 export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
   let changeData = [] as RecentData[];
-  const responseDataFiles = responseData.files?.filter((file: any) => {
-    const fileName = file.filename as string;
-    return fileName.startsWith('data');
-  })
-  responseDataFiles.map((file: any) => {
+  responseData.files?.map((file: any) => {
     const titleRegex = /"title":\s*"([^"]+)"/;
     const match = file?.patch?.match(titleRegex);
     const title = match ? match[1] : "";

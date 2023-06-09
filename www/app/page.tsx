@@ -14,7 +14,11 @@ const getData = async (
 > => {
   try {
     // gat all commits from repo
-    const response = await octokit.rest.repos.listCommits({ owner, repo });
+    const response = await octokit.rest.repos.listCommits({ 
+      owner, 
+      repo,
+      path: "data",
+    });
 
     let commitData = [] as RecentData[];
     for (const commit of response.data.slice(0,5)) {
