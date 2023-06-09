@@ -29,12 +29,12 @@ const Header = () => {
                   </svg>
                 </button>
               </span>
-              <input
+              {/* <input
                 type="search"
                 name="Search"
                 placeholder="Find the File..."
                 className="w-40  bg-slate-100 py-2 pl-10 text-sm rounded-md sm:w-auto focus:outline-none border-gray-800 text-gray-700"
-              />
+              /> */}
             </div>
           </fieldset>
         </div>
