@@ -1,6 +1,5 @@
 import { repo, owner, octokit } from "@/config/octokit";
 import { RecentData } from "@/types/RecentData";
-import { getChangeFiles } from "@/libs/getChangedFiles";
 import ListContainer from "@/components/ListContainer";
 import { getLastChangeFile } from "@/libs/getLastChangeFile";
 import Tab from "@/components/Tab";
@@ -11,18 +10,9 @@ export const revalidate = 3600 / 6;
 const getData = async (
   paramsFilter?: string
 ): Promise<
-  { todayData: RecentData[]; yesterdayData: RecentData[] } | undefined
+  { commitData: RecentData[] } | undefined
 > => {
   try {
-    let todayData = [] as RecentData[];
-    let yesterdayData = [] as RecentData[];
-    // Today date
-    const today = new Date().toISOString().split("T")[0].toString();
-    // Yesterday date
-    const yesterday = new Date(Date.now() - 86400000)
-      .toISOString()
-      .split("T")[0]
-      .toString();
     // gat all commits from repo
     const response = await octokit.rest.repos.listCommits({ owner, repo });
 
@@ -37,21 +27,20 @@ const getData = async (
       commitData = commitData.concat(getLastChangeFile(commitResponse.data, paramsFilter));
     }
 
-    return { todayData: commitData };
+    return { commitData };
   } catch (error: any) {
     throw new Error(error.message);
   }
 };
 
 const Home = async ({ searchParams }: { searchParams: { filter: string } }) => {
-  const { todayData }: any = await getData(searchParams.filter);
+  const { commitData }: any = await getData(searchParams.filter);
   return (
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
         {/* filter Buttons  */}
         <Tab filtered={searchParams.filter} />
-        {/* showing today changes  */}
-        <ListContainer title="Today" data={todayData} />
+        <ListContainer data={commitData} />
       </div>
     </section>
   );
