@@ -23,6 +23,7 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
             fileName: file.filename.split("/")[1],
             filePath: path[0],
             filter: paramsFilter,
+            timestamp: responseData.commit.author.date,
           });
         }
       }
@@ -32,6 +33,7 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
         fileName: file.filename.split("/")[1],
         filePath: path[0],
         filter: "all",
+        timestamp: responseData.commit.author.date,
       });
     }
   });
