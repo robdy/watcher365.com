@@ -16,6 +16,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script
+          defer
+          data-domain="m365roadmap-history.vercel.app"
+          src="https://plausible.io/js/script.js"
+        ></script>
+      </head>
       <body className={inter.className}>
         <div className="min-h-screen flex flex-col">
           <Header />
