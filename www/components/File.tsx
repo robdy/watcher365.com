@@ -25,13 +25,13 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
   const [content, setContent] = useState<any>([]);
 
   useEffect(() => {
-    const makeReq = async () => {
+    const makeReq = async (commit: any) => {
       setLoading(true);
       const firstVersion: any = await octokit.rest.repos.getContent({
         owner,
         repo,
         path,
-        ref: commits[commentCount].firstElement,
+        ref: commit.firstElement,
       });
 
       const firstVersionContent = Buffer.from(
@@ -40,12 +40,12 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
       ).toString();
 
       let secondVersionContent = "";
-      if (commits[commentCount].secondElement) {
+      if (commit.secondElement) {
         const secondVersion: any = await octokit.rest.repos.getContent({
           owner,
           repo,
           path,
-          ref: commits[commentCount].secondElement,
+          ref: commit.secondElement,
         });
 
         secondVersionContent = Buffer.from(
@@ -57,12 +57,15 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
       return {
         current: firstVersionContent,
         previous: secondVersionContent,
-        commits: commits[commentCount],
+        commits: commit,
       };
     };
     const fetchData = async () => {
-      const data = await makeReq();
-      setContent([...content, data]);
+      for (const commit of commits) {
+        const data = await makeReq(commit);
+        setContent([...content, data]);
+      }
+      console.log(content);
       setLoading(false);
     };
     fetchData();
