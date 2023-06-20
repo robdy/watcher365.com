@@ -1,9 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   env: {
-    GITHUB_TOKEN: process.env.GITHUB_TOKEN,
-    GITHUB_USER: process.env.GITHUB_USER,
-    GITHUB_REPO: process.env.GITHUB_REPO,
+    GH_TOKEN: process.env.GH_TOKEN,
   },
   images: {
     remotePatterns: [
