@@ -1,6 +1,6 @@
 # Please Follow instruction
 
-1. Replace Environment variable (.env) : GITHUB_TOKEN, GITHUB_USER, GITHUB_REPO and PROJECT_NAME
+1. Replace Environment variable (.env) : GH_TOKEN and PROJECT_NAME
 2. Change favicon, Page Title (not mandatory)
 3. yarn Install
 4. npm run build
