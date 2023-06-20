@@ -1,8 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  env: {
-    GH_TOKEN: process.env.GH_TOKEN,
-  },
   images: {
     remotePatterns: [
       {

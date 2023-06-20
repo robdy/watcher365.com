@@ -1,6 +1,6 @@
 # Please Follow instruction
 
-1. Replace Environment variable (.env) : GH_TOKEN and PROJECT_NAME
+1. The following is provided as environment variables: GITHUB_TOKEN. Repo name and user is hardcoded.
 2. Change favicon, Page Title (not mandatory)
 3. yarn Install
 4. npm run build
