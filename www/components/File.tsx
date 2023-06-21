@@ -22,17 +22,36 @@ interface Props {
 }
 
 const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
+  const [commitData, setCommitData] = useState<any>({});
   const [content, setContent] = useState<any>([]);
+
+  const getCommitData = async (commitRef: any) => {
+    // Do not send a request if the data exists
+    if (commitData[commitRef]) {
+      console.log(`Cache found for ${commitRef}`)
+      console.log(commitData);
+      return Promise.resolve(commitData[commitRef]);
+    }
+    console.log(`Cache NOT found for ${commitRef}`);
+
+    const commitRes: any = await octokit.rest.repos.getContent({
+      owner,
+      repo,
+      path,
+      ref: commitRef,
+    });
+    setCommitData({
+      ...commitData,
+      [commitRef]: commitRes
+    })
+    console.log(commitData)
+    return Promise.resolve(commitRes);
+  };
 
   useEffect(() => {
     const makeReq = async (commit: any) => {
       setLoading(true);
-      const firstVersion: any = await octokit.rest.repos.getContent({
-        owner,
-        repo,
-        path,
-        ref: commit.firstElement,
-      });
+      const firstVersion: any = await getCommitData(commit.firstElement);
 
       const firstVersionContent = Buffer.from(
         firstVersion.data?.content,
@@ -41,12 +60,7 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
 
       let secondVersionContent = "";
       if (commit.secondElement) {
-        const secondVersion: any = await octokit.rest.repos.getContent({
-          owner,
-          repo,
-          path,
-          ref: commit.secondElement,
-        });
+        const secondVersion: any = await getCommitData(commit.secondElement);
 
         secondVersionContent = Buffer.from(
           secondVersion.data?.content,
@@ -63,9 +77,10 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
     const fetchData = async () => {
       for (const commit of commits) {
         const data = await makeReq(commit);
-        setContent([...content, data]);
+        setContent((content: any) => {
+          return [...content, data];
+        });
       }
-      console.log(content);
       setLoading(false);
     };
     fetchData();
