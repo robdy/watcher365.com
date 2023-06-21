@@ -64,17 +64,12 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
 
     const getChangesData = async (commits: any, allCommitsRes: any) => {
       for (const commit of commits) {
-        console.log(`Getting data for ${commit.firstElement}`);
-
-        const relatedCommit = allCommitsRes.filter(
+        const relatedCommit = allCommitsRes.find(
           (res: { data: { url: string } }) => {
-            console.log(res.data.url)
-            return true;
+            return res?.data?.url.includes(commit.firstElement);
           }
         );
         console.log(relatedCommit);
-        const firstVersion: any = allCommitsRes[1].data.url;
-        console.log(firstVersion);
       }
 
         // const firstVersionContent = Buffer.from(
