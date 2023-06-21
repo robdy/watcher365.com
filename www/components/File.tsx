@@ -2,7 +2,6 @@
 import React, { useEffect, useState } from "react";
 import { repo, owner, octokit } from "@/config/octokit";
 import DiffContainer from "./DiffContainer";
-import { FaBeer } from "react-icons/fa";
 import { format } from "date-fns";
 
 interface Sha {
@@ -25,7 +24,30 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
   const [commitData, setCommitData] = useState<any>({});
   const [content, setContent] = useState<any>([]);
 
+  const getUniqueCommits = (commits: any) => {
+    let uniqueCommits: Array<string> = [];
+    for (const commit of commits) {
+      if (uniqueCommits.includes(commit.firstElement) || !commit.firstElement) {
+        continue;
+      } else {
+        uniqueCommits.push(commit.firstElement);
+      }
+
+      if (
+        uniqueCommits.includes(commit.secondElement) || !commit.secondElement
+      ) {
+        continue;
+      } else {
+        uniqueCommits.push(commit.secondElement);
+      }
+    }
+    return uniqueCommits;
+  }
+  const a = getUniqueCommits(commits);
+  console.log(a);
+
   const getCommitData = async (commitRef: any) => {
+    console.log(`Getting `)
     // Do not send a request if the data exists
     if (commitData[commitRef]) {
       console.log(`Cache found for ${commitRef}`)
@@ -83,7 +105,7 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
       }
       setLoading(false);
     };
-    fetchData();
+    // fetchData();
   }, [commentCount]);
   return (
     <div>
