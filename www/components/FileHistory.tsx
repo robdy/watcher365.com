@@ -40,14 +40,14 @@ const FileHistory: React.FC<Props> = ({ path, commentsShaArray }) => {
       {loading && <Loading />}
 
       <div className="flex justify-center  my-4 ">
-        {commentsShaArray.length < commentCount + 2 ? null : (
+        {commentsShaArray.length > 1 && !showChange ? (
           <button
             className="py-2 px-8 border text-sm border-green-600 font-bold text-green-600 rounded-md bg-white"
             onClick={loadDetailsHandler}
           >
             Load Details
           </button>
-        )}
+        ) : null}
       </div>
     </section>
   );

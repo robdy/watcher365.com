@@ -20,8 +20,7 @@ interface Props {
   setLoading: any;
 }
 
-const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
-  const [commitData, setCommitData] = useState<any>({});
+const File: React.FC<Props> = ({ commits, path, setLoading }) => {
   const [content, setContent] = useState<any>([]);
 
   useEffect(() => {
@@ -63,56 +62,54 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
     };
 
     const getChangesData = async (commits: any, allCommitsRes: any) => {
+      let allChangesData: Object[] = []
       for (const commit of commits) {
-        const relatedCommit = allCommitsRes.find(
+        const relatedFirstCommit = allCommitsRes.find(
           (res: { data: { url: string } }) => {
             return res?.data?.url.includes(commit.firstElement);
           }
         );
-        console.log(relatedCommit);
+        const firstCommitContent = Buffer.from(
+          relatedFirstCommit.data?.content,
+          "base64"
+        ).toString();
+
+        let secondCommitContent : string = '';
+        if (commit.secondElement) {
+          const relatedSecondCommit = allCommitsRes.find(
+            (res: { data: { url: string } }) => {
+              return res?.data?.url.includes(commit.secondElement);
+            }
+          );
+          secondCommitContent = Buffer.from(
+            relatedSecondCommit.data?.content,
+            "base64"
+          ).toString();
+        }
+      
+        allChangesData.push({
+          current: firstCommitContent,
+          previous: secondCommitContent,
+          commits: commit
+        });
       }
-
-        // const firstVersionContent = Buffer.from(
-        //   firstVersion.data?.content,
-        //   "base64"
-        // ).toString();
-
-        // let secondVersionContent = "";
-        // if (commits[commentCount].secondElement) {
-        //   const secondVersion: any = await octokit.rest.repos.getContent({
-        //     owner,
-        //     repo,
-        //     path,
-        //     ref: commits[commentCount].secondElement,
-        //   });
-
-        //   secondVersionContent = Buffer.from(
-        //     secondVersion.data?.content,
-        //     "base64"
-        //   ).toString();
-        // }
-
-        // return {
-        //   current: firstVersionContent,
-        //   previous: secondVersionContent,
-        //   commits: commits[commentCount],
-        // };
-        return
+      return allChangesData;
     }
 
     (async () => {
       setLoading(true);
       const uniqueCommits = getUniqueCommits(commits);
       const allCommitsRes = await getAllCommitsData(uniqueCommits);
-      const allCommitsData = await getChangesData(commits, allCommitsRes);
+      const allChangesData = await getChangesData(commits, allCommitsRes);
 
-      setCommitData(allCommitsData);
+      console.log(allChangesData)
+      setContent(allChangesData);
       setLoading(false);
     })().catch((e) => {
       // Deal with the fact the chain failed
     });
     
-  }, [commentCount]);
+  }, []);
   return (
     <div>
       {content.map((item: any, i: any) => {
@@ -123,12 +120,12 @@ const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
             key={i}
             className="flex justify-center flex-col items-center text-center"
           >
-            <div className="text-sm px-1 my-2 ">
-              <p className=" font-bold">
-                Commits on {format(new Date(commitDate), "MMM dd, yyyy")}
-              </p>
-              <p>{message}</p>
-            </div>
+             <div className="text-sm px-1 my-2 ">
+               <p className=" font-bold">
+                 Commits on {format(new Date(commitDate), "MMM dd, yyyy")}
+               </p>
+               <p>{message}</p>
+             </div>
 
             <DiffContainer
               key={i}
