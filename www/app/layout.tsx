@@ -19,7 +19,7 @@ export default function RootLayout({
       <head>
         <script
           defer
-          data-domain="m365roadmap-history.vercel.app"
+          data-domain="watcher365.com"
           src="https://plausible.io/js/script.js"
         ></script>
       </head>
