@@ -1,4 +1,5 @@
 import React from "react";
+import { Metadata } from "next";
 import { repo, owner, octokit } from "@/config/octokit";
 import DiffContainer from "@/components/DiffContainer";
 import ContentCard from "@/components/ContentCard";
@@ -74,6 +75,18 @@ const getDateByFileName = async (filePath: string) => {
   }
 };
 
+export async function generateMetadata({ params }: any): Promise<Metadata> {
+  const path = `data/${params.id}.json`;
+  // No need to deduplicate the request
+  // Next.js handles that
+  // https://nextjs.org/docs/app/building-your-application/data-fetching#automatic-fetch-request-deduping
+  const { currentVersionFileContent }: any = await getDateByFileName(path);
+  const { title } = JSON.parse(currentVersionFileContent);
+  return {
+    title: `${title} | watcher365.com`,
+  };
+}
+
 const FileChange = async ({
   params,
 }: {
@@ -96,7 +109,7 @@ const FileChange = async ({
   } = JSON.parse(currentVersionFileContent);
 
   return (
-    <section className="container max-w-5xl mx-auto   ">
+    <section className="container max-w-5xl mx-auto">
       <div className="  mt-5 mb-2 rounded   text-sm md:text-base">
         {/* showing content card */}
         <ContentCard
