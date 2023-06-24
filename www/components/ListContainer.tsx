@@ -27,29 +27,63 @@ const ListContainer: React.FC<Props> = ({ data }) => {
             </h2>
             <ul className="my-3 divide-y-2 text-sm md:text-base">
               {groupedData[item].map((entry: any, j: number) => (
-                  <li className="flex  py-2 px-4 bg-white" key={`i-j`}>
-                    <Link
-                      href={entry.filePath}
-                      className="w-full flex justify-between"
-                    >
-                      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0">
-                        <div className="w-full max-w-3xl flex md:items-center">
-                          <span className="pr-2 py-1 text-xl">
-                            <IoIosArrowForward />
-                          </span>
-                          <p className="hover:text-green-700 py-1">{entry.title}</p>
-                        </div>
-                        <div className=" md:text-sm text-xs min-w-[100px] text-gray-600">
-                          <p className="flex items-center gap-1">
-                            <FiFile className="p-1 text-2xl" />
+                <li className="flex  py-2 px-4 bg-white" key={`${i}-${j}`}>
+                  <Link
+                    href={entry.filePath}
+                    className="w-full flex justify-between"
+                  >
+                    <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0">
+                      <div className="w-full max-w-3xl flex md:items-center">
+                        <span className="pr-2 py-1 text-xl">
+                          <IoIosArrowForward />
+                        </span>
+                        <span>
+                          <p className="hover:text-green-700 py-1 font-bold">
+                            {entry.title}
+                          </p>
+                          <p className="py-">{entry.description}</p>
+                          <p>
+                            <span className="font-bold">Feature ID:</span>{" "}
                             {entry.fileName}
                           </p>
-                        </div>
+                          <p>
+                            <span className="font-bold">Added to roadmap:</span>{" "}
+                            {entry.fileName}
+                          </p>
+                          <p>
+                            <span className="font-bold">Last modified:</span>{" "}
+                            {entry.fileName}
+                          </p>
+                          <p>
+                            <span className="font-bold">Product(s):</span>{" "}
+                            {entry.fileName}
+                          </p>
+                          <p>
+                            <span className="font-bold">
+                              Cloud instance(s):
+                            </span>{" "}
+                            {entry.fileName}
+                          </p>
+                          <p>
+                            <span className="font-bold">Platform(s):</span>{" "}
+                            {entry.fileName}
+                          </p>
+                          <p>
+                            <span className="font-bold">Release phase(s):</span>{" "}
+                            {entry.fileName}
+                          </p>
+                        </span>
                       </div>
-                    </Link>
-                  </li>
-                ))
-              }
+                      <div className=" md:text-sm text-xs min-w-[100px] text-gray-600">
+                        <p className="flex items-center gap-1">
+                          <FiFile className="p-1 text-2xl" />
+                          {entry.fileName}
+                        </p>
+                      </div>
+                    </div>
+                  </Link>
+                </li>
+              ))}
             </ul>
           </React.Fragment>
         ))

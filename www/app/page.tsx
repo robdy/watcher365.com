@@ -43,7 +43,7 @@ const Home = async ({ searchParams }: { searchParams: { filter: string } }) => {
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
         {/* filter Buttons  */}
-        <Tab filtered={searchParams.filter} />
+        {/* <Tab filtered={searchParams.filter} /> */}
         <ListContainer data={commitData} />
       </div>
     </section>
