@@ -4,27 +4,24 @@ import { repo, owner, octokit } from "@/config/octokit";
 import DiffContainer from "./DiffContainer";
 import { format } from "date-fns";
 
-interface Sha {
-  firstElement: string;
-  secondElement: string;
-}
-
-interface Shas {
-  Shas: Sha[];
+interface Commit {
+  firstElement: string
+  secondElement: string
+  author: Object
+  committer: Object
 }
 
 interface Props {
   commits: any;
   path: string;
-  commentCount: number;
-  setLoading: any;
+  setLoading: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
 const File: React.FC<Props> = ({ commits, path, setLoading }) => {
   const [content, setContent] = useState<any>([]);
 
   useEffect(() => {
-    const getUniqueCommits = (commits: any) => {
+    const getUniqueCommits = (commits: Commit[]) => {
       let uniqueCommits: Array<string> = [];
       for (const commit of commits) {
         if (uniqueCommits.includes(commit.firstElement) || !commit.firstElement) {
@@ -45,7 +42,7 @@ const File: React.FC<Props> = ({ commits, path, setLoading }) => {
       return uniqueCommits;
     };
 
-    const getCommitData = async (commitRef: any) => await octokit.rest.repos.getContent({
+    const getCommitData = async (commitRef: string) => await octokit.rest.repos.getContent({
       owner,
       repo,
       path,
@@ -61,7 +58,7 @@ const File: React.FC<Props> = ({ commits, path, setLoading }) => {
       return uniqueCommitsData;
     };
 
-    const getChangesData = async (commits: any, allCommitsRes: any) => {
+    const getChangesData = async (commits: Commit[], allCommitsRes: any) => {
       let allChangesData: Object[] = []
       for (const commit of commits) {
         const relatedFirstCommit = allCommitsRes.find(
@@ -98,11 +95,15 @@ const File: React.FC<Props> = ({ commits, path, setLoading }) => {
 
     (async () => {
       setLoading(true);
-      const uniqueCommits = getUniqueCommits(commits);
+      // Last commit is not necessary as it's displayed by default
+      const allButLastCommit = commits.slice(1)
+      const uniqueCommits = getUniqueCommits(allButLastCommit);
       const allCommitsRes = await getAllCommitsData(uniqueCommits);
-      const allChangesData = await getChangesData(commits, allCommitsRes);
+      const allChangesData = await getChangesData(
+        allButLastCommit,
+        allCommitsRes
+      );
 
-      console.log(allChangesData)
       setContent(allChangesData);
       setLoading(false);
     })().catch((e) => {
@@ -114,7 +115,6 @@ const File: React.FC<Props> = ({ commits, path, setLoading }) => {
     <div>
       {content.map((item: any, i: any) => {
         const commitDate = item.commits.committer.committer.date;
-        const message = item.commits.committer.message;
         return (
           <div
             key={i}
@@ -122,9 +122,8 @@ const File: React.FC<Props> = ({ commits, path, setLoading }) => {
           >
              <div className="text-sm px-1 my-2 ">
                <p className=" font-bold">
-                 Commits on {format(new Date(commitDate), "MMM dd, yyyy")}
+                 Changes on {format(new Date(commitDate), "MMM dd, yyyy")}
                </p>
-               <p>{message}</p>
              </div>
 
             <DiffContainer

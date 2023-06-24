@@ -12,26 +12,17 @@ interface Props {
 }
 
 const FileHistory: React.FC<Props> = ({ path, commentsShaArray }) => {
-  const [showChange, setShowChange] = useState(false);
+  const [showHistory, setShowHistory] = useState(false);
   const [loading, setLoading] = useState(false);
-  const [commentCount, setCommitCount] = useState(0);
-
-  const loadDetailsHandler = async () => {
-    if (commentCount < 1) {
-      setShowChange(true);
-    }
-    setCommitCount((num) => num + 1);
-  };
 
   return (
     <section>
-      {showChange && (
+      {showHistory && (
         <div>
           <h1 className="text-green-600 font-bold  mt-4">File History</h1>
           <File
             commits={commentsShaArray}
             path={path}
-            commentCount={commentCount}
             setLoading={setLoading}
           />
         </div>
@@ -40,12 +31,12 @@ const FileHistory: React.FC<Props> = ({ path, commentsShaArray }) => {
       {loading && <Loading />}
 
       <div className="flex justify-center  my-4 ">
-        {commentsShaArray.length > 1 && !showChange ? (
+        {commentsShaArray.length > 1 && !showHistory ? (
           <button
             className="py-2 px-8 border text-sm border-green-600 font-bold text-green-600 rounded-md bg-white"
-            onClick={loadDetailsHandler}
+            onClick={() => setShowHistory(true)}
           >
-            Load Details
+            Load entry history
           </button>
         ) : null}
       </div>
