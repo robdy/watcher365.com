@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Home | M365 Roadmap History ",
+  title: "Home | watcher365.com",
 };
 
 export default function RootLayout({
@@ -19,7 +19,7 @@ export default function RootLayout({
       <head>
         <script
           defer
-          data-domain="m365roadmap-history.vercel.app"
+          data-domain="watcher365.com"
           src="https://plausible.io/js/script.js"
         ></script>
       </head>
