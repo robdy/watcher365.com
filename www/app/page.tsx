@@ -22,6 +22,7 @@ const getData = async (
     });
 
     let commitData = [] as RecentData[];
+
     for (const commit of response.data.slice(0,5)) {
       const latestCommitSHA = commit.sha;
       const commitResponse = await octokit.rest.repos.getCommit({
@@ -30,23 +31,7 @@ const getData = async (
         ref: latestCommitSHA,
       });
       commitData = commitData.concat(getLastChangeFile(commitResponse.data, paramsFilter));
-      
-      // Get entries data from local files
-      for (const file of commitResponse.data.files) {
-        console.log(file.filename)
-        fs.readFile(
-          `../file.filename`,
-          "utf8",
-          function (err: any, data: string) {
-            if (err) throw err;
-            // console.log(data);
-          }
-        );
-      }
-
     }
-
-
     return { commitData };
   } catch (error: any) {
     throw new Error(error.message);
