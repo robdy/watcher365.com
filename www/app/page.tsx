@@ -3,6 +3,7 @@ import { RecentData } from "@/types/RecentData";
 import ListContainer from "@/components/ListContainer";
 import { getLastChangeFile } from "@/libs/getLastChangeFile";
 import Tab from "@/components/Tab";
+var fs = require("fs");
 
 export const revalidate = 3600 / 6;
 
@@ -29,12 +30,28 @@ const getData = async (
         ref: latestCommitSHA,
       });
       commitData = commitData.concat(getLastChangeFile(commitResponse.data, paramsFilter));
+      
+      // Get entries data from local files
+      for (const file of commitResponse.data.files) {
+        console.log(file.filename)
+        fs.readFile(
+          `../file.filename`,
+          "utf8",
+          function (err: any, data: string) {
+            if (err) throw err;
+            // console.log(data);
+          }
+        );
+      }
+
     }
+
 
     return { commitData };
   } catch (error: any) {
     throw new Error(error.message);
   }
+  
 };
 
 const Home = async ({ searchParams }: { searchParams: { filter: string } }) => {

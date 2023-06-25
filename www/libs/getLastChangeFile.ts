@@ -6,6 +6,10 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
     const match = file?.patch?.match(/"title":\s*"([^"]+)"/);
     const title: string = match ? match[1] : "";
     const description: string = file?.patch?.match(/"description":\s*"([^"]+)"/)[1] || ""
+    const gaMatch = file?.patch?.match(/"publicDisclosureAvailabilityDate":\s*"([^"]+)"/)
+    const gaDate: string = gaMatch ? gaMatch[1] : ""
+    const previewMatch = file?.patch?.match(/"publicPreviewDate":\s*"([^"]+)"/)
+    const previewDate: string = previewMatch ? previewMatch[1] : ""
     const patchLines = file?.patch?.split("\n");
     const fileName = file.filename as string;
     const fileExt = fileName.split("/");
