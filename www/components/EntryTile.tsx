@@ -4,6 +4,7 @@ const fs = require("fs");
 import { IoIosArrowForward } from "react-icons/io";
 import { FiFile } from "react-icons/fi";
 import { repo, owner, octokit } from "@/config/octokit";
+import * as Diff from "diff";
 
 interface RoadmapEntry {
   guid: number;
@@ -120,6 +121,26 @@ const EntryTile: any = async (data: any) => {
     return <React.Fragment>{tagsString}</React.Fragment>;
   };
 
+  const DiffedDescription: any = () => {
+    let diffedDescriptionObject: any = []
+    // TODO: Fix escaped characters such as \n \\n and <br>
+    const descriptionDiff = Diff.diffWords(
+      data.commitData.description,
+      remoteFileObj.description
+    );
+
+    descriptionDiff.forEach((part) => {
+      // green for additions, red for deletions
+      // grey for common parts
+      const color = part.added ? "green-700" : part.removed ? "red-700" : "gray-600";
+        diffedDescriptionObject.push(
+          <span className={`text-${color}`}>{part.value}</span>
+        );
+    });
+    return diffedDescriptionObject;
+  }
+
+
   return (
     <Link href={data.entryID} className="w-full flex justify-between">
       <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0">
@@ -136,7 +157,7 @@ const EntryTile: any = async (data: any) => {
                 </span>
               ) : null}
             </p>
-            <p className="py-">{data.commitData.description}</p>
+            <DiffedDescription />
             <p>
               <span className="font-bold">Feature ID:</span>{" "}
               {remoteFileObj.guid}
@@ -151,7 +172,10 @@ const EntryTile: any = async (data: any) => {
             </p>
             <p>
               <span className="font-bold">Tags:</span>{" "}
-              <ColoredTags tagsList={remoteFileObj.category} modifiedTags={modifiedTags} />
+              <ColoredTags
+                tagsList={remoteFileObj.category}
+                modifiedTags={modifiedTags}
+              />
             </p>
           </span>
         </div>
