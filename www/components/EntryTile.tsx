@@ -17,6 +17,27 @@ interface RoadmapEntry {
   publicPreviewDate: string;
 }
 
+const releaseStatusesList: string[] = [
+  "Launched",
+  "In development",
+  "Rolling out",
+];
+
+const releasePhasesList: string[] = [
+  "General Availability",
+  "Preview",
+];
+
+const cloudInstancesList: string[] = ["Worldwide (Standard Multi-Tenant)"];
+
+const platformsList: string[] = ["Web"];
+
+const tagList: string[] = releaseStatusesList.concat(
+  releasePhasesList,
+  cloudInstancesList,
+  platformsList
+);
+
 const EntryTile: any = async (data: any) => {
   // To be commented until I figure out how to provide data folder for server
   // or during build time (SSG)
@@ -29,19 +50,75 @@ const EntryTile: any = async (data: any) => {
   //   }
   // );
   // const localFileObj: any = localFileContent && JSON.parse(localFileContent);
-
   const remotePath = `data/${data.entryID}.json`;
   const remoteFileRes: any = await octokit.rest.repos.getContent({
-      owner,
-      repo,
-      path: remotePath,
-    })
+    owner,
+    repo,
+    path: remotePath,
+  });
   const remoteFileContent = Buffer.from(
     remoteFileRes.data?.content,
     "base64"
   ).toString();
   const remoteFileObj: RoadmapEntry =
     remoteFileContent && JSON.parse(remoteFileContent);
+
+  const getModifiedTags: any = (patch: any, tagList: string[]) => {
+    let addedTags: string[] = [];
+    let removedTags: string[] = [];
+    const addedTagsRegex: RegExp = new RegExp(
+      `\\+ *"(${tagList.join("|")})"`,
+      "g"
+    );
+    const removedTagsRegex: RegExp = new RegExp(
+      `- *"(${tagList.join("|")})"`,
+      "g"
+    );
+    const addedTagsMatches: any = [
+      ...patch.matchAll(addedTagsRegex),
+    ];
+    const removedTagsMatches: any = [
+      ...data.commitData.patch.matchAll(removedTagsRegex),
+    ];
+
+    if (addedTagsMatches.length > 0) {
+      for (const match of addedTagsMatches) {
+        addedTags.push(match[1]);
+      }
+    }
+    if (removedTagsMatches.length > 0) {
+      for (const match of removedTagsMatches) {
+        removedTags.push(match[1]);
+      }
+    }
+    return {
+      added: addedTags,
+      removed: removedTags,
+    };
+  };
+
+  const modifiedTags = getModifiedTags(data.commitData.patch, tagList);
+
+  const ColoredTags: any = ({ tagsList: tagsArray, modifiedTags }: any) => {
+    let tagsString: any = [];
+    for (let t = 0; t < tagsArray.length; t++) {
+      let badgeClasses: string = "bg-gray-50 text-gray-600 ring-gray-500/10";
+      if (modifiedTags.added.includes(tagsArray[t])) {
+        badgeClasses = "bg-green-50 text-green-700 ring-green-600/20";
+      }
+      if (modifiedTags.removed.includes(tagsArray[t])) {
+        badgeClasses = "bg-red-50 text-red-700 ring-red-600/10";
+      }
+      tagsString.push(
+        <span
+          className={`inline-flex items-center rounded-md px-2 py-1 text-xs font-medium  ring-1 ring-inset ${badgeClasses} mx-1`}
+        >
+          {tagsArray[t]}
+        </span>
+      );
+    }
+    return <React.Fragment>{tagsString}</React.Fragment>;
+  };
 
   return (
     <Link href={data.entryID} className="w-full flex justify-between">
@@ -74,7 +151,7 @@ const EntryTile: any = async (data: any) => {
             </p>
             <p>
               <span className="font-bold">Tags:</span>{" "}
-              {remoteFileObj.category.join(", ")}
+              <ColoredTags tagsList={remoteFileObj.category} modifiedTags={modifiedTags} />
             </p>
           </span>
         </div>
