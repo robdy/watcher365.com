@@ -2,6 +2,9 @@
   "guid": "124898",
   "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124898",
   "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
     "General Availability",
     "In development",
     "Microsoft Purview compliance portal",
@@ -12,7 +15,7 @@
   "title": "Microsoft Purview compliance portal: Communication Compliance - Leverage advanced classification",
   "description": ",Communication Compliance policies now support detection of inappropriate sharing of the following sensitive information types: named entities (full names/physical addresses/medical terms), credentials (login credentials/passwords), and exact data match. These new sensitive information types will be accessible to designated administrators during policy configuration. Microsoft Purview Communication Compliance provides the tools to help organizations detect business conduct and regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
   "pubDate": "Fri, 19 May 2023 22:09:26 -0700",
-  "updated": "2023-05-19T22:05:11-07:00",
-  "publicDisclosureAvailabilityDate": "September CY2023",
+  "updated": "2023-06-26T23:13:52-07:00",
+  "publicDisclosureAvailabilityDate": "March CY2024",
   "publicPreviewDate": "July CY2023"
 }
