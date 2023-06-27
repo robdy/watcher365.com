@@ -125,15 +125,21 @@ const EntryTile: any = async (data: any) => {
     let diffedDescriptionObject: any = []
     // TODO: Fix escaped characters such as \n \\n and <br>
     const descriptionDiff = Diff.diffWords(
-      data.commitData.description,
-      remoteFileObj.description
+      data.commitData.description
+        .replaceAll("\\n", " ")
+        .replaceAll("<br>", " "),
+      remoteFileObj.description.replaceAll("\\n", " ").replaceAll("<br>", " ")
     );
 
     descriptionDiff.forEach((part) => {
       // green for additions, red for deletions
       // grey for common parts
-      const color = part.added ? "green-700" : part.removed ? "red-700" : "gray-600";
-        diffedDescriptionObject.push(
+      const color = part.added
+        ? "green-700 bg-green-200"
+        : part.removed
+        ? "red-700 bg-red-200"
+        : "gray-600";
+      diffedDescriptionObject.push(
           <span className={`text-${color}`}>{part.value}</span>
         );
     });
