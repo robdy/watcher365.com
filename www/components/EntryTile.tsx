@@ -25,18 +25,92 @@ const releaseStatusesList: string[] = [
 ];
 
 const releasePhasesList: string[] = [
-  "General Availability",
   "Preview",
+  "General Availability",
+  "Targeted Release",
+  "Targeted Release (Entire Organization)",
+  "Targeted Release (Select People)",
+  "Limited Availability",
+  "Semi-Annual Enterprise Channel",
+  "Current Channel (Preview)",
+  "Current Channel"
 ];
 
-const cloudInstancesList: string[] = ["Worldwide (Standard Multi-Tenant)"];
+const cloudInstancesList: string[] = [
+  "Worldwide (Standard Multi-Tenant)",
+  "DoD",
+  "GCC",
+  "GCC High",
+];
 
-const platformsList: string[] = ["Web"];
+const platformsList: string[] = [
+  "Android",
+  "Desktop",
+  "Developer",
+  "Education",
+  "iOS",
+  "Linux",
+  "Mac",
+  "Mobile",
+  "Teams and Surface Devices",
+  "Web",
+];
+
+const productsList: string[] = [
+  "Access",
+  "Azure Active Directory",
+  "Azure Information Protection",
+  "Bookings",
+  "Excel",
+  "Exchange",
+  "Forms",
+  "Microsoft 365",
+  "Microsoft 365 admin center",
+  "Microsoft 365 app",
+  "Microsoft 365 Defender",
+  "Microsoft Defender for Cloud Apps",
+  "Microsoft Defender for Endpoint",
+  "Microsoft Defender for Identity",
+  "Microsoft Defender for Office 365",
+  "Microsoft Edge",
+  "Microsoft Graph",
+  "Microsoft Information Protection",
+  "Microsoft Intune",
+  "Microsoft Power Apps",
+  "Microsoft Purview compliance portal",
+  "Microsoft Search",
+  "Microsoft Stream",
+  "Microsoft Syntex",
+  "Microsoft Teams",
+  "Microsoft To Do",
+  "Microsoft Viva",
+  "Minecraft Education",
+  "Office 365",
+  "Office app",
+  "OneDrive",
+  "OneNote",
+  "Outlook",
+  "Planner",
+  "Power Automate",
+  "Power BI",
+  "PowerPoint",
+  "Project",
+  "SharePoint",
+  "SharePoint Syntex",
+  "Universal Print",
+  "Visio",
+  "Whiteboard",
+  "Windows",
+  "Windows 365",
+  "Word",
+  "Yammer",
+];
 
 const tagList: string[] = releaseStatusesList.concat(
   releasePhasesList,
   cloudInstancesList,
-  platformsList
+  platformsList,
+  productsList
 );
 
 const EntryTile: any = async (data: any) => {
@@ -68,18 +142,20 @@ const EntryTile: any = async (data: any) => {
     let addedTags: string[] = [];
     let removedTags: string[] = [];
     const addedTagsRegex: RegExp = new RegExp(
-      `\\+ *"(${tagList.join("|")})"`,
+      // https://stackoverflow.com/a/6969486/9902555
+      `\\+ *"(${tagList.join("|").replaceAll(/[())]/g, "\\$&")})"`,
+      // `\\+ *"(${tagList.join("|")})"`,
       "g"
     );
     const removedTagsRegex: RegExp = new RegExp(
-      `- *"(${tagList.join("|")})"`,
+      `- *"(${tagList.join("|").replaceAll(/[())]/g, "\\$&")})"`,
       "g"
     );
     const addedTagsMatches: any = [
       ...patch.matchAll(addedTagsRegex),
     ];
     const removedTagsMatches: any = [
-      ...data.commitData.patch.matchAll(removedTagsRegex),
+      ...patch.matchAll(removedTagsRegex),
     ];
 
     if (addedTagsMatches.length > 0) {
@@ -101,16 +177,21 @@ const EntryTile: any = async (data: any) => {
   const modifiedTags = getModifiedTags(data.commitData.patch, tagList);
 
   const ColoredTags: any = ({ tagsList: tagsArray, modifiedTags }: any) => {
-    let tagsString: any = [];
+    let tagsElements: any = [];
+    if (modifiedTags.removed) {
+      tagsArray.push(...modifiedTags.removed);
+    }
     for (let t = 0; t < tagsArray.length; t++) {
       let badgeClasses: string = "bg-gray-50 text-gray-600 ring-gray-500/10";
-      if (modifiedTags.added.includes(tagsArray[t])) {
+      const isAdded = modifiedTags.added.includes(tagsArray[t]);
+      const isRemoved = modifiedTags.removed.includes(tagsArray[t]);
+      if (isAdded && !isRemoved) {
         badgeClasses = "bg-green-50 text-green-700 ring-green-600/20";
       }
-      if (modifiedTags.removed.includes(tagsArray[t])) {
+      if (isRemoved && !isAdded) {
         badgeClasses = "bg-red-50 text-red-700 ring-red-600/10";
       }
-      tagsString.push(
+      tagsElements.push(
         <span
           className={`inline-flex items-center rounded-md px-2 py-1 text-xs font-medium  ring-1 ring-inset ${badgeClasses} mx-1`}
         >
@@ -118,7 +199,7 @@ const EntryTile: any = async (data: any) => {
         </span>
       );
     }
-    return <React.Fragment>{tagsString}</React.Fragment>;
+    return <React.Fragment>{tagsElements}</React.Fragment>;
   };
 
   const DiffedDescription: any = () => {
@@ -127,8 +208,14 @@ const EntryTile: any = async (data: any) => {
     const descriptionDiff = Diff.diffWords(
       data.commitData.description
         .replaceAll("\\n", " ")
-        .replaceAll("<br>", " "),
-      remoteFileObj.description.replaceAll("\\n", " ").replaceAll("<br>", " ")
+        .replaceAll("<br>", " ")
+        .replaceAll(/^,/g, "")
+        .replaceAll('\"', '"')
+      ,remoteFileObj.description
+        .replaceAll("\\n", " ")
+        .replaceAll("<br>", " ")
+        .replaceAll(/^,/g, " ")
+        .replaceAll('\"', '"')
     );
 
     descriptionDiff.forEach((part) => {
@@ -182,6 +269,14 @@ const EntryTile: any = async (data: any) => {
                 tagsList={remoteFileObj.category}
                 modifiedTags={modifiedTags}
               />
+            </p>
+            <p>
+              <span className="font-bold">Preview Available:</span>{" "}
+              {remoteFileObj.publicPreviewDate}{" "}
+            </p>
+            <p>
+              <span className="font-bold">Rollout Start:</span>{" "}
+              {remoteFileObj.publicDisclosureAvailabilityDate}{" "}
             </p>
           </span>
         </div>
