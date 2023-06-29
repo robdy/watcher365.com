@@ -7,12 +7,12 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
     const title: string = match ? match[1] : "";
     const description: string = file?.patch?.match(/"description":\s*"(.+)",/)[1] || ""
     const publicDisclosureAvailabilityDateMatch: string = file?.patch?.match(
-      /"publicDisclosureAvailabilityDate":\s*"(.+)",/
+      /"publicDisclosureAvailabilityDate":\s*"(.+)"/
     );
     const publicDisclosureAvailabilityDate: string =
       publicDisclosureAvailabilityDateMatch ? publicDisclosureAvailabilityDateMatch[1] : "";
     const publicPreviewDateMatch: string =
-      file?.patch?.match(/"publicPreviewDate":\s*"(.+)",/);
+      file?.patch?.match(/"publicPreviewDate":\s*"(.+)"/);
     const publicPreviewDate: string = publicPreviewDateMatch
       ? publicPreviewDateMatch[1]
       : "";

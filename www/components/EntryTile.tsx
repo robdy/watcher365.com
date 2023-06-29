@@ -5,18 +5,7 @@ import { IoIosArrowForward } from "react-icons/io";
 import { FiFile } from "react-icons/fi";
 import { repo, owner, octokit } from "@/config/octokit";
 import * as Diff from "diff";
-
-interface RoadmapEntry {
-  guid: number;
-  link: string;
-  category: Array<string>;
-  title: string;
-  description: string;
-  pubDate: string;
-  updated: string;
-  publicDisclosureAvailabilityDate: string;
-  publicPreviewDate: string;
-}
+import { RoadmapEntry } from "@/types/RoadmapEntry";
 
 const releaseStatusesList: string[] = [
   "Launched",
@@ -113,6 +102,13 @@ const tagList: string[] = releaseStatusesList.concat(
   productsList
 );
 
+const normalizeText = (text: string): string => {
+  return text.replaceAll("\\n", " ")
+    .replaceAll("<br>", " ")
+    .replaceAll(/^,/g, "")
+    .replaceAll('\"', '"')
+}
+
 const EntryTile: any = async (data: any) => {
   // To be commented until I figure out how to provide data folder for server
   // or during build time (SSG)
@@ -193,7 +189,7 @@ const EntryTile: any = async (data: any) => {
       }
       tagsElements.push(
         <span
-          className={`inline-flex items-center rounded-md px-2 py-1 text-xs font-medium  ring-1 ring-inset ${badgeClasses} mx-1`}
+          className={`inline-flex items-center rounded-md px-2 py-1 text-xs font-medium  ring-1 ring-inset ${badgeClasses} mx-1 my-1`}
         >
           {tagsArray[t]}
         </span>
@@ -201,35 +197,6 @@ const EntryTile: any = async (data: any) => {
     }
     return <React.Fragment>{tagsElements}</React.Fragment>;
   };
-
-  const DiffedDescription: any = () => {
-    let diffedDescriptionObject: any = []
-    // TODO: Fix escaped characters such as \n \\n and <br>
-    const descriptionDiff = Diff.diffWords(
-      data.commitData.description
-        .replaceAll("\\n", " ")
-        .replaceAll("<br>", " ")
-        .replaceAll(/^,/g, "")
-        .replaceAll('\"', '"')
-      ,remoteFileObj.description
-        .replaceAll("\\n", " ")
-        .replaceAll("<br>", " ")
-        .replaceAll(/^,/g, " ")
-        .replaceAll('\"', '"')
-    );
-
-    descriptionDiff.forEach((part) => {
-      const color = part.added
-        ? "green-700 bg-green-200"
-        : part.removed
-        ? "red-700 bg-red-200"
-        : "gray-600";
-      diffedDescriptionObject.push(
-          <span className={`text-${color}`}>{part.value}</span>
-        );
-    });
-    return diffedDescriptionObject;
-  }
 
   const DiffedDate: any = ({
     propertyName,
@@ -253,8 +220,8 @@ const EntryTile: any = async (data: any) => {
       const color = part.added
         ? "green-700 bg-green-200"
         : part.removed
-        ? "red-700 bg-red-200"
-        : "gray-600";
+          ? "red-700 bg-red-200"
+          : "gray-600";
       diffedDateObject.push(
         <span className={`text-${color}`}>{part.value}</span>
       );
@@ -262,24 +229,42 @@ const EntryTile: any = async (data: any) => {
     return diffedDateObject;
   };
 
+  const DiffedText: any = ({ type, }: { type: "title" | "description" }) => {
+    let diffedTextObject: any = []
+    const textDiff = Diff.diffWords(
+      normalizeText(data.commitData[type])
+      , normalizeText(remoteFileObj[type])
+    )
+    textDiff.forEach((part) => {
+      const color = part.added
+        ? "green-700 bg-green-200"
+        : part.removed
+          ? "red-700 bg-red-200"
+          : "gray-600";
+      diffedTextObject.push(
+        <span className={`text-${color}`}>{part.value}</span>
+      );
+    });
+    return diffedTextObject;
+  };
 
   return (
     <Link href={data.entryID} className="w-full flex justify-between">
-      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0">
+      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0" id={`${data.entryID}-containter`}>
         <div className="w-full max-w-3xl flex md:items-center">
           <span className="pr-2 py-1 text-xl">
             <IoIosArrowForward />
           </span>
           <span>
             <p className="hover:text-green-700 py-1 font-bold">
-              {remoteFileObj.title}
+              <DiffedText type="title" />
               {data.commitData.status === "added" ? (
                 <span className="inline-flex items-center rounded-md bg-green-50 px-1 py-1 ml-2 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20">
                   New
                 </span>
               ) : null}
             </p>
-            <DiffedDescription />
+            <DiffedText type="description" />
             <p>
               <span className="font-bold">Feature ID:</span>{" "}
               {remoteFileObj.guid}
