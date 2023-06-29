@@ -3,6 +3,7 @@ import { RecentData } from "@/types/RecentData";
 import ListContainer from "@/components/ListContainer";
 import { getLastChangeFile } from "@/libs/getLastChangeFile";
 import Tab from "@/components/Tab";
+var fs = require("fs");
 
 export const revalidate = 3600 / 6;
 
@@ -21,6 +22,7 @@ const getData = async (
     });
 
     let commitData = [] as RecentData[];
+
     for (const commit of response.data.slice(0,5)) {
       const latestCommitSHA = commit.sha;
       const commitResponse = await octokit.rest.repos.getCommit({
@@ -30,11 +32,11 @@ const getData = async (
       });
       commitData = commitData.concat(getLastChangeFile(commitResponse.data, paramsFilter));
     }
-
     return { commitData };
   } catch (error: any) {
     throw new Error(error.message);
   }
+  
 };
 
 const Home = async ({ searchParams }: { searchParams: { filter: string } }) => {
@@ -43,7 +45,7 @@ const Home = async ({ searchParams }: { searchParams: { filter: string } }) => {
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
         {/* filter Buttons  */}
-        <Tab filtered={searchParams.filter} />
+        {/* <Tab filtered={searchParams.filter} /> */}
         <ListContainer data={commitData} />
       </div>
     </section>

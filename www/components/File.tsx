@@ -2,87 +2,129 @@
 import React, { useEffect, useState } from "react";
 import { repo, owner, octokit } from "@/config/octokit";
 import DiffContainer from "./DiffContainer";
-import { FaBeer } from "react-icons/fa";
 import { format } from "date-fns";
 
-interface Sha {
-  firstElement: string;
-  secondElement: string;
-}
-
-interface Shas {
-  Shas: Sha[];
+interface Commit {
+  firstElement: string
+  secondElement: string
+  author: Object
+  committer: Object
 }
 
 interface Props {
   commits: any;
   path: string;
-  commentCount: number;
-  setLoading: any;
+  setLoading: React.Dispatch<React.SetStateAction<boolean>>;
 }
 
-const File: React.FC<Props> = ({ commits, path, commentCount, setLoading }) => {
+const File: React.FC<Props> = ({ commits, path, setLoading }) => {
   const [content, setContent] = useState<any>([]);
 
   useEffect(() => {
-    const makeReq = async () => {
-      setLoading(true);
-      const firstVersion: any = await octokit.rest.repos.getContent({
-        owner,
-        repo,
-        path,
-        ref: commits[commentCount].firstElement,
-      });
+    const getUniqueCommits = (commits: Commit[]) => {
+      let uniqueCommits: Array<string> = [];
+      for (const commit of commits) {
+        if (uniqueCommits.includes(commit.firstElement) || !commit.firstElement) {
+          continue;
+        } else {
+          uniqueCommits.push(commit.firstElement);
+        }
 
-      const firstVersionContent = Buffer.from(
-        firstVersion.data?.content,
-        "base64"
-      ).toString();
+        if (
+          uniqueCommits.includes(commit.secondElement) ||
+          !commit.secondElement
+        ) {
+          continue;
+        } else {
+          uniqueCommits.push(commit.secondElement);
+        }
+      }
+      return uniqueCommits;
+    };
 
-      let secondVersionContent = "";
-      if (commits[commentCount].secondElement) {
-        const secondVersion: any = await octokit.rest.repos.getContent({
-          owner,
-          repo,
-          path,
-          ref: commits[commentCount].secondElement,
-        });
+    const getCommitData = async (commitRef: string) => await octokit.rest.repos.getContent({
+      owner,
+      repo,
+      path,
+      ref: commitRef,
+    });
 
-        secondVersionContent = Buffer.from(
-          secondVersion.data?.content,
+    const getAllCommitsData = async (uniqueCommits: Array<string>) => {
+      const uniqueCommitsData: Array<Object> = [{}];
+      for (const uniqueCommit of uniqueCommits) {
+        const uniqueCommitData = await getCommitData(uniqueCommit);
+        uniqueCommitsData.push(uniqueCommitData);
+      }
+      return uniqueCommitsData;
+    };
+
+    const getChangesData = async (commits: Commit[], allCommitsRes: any) => {
+      let allChangesData: Object[] = []
+      for (const commit of commits) {
+        const relatedFirstCommit = allCommitsRes.find(
+          (res: { data: { url: string } }) => {
+            return res?.data?.url.includes(commit.firstElement);
+          }
+        );
+        const firstCommitContent = Buffer.from(
+          relatedFirstCommit.data?.content,
           "base64"
         ).toString();
-      }
 
-      return {
-        current: firstVersionContent,
-        previous: secondVersionContent,
-        commits: commits[commentCount],
-      };
-    };
-    const fetchData = async () => {
-      const data = await makeReq();
-      setContent([...content, data]);
+        let secondCommitContent : string = '';
+        if (commit.secondElement) {
+          const relatedSecondCommit = allCommitsRes.find(
+            (res: { data: { url: string } }) => {
+              return res?.data?.url.includes(commit.secondElement);
+            }
+          );
+          secondCommitContent = Buffer.from(
+            relatedSecondCommit.data?.content,
+            "base64"
+          ).toString();
+        }
+      
+        allChangesData.push({
+          current: firstCommitContent,
+          previous: secondCommitContent,
+          commits: commit
+        });
+      }
+      return allChangesData;
+    }
+
+    (async () => {
+      setLoading(true);
+      // Last commit is not necessary as it's displayed by default
+      const allButLastCommit = commits.slice(1)
+      const uniqueCommits = getUniqueCommits(allButLastCommit);
+      const allCommitsRes = await getAllCommitsData(uniqueCommits);
+      const allChangesData = await getChangesData(
+        allButLastCommit,
+        allCommitsRes
+      );
+
+      setContent(allChangesData);
       setLoading(false);
-    };
-    fetchData();
-  }, [commentCount]);
+    })().catch((e) => {
+      // Deal with the fact the chain failed
+    });
+    
+  }, []);
   return (
     <div>
       {content.map((item: any, i: any) => {
         const commitDate = item.commits.committer.committer.date;
-        const message = item.commits.committer.message;
         return (
           <div
             key={i}
             className="flex justify-center flex-col items-center text-center"
           >
-            <div className="text-sm px-1 my-2 ">
-              <p className=" font-bold">
-                Commits on {format(new Date(commitDate), "MMM dd, yyyy")}
-              </p>
-              <p>{message}</p>
-            </div>
+             <div className="text-sm px-1 my-2 ">
+               <p className=" font-bold">
+                 Changes on {format(new Date(commitDate), "MMM dd, yyyy")}
+               </p>
+             </div>
 
             <DiffContainer
               key={i}
