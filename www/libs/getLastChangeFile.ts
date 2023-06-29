@@ -5,7 +5,17 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
   responseData.files?.map((file: any) => {
     const match = file?.patch?.match(/"title":\s*"([^"]+)"/);
     const title: string = match ? match[1] : "";
-    const description: string = file?.patch?.match(/"description":\s*"([^"]+)"/)[1] || ""
+    const description: string = file?.patch?.match(/"description":\s*"(.+)",/)[1] || ""
+    const publicDisclosureAvailabilityDateMatch: string = file?.patch?.match(
+      /"publicDisclosureAvailabilityDate":\s*"(.+)"/
+    );
+    const publicDisclosureAvailabilityDate: string =
+      publicDisclosureAvailabilityDateMatch ? publicDisclosureAvailabilityDateMatch[1] : "";
+    const publicPreviewDateMatch: string =
+      file?.patch?.match(/"publicPreviewDate":\s*"(.+)"/);
+    const publicPreviewDate: string = publicPreviewDateMatch
+      ? publicPreviewDateMatch[1]
+      : "";
     const patch = file?.patch as string;
     const patchLines = file?.patch?.split("\n");
     const status = file?.status as string;
@@ -19,6 +29,8 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
           changeData.push({
             title,
             description,
+            publicDisclosureAvailabilityDate,
+            publicPreviewDate,
             patch,
             status,
             fileName: file.filename.split("/")[1],
@@ -32,6 +44,8 @@ export const getLastChangeFile = (responseData: any, paramsFilter: any) => {
       changeData.push({
         title,
         description,
+        publicDisclosureAvailabilityDate,
+        publicPreviewDate,
         patch,
         status,
         fileName: file.filename.split("/")[1],
