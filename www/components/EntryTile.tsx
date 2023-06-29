@@ -219,8 +219,6 @@ const EntryTile: any = async (data: any) => {
     );
 
     descriptionDiff.forEach((part) => {
-      // green for additions, red for deletions
-      // grey for common parts
       const color = part.added
         ? "green-700 bg-green-200"
         : part.removed
@@ -232,6 +230,37 @@ const EntryTile: any = async (data: any) => {
     });
     return diffedDescriptionObject;
   }
+
+  const DiffedDate: any = ({
+    propertyName,
+  }: {
+    propertyName: "publicDisclosureAvailabilityDate" | "publicPreviewDate";
+  }) => {
+    // If the property hasn't changed in last commit
+    if (
+      !data.commitData.patch.match(
+        new RegExp(`-\\s*"${propertyName}":\\s*"(.+)`)
+      )
+    ) {
+      return (
+        <span className={`text-gray-600`}>{remoteFileObj[propertyName]}</span>
+      );
+    }
+    // If there was a change, it'll be in commitData
+    let diffedDateObject: any = [];
+    let dateDiff = Diff.diffWords(data.commitData[propertyName], remoteFileObj[propertyName]);
+    dateDiff.forEach((part) => {
+      const color = part.added
+        ? "green-700 bg-green-200"
+        : part.removed
+        ? "red-700 bg-red-200"
+        : "gray-600";
+      diffedDateObject.push(
+        <span className={`text-${color}`}>{part.value}</span>
+      );
+    });
+    return diffedDateObject;
+  };
 
 
   return (
@@ -272,11 +301,15 @@ const EntryTile: any = async (data: any) => {
             </p>
             <p>
               <span className="font-bold">Preview Available:</span>{" "}
-              {remoteFileObj.publicPreviewDate}{" "}
+              {remoteFileObj.publicPreviewDate ? (
+                <DiffedDate propertyName="publicPreviewDate" />
+              ) : null}
             </p>
             <p>
               <span className="font-bold">Rollout Start:</span>{" "}
-              {remoteFileObj.publicDisclosureAvailabilityDate}{" "}
+              {remoteFileObj.publicDisclosureAvailabilityDate ? (
+                <DiffedDate propertyName="publicDisclosureAvailabilityDate" />
+              ) : null}
             </p>
           </span>
         </div>
