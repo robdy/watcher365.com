@@ -6,14 +6,14 @@
     "GCC",
     "GCC High",
     "General Availability",
-    "In development",
+    "Launched",
     "Microsoft Purview compliance portal",
     "Web"
   ],
   "title": "Microsoft Purview compliance portal: Insider Risk Management - Sequence-as-a-policy trigger (U.S. Government clouds)",
   "description": "Admins can customize data leak policies to be detected when a user performs a sequence. For example, if admins select a sequence (such as download from Microsoft 365 location, obfuscate, exfiltrate, then delete), users who perform the sequence of activities will trigger the policy and the alert will show up in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
   "pubDate": "Mon, 03 Apr 2023 23:19:35 -0700",
-  "updated": "2023-05-25T23:05:03-07:00",
+  "updated": "2023-06-29T23:25:57-07:00",
   "publicDisclosureAvailabilityDate": "June CY2023",
   "publicPreviewDate": null
 }
