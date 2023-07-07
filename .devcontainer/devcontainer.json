@@ -1,10 +1,14 @@
 {
   "image": "mcr.microsoft.com/devcontainers/typescript-node",
+  "features": {
+    "powershell": "latest"
+  },
   "customizations": {
     "vscode": {
       "extensions": [
 		"WakaTime.vscode-wakatime",
-		"GitHub.copilot"
+		"GitHub.copilot",
+		"ms-vscode.powershell"
 	]
     }
 },
