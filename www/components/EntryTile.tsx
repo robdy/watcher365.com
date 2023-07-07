@@ -231,10 +231,16 @@ const EntryTile: any = async (data: any) => {
 
   const DiffedText: any = ({ type, }: { type: "title" | "description" }) => {
     let diffedTextObject: any = []
-    const textDiff = Diff.diffWords(
+    let textDiff = Diff.diffWords(
       normalizeText(data.commitData[type])
       , normalizeText(remoteFileObj[type])
     )
+    if (textDiff.length > 10) {
+      textDiff = Diff.diffTrimmedLines(
+        normalizeText(data.commitData[type])
+        , normalizeText(remoteFileObj[type])
+      )
+    }
     textDiff.forEach((part) => {
       const color = part.added
         ? "green-700 bg-green-200"
@@ -250,7 +256,7 @@ const EntryTile: any = async (data: any) => {
 
   return (
     <Link href={data.entryID} className="w-full flex justify-between">
-      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0" id={`containter-${data.entryID}-${data.date}`}>
+      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0" id={`container-${data.entryID}-${data.date}`}>
         <div className="w-full max-w-3xl flex md:items-center">
           <span className="pr-2 py-1 text-xl">
             <IoIosArrowForward />
