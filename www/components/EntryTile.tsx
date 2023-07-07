@@ -11,6 +11,7 @@ const releaseStatusesList: string[] = [
   "Launched",
   "In development",
   "Rolling out",
+  "Cancelled",
 ];
 
 const releasePhasesList: string[] = [
@@ -21,6 +22,7 @@ const releasePhasesList: string[] = [
   "Targeted Release (Select People)",
   "Limited Availability",
   "Semi-Annual Enterprise Channel",
+  "Monthly Enterprise Channel",
   "Current Channel (Preview)",
   "Current Channel"
 ];
@@ -54,7 +56,7 @@ const productsList: string[] = [
   "Exchange",
   "Forms",
   "Microsoft 365",
-  "Microsoft 365 admin center",
+  "Microsoft 365 Admin Center",
   "Microsoft 365 app",
   "Microsoft 365 Defender",
   "Microsoft Defender for Cloud Apps",
@@ -66,6 +68,7 @@ const productsList: string[] = [
   "Microsoft Information Protection",
   "Microsoft Intune",
   "Microsoft Power Apps",
+  "Microsoft Project",
   "Microsoft Purview compliance portal",
   "Microsoft Search",
   "Microsoft Stream",
@@ -173,29 +176,61 @@ const EntryTile: any = async (data: any) => {
   const modifiedTags = getModifiedTags(data.commitData.patch, tagList);
 
   const ColoredTags: any = ({ tagsList: tagsArray, modifiedTags }: any) => {
-    let tagsElements: any = [];
+    let productsTags: any = [],
+      cloudInstancesTags: any = [],
+      platformsTags: any = [],
+      releasePhasesTags: any = [],
+      releaseStatusesTags: any = [],
+      otherTags: any = [];
+
     if (modifiedTags.removed) {
       tagsArray.push(...modifiedTags.removed);
     }
     for (let t = 0; t < tagsArray.length; t++) {
       let badgeClasses: string = "bg-gray-50 text-gray-600 ring-gray-500/10";
-      const isAdded = modifiedTags.added.includes(tagsArray[t]);
-      const isRemoved = modifiedTags.removed.includes(tagsArray[t]);
+      const currentTag = tagsArray[t];
+      const isAdded = modifiedTags.added.includes(currentTag);
+      const isRemoved = modifiedTags.removed.includes(currentTag);
       if (isAdded && !isRemoved) {
         badgeClasses = "bg-green-50 text-green-700 ring-green-600/20";
       }
       if (isRemoved && !isAdded) {
         badgeClasses = "bg-red-50 text-red-700 ring-red-600/10";
       }
-      tagsElements.push(
-        <span
-          className={`inline-flex items-center rounded-md px-2 py-1 text-xs font-medium  ring-1 ring-inset ${badgeClasses} mx-1 my-1`}
-        >
-          {tagsArray[t]}
-        </span>
-      );
+      const coloredTag: React.JSX.Element = <span
+        className={`inline-flex items-center rounded-md px-2 text-xs font-medium  ring-1 ring-inset ${badgeClasses} mx-1`}
+      >
+        {currentTag}
+      </span>
+      switch (true) {
+        case productsList.includes(currentTag):
+          productsTags.push(coloredTag);
+          break;
+        case cloudInstancesList.includes(currentTag):
+          cloudInstancesTags.push(coloredTag);
+          break;
+        case platformsList.includes(currentTag):
+          platformsTags.push(coloredTag);
+          break;
+        case releasePhasesList.includes(currentTag):
+          releasePhasesTags.push(coloredTag);
+          break;
+        case releaseStatusesList.includes(currentTag):
+          releaseStatusesTags.push(coloredTag);
+          break;
+        default:
+          otherTags.push(coloredTag);
+      }
     }
-    return <React.Fragment>{tagsElements}</React.Fragment>;
+
+    return <React.Fragment>
+      <p><span className="font-bold">Product(s):</span> {productsTags}</p>
+      <p><span className="font-bold">Cloud instance(s):</span> {cloudInstancesTags}</p>
+      <p><span className="font-bold">Platform(s):</span> {platformsTags}</p>
+      <p><span className="font-bold">Release phase(s):</span> {releasePhasesTags}</p>
+      <p><span className="font-bold">Status:</span> {releaseStatusesTags}</p>
+      {otherTags.length > 0 && <p><span className="font-bold">Other tags:</span> {otherTags}</p>}
+    </React.Fragment>;
   };
 
   const DiffedDate: any = ({
@@ -283,13 +318,10 @@ const EntryTile: any = async (data: any) => {
               <span className="font-bold">Last modified:</span>{" "}
               {new Date(remoteFileObj.updated).toDateString()}
             </p>
-            <p>
-              <span className="font-bold">Tags:</span>{" "}
-              <ColoredTags
-                tagsList={remoteFileObj.category}
-                modifiedTags={modifiedTags}
-              />
-            </p>
+            <ColoredTags
+              tagsList={remoteFileObj.category}
+              modifiedTags={modifiedTags}
+            />
             <p>
               <span className="font-bold">Preview Available:</span>{" "}
               {remoteFileObj.publicPreviewDate ? (
