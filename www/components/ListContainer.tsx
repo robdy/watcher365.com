@@ -28,7 +28,7 @@ const ListContainer: React.FC<Props> = ({ data }) => {
               {groupedData[item].map((entry: any, j: number) => {
                 return entry ? (
                   <li className="flex  py-2 px-4 bg-white" key={`${i}-${j}`}>
-                    <EntryTile entryID={entry.filePath} commitData={entry}/>
+                    <EntryTile entryID={entry.filePath} commitData={entry} date={item}/>
                   </li>
                 ) : (
                   <p>No local file found</p>
