@@ -2,6 +2,7 @@
 $dataFolder = 'data'
 $versionFolder = Join-Path $dataFolder 'versions'
 $roadmapRSSUri = 'https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS/'
+$timestamp = Get-Date -Format 'o'
 #endregion Settings and variables
 
 #region Functions
@@ -77,6 +78,7 @@ foreach ($entry in $res) {
 		if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
 			# If there are differences
 			$diffObject = New-Object PSObject
+			$diffObject | Add-Member -Type NoteProperty -Name 'timestamp' -Value $timestamp
 			$propsToBeCompared = @(
 				'category'
 				'title',
@@ -85,21 +87,29 @@ foreach ($entry in $res) {
 				'publicPreviewDate'
 			)
 			foreach ($prop in $propsToBeCompared) {
-				if ($currentData.$prop -ne $previousData.$prop) {
+				if (
+					#TODO For category compare joined object 
+					($currentData.$prop -ne $previousData.$prop)
+
+				) {
 					$diffObject | Add-Member -Type NoteProperty -Name $prop -Value @{
-						"oldValue": $previousData.$prop
-						"newValue": $currentData.$prop
+						"oldValue" = $previousData.$prop
+						"newValue" = $currentData.$prop
 					}
 					Write-Host "$prop of $($currentData.guid) changed from $($previousData.$prop) to $($currentData.$prop)"
 				}
 			}
 			$versionNumber = 0
 			$versionEntryFolder = Join-Path $versionFolder $currentData.guid
+			if (-not (Test-Path $versionEntryFolder)) {
+				New-Item -ItemType Directory $versionEntryFolder
+			}
 			do {
 				$versionNumber++
 				$versionFile = Join-Path $versionEntryFolder "v$($versionNumber.ToString('0000')).json"
-			} until (-not (Test-Path (Join-Path $versionFolder)))
+			} until (-not (Test-Path $versionFile))
 			# Save differences to file
+			$diffObject | ConvertTo-Json | Out-File $versionFile -Force
 		}
 	} else {
 		Write-Host "$($currentData.guid) added: $($currentData.title)"
