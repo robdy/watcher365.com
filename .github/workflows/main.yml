@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Run script
         id: checker
-        run: ./Get-RoadmapData.ps1
+        run: ./scripts/Get-RoadmapData.ps1
       - name: Commit changes
         run: |
           cd data
