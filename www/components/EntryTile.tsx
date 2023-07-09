@@ -137,6 +137,16 @@ const EntryTile: any = async (data: any) => {
   const remoteFileObj: RoadmapEntry =
     remoteFileContent && JSON.parse(remoteFileContent);
 
+  // Filter out irrelevant changes
+  // Changes to pubDate or updated are irrelevant
+  // unless there are other changes in the same commit
+  const isRelevant = (patch: string): boolean => {
+    const relevantData = patch.replaceAll(/[-+]\s*"(pubDate|updated)": .*/g, '');
+    return (/[-+]\s*"/g).test(relevantData);
+  }
+  const isEntryRelevant = isRelevant(data.commitData.patch);
+  if (!isEntryRelevant) return (null);
+
   const getModifiedTags: any = (patch: any, tagList: string[]) => {
     let addedTags: string[] = [];
     let removedTags: string[] = [];
@@ -290,60 +300,62 @@ const EntryTile: any = async (data: any) => {
   };
 
   return (
-    <Link href={data.entryID} className="w-full flex justify-between">
-      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0" id={`container-${data.entryID}-${data.date}`}>
-        <div className="w-full max-w-3xl flex md:items-center">
-          <span className="pr-2 py-1 text-xl">
-            <IoIosArrowForward />
-          </span>
-          <span>
-            <p className="hover:text-green-700 py-1 font-bold">
-              <DiffedText type="title" />
-              {data.commitData.status === "added" ? (
-                <span className="inline-flex items-center rounded-md bg-green-50 px-1 py-1 ml-2 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20">
-                  New
-                </span>
-              ) : null}
+    <li className="flex  py-2 px-4 bg-white" key={`li-${data.entryID}-${data.date}`}>
+      <Link href={data.entryID} className="w-full flex justify-between">
+        <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0" id={`container-${data.entryID}-${data.date}`}>
+          <div className="w-full max-w-3xl flex md:items-center">
+            <span className="pr-2 py-1 text-xl">
+              <IoIosArrowForward />
+            </span>
+            <span>
+              <p className="hover:text-green-700 py-1 font-bold">
+                <DiffedText type="title" />
+                {data.commitData.status === "added" ? (
+                  <span className="inline-flex items-center rounded-md bg-green-50 px-1 py-1 ml-2 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20">
+                    New
+                  </span>
+                ) : null}
+              </p>
+              <DiffedText type="description" />
+              <p>
+                <span className="font-bold">Feature ID:</span>{" "}
+                {remoteFileObj.guid}
+              </p>
+              <p>
+                <span className="font-bold">Added to roadmap:</span>{" "}
+                {new Date(Date.parse(remoteFileObj.pubDate)).toDateString()}
+              </p>
+              <p>
+                <span className="font-bold">Last modified:</span>{" "}
+                {new Date(remoteFileObj.updated).toDateString()}
+              </p>
+              <ColoredTags
+                tagsList={remoteFileObj.category}
+                modifiedTags={modifiedTags}
+              />
+              <p>
+                <span className="font-bold">Preview Available:</span>{" "}
+                {remoteFileObj.publicPreviewDate ? (
+                  <DiffedDate propertyName="publicPreviewDate" />
+                ) : null}
+              </p>
+              <p>
+                <span className="font-bold">Rollout Start:</span>{" "}
+                {remoteFileObj.publicDisclosureAvailabilityDate ? (
+                  <DiffedDate propertyName="publicDisclosureAvailabilityDate" />
+                ) : null}
+              </p>
+            </span>
+          </div>
+          <div className=" md:text-sm text-xs min-w-[100px] text-gray-600">
+            <p className="flex items-center gap-1">
+              <FiFile className="p-1 text-2xl" />
+              {`${data.entryID}.json`}
             </p>
-            <DiffedText type="description" />
-            <p>
-              <span className="font-bold">Feature ID:</span>{" "}
-              {remoteFileObj.guid}
-            </p>
-            <p>
-              <span className="font-bold">Added to roadmap:</span>{" "}
-              {new Date(Date.parse(remoteFileObj.pubDate)).toDateString()}
-            </p>
-            <p>
-              <span className="font-bold">Last modified:</span>{" "}
-              {new Date(remoteFileObj.updated).toDateString()}
-            </p>
-            <ColoredTags
-              tagsList={remoteFileObj.category}
-              modifiedTags={modifiedTags}
-            />
-            <p>
-              <span className="font-bold">Preview Available:</span>{" "}
-              {remoteFileObj.publicPreviewDate ? (
-                <DiffedDate propertyName="publicPreviewDate" />
-              ) : null}
-            </p>
-            <p>
-              <span className="font-bold">Rollout Start:</span>{" "}
-              {remoteFileObj.publicDisclosureAvailabilityDate ? (
-                <DiffedDate propertyName="publicDisclosureAvailabilityDate" />
-              ) : null}
-            </p>
-          </span>
+          </div>
         </div>
-        <div className=" md:text-sm text-xs min-w-[100px] text-gray-600">
-          <p className="flex items-center gap-1">
-            <FiFile className="p-1 text-2xl" />
-            {`${data.entryID}.json`}
-          </p>
-        </div>
-      </div>
-    </Link>
+      </Link>
+    </li>
   );
 };
 export default EntryTile;
