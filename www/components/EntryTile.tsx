@@ -59,6 +59,7 @@ const productsList: string[] = [
   "Microsoft 365 Admin Center",
   "Microsoft 365 app",
   "Microsoft 365 Defender",
+  "Microsoft Compliance center",
   "Microsoft Defender for Cloud Apps",
   "Microsoft Defender for Endpoint",
   "Microsoft Defender for Identity",
