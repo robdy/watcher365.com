@@ -1,6 +1,6 @@
 {
-  "name": "github-api",
-  "version": "0.1.0",
+  "name": "watcher365.com",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "NODE_OPTIONS='--inspect'; next dev",
@@ -27,6 +27,8 @@
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "encoding": "^0.1.13"
+    "encoding": "^0.1.13",
+    "eslint": "^8.44.0",
+    "eslint-config-next": "^13.4.9"
   }
 }
