@@ -2,7 +2,6 @@ import { repo, owner, octokit } from "@/config/octokit";
 import { RecentData } from "@/types/RecentData";
 import ListContainer from "@/components/ListContainer";
 import { getLastChangeFile } from "@/libs/getLastChangeFile";
-import Tab from "@/components/Tab";
 var fs = require("fs");
 
 export const revalidate = 3600 / 6;
@@ -44,8 +43,6 @@ const Home = async () => {
   return (
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
-        {/* filter Buttons  */}
-        {/* <Tab filtered={searchParams.filter} /> */}
         <ListContainer data={commitData} />
       </div>
     </section>

@@ -26,11 +26,17 @@ const ListContainer: React.FC<Props> = ({ data }) => {
             </h2>
             <ul className="my-3 divide-y-2 text-sm md:text-base" key={`list-${item}`}>
               {groupedData[item].map((entry: any, j: number) => {
-                return entry ? (
-                  <EntryTile entryID={entry.filePath} commitData={entry} date={item} />
-                ) : (
-                  <p>No local file found</p>
-                );
+                // Filter out irrelevant changes
+                // Changes to pubDate or updated are irrelevant
+                // unless there are other changes in the same commit
+                const isRelevant = (patch: string): boolean => {
+                  const relevantData = patch.replaceAll(/[-+]\s*"(pubDate|updated)": .*/g, '');
+                  return (/[-+]\s*"/g).test(relevantData);
+                }
+                const isEntryRelevant = isRelevant(entry.patch);
+                return isEntryRelevant
+                  ? <EntryTile entryID={entry.filePath} commitData={entry} date={item} />
+                  : null
               })}
             </ul>
           </React.Fragment>
