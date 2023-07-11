@@ -39,8 +39,8 @@ const getData = async (
   
 };
 
-const Home = async ({ searchParams }: { searchParams: { filter: string } }) => {
-  const { commitData }: any = await getData(searchParams.filter);
+const Home = async () => {
+  const { commitData }: any = await getData();
   return (
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
