@@ -5,6 +5,8 @@ import { getLastChangeFile } from "@/libs/getLastChangeFile";
 import Tab from "@/components/Tab";
 var fs = require("fs");
 
+export const revalidate = 3600 / 6;
+
 // Fetch data from GitHub
 const getData = async (
   paramsFilter?: string
