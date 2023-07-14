@@ -1,16 +1,29 @@
 import React, { useEffect } from "react";
 import { RecentData } from "@/types/RecentData";
 import EntryTile from "./EntryTile";
+import { repo, owner, octokit } from "@/config/octokit";
 
 interface Props {
-  data: any;
+  commitList: string[];
 }
 
-const ListContainer: React.FC<Props> = ({ data }) => {
+const ListContainer = async ({ commitList } : any) => {
+
+  const getCommitData = async (sha: string) => await octokit.rest.repos.getCommit({
+      owner: owner,
+      repo: repo,
+      ref: sha,
+  });
+
+  let commitsData: any = [];
+  for (const commit of commitList.data.slice(0,5)) {
+    commitsData = commitsData.concat(await getCommitData(commit))
+  }
+  console.log(commitsData)
 
   // Group by https://stackoverflow.com/a/40774906/9902555
-  const groupedData = data.reduce(function (r: any, a: RecentData) {
-    const shortTimestamp: string = a.timestamp.substring(0, 10)
+  const groupedData = commitsData.reduce(function (r: any, a: any) {
+    const shortTimestamp: string = a.author.date.substring(0, 10)
     r[shortTimestamp] = r[shortTimestamp] || [];
     r[shortTimestamp].push(a);
     return r;
