@@ -32,10 +32,9 @@ const getData = async (
 
 const Home = async () => {
   const { commitList }: any = await getData();
-  console.log(commitList)
   // Workaround from Next.JS GitHub
   // https://github.com/vercel/next.js/issues/42292#issuecomment-1464048350
-  const listContainer: JSX.Element = await ListContainer({data: commitList})
+  const listContainer: JSX.Element = await ListContainer({ commitList })
   return (
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
