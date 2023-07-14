@@ -14,7 +14,7 @@
   "title": "Microsoft Defender for Office 365: Tenant Allow/Block List domain & addresses block to send inbound emails to admin quarantine",
   "description": "Today, domain & addresses block in Tenant Allow/Block List mark inbound emails from those domains and email addresses with SCL:9 thus not effectively shielding end users from malicious messages. With this change, inbound messages from domain & addresses blocked on Tenant Allow/Block List will land in admin quarantine.",
   "pubDate": "Fri, 17 Feb 2023 00:31:34 -0800",
-  "updated": "2023-06-06T23:16:50-07:00",
-  "publicDisclosureAvailabilityDate": "July CY2023",
+  "updated": "2023-07-13T23:16:43-07:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
   "publicPreviewDate": null
 }
