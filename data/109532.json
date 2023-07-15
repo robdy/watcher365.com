@@ -11,13 +11,14 @@
     "In development",
     "Microsoft Information Protection",
     "PowerPoint",
+    "Preview",
     "Word",
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Purview Information Protection: Sensitivity label required to restrict permissions for labeling-enabled users",
-  "description": "Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed.",
+  "description": ",Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed.",
   "pubDate": "Fri, 09 Jun 2023 22:38:01 -0700",
-  "updated": "2023-06-13T23:09:51-07:00",
+  "updated": "2023-07-14T22:04:05-07:00",
   "publicDisclosureAvailabilityDate": "July CY2023",
-  "publicPreviewDate": null
+  "publicPreviewDate": "August CY2023"
 }
