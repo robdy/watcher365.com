@@ -15,9 +15,9 @@ const normalizeText = (text: string): string => {
     .replaceAll('\"', '"')
 }
 
-const EntryTile: any = async ({ entryID, commitData, date }: any) => {
-  if (entryID === '101518') {
-    console.log({ entryID, commitData, date });
+const EntryTile: any = async ({ entryID, commitData }: any) => {
+  if (entryID === '93298') {
+    console.log({ entryID, commitData });
   }
   const remotePath = `data/${entryID}.json`;
   const remoteFileRes: any = await octokit.rest.repos.getContent({
@@ -186,7 +186,7 @@ const EntryTile: any = async ({ entryID, commitData, date }: any) => {
 
   return (
     <li className="flex  py-2 px-4 bg-white" key={`li-${entryID}`}>
-      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0 text-gray-600" id={`container-${entryID}-${date}`}>
+      <div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0 text-gray-600" id={`container-${entryID}-${commitData.date}`}>
         <div className="w-full max-w-3xl flex md:items-center">
           <span>
             <p className="hover:text-green-700 py-1 font-bold">

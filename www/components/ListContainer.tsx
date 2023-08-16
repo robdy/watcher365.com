@@ -63,12 +63,9 @@ const ListContainer = async ({ commitList } : {commitList: string[]}) => {
               {item}
             </h2>
             <ul className="my-3 divide-y-2 text-sm md:text-base" key={`list-${item}`}>
-              {groupedData[item].map((entry: any) => {
-                console.log({
-                  commitData: entry,
-                })
-                // <EntryTile entryID={entryID} commitData={entry} date={item} />
-              })}
+              {groupedData[item].map((entry: any) => (
+                <EntryTile entryID={entryID} commitData={entry} />)
+              )}
             </ul>
           </React.Fragment>
         ))
