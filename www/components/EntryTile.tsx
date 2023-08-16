@@ -24,6 +24,7 @@ const releasePhasesList: string[] = [
   "Targeted Release (Select People)",
   "Limited Availability",
   "Semi-Annual Enterprise Channel",
+  "Semi-Annual Enterprise Channel (Preview)",
   "Monthly Enterprise Channel",
   "Current Channel (Preview)",
   "Current Channel"
@@ -60,6 +61,7 @@ const productsList: string[] = [
   "Microsoft 365",
   "Microsoft 365 Admin Center",
   "Microsoft 365 app",
+  "Microsoft 365 Copilot",
   "Microsoft 365 Defender",
   "Microsoft Compliance center",
   "Microsoft Defender for Cloud Apps",
