@@ -56,22 +56,6 @@ const ListContainer = async ({ commitList } : {commitList: string[]}) => {
 
   return (
     <div className="mt-4">
-      {Object.keys(groupedData).length > 0 ? (
-        Object.keys(groupedData).map((item: any, i: number) => (
-          <React.Fragment key={`fragment-${item}`}>
-            <h2 className="text-green-700 font-bold text-sm md:text-base" key={`header-${item}`}>
-              {item}
-            </h2>
-            <ul className="my-3 divide-y-2 text-sm md:text-base" key={`list-${item}`}>
-              {groupedData[item].map((entry: any) => (
-                <EntryTile entryID={entryID} commitData={entry} />)
-              )}
-            </ul>
-          </React.Fragment>
-        ))
-      ) : (
-        <li className="flex p-2 bg-white mb-3">No changes found</li>
-      )}
     </div>
   );
 };
