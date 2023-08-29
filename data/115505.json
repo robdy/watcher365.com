@@ -6,7 +6,7 @@
     "GCC",
     "GCC High",
     "General Availability",
-    "In development",
+    "Launched",
     "Microsoft Defender for Office 365",
     "Web",
     "Worldwide (Standard Multi-Tenant)"
@@ -14,7 +14,7 @@
   "title": "Microsoft Defender for Office 365: Tenant Allow/Block List domain & addresses block to send inbound emails to admin quarantine",
   "description": "Today, incoming messages from domains or email addresses blocked by the Tenant Allow/Block List are treated as high-confidence spam (marked with SCL:9), which may not properly protect end users. With this change, messages from these blocked senders will be treated as high-confidence phish, and will be delivered to the admin quarantine.",
   "pubDate": "Fri, 17 Feb 2023 00:31:34 -0800",
-  "updated": "2023-07-28T22:11:27-07:00",
+  "updated": "2023-08-28T23:37:12-07:00",
   "publicDisclosureAvailabilityDate": "August CY2023",
   "publicPreviewDate": null
 }
