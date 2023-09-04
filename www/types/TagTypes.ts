@@ -1,0 +1,98 @@
+export const releaseStatusesList: string[] = [
+  "Launched",
+  "In development",
+  "Rolling out",
+  "Cancelled",
+];
+
+export const releasePhasesList: string[] = [
+  "Preview",
+  "General Availability",
+  "Targeted Release",
+  "Targeted Release (Entire Organization)",
+  "Targeted Release (Select People)",
+  "Limited Availability",
+  "Semi-Annual Enterprise Channel",
+  "Monthly Enterprise Channel",
+  "Current Channel (Preview)",
+  "Current Channel",
+];
+
+export const cloudInstancesList: string[] = [
+  "Worldwide (Standard Multi-Tenant)",
+  "DoD",
+  "GCC",
+  "GCC High",
+];
+
+export const platformsList: string[] = [
+  "Android",
+  "Desktop",
+  "Developer",
+  "Education",
+  "iOS",
+  "Linux",
+  "Mac",
+  "Mobile",
+  "Teams and Surface Devices",
+  "Web",
+];
+
+export const productsList: string[] = [
+  "Access",
+  "Azure Active Directory",
+  "Azure Information Protection",
+  "Bookings",
+  "Excel",
+  "Exchange",
+  "Forms",
+  "Microsoft 365",
+  "Microsoft 365 Admin Center",
+  "Microsoft 365 app",
+  "Microsoft 365 Defender",
+  "Microsoft Compliance center",
+  "Microsoft Defender for Cloud Apps",
+  "Microsoft Defender for Endpoint",
+  "Microsoft Defender for Identity",
+  "Microsoft Defender for Office 365",
+  "Microsoft Edge",
+  "Microsoft Graph",
+  "Microsoft Information Protection",
+  "Microsoft Intune",
+  "Microsoft Power Apps",
+  "Microsoft Project",
+  "Microsoft Purview compliance portal",
+  "Microsoft Search",
+  "Microsoft Stream",
+  "Microsoft Syntex",
+  "Microsoft Teams",
+  "Microsoft To Do",
+  "Microsoft Viva",
+  "Minecraft Education",
+  "Office 365",
+  "Office app",
+  "OneDrive",
+  "OneNote",
+  "Outlook",
+  "Planner",
+  "Power Automate",
+  "Power BI",
+  "PowerPoint",
+  "Project",
+  "SharePoint",
+  "SharePoint Syntex",
+  "Universal Print",
+  "Visio",
+  "Whiteboard",
+  "Windows",
+  "Windows 365",
+  "Word",
+  "Yammer",
+];
+
+export const tagList: string[] = releaseStatusesList.concat(
+  releasePhasesList,
+  cloudInstancesList,
+  platformsList,
+  productsList
+);

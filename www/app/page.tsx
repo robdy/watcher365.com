@@ -1,17 +1,13 @@
 import { repo, owner, octokit } from "@/config/octokit";
-import { RecentData } from "@/types/RecentData";
 import ListContainer from "@/components/ListContainer";
-import { getLastChangeFile } from "@/libs/getLastChangeFile";
-import Tab from "@/components/Tab";
 var fs = require("fs");
 
 export const revalidate = 3600 / 6;
 
 // Fetch data from GitHub
 const getData = async (
-  paramsFilter?: string
 ): Promise<
-  { commitData: RecentData[] } | undefined
+  { commitList: any } | undefined
 > => {
   try {
     // gat all commits from repo
@@ -21,18 +17,11 @@ const getData = async (
       path: "data",
     });
 
-    let commitData = [] as RecentData[];
-
-    for (const commit of response.data.slice(0,5)) {
-      const latestCommitSHA = commit.sha;
-      const commitResponse = await octokit.rest.repos.getCommit({
-        owner: owner,
-        repo: repo,
-        ref: latestCommitSHA,
-      });
-      commitData = commitData.concat(getLastChangeFile(commitResponse.data, paramsFilter));
+    let commitList : any = [];
+    for (const commit of response.data.slice(0, 5)) {
+      commitList = commitList.concat(commit.sha)
     }
-    return { commitData };
+    return { commitList };
   } catch (error: any) {
     throw new Error(error.message);
   }
@@ -40,13 +29,15 @@ const getData = async (
 };
 
 const Home = async () => {
-  const { commitData }: any = await getData();
+  const { commitList }: any = await getData();
+  // Workaround from Next.JS GitHub
+  // https://github.com/vercel/next.js/issues/42292#issuecomment-1464048350
+  const listContainer: JSX.Element = await ListContainer({ commitList })
+
   return (
     <section className="container max-w-5xl mx-auto ">
       <div className="my-10 ">
-        {/* filter Buttons  */}
-        {/* <Tab filtered={searchParams.filter} /> */}
-        <ListContainer data={commitData} />
+        {listContainer}
       </div>
     </section>
   );
