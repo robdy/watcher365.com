@@ -1,8 +1,6 @@
-import React, { useEffect } from "react";
-import { RecentData } from "@/types/RecentData";
-import EntryTile from "./EntryTile";
+import React from "react";
 import { repo, owner, octokit } from "@/config/octokit";
-import { OctokitResponse } from "@octokit/types"
+import EntryTile from "@/components/EntryTile";
 
 interface Props {
   commitList: string[];
@@ -30,7 +28,6 @@ const ListContainer = async ({ commitList } : {commitList: string[]}) => {
         commitSha: commitData.sha,
         date: commitData.commit.author.date.substring(0, 10),
         entryID: commitFile.filename.replace(/^data\/|.json$/g, ''),
-        status: commitFile.status,
         patch: commitFile.patch
       }
       ))
@@ -56,6 +53,20 @@ const ListContainer = async ({ commitList } : {commitList: string[]}) => {
 
   return (
     <div className="mt-4">
+      {Object.keys(groupedData).map((item: any) => (
+      <React.Fragment key={`fragment-${item}`}>
+        <h2 className="text-green-700 font-bold text-sm md:text-base" key={`header-${item}`}>
+          {item}
+        </h2>
+        <ul className="my-3 divide-y-2 text-sm md:text-base" key={`list-${item}`}>
+          {groupedData[item].map((entry: any) => {
+            return (
+              <EntryTile entryID={entry.entryID} commitSha={entry.commitSha} key={`tile-${entry.entryID}-${entry.commitSha}`}/>
+            )
+          })}
+        </ul>
+      </React.Fragment>
+      ))}
     </div>
   );
 };

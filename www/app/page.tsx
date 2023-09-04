@@ -1,8 +1,5 @@
 import { repo, owner, octokit } from "@/config/octokit";
-import { RecentData } from "@/types/RecentData";
 import ListContainer from "@/components/ListContainer";
-import { getLastChangeFile } from "@/libs/getLastChangeFile";
-import EntryTile2 from "@/components/EntryTile2";
 var fs = require("fs");
 
 export const revalidate = 3600 / 6;
@@ -36,14 +33,12 @@ const Home = async () => {
   // Workaround from Next.JS GitHub
   // https://github.com/vercel/next.js/issues/42292#issuecomment-1464048350
   const listContainer: JSX.Element = await ListContainer({ commitList })
-  const entryTile: JSX.Element = await EntryTile2({ entryID: "101332", commitSha: "4d78c8fe956f4d8cc6d2d4be126ad1fc5feb4eca"})
 
   return (
     <section className="container max-w-5xl mx-auto ">
-      {entryTile}
-      {/* <div className="my-10 ">
+      <div className="my-10 ">
         {listContainer}
-      </div> */}
+      </div>
     </section>
   );
 };
