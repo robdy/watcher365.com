@@ -1,0 +1,20 @@
+{
+  "guid": "155837",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155837",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Planner",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Planner: Rosters supporting container sensitivity labels",
+  "description": "Organization admins will now be able to apply container labels to rosters in Microsoft Planner. This is enabled directly in Planner and by using Microsoft Graph APIs. Rosters are created automatically for task lists in Microsoft Loop. Tenant admins can make container labels for these rosters mandatory and set a default label, or not make them mandatory. The roster and the Planner plan contained by the Roster then follow container policy settings. For Graph API requests, if labels are mandatory as per tenant settings, roster creation fails if a label is not provided at the time of request.",
+  "pubDate": "Mon, 07 Aug 2023 23:17:19 -0700",
+  "updated": "2023-08-07T23:13:35-07:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
+}
