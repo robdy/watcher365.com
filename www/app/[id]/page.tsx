@@ -1,141 +1,38 @@
 import React from "react";
-import { Metadata } from "next";
 import { repo, owner, octokit } from "@/config/octokit";
-import DiffContainer from "@/components/DiffContainer";
-import ContentCard from "@/components/ContentCard";
-import FileHistory from "@/components/FileHistory";
+import EntryTile from "@/components/EntryTile";
+const util = require('node:util');
+const exec = util.promisify(require('node:child_process').exec);
 
-const getDateByFileName = async (filePath: string) => {
-  try {
-    // get all commit sha specific file
-    const response = await octokit.rest.repos.listCommits({
-      owner,
-      repo,
-      path: filePath,
-    });
-
-    const resData = response.data;
-    const shasArray = [] as any;
-
-    // create array commit sha for comparison previous and current
-    resData.forEach((item: any, index: number) => {
-      const firstElement = resData[index].sha;
-      const secondElement =
-        index < resData.length - 1 ? resData[index + 1].sha : undefined;
-      shasArray.push({
-        firstElement,
-        secondElement,
-        author: item.author,
-        committer: item.commit,
-      });
-    });
-
-    const currentVersionSha = response.data[0]?.sha;
-    const previousVersionSha = response.data[1]?.sha;
-
-    // get file content by comment reference
-    const currentVersionFileResponse: any = await octokit.rest.repos.getContent(
-      {
-        owner,
-        repo,
-        path: filePath,
-        ref: currentVersionSha,
-      }
-    );
-
-    // convert it as string
-    const currentVersionFileContent = Buffer.from(
-      currentVersionFileResponse.data?.content,
-      "base64"
-    ).toString();
-    let previousVersionsFileContent = "";
-    if (previousVersionSha) {
-      // get file content by comment reference
-      const previousVersionsFileResponse: any =
-        await octokit.rest.repos.getContent({
-          owner,
-          repo,
-          path: filePath,
-          ref: previousVersionSha,
-        });
-      // convert it as string
-      previousVersionsFileContent = Buffer.from(
-        previousVersionsFileResponse.data?.content,
-        "base64"
-      ).toString();
-    }
-    return {
-      currentVersionFileContent,
-      previousVersionsFileContent,
-      totalComments: response.data.length,
-      commentsShaArray: shasArray,
-    };
-  } catch (error: any) {
-    throw new Error(error.message);
-  }
-};
-
-export async function generateMetadata({ params }: any): Promise<Metadata> {
-  const path = `data/${params.id}.json`;
-  // No need to deduplicate the request
-  // Next.js handles that
-  // https://nextjs.org/docs/app/building-your-application/data-fetching#automatic-fetch-request-deduping
-  const { currentVersionFileContent }: any = await getDateByFileName(path);
-  const { title } = JSON.parse(currentVersionFileContent);
-  return {
-    title: `${title} | watcher365.com`,
-  };
+async function lsExample() {
+  const { stdout, stderr } = await exec('git show 76522f74563225fbc8df53ec137d349ffdc55457:data/131169.json');
+  console.log('stdout:', stdout);
+  console.error('stderr:', stderr);
 }
 
-const FileChange = async ({
-  params,
-}: {
-  params: { data: string; id: string };
-}) => {
-  const path = `data/${params.id}.json`;
-  const {
-    currentVersionFileContent,
-    previousVersionsFileContent,
-    totalComments,
-    commentsShaArray,
-  }: any = await getDateByFileName(path);
-  const {
-    title,
-    description,
-    updated,
-    category,
-    publicDisclosureAvailabilityDate,
-    publicPreviewDate,
-  } = JSON.parse(currentVersionFileContent);
+
+
+const EntryPage = async ({params}: {params: {id: string}}) => {
+
+  lsExample();
+  const commitList = await octokit.rest.repos.listCommits({
+    owner,
+    repo,
+    path: `data/${params.id}.json`,
+  });
 
   return (
     <section className="container max-w-5xl mx-auto">
-      <div className="  mt-5 mb-2 rounded   text-sm md:text-base">
-        {/* showing content card */}
-        <ContentCard
-          category={category}
-          description={description}
-          title={title}
-          updateDate={updated}
-          publicDisclosureAvailabilityDate={publicDisclosureAvailabilityDate}
-          publicPreviewDate={publicPreviewDate}
-        />
-      </div>
-      {/* Compare previous and  content */}
+      {commitList.data.map((item: any) => {
+        console.log(item.sha)
+        return (
+        <EntryTile entryID={params.id} commitSha={item.sha} key={item.sha} />
+        )
+      }
+      )}
 
-      <DiffContainer
-        current={currentVersionFileContent}
-        previous={previousVersionsFileContent}
-      />
-
-      {/* file history */}
-      <FileHistory
-        path={path}
-        totalComments={totalComments}
-        commentsShaArray={commentsShaArray}
-      />
     </section>
   );
 };
 
-export default FileChange;
+export default EntryPage;
