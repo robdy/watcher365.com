@@ -10,15 +10,21 @@ async function lsExample() {
   console.error('stderr:', stderr);
 }
 
+export async function generateStaticParams() {
+  const { stdout, stderr } = await exec('ls ../data')
+  const filesArr: string[] = stdout.split('\n')
 
+  return filesArr.slice(0,10).map((file) => ({
+    id: file.replace(/\.json$/, ''),
+  }))
+}
 
-const EntryPage = async ({params}: {params: {id: string}}) => {
-
-  lsExample();
+const EntryPage = async ({ params }: {params: {id: string}}) => {
+  const { id } = params
   const commitList = await octokit.rest.repos.listCommits({
     owner,
     repo,
-    path: `data/${params.id}.json`,
+    path: `data/${id}.json`,
   });
 
   return (
@@ -26,7 +32,7 @@ const EntryPage = async ({params}: {params: {id: string}}) => {
       {commitList.data.map((item: any) => {
         console.log(item.sha)
         return (
-        <EntryTile entryID={params.id} commitSha={item.sha} key={item.sha} />
+        <EntryTile entryID={id} commitSha={item.sha} key={item.sha} />
         )
       }
       )}
