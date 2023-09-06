@@ -132,11 +132,17 @@ const EntryTile: any = async ({ entryID, commitSha }: any) => {
   }: {
     propertyName: "publicDisclosureAvailabilityDate" | "publicPreviewDate";
   }) => {
+    if (!Object.hasOwn(afterObj, propertyName)
+      ) {
+        return null
+      }
     // If the property hasn't changed in last commit
     // Or if previous value did not exist
     if (
-      beforeObj[propertyName] === afterObj[propertyName]
+      !Object.hasOwn(beforeObj, propertyName)
+      || beforeObj[propertyName] === afterObj[propertyName]
       || beforeObj[propertyName] === null
+      || afterObj[propertyName] === null
     ) {
       return (
         <span className={`text-gray-600`}>{afterObj[propertyName]}</span>

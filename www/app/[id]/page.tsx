@@ -14,7 +14,7 @@ export async function generateStaticParams() {
   const { stdout, stderr } = await exec('ls ../data')
   const filesArr: string[] = stdout.split('\n')
 
-  return filesArr.slice(0,10).map((file) => ({
+  return filesArr.map((file) => ({
     id: file.replace(/\.json$/, ''),
   }))
 }
@@ -30,7 +30,6 @@ const EntryPage = async ({ params }: {params: {id: string}}) => {
   return (
     <section className="container max-w-5xl mx-auto">
       {commitList.data.map((item: any) => {
-        console.log(item.sha)
         return (
         <EntryTile entryID={id} commitSha={item.sha} key={item.sha} />
         )
