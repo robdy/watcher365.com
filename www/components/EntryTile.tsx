@@ -1,5 +1,4 @@
 import React from "react";
-import { repo, owner, octokit } from "@/config/octokit";
 import { releaseStatusesList, releasePhasesList, cloudInstancesList, platformsList, productsList, tagList } from "@/types/TagTypes"
 import * as Diff from "diff";
 import Link from "next/link";
@@ -16,16 +15,12 @@ const normalizeText = (text: string): string => {
 
 const EntryTile: any = async ({ entryID, commitSha }: any) => {
   const entryFilePath = `data/${entryID}.json`;
-  const allCommits = await octokit.rest.repos.listCommits({
-    owner,
-    repo,
-    path: entryFilePath,
-  });
-  const allCommitIDs = allCommits.data.map(item => item.sha)
+  const { stdout } = await exec(`git log --format=format:%H ../${entryFilePath}`)
+  const allCommitIDs: string[] = stdout.split('\n');
   // Get content from selected commit and before
 
   // If commit not provided, take the most recent one
-  const afterCommit = commitSha || allCommits.data[0].sha;
+  const afterCommit = commitSha || allCommitIDs[0];
   const afterIndex = allCommitIDs.findIndex(item => item === afterCommit);
   const { stdout: afterData } = await exec(`git show ${afterCommit}:${entryFilePath}`);
   const afterObj = JSON.parse(afterData)
