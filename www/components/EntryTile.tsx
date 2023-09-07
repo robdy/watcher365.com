@@ -2,11 +2,13 @@ import React from "react";
 import { repo, owner, octokit } from "@/config/octokit";
 import { releaseStatusesList, releasePhasesList, cloudInstancesList, platformsList, productsList, tagList } from "@/types/TagTypes"
 import * as Diff from "diff";
-
 import Link from "next/link";
 import { FiFile } from "react-icons/fi";
 import { BsMap } from "react-icons/bs";
 import { MdHistory } from "react-icons/md"
+const util = require('node:util');
+const exec = util.promisify(require('node:child_process').exec);
+
 
 const normalizeText = (text: string): string => {
   return text.replaceAll(/^,/g, "")
@@ -25,37 +27,28 @@ const EntryTile: any = async ({ entryID, commitSha }: any) => {
   // If commit not provided, take the most recent one
   const afterCommit = commitSha || allCommits.data[0].sha;
   const afterIndex = allCommitIDs.findIndex(item => item === afterCommit);
-  const afterRes: any = await octokit.rest.repos.getContent({
-    owner,
-    repo,
-    path: entryFilePath,
-    ref: afterCommit
-  })
-  const afterData = Buffer.from(
-    afterRes.data.content,
-    "base64"
-  ).toString()
+  const { stdout: afterData } = await exec(`git show ${afterCommit}:${entryFilePath}`);
   const afterObj = JSON.parse(afterData)
 
   // If commitSha points to last commit, return -1
   const beforeIndex = afterIndex + 1 < allCommitIDs.length
     ? afterIndex + 1
     : -1
-  const beforeCommit = allCommitIDs[beforeIndex];
-  const beforeRes: any = await octokit.rest.repos.getContent({
-    owner,
-    repo,
-    path: entryFilePath,
-    ref: beforeCommit
-  })
-  const beforeData = Buffer.from(
-    beforeRes.data.content,
-    "base64"
-  ).toString()
-  const beforeObj = JSON.parse(beforeData)
-
+  let beforeObj: any
+  if (beforeIndex === -1) {
+    beforeObj = {
+      category: [],
+      title: '',
+      description: ''
+    }
+  } else {
+    const beforeCommit = allCommitIDs[beforeIndex];
+    const { stdout: beforeData } = await exec(`git show ${beforeCommit}:${entryFilePath}`);
+    beforeObj = JSON.parse(beforeData)
+  }
 
   const getModifiedTags: any = (beforeTags: string[], afterTags: string[], tagList: string[]) => {
+
     const addedTags = afterTags.filter(tag => !beforeTags.includes(tag));
     const removedTags = beforeTags.filter(tag => !afterTags.includes(tag));
 
@@ -166,6 +159,9 @@ const EntryTile: any = async ({ entryID, commitSha }: any) => {
 
   const DiffedText: any = ({ type, }: { type: "title" | "description" }) => {
     let diffedTextObject: any = []
+    if (beforeObj[type] === '') {
+      return <span className={`text-gray-600`}>{afterObj[type]}</span>
+    }
     const beforeText = normalizeText(beforeObj[type])
     const afterText = normalizeText(afterObj[type])
     let textDiff = Diff.diffWords(
