@@ -6,7 +6,7 @@ const Header = () => {
         <div>
           <Link href="/">
             <h2 className="text-lg md:text-2xl font-bold text-green-700">
-              {process.env.PROJECT_NAME}
+              watcher365.com
             </h2>
           </Link>
         </div>
