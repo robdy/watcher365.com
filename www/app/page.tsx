@@ -1,6 +1,5 @@
 import { repo, owner, octokit } from "@/config/octokit";
 import ListContainer from "@/components/ListContainer";
-var fs = require("fs");
 
 export const revalidate = 3600 / 6;
 
