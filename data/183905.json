@@ -5,14 +5,13 @@
     "Azure Active Directory",
     "General Availability",
     "In development",
-    "Targeted Release",
     "Web",
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Azure Active Directory: Auto-rollout of Conditional Access policies",
-  "description": "Starting in November 2023, Microsoft will begin automatically protecting customers with Microsoft managed Conditional Access policies. These are policies that Microsoft creates and enables in customer tenants.  The following policies will be rolled out to all eligible tenants:\n1.\tMFA for admin portals: This policy covers privileged admin roles and requires MFA when an admin signs into a Microsoft admin portal.\n2.\tMFA for per-user MFA users: This policy covers users with per-user MFA and requires MFA for all cloud apps.??3.\tMFA for high-risk sign-ins: This policy covers all users and requires MFA and reauthentication for high-risk sign-ins.",
-  "pubDate": "Tue, 24 Oct 2023 23:06:36 -0700",
-  "updated": "2023-10-24T23:06:36-07:00",
-  "publicDisclosureAvailabilityDate": "October CY2023",
+  "description": "Starting in November 2023, Microsoft will begin automatically protecting customers with Microsoft managed Conditional Access policies. All eligible tenants will be notified prior to this rollout.",
+  "pubDate": "Tue, 24 Oct 2023 23:10:50 -0700",
+  "updated": "2023-10-25T23:53:27-07:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
   "publicPreviewDate": null
 }
