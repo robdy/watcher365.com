@@ -18,9 +18,10 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <script
+          async
           defer
-          data-domain="watcher365.com"
-          src="https://plausible.io/js/script.js"
+          onload="this.setAttribute('data-domain',window.location.host)"
+          src="https://plausible.io/js/plausible.js"
         ></script>
       </head>
       <body className={inter.className}>
