@@ -4,12 +4,16 @@ const util = require('node:util');
 const exec = util.promisify(require('node:child_process').exec);
 
 export async function generateStaticParams() {
-  const { stdout, stderr } = await exec('ls ../data')
-  console.error('stderr:', stderr)
-  const filesArr: string[] = stdout.split('\n')
+  const { stdout } = await exec('ls ../data')
+  let filesArr: string[] = stdout.split('\n')
+
+  if (process.env.CODESPACES) {
+    const lastCommitsOnly = await exec(`git log -n 5 --pretty=format:'' --name-only -- '../data/' | sort -u`)
+    filesArr = lastCommitsOnly.stdout.split('\n')
+  }
 
   return filesArr.map((file) => ({
-    id: file.replace(/\.json$/, ''),
+    id: file.replace(/\.json$/, '').replace(/^data\//, ''),
   }))
 }
 
