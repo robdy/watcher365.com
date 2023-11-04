@@ -3,8 +3,15 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "WakaTime.vscode-wakatime"
-      ]
+		"WakaTime.vscode-wakatime",
+		"GitHub.copilot"
+	]
     }
-  },
+},
+"features": {
+	"ghcr.io/devcontainers/features/powershell:1": {
+		"version": "latest"
+	}
+},
+
 }
