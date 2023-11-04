@@ -21,8 +21,8 @@ $changedFiles | ForEach-Object {
 	if (-not $oldVersionRaw) {
 		$oldVersionRaw = "{}"
 	}
-	$oldVersion = $oldVersionRaw | ConvertFrom-Json | Select-Object * -ExcludeProperty @("pubDate","updated")
-	$currentVersion = (git show "HEAD:$changedFile") | ConvertFrom-Json | Select-Object * -ExcludeProperty @("pubDate","updated")
+	$oldVersion = $oldVersionRaw | ConvertFrom-Json
+	$currentVersion = (git show "HEAD:$changedFile") | ConvertFrom-Json
 	$oldVersion = if ($oldVersion) { $oldVersion } else { $currentVersion }
 	[PSCustomObject]@{
 			Path = $_

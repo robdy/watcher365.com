@@ -35,7 +35,7 @@ const Home = async () => {
 
   return (
     <section className="container max-w-5xl mx-auto ">
-      <div className="my-10 ">
+      <div className="my-10">
         {listContainer}
       </div>
     </section>
