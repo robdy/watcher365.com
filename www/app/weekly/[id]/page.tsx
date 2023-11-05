@@ -2,8 +2,7 @@
 import EntryTileView from '@/components/EntryTileView';
 import React from 'react';
 import { readFile } from 'fs/promises';
-import util from 'node:util';
-const exec = util.promisify(require('node:child_process').exec);
+import { getSummaries } from '@/libs/getSummaries';
 
 export const dynamic = 'force-static';
 
@@ -35,12 +34,7 @@ type WeeklyData = {
 
 
 export async function generateStaticParams() {
-	const { stdout } = await exec('ls data/weekly')
-	const filesArr: string[] = stdout.split('\n')
-
-	return filesArr.map((file) => ({
-		id: file.replace(/\.json$/, ''),
-	}))
+	return await getSummaries('weekly');
 }
 
 const Weekly = async ({ params }: { params: { id: string } }) => {
