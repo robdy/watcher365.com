@@ -156,7 +156,7 @@ const EntryTileVew: any = async ({ beforeObj, afterObj }: any) => {
 			<div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0 text-gray-600" id={`container-${entryID}`}>
 				<div className="w-full max-w-3xl flex md:items-center">
 					<span>
-						<p className="hover:text-green-700 py-1 font-bold">
+						<p className="py-1 font-bold">
 							<DiffedText type="title" />
 							{JSON.stringify(beforeObj) === JSON.stringify({}) ? (
 								<span className="inline-flex items-center rounded-md bg-green-50 px-1 py-1 ml-4 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20">
