@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./www/public/watcher365_logo.png" width="200" />
+</p>
+
 # watcher365.com
 
 🎯This project aims to be the one-stop shop for all changes to [Microsoft 365 Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=).
@@ -11,4 +15,11 @@ Currently, watcher365.com provides:
 
 ## Planned features
 
-You can find all the dependencies 
+You can find all the planned features on the [Issues tab](https://github.com/robdy/watcher365.com/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement). Some of the most important planned features are:
+
+- 💡RSS feed
+- 💡Search bar
+- 💡Filters
+- 💡Social media bot
+
+Do you have an idea? Feel free to [open a new issue](https://github.com/robdy/watcher365.com/issues/new)!
