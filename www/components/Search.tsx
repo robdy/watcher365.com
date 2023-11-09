@@ -2,34 +2,39 @@
 import React from 'react';
 
 const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-	// Entries can be found as div with id='container-*'
-	const entries = document.querySelectorAll('div[id^="container-"]');
-	console.log(event.target.value);
+	// Entries can be found as li with id='li-container-*'
+	const entries = document.querySelectorAll('li[id^="li-container-"]');
 	entries.forEach((entry) => {
+		const entryHTMLElement = entry as HTMLElement;
 		if (event.target.value === '') {
-			(entry as HTMLElement).style.display = 'block';
+			entryHTMLElement.style.display = 'block';
 		}
-		if (!(entry as HTMLElement).innerHTML.toLowerCase().includes(event.target.value.toLowerCase())) {
-			(entry as HTMLElement).style.display = 'none';
+		if (!entryHTMLElement.innerHTML.toLowerCase().includes(event.target.value.toLowerCase())) {
+			entryHTMLElement.style.display = 'none';
 		}
 		else {
-			(entry as HTMLElement).style.display = 'block';
+			entryHTMLElement.style.display = 'block';
 		}
 	})
-	if (event.target.value === 'a') {
-		console.log(entries[0]);
-		(entries[0] as HTMLElement).style.display = 'none';
-		console.log(entries[0]);
-	}
 }
 
 const Search = () => {
-  return (
-    <div>
-      <input type="text" placeholder="Search..." onChange={handleSearchChange}/>
-      <button>Search</button>
-    </div>
-  );
+	return (
+		<div className="container max-w-5xl mx-auto my-10">
+			<input
+				type="text"
+				placeholder="Search something..."
+				className="
+				w-full text-center placeholder-center py-2 focus:outline-none 
+				bg-gray-100 
+				border-b-2 border-gray-100
+				focus:border-b-2 focus:border-gray-300
+				text-gray-600
+				"
+				onChange={handleSearchChange}
+			/>
+		</div>
+	);
 };
 
 export default Search;
