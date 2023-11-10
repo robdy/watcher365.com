@@ -5,7 +5,6 @@ import Link from "next/link";
 import { FiFile } from "react-icons/fi";
 import { BsMap } from "react-icons/bs";
 import { MdHistory } from "react-icons/md"
-const util = require('node:util');
 
 const normalizeText = (text: string): string => {
 	return text.replaceAll(/^,/g, "")
