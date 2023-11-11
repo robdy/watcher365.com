@@ -1,5 +1,6 @@
 import { repo, owner, octokit } from "@/config/octokit";
 import ListContainer from "@/components/ListContainer";
+import Search from "@/components/Search";
 
 export const revalidate = 3600 / 6;
 
@@ -35,6 +36,8 @@ const Home = async () => {
 
   return (
     <section className="container max-w-5xl mx-auto ">
+      <Search />
+
       <div className="my-10">
         {listContainer}
       </div>

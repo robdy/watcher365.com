@@ -2,7 +2,6 @@
 import React, { useEffect, useState } from 'react';
 import useDebounce from '../libs/useDebounce'
 
-
 const Search = () => {
 	const [search, setSearch] = useState('');
 	// Debouncing taken from
@@ -10,7 +9,6 @@ const Search = () => {
 	const debouncedSearch = useDebounce(search, 500)
 
 	useEffect(() => {
-		console.log('debouncedSearch', debouncedSearch)
 		updateView(debouncedSearch)
 	}, [debouncedSearch])
 
