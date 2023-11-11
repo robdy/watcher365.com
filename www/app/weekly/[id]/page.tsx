@@ -3,6 +3,7 @@ import EntryTileView from '@/components/EntryTileView';
 import React from 'react';
 import { readFile } from 'fs/promises';
 import { getSummaries } from '@/libs/getSummaries';
+import Search from '@/components/Search';
 
 export const dynamic = 'force-static';
 
@@ -87,6 +88,7 @@ const Weekly = async ({ params }: { params: { id: string } }) => {
 
 	return (
 		<section className="container max-w-5xl mx-auto ">
+			<Search />
 			<div className="my-10">
 				<h2 className={"text-green-700 font-bold text-sm md:text-base"}>
 					Summary

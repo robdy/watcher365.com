@@ -5,7 +5,6 @@ import Link from "next/link";
 import { FiFile } from "react-icons/fi";
 import { BsMap } from "react-icons/bs";
 import { MdHistory } from "react-icons/md"
-const util = require('node:util');
 
 const normalizeText = (text: string): string => {
 	return text.replaceAll(/^,/g, "")
@@ -152,7 +151,7 @@ const EntryTileVew: any = async ({ beforeObj, afterObj }: any) => {
 	};
 
 	return (
-		<li className="flex  py-2 px-4 bg-white" key={`li-${entryID}`}>
+		<li className="flex  py-2 px-4 bg-white" key={`li-${entryID}`} id={`li-container-${entryID}`}>
 			<div className="w-full flex flex-col md:flex-row justify-between items-start md:items-center gap-2 md:gap-0 text-gray-600" id={`container-${entryID}`}>
 				<div className="w-full max-w-3xl flex md:items-center">
 					<span>

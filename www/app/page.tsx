@@ -1,6 +1,6 @@
 import { repo, owner, octokit } from "@/config/octokit";
 import ListContainer from "@/components/ListContainer";
-import Link from "next/link";
+import Search from "@/components/Search";
 
 export const revalidate = 3600 / 6;
 
@@ -36,9 +36,8 @@ const Home = async () => {
 
   return (
     <section className="container max-w-5xl mx-auto ">
-      <div className="my-10 flex justify-center">
-        <Link className={`font-bold py-2 px-4 rounded bg-green-600 text-white hover:bg-green-700`} href="/weekly">Weekly summaries</Link>
-      </div>
+      <Search />
+
       <div className="my-10">
         {listContainer}
       </div>
