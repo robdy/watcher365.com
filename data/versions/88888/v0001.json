@@ -1,0 +1,28 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Android",
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "iOS",
+      "Launched",
+      "Mac",
+      "Outlook",
+      "Preview",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Outlook: Delegate access control on protected emails"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",Outlook will provide consistent access control on protected emails for delegates and shared mailbox members. For delegates or shared mailbox members, when they have full access of the owner's mailbox but are not allowed to read encrypted email, Outlook will have a new setting to block the owner's protected email access which covers ad-hoc encrypted email as well as email with protected MIP sensitivity labels.   <br>GA date: July CY2022<br>Preview date: June CY2022"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2023-03-09T21:11:53.0000000+00:00",
+  "description": {
+    "oldValue": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore<br>GA date: March CY2023<br>Preview date: January CY2023",
+    "newValue": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore"
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "March CY2023"
+  },
+  "publicPreviewDate": {
+    "oldValue": null,
+    "newValue": "January CY2023"
+  }
+}

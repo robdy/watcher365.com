@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-08-29T02:44:31.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Information Protection - Advanced Fingerprinting"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Document Fingerprinting in Microsoft Purview Data Loss Prevention (DLP) converts a standard form into a sensitive information type (SIT), which you can use in the rules of your DLP policies. This update extends support for Fingerprint-based SITs to additional workloads, including SharePoint, OneDrive, Teams, and Endpoint and enables admins to adjust threshold while creating Fingerprint SITs.\n\nThis also allows you to detect when a portion of your sensitive document is exposed using partial matching support with Fingerprinting across the compliance solutions."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "September CY2023"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-08-17T02:11:17.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Data Loss Prevention - Detect AIP labelled files (pfile) using the condition \"content contains sensitivity label\""
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Data Loss Prevention policy supports a condition\n\"content contains sensitivity label\" to detect if a file contains\ncertain label. Today, office (DOCX, PPTX, XLSX) and PDF files are supported.\nThis feature will support files other than Office and PDF also where MIP label\nwith protection (.PFILE) is applied using AIP labelling client."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "September CY2023"
+  }
+}

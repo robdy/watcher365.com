@@ -1,0 +1,25 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Android",
+      "Azure Active Directory",
+      "Desktop",
+      "iOS",
+      "Launched",
+      "Mobile",
+      "Preview",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Azure Active Directory: GPS based named locations public preview"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",Now, admins will have the ability to create Conditional Access policies to allow/deny access using a new type of Named Location based off GPS data. When the policy is enabled, end users will need to share their GPS location from the mobile device on which Microsoft Authenticator is installed. The user's mobile device is a good indication of the user's actual location at the time.<br>More info: https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/location-condition<br>Preview date: October CY2021"
+  }
+}

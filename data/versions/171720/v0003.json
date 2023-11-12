@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-09-13T02:15:04.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "June CY2024"
+  }
+}

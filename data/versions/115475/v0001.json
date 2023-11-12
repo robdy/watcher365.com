@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Desktop",
+      "DoD",
+      "Excel",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Power BI",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Information Protection - | Maintain label and protection when import data to PowerBI (Web and Desktop)"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",This feature is for PowerBI creators who import data to PowerBI datasets or PowerBI Desktop files from Excel files applied with sensitivity label and/or Synapse, SQL databases that are classified with sensitivity labels. By default, PowerBI datasets and PBIX files will automatically inherit the sensitivity label from the source if perquisite conditions are met.<br>GA date: July CY2023<br>Preview date: August CY2021"
+  }
+}

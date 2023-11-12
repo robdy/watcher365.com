@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-10-10T02:15:36.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Audit - New Stream Logs for Microsoft Purview Audit Standard Users"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview is\nexpanding access to wider cloud security activity events for Microsoft Stream.\nAs part of the changes, standard users of Purview Audit will begin to generate\n5 new Microsoft Stream events that were previously generated only for Audit\nPremium licensed users. The following events will now be provided for all Audit\nStandard users: 1. StreamInvokeGetTranscript; 2. StreamInvokeChannelView; 3.\nStreamInvokeGetTextTrack; 4. StreamInvokeGetVideo; 5. StreamInvokeGroupView"
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "December CY2023"
+  }
+}

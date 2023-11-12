@@ -1,0 +1,42 @@
+{
+  "timestamp": "2023-05-31T02:48:30.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Android",
+      "Azure Information Protection",
+      "Current Channel",
+      "Current Channel (Preview)",
+      "Desktop",
+      "DoD",
+      "Excel",
+      "Exchange",
+      "GCC",
+      "GCC High",
+      "In development",
+      "iOS",
+      "Microsoft Information Protection",
+      "Monthly Enterprise Channel",
+      "Outlook",
+      "PowerPoint",
+      "Semi-Annual Enterprise Channel",
+      "Semi-Annual Enterprise Channel (Preview)",
+      "SharePoint",
+      "Web",
+      "Word",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview Information Protection uses cipher block chaining mode for encrypted content by default."
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Today, when protecting content Microsoft Information Protection uses AES in electronic codebook (ECB) mode to encrypt Office files and emails. Starting in July, M365 Apps, Exchange Online, and SharePoint Online will begin to use cipher block chaining (CBC) mode by default."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "July CY2023"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-06-21T02:32:33.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Data Loss Prevention - Extend DLP controls to Firefox browser (U.S. Government clouds)"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "With this update, you will be able to extend the\nMicrosoft Purview DLP controls to Firefox browsers. DLP admins will be able to\nset policies to prevent exfiltration of sensitive information through the\nFirefox browser by preventing actions such as copying data from a sensitive\ndocument to another document using the Clipboard, printing a sensitive\ndocument, copying to USB removeable media, or copying to a network share."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "November CY2023"
+  }
+}

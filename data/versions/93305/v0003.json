@@ -1,0 +1,25 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "Exchange",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Launched",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Password protected download of quarantined messages"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "With this change we are giving the ability to password protects items they download from quarantine. We want users to be confident that the items they are downloading to their systems will not execute involuntarily without their consent, and this capability will allow them to safely transport the items to external analysis tools. <br>More info: https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience-part-two/ba-p/3354687<br>GA date: July CY2022"
+  }
+}

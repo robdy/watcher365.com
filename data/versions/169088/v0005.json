@@ -1,0 +1,28 @@
+{
+  "timestamp": "2023-09-07T02:14:17.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Information Protection - Microsoft Information Protection: Microsoft Purview: Test function for Exact Data Match will include results for configured primary elements"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "When using the test function in the Compliance portal or in PowerShell to test Exact Data Match (EDM) matches, the resulting EDM matches will be returned along with matches for the Sensitive Information Types (SITs) configured as EDM primary elements to help admins troubleshoot when EDM is not returning expected matches."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "September CY2023"
+  }
+}

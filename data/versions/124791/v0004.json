@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-04-15T02:25:52.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Android",
+      "General Availability",
+      "In development",
+      "iOS",
+      "Planner",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Planner: Plan sharing with file container"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "A new authorization model is implemented for Planner plans,?which will be a ‘shared container-based’ authorization model, where OneDrive and SharePoint Online files can be linked to plans to provide users with access to the plan if they have access to the shared container. This means that file-based authorization for plans will provide streamlined access to roster-backed plans that are connected to one or more SharePoint Online/OneDrive files."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "May CY2023"
+  }
+}

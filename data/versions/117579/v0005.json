@@ -1,0 +1,30 @@
+{
+  "timestamp": "2023-03-17T02:33:54.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "General Availability",
+      "In development",
+      "Outlook",
+      "Targeted Release",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Outlook: Labeling email from attachments' label in Outlook on the web"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",Outlook on the web will match the highest sensitivity label from attachments on email. Admin could configure this either use the cmdlet set-labelpolicy advanced setting or use the Compliance portal to configure the label policy(Roadmap: 100158). Customer will see automatically or recommendations that email gets the higher label from attachments' label."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "May CY2023"
+  },
+  "publicPreviewDate": {
+    "oldValue": null,
+    "newValue": "April CY2023"
+  }
+}

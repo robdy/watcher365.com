@@ -1,0 +1,25 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Microsoft Defender for Office 365",
+      "Preview",
+      "Rolling out",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Security Threat Submission API"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",The current InformationProtection/Threat Assessment API does not support setting up end user reporting experiences and triaging samples reported by a user.  The new Security Threat Submission API will address these scenarios and further improve existing capabilities. It was created using the Microsoft Graph Platform. The current API will continue to exist for several years to ensure existing processes are not affected, with eventual deprecation. <br>GA date: March CY2023<br>Preview date: June CY2022"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-10-19T02:16:06.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "With this update, admins with appropriate permissions can delete all associated alerts, cases, and users in scope when deleting a policy to help quickly reset and remove inactive policies.  \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "December CY2023"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Launched",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Exchange Online Protection- Customizable Authenticated Received Chain (ARC) configuration"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Email senders use authentication mechanisms like SPF, DKIM, DMARC to authenticate emails, but some legitimate intermediate services may potentially make changes to the email, which might cause the email to fail authentication at subsequent hop. Authenticated Received Chain (ARC) is an authentication mechanism that helps preserve authentication results across intermediaries. With this change, admins will be able to add trusted intermediaries in the Microsoft 365 Defender portal to allow Microsoft to honor these ARC signatures, thereby allowing legitimate messages.  <br>More info: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dmarc-to-validate-email?view=o365-worldwide#how-microsoft-365-utilizes-authenticated-received-chain-arc<br>GA date: June CY2022"
+  }
+}

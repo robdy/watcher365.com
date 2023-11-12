@@ -1,0 +1,28 @@
+{
+  "timestamp": "2023-10-26T02:14:53.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Tenant allow block list domains & addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "November CY2023"
+  }
+}

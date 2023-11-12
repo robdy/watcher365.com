@@ -1,0 +1,25 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Desktop",
+      "DoD",
+      "Exchange",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Mac",
+      "Rolling out",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Exchange: Customizable Message Expiration"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "A common request from Exchange Online admins is for the ability to customize the organizations message expiration timeout. When a message can't be delivered immediately due to a transient error, it will queue up and be periodically retried until either the message is sent or until the message expires 24 hours later. For some messages, 24 hours can be too long to wait only to find out a message wasn't delivered. So, we're introducing the ability for admins to customize the message expiration timeout to be less than 24 hours. <br>GA date: October CY2022"
+  }
+}

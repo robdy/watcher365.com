@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-03-09T21:11:53.0000000+00:00",
+  "category": {
+    "oldValue": [
+      "Exchange",
+      "General Availability",
+      "In development",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "newValue": [
+      "Exchange",
+      "General Availability",
+      "Rolling out",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "description": {
+    "oldValue": "We are pleased to announce that Exchange Online Multi-Geo will be introducing a new feature release in early March, allowing admins to audit operations across all locations with the help of Search-UnifiedAuditLog cmdlet and Microsoft Purview portal. Once the feature has been rolled out to tenants, users can begin testing it by using either Microsoft Purview portal or Search-UnifiedAuditLog cmdlet(not Search-AdminAuditLog) to track admin operations. Please note that this feature is limited to admin operations only and does not include other types of audit logs. <br>GA date: March CY2023",
+    "newValue": "We are pleased to announce that Exchange Online Multi-Geo will be introducing a new feature release in early March, allowing admins to audit operations across all locations with the help of Search-UnifiedAuditLog cmdlet and Microsoft Purview portal. Once the feature has been rolled out to tenants, users can begin testing it by using either Microsoft Purview portal or Search-UnifiedAuditLog cmdlet(not Search-AdminAuditLog) to track admin operations. Please note that this feature is limited to admin operations only and does not include other types of audit logs."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "March CY2023"
+  }
+}

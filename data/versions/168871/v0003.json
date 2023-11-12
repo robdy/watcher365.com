@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-09-15T02:16:34.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Information Protection - Automatically turn on auto-labeling policy"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Admins can configure their auto-labeling policies to be automatically turned on if there aren't any changes to the policy within a set number of days from simulation completion. This configuration option will be available in the auto-labeling policy setup in the Microsoft Purview compliance portal and via cmdlet."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "September CY2023"
+  }
+}

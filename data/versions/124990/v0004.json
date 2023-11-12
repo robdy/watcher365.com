@@ -1,0 +1,32 @@
+{
+  "timestamp": "2023-06-27T02:54:52.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Android",
+      "Desktop",
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "iOS",
+      "Teams and Surface Devices",
+      "Web",
+      "Whiteboard",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Whiteboard: External Guest Sharing"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "This feature will allow users to share whiteboards with external guests of your tenant via a personal share link (PSL). This feature will respect any OneDrive/Sharepoint sharing settings your tenant has enabled. Additionally, if your tenant has Business to Business Invitation Manager (B2B IM) enabled, this feature will allow you to send a whiteboard via PSL to external users and B2B IM will create a guest user account for them so they can access the file."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "September CY2023"
+  }
+}

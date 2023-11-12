@@ -5,7 +5,7 @@ $versionFolder = Join-Path $dataFolder 'versions'
 
 #region Processing
 $allFiles = Get-ChildItem $dataFolder -File
-foreach ($file in $allFiles[0..9]) {
+foreach ($file in $allFiles) {
 	<#
 	$file = $allFiles[0]
 	#>
@@ -34,7 +34,6 @@ foreach ($file in $allFiles[0..9]) {
 		$currentData  = $afterContent  | ConvertFrom-Json
 		
 		# Extract changes
-		#TODO Fix bug not detecting change in category
 		if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
 			# If there are differences
 			$diffObject = New-Object PSObject

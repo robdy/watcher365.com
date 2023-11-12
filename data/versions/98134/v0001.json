@@ -1,0 +1,24 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Launched",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Automatic management of allow expiration for Tenant allow block list"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Allows in the tenant allow block list typically expire after 30 days, meaning legitimate email can continue to be blocked. With this change, Microsoft will automatically extend or remove allow rules based on an assessment of the particular entity. <br>GA date: January CY2023"
+  }
+}

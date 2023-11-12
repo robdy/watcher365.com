@@ -1,0 +1,32 @@
+{
+  "timestamp": "2023-10-11T02:15:41.0000000+00:00",
+  "category": {
+    "oldValue": [
+      "Current Channel",
+      "Current Channel (Preview)",
+      "Desktop",
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Outlook",
+      "Preview",
+      "Rolling out",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "newValue": [
+      "Current Channel",
+      "Current Channel (Preview)",
+      "Desktop",
+      "General Availability",
+      "Launched",
+      "Outlook",
+      "Preview",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "description": {
+    "oldValue": ",Outlook desktop will match the highest sensitivity label from attachments on email. Admin could configure this either use the cmdlet set-labelpolicy advanced setting or use the Compliance portal to configure the label policy(Roadmap: 100158). Customer will see automatically or recommendations that email gets the higher label from attachments' label.",
+    "newValue": ",Outlook desktop will match the highest sensitivity label from attachments on email. Admin could configure this either use the cmdlet set-label policy advanced setting or use the Compliance portal to configure the label policy (Roadmap: 100158). Customer will see automatically or recommendations that email gets the higher label from attachments' label. We apologize for the delay for our Government environments. We will provide a new Roadmap ID for tracking shortly."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Launched",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Configurable impersonation protection sender and domain lists and scoping in Preset Security policy"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "We're adding capabilities within preset security policies (Strict and Standard) to configure custom users and custom domains for impersonation protection. Additionally, within the preset security policy, you will also be able to apply the policy to all recipients instead of selected users, groups, and domains. You will still be able to exclude selected recipients. <br>More info: https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/configurable-impersonation-protection-and-scope-for-preset/ba-p/3294459<br>GA date: June CY2022"
+  }
+}

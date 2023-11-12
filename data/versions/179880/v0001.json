@@ -1,0 +1,33 @@
+{
+  "timestamp": "2023-10-31T02:16:57.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Preview",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Insider risk insights in DLP alerts"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",With this update, a DLP analyst with the right permissions can access an insider risk summary of user activities that may lead to potential data security incidents, as a part of the DLP alert investigation experience in Microsoft Purview and Microsoft Defender. This feature can help analysts gain context of a DLP alert and make more informed decisions on responses to potential incidents.\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "May CY2024"
+  },
+  "publicPreviewDate": {
+    "oldValue": null,
+    "newValue": "November CY2023"
+  }
+}
