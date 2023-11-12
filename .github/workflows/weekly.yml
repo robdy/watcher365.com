@@ -12,13 +12,14 @@ jobs:
   build:
     runs-on: windows-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Run script
         id: checker
         run: ./Generate-WeeklyDiff.ps1
       - name: Commit changes
         run: |
-          cd data
           git add .
           git config --global user.name 'Robert Dyjas'
           git config --global user.email '15113729+robdy@users.noreply.github.com'

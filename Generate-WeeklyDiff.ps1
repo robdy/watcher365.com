@@ -1,8 +1,16 @@
 # Get last commit  (Monday-Sunday)
 $currentDate = Get-Date
 $todayString = (Get-Date $currentDate -Format "yyyyMMdd")
-$monday = $currentDate.AddDays(-($currentDate.DayOfWeek.value__ - 1))
+
+# Get last Monday
+$n = 0
+do {
+    $monday = (Get-Date -Hour 0 -Minute 0 -Second 0).AddDays($n)
+    $n--
+}
+Until ( $monday.DayOfWeek -eq "Monday" )
 $mondayString = (Get-Date $monday -Format "o")
+
 $commitID = (git log --until "$mondayString" --format="%H" -- 'data')[0]
 
 # Find changed files
