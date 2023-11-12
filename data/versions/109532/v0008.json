@@ -1,0 +1,40 @@
+{
+  "timestamp": "2023-07-15T02:56:13.0000000+00:00",
+  "category": {
+    "oldValue": [
+      "Desktop",
+      "DoD",
+      "Excel",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Information Protection",
+      "PowerPoint",
+      "Word",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "newValue": [
+      "Desktop",
+      "DoD",
+      "Excel",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Information Protection",
+      "PowerPoint",
+      "Preview",
+      "Word",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "description": {
+    "oldValue": "Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed.",
+    "newValue": ",Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed."
+  },
+  "publicPreviewDate": {
+    "oldValue": null,
+    "newValue": "August CY2023"
+  }
+}

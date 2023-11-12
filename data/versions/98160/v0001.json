@@ -1,0 +1,21 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview | Insider Risk Management: Enhancements to detection and triage"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",Enhancements to various security detection and triage experiences across Insider Risk Management including the ability to customize alerts during review, use a Sequence-as-a-policy-trigger, and create policies that will only generate alerts on content that is defined as a priority within the policy according to customers' preferences. This release also includes new security detections for data exfiltration from a device using RDP connection as well as noise reduction from OneDrive/SharePoint Online file sync and download. Note: This update consolidates previously announced features from the following roadmap items: 88898, 88899, 88900, 88902. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>GA date: January CY2023<br>Preview date: October CY2022"
+  }
+}

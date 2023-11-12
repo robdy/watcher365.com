@@ -1,0 +1,25 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Desktop",
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Mac",
+      "Microsoft Teams",
+      "Rolling out",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Teams: Viewing the Full Chat conversation thread after clicking on search message results"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "When users search for a chat message in Teams and click on a\nmessage result, they are taken to a view that contains only the selected message, rather than the entire chat thread. This fix will now land the users on the full chat thread once the message search result is clicked, thereby providing full context of the conversation around the message result.<br>GA date: October CY2022"
+  }
+}

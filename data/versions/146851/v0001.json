@@ -1,0 +1,28 @@
+{
+  "timestamp": "2023-07-01T03:00:54.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Desktop",
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "OneDrive",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "OneDrive: OneDrive Sync Account Detection"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "The OneDrive Sync client for work and school will show a one-time message to users who sign into a personal OneDrive account on their work machine. The message will only be shown if the personal OneDrive account is already available in the Windows account manager. The message will provide users a one-click option to configure their personal account with OneDrive.  If users choose to enable the feature, then they will be able to see both personal and work/school files in their work/school OneDrive and in File Explorer."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "July CY2023"
+  }
+}

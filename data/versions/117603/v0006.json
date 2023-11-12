@@ -1,0 +1,28 @@
+{
+  "timestamp": "2023-04-04T02:26:52.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Cumulative exfiltration detection"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Cumulative exfiltration detection helps identify data exfiltration risks when a user’s exfiltration activities across all egress channels over the past 30 days exceed organization or peer group norms. A risk score is assigned if the user's cumulative exfiltration activity is unusual compared with others within the same organization or with the same role. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "June CY2023"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-04-26T02:27:36.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Information Protection - Service side auto-labeling shows file labeling progress for turned on policies in SharePoint and OneDrive (U.S. Government clouds)"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Service side auto-labeling will show files to be labeled, files labeled (past 7 days), and files labeled (total) for turned on policies in SharePoint and OneDrive. Clicking on the auto-labeling policy will show files to be labeled and files labeled (total) broken down by the different sites. If a policy includes Exchange as a location, the number of emails that were labeled won't be displayed because labels are automatically applied as messages are sent."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "May CY2023"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Web"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview | Data Loss Prevention Auto-quarantine sensitive files accessed by unallowed apps (U.S. Government clouds)"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "This feature enables admins to eliminate multiple DLP alerts and notifications when an automated app or process tries to access or copy a file for which it is unallowed and quarantines the file to a configurable location. <br>GA date: November CY2022"
+  }
+}

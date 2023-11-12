@@ -1,6 +1,8 @@
 #region Settings and variables
 $dataFolder = 'data'
+$versionFolder = Join-Path $dataFolder 'versions'
 $roadmapRSSUri = 'https://www.microsoft.com/en-us/microsoft-365/RoadmapFeatureRSS/'
+$timestamp = Get-Date -Format 'o'
 #endregion Settings and variables
 
 #region Functions
@@ -55,7 +57,6 @@ foreach ($entry in $res) {
 	<#
 	$entry = $res[0]
 	#>
-	$isNew =
 	# Generate filename
 	$fileName = $entry.guid.'#text'
 	$jsonEntry = $entry | ConvertRSSToFile
@@ -71,24 +72,48 @@ foreach ($entry in $res) {
 	$jsonEntry | Out-File -FilePath $outFilePath -Force
 
 	# Extract changes
-	if (-not $isNew) {
-		$currentData = $jsonEntry | ConvertFrom-Json
-		if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
-			# If there are differences
-			$propsToBeCompared = @(
-				'title',
-				'description',
-				'publicDisclosureAvailabilityDate',
-				'publicPreviewDate'
-			)
-			foreach ($prop in $propsToBeCompared) {
-				if ($currentData.$prop -ne $previousData.$prop) {
-					Write-Host "$prop of $($currentData.guid) changed from $($previousData.$prop) to $($currentData.$prop)"
+	$currentData = $jsonEntry | ConvertFrom-Json
+	if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
+		# If there are differences
+		$diffObject = New-Object PSObject
+		$diffObject | Add-Member -Type NoteProperty -Name 'timestamp' -Value $timestamp
+		$propsToBeCompared = @(
+			'category'
+			'title',
+			'description',
+			'publicDisclosureAvailabilityDate',
+			'publicPreviewDate'
+		)
+		foreach ($prop in $propsToBeCompared) {
+			if (
+				(
+					($prop -ne 'category') -and
+					($currentData.$prop -ne $previousData.$prop)
+				) -or
+				(
+					($prop -eq 'category') -and
+					($currentData.$prop -join(', ') -ne $previousData.$prop -join(', '))
+				)
+			) {
+				$diffObject | Add-Member -Type NoteProperty -Name $prop -Value @{
+					"oldValue" = $previousData.$prop
+					"newValue" = $currentData.$prop
 				}
+			} else { # Change in untracked property
+				Write-Host "$($entry.guid.'#text'): skipping change in untracked property"
 			}
 		}
-	} else {
-		Write-Host "$($currentData.guid) added: $($currentData.title)"
+		$versionNumber = 0
+		$versionEntryFolder = Join-Path $versionFolder $fileName
+		if (-not (Test-Path $versionEntryFolder)) {
+			New-Item -ItemType Directory $versionEntryFolder
+		}
+		do {
+			$versionNumber++
+			$versionFile = Join-Path $versionEntryFolder "v$($versionNumber.ToString('0000')).json"
+		} until (-not (Test-Path $versionFile))
+		# Save differences to file
+		$diffObject | ConvertTo-Json | Out-File $versionFile -Force
 	}
 }
 Write-Host 'Script finished'

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2023-05-06T02:23:00.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "General Availability",
+      "In development",
+      "iOS",
+      "Microsoft Intune",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Intune: iOS Web enrollment"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Apple's device enrollment is the most common form of enrollment for BYO.  This has relied on our Company Portal app but that added extra auth prompts, app downloads, and steps.  Web Enrollment is our new streamlined BYO enrollment flow.  Leveraging JIT-registration, web enrollment is a fast and easy way for users to get productive securely."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "July CY2023"
+  }
+}

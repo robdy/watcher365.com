@@ -1,0 +1,24 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "Android",
+      "Desktop",
+      "General Availability",
+      "In development",
+      "iOS",
+      "Mac",
+      "Windows 365",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Windows 365: Ability to target Conditional Access (CA) policies to a single application that applies to both the Windows 365 and Azure Virtual Desktop apps"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "Currently, Windows 365 and Azure Virtual Desktop share a common framework for identity access by using Azure Active Directory (Azure AD) and security controls with CA policies. You can target CA policies to the Windows 365 app and this applies only to windows365.microsoft.com web client. To apply CA policies to the full Windows client and non-windows clients, you must assign CA policies to both the Windows 365 and Azure Virtual Desktop apps.  <br>GA date: June CY2023"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "timestamp": "2023-03-09T02:48:18.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Preview",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.<br>GA date: July CY2023<br>Preview date: June CY2023"
+  }
+}

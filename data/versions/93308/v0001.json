@@ -1,0 +1,22 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "GCC",
+      "General Availability",
+      "Launched",
+      "Microsoft 365 Admin Center",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft 365 admin center: GroupID to be hidden by default in Microsoft 365 active user reports"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "We will be hiding the 'GroupID' variable in the Groups activity section of the Active users Microsoft 365 Services and Active Users Microsoft 365 Apps reports. The reports can be accessed by going to the Microsoft 365 admin center and selecting Reports - Usage - 'Active users - Microsoft 365 Services' or 'Active users - Microsoft 365 Apps' - Groups activity. 'Group ID' is shown in Column R in the csv file when 'export' is selected. <br>GA date: June CY2022"
+  }
+}

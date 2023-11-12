@@ -1,0 +1,11 @@
+{
+  "timestamp": "2023-06-19T07:58:14.0000000+00:00",
+  "title": {
+    "oldValue": "Microsoft Purview compliance portal: Information Protection - Auto-labeling support OneDrive users and group scoping",
+    "newValue": "Microsoft Purview compliance portal: Information Protection - Scope service side auto-labeling for OneDrive workloads to users or groups"
+  },
+  "description": {
+    "oldValue": ",Service side auto-labeling now supports scoping of OneDrive workload to OneDrive users and groups vs Site URLs. Existing policies configured with Site URLs will still work but can't be edited to add more Site URLs. Existing policies can remove Site URLs from location to trigger the new OneDrive user and group picker.",
+    "newValue": ",To scope service side auto-labeling for OneDrive locations, you must specify users or groups. Previously, you had to specify sites by URLs. Any existing OneDrive URL sites in auto-labeling policies will continue to work but before you can specify new OneDrive locations, or for restricted admins, you must first delete any existing site URLs. Groups supported: distribution groups, Microsoft 365 groups, mail-enabled security groups, and security groups."
+  }
+}

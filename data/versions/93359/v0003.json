@@ -1,0 +1,24 @@
+{
+  "timestamp": "2023-03-02T06:18:27.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Launched",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Defender for Office 365: Support DKIM Domain as Sending Infrastructure for Spoof intelligence management"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "For Microsoft Defender for Office 365 and Exchange Online Protection, we are adding support for providing \"DKIM verified domain\" as the \"Sending Infrastructure\" within Tenant allow-block lists-Spoofing, so that Security Administrators can better manage Anti-Spoofing activity and override it based on Spoof Intelligence. Currently, what is supported in this field is either the domain from DNS PTR record or /24 IP Subnet. Additionally, being able to specify a 'DKIM verified domain' will help serve scenarios where shared infrastructure provider services are used for sending emails. Since the DKIM domain is unique to each tenant and if it passes verification even when other authentication signals fail, if desired for legitimate business reasons, a spoofed message can still be allowed instead of being blocked.  <br>More info: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/tenant-allow-block-list?view=o365-worldwide#domain-pair-syntax-for-spoofed-sender-entries-in-the-tenant-allowblock-list<br>GA date: July CY2022"
+  }
+}

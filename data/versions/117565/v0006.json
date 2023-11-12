@@ -1,0 +1,29 @@
+{
+  "timestamp": "2023-10-18T02:16:34.0000000+00:00",
+  "category": {
+    "oldValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "Microsoft Purview compliance portal",
+      "Preview",
+      "Rolling out",
+      "Web"
+    ],
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Preview",
+      "Web"
+    ]
+  },
+  "description": {
+    "oldValue": "The forensic evidence capability is an opt-in add-in to Insider Risk Management, helping customers’ security teams get visual insights into potentially risky user actions that might lead to a data security incident. Forensic evidence is off by default and policy creation requires dual authorization. Customers determine what triggers the feature and manage investigation processes. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+    "newValue": "The forensic evidence capability is an opt-in add-in to Insider Risk Management, helping customers’ security teams get visual insights into potentially risky user actions that might lead to a data security incident. Forensic evidence is off by default and policy creation requires dual authorization. Customers determine what triggers the feature and manage investigation processes. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The roadmap item was inadvertently marked rolling out and has now been updated to reflect the current release phase. We apologize for any inconvenience this may have caused."
+  }
+}

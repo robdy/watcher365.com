@@ -1,0 +1,34 @@
+{
+  "timestamp": "2023-07-22T02:26:29.0000000+00:00",
+  "category": {
+    "oldValue": [
+      "General Availability",
+      "In development",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ],
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Microsoft Defender for Office 365",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": "Microsoft Defender for Office 365: Tenant Allow/Block List - indicating allowed entries which are malicious",
+    "newValue": "Microsoft Defender for Office 365: Tenant Allow/Block List - Support for URL top level domain block"
+  },
+  "description": {
+    "oldValue": "With this change, Microsoft will start indicating using Tenant Allow/Block List page on security.microsoft.com and cmdlets if an allow created by the customer is malicious in nature. This will help customer remove allows proactively which might end up harming their tenant.",
+    "newValue": "With this change, Microsoft will allow customers to block URL via top level domain block. It will be honored during email mail flow and time of click inside teams and office apps."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": "September CY2023",
+    "newValue": "August CY2023"
+  }
+}

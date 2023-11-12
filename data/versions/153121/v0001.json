@@ -1,0 +1,26 @@
+{
+  "timestamp": "2023-07-25T02:41:25.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "GCC",
+      "General Availability",
+      "In development",
+      "iOS",
+      "Outlook",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Outlook: Support for offline search without Spotlight dependency"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": "iOS's offline search implementation relies on\nSpotlight (Apple's local search index). In some cases, Intune policy can block\nthe use of Spotlight, which will completely disable offline search for users.\nWe are adding support for offline search even if your company’s\nIntune policy blocks use of Spotlight."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "August CY2023"
+  }
+}

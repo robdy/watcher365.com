@@ -1,0 +1,30 @@
+{
+  "timestamp": "2023-08-09T02:24:26.0000000+00:00",
+  "category": {
+    "oldValue": null,
+    "newValue": [
+      "General Availability",
+      "In development",
+      "Microsoft Purview compliance portal",
+      "Preview",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": null,
+    "newValue": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions"
+  },
+  "description": {
+    "oldValue": null,
+    "newValue": ",Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": null,
+    "newValue": "October CY2023"
+  },
+  "publicPreviewDate": {
+    "oldValue": null,
+    "newValue": "September CY2023"
+  }
+}
