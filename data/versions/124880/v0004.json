@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ]
-  }
+  "guid": "124880",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124880",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Rolling out",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Disposition review auto-approval (U.S. Government clouds)",
+  "description": "Admins can enable automatic approval of items pending disposition if the reviewer doesn't act within a specified number of days. Items will advance to the next stage of approval or auto-approved for deletion if in the final stage.",
+  "pubDate": "Tue, 02 May 2023 23:25:26 -0700",
+  "updated": "2023-06-17T05:05:40+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

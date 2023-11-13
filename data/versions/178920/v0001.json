@@ -1,26 +1,19 @@
 {
   "timestamp": "2023-10-10T02:15:36.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Android",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Intune: MAM Tunnel - Strict tunnel support for iOS and Android via Edge"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Only allow internet traffic via Edge when Tunnel is connected on iOS and Android."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "October CY2023"
-  }
+  "guid": "178920",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178920",
+  "category": [
+    "Android",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Microsoft Intune",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: MAM Tunnel - Strict tunnel support for iOS and Android via Edge",
+  "description": "Only allow internet traffic via Edge when Tunnel is connected on iOS and Android.",
+  "pubDate": "Mon, 09 Oct 2023 07:00:00 -0700",
+  "updated": "2023-10-10T06:12:55+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

@@ -1,11 +1,20 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "Script common eDiscovery actions using the Microsoft Graph REST APIs. APIs include, but are not limited to: Case, Custodian, Search, Review Set, and Export management. The graph APIs will first be released to the Microsoft Graph beta endpoints, and then ultimately to production in the More Information link below. APIs will show up in preview as they are completed and available in production after most common scenarios are completed. <br>More info: https://docs.microsoft.com/en-us/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0<br>GA date: October CY2022",
-    "newValue": "Script common eDiscovery actions using the Microsoft Graph REST APIs. APIs include, but are not limited to: Case, Custodian, Search, Review Set, and Export management. The graph APIs will first be released to the Microsoft Graph beta endpoints, and then ultimately to production in the More Information link below. APIs will show up in preview as they are completed and available in production after most common scenarios are completed. <br>More info: https://docs.microsoft.com/en-us/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "October CY2022"
-  }
+  "guid": "93348",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93348",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: eDiscovery (Premium) - Release of Graph APIs (U.S. Government clouds)",
+  "description": "Script common eDiscovery actions using the Microsoft Graph REST APIs. APIs include, but are not limited to: Case, Custodian, Search, Review Set, and Export management. The graph APIs will first be released to the Microsoft Graph beta endpoints, and then ultimately to production in the More Information link below. APIs will show up in preview as they are completed and available in production after most common scenarios are completed. <br>More info: https://docs.microsoft.com/en-us/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0",
+  "pubDate": "Fri, 03 Jun 2022 21:59:58 -0700",
+  "updated": "2022-10-14T06:18:46+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2022",
+  "publicPreviewDate": null
 }

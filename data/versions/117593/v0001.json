@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-03-23T02:27:46.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Data Lifecycle Management - Increased limits per label for disposition review and proof of disposition (U.S. government clouds)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "This feature removes the per label 1,000,000 item limit for items pending disposition review and proof of disposition (reviewed) including record labels.  The tenant limit of 16,000,000 total items pending disposition and disposed still exists."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "June CY2023"
-  }
+  "guid": "117593",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117593",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Increased limits per label for disposition review and proof of disposition (U.S. government clouds)",
+  "description": "This feature removes the per label 1,000,000 item limit for items pending disposition review and proof of disposition (reviewed) including record labels.  The tenant limit of 16,000,000 total items pending disposition and disposed still exists.",
+  "pubDate": "Wed, 22 Mar 2023 23:15:30 -0700",
+  "updated": "2023-03-23T06:15:30+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

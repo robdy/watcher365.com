@@ -1,11 +1,22 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "Description: The appearance and behavior of report phishing/junk actions in Outlook on the web can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether the built-in Report actions appear in Outlook on the web, where these messages get reported to, and whether the user is prompted as they report phishing and junk. <br>GA date: November CY2022",
-    "newValue": "Description: The appearance and behavior of report phishing/junk actions in Outlook on the web can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether the built-in Report actions appear in Outlook on the web, where these messages get reported to, and whether the user is prompted as they report phishing and junk."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "November CY2022"
-  }
+  "guid": "101515",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=101515",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Defender for Office 365",
+    "Outlook",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: Outlook on the web: Junk/Phishing reporting actions integrated with Microsoft Defender for Office 365",
+  "description": "Description: The appearance and behavior of report phishing/junk actions in Outlook on the web can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether the built-in Report actions appear in Outlook on the web, where these messages get reported to, and whether the user is prompted as they report phishing and junk.",
+  "pubDate": "Wed, 09 Nov 2022 00:19:02 -0800",
+  "updated": "2022-12-16T07:52:57+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2022",
+  "publicPreviewDate": null
 }

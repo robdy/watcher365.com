@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-10-28T02:13:00.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  }
+  "guid": "106099",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=106099",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Cloud attachments support file versions shared as links (U.S. Government clouds)",
+  "description": "Previously, cloud attachments worked only for links shared using the attachments button in Outlook and Microsoft Teams. Now, cloud attachments will retain files shared as hyperlinks in the body of an email or Teams message. Note:  The status and date were incorrect and have been changed to reflect current plans. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Wed, 23 Nov 2022 00:21:47 -0800",
+  "updated": "2023-10-28T05:08:54+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": null
 }

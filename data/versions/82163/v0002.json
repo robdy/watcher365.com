@@ -1,11 +1,20 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device, and location policies on a specific SharePoint site collection by simply attaching CA policies to a label. For example, the Top-Secret label can now have a conditional access policy that requires MFA when accessing a site. This feature for GCC-H and DoD environments tracked by the roadmap item 85979.    <br>GA date: September CY2022",
-    "newValue": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device, and location policies on a specific SharePoint site collection by simply attaching CA policies to a label. For example, the Top-Secret label can now have a conditional access policy that requires MFA when accessing a site. This feature for GCC-H and DoD environments tracked by the roadmap item 85979."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2022"
-  }
+  "guid": "82163",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=82163",
+  "category": [
+    "GCC",
+    "General Availability",
+    "Launched",
+    "SharePoint",
+    "Targeted Release (Entire Organization)",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint: Security - Granular conditional access policies via “Sensitivity Labels” for SharePoint Online sites",
+  "description": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device, and location policies on a specific SharePoint site collection by simply attaching CA policies to a label. For example, the Top-Secret label can now have a conditional access policy that requires MFA when accessing a site. This feature for GCC-H and DoD environments tracked by the roadmap item 85979.",
+  "pubDate": "Tue, 02 Nov 2021 17:49:26 -0700",
+  "updated": "2022-11-22T08:04:14+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }

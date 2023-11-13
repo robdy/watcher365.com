@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-03-14T02:28:07.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal : Insider Risk Management – Policy wizard enhancements (U.S. Government clouds)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "The Insider Risk Management policy wizard will\nbe revised to help simplify configuration of indicators, sequence detection,\ncumulative exfiltration detection, and risk score boosters. Microsoft Purview\nInsider Risk Management correlates various signals to identify potential\nmalicious or inadvertent insider risks, such as IP theft, data leakage, and\nsecurity violations. Insider Risk Management enables customers to create\npolicies to manage security and compliance. Built with privacy by design, users\nare pseudonymized by default, and role-based access controls and audit logs are\nin place to help ensure user-level privacy. <br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "May CY2023"
-  }
+  "guid": "122283",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122283",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal : Insider Risk Management – Policy wizard enhancements (U.S. Government clouds)",
+  "description": "The Insider Risk Management policy wizard will\nbe revised to help simplify configuration of indicators, sequence detection,\ncumulative exfiltration detection, and risk score boosters. Microsoft Purview\nInsider Risk Management correlates various signals to identify potential\nmalicious or inadvertent insider risks, such as IP theft, data leakage, and\nsecurity violations. Insider Risk Management enables customers to create\npolicies to manage security and compliance. Built with privacy by design, users\nare pseudonymized by default, and role-based access controls and audit logs are\nin place to help ensure user-level privacy. <br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+  "pubDate": "Mon, 13 Mar 2023 23:16:15 -0700",
+  "updated": "2023-03-14T06:18:11+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

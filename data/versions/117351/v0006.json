@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-04-12T02:26:00.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "Rolling out",
-      "Web",
-      "Windows 365",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Web",
-      "Windows 365",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "117351",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117351",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Web",
+    "Windows 365",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Windows 365: Windows 365 Azure Service Tag for network endpoint access",
+  "description": "FQDN tags specifically for Windows 365 will be available to make it easier and simpler to grant access to required service endpoints through an Azure firewall.",
+  "pubDate": "Thu, 09 Feb 2023 00:16:00 -0800",
+  "updated": "2023-04-12T06:52:39+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": null
 }

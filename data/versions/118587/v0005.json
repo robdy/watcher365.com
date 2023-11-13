@@ -1,36 +1,23 @@
 {
   "timestamp": "2023-03-17T02:33:54.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "Currently, users must turn on sharing from a\ncontent camera in Microsoft Teams via the Share tray on the Teams Meeting\nstage. Moving forward, users will be able to start and stop sharing content directly\nfrom a certified Teams device. This feature enables presenters to share a\nWhiteboard, document, or video more quickly during a meeting.",
-    "newValue": ",Currently, users must turn on sharing from a\ncontent camera in Microsoft Teams via the Share tray on the Teams Meeting\nstage. Moving forward, users will be able to start and stop sharing content directly\nfrom a certified Teams device. This feature enables presenters to share a\nWhiteboard, document, or video more quickly during a meeting."
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "February CY2023"
-  }
+  "guid": "118587",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118587",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Invoke Content Camera on Desktop feature ",
+  "description": ",Currently, users must turn on sharing from a\ncontent camera in Microsoft Teams via the Share tray on the Teams Meeting\nstage. Moving forward, users will be able to start and stop sharing content directly\nfrom a certified Teams device. This feature enables presenters to share a\nWhiteboard, document, or video more quickly during a meeting.",
+  "pubDate": "Thu, 02 Mar 2023 00:22:34 -0800",
+  "updated": "2023-03-17T06:55:13+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": "February CY2023"
 }

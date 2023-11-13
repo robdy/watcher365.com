@@ -1,7 +1,22 @@
 {
   "timestamp": "2023-04-19T02:28:14.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "October CY2023"
-  }
+  "guid": "93303",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93303",
+  "category": [
+    "DoD",
+    "Exchange",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Quarantine asynchronous update [stage one]",
+  "description": "Microsoft Defender for Office 365 is working to enable additional quarantine enhancements, like partial string search functionality and 1,000 message bulk operation support in quarantine. As a result, we'll be making adjustments to the release process through an asynchronous approach. the first stage will be the introduction of the asynchronous updates and the second stage will the introduction of enhancement features such as partial string search and 1,000 message bulk support. <br>More info: https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/simplifying-the-quarantine-experience-part-two/ba-p/3354687",
+  "pubDate": "Wed, 18 May 2022 23:05:13 -0700",
+  "updated": "2023-04-18T06:18:01+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

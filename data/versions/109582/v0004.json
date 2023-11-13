@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-04-21T02:26:45.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Exchange",
-      "General Availability",
-      "In development",
-      "Outlook",
-      "Preview",
-      "Targeted Release",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Exchange",
-      "General Availability",
-      "Launched",
-      "Outlook",
-      "Preview",
-      "Targeted Release",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "109582",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109582",
+  "category": [
+    "Exchange",
+    "General Availability",
+    "Launched",
+    "Outlook",
+    "Preview",
+    "Targeted Release",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: MIP sensitivity label support S/MIME",
+  "description": ",Outlook on the web will support S/MIME (Secure/Multipurpose Internet Mail Extensions) sign and encryption as sensitivity label outcome. Customer admins could use set-label advanced setting to define the label to have S/MIME sign or encryption or both, and emails with those labels applied will enforce S/MIME sign and encrypt accordingly.",
+  "pubDate": "Thu, 19 Jan 2023 00:13:15 -0800",
+  "updated": "2023-04-21T06:23:06+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "April CY2023"
 }

@@ -1,38 +1,22 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "Updates to eDiscovery (Premium) review filters experience that allow admins to construct compound nested filters with either “AND” or “OR” conditions, go back and forth (undo/redo) between different iterations of filters, manage saved filter queries without navigating to a different panel, and use “Is empty/Is not empty” condition for each filter.",
-    "newValue": ",Updates to eDiscovery (Premium) review filters experience that allow admins to construct compound nested filters with either “AND” or “OR” conditions, go back and forth (undo/redo) between different iterations of filters, manage saved filter queries without navigating to a different panel, and use “Is empty/Is not empty” condition for each filter."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "December CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "June CY2023"
-  }
+  "guid": "124796",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124796",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: eDiscovery (Premium) - Review set: Advanced filters",
+  "description": ",Updates to eDiscovery (Premium) review filters experience that allow admins to construct compound nested filters with either “AND” or “OR” conditions, go back and forth (undo/redo) between different iterations of filters, manage saved filter queries without navigating to a different panel, and use “Is empty/Is not empty” condition for each filter.",
+  "pubDate": "Thu, 13 Apr 2023 23:11:54 -0700",
+  "updated": "2023-06-16T06:11:02+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2023",
+  "publicPreviewDate": "June CY2023"
 }

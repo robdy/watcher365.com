@@ -1,24 +1,19 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Data Lifecycle Management - Hide the Preservation Hold Library from site users"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "This change will hide the Preservation Hold Library (PHL) from site users. Only site collection administrators can access the PHL in SharePoint by navigating directly to it using the URL.<br>GA date: January CY2023"
-  }
+  "guid": "103613",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103613",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Hide the Preservation Hold Library from site users",
+  "description": "This change will hide the Preservation Hold Library (PHL) from site users. Only site collection administrators can access the PHL in SharePoint by navigating directly to it using the URL.<br>GA date: January CY2023",
+  "pubDate": "Wed, 30 Nov 2022 00:17:55 -0800",
+  "updated": "2023-02-16T08:02:19+00:00"
 }

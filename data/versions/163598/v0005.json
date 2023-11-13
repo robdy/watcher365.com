@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-10-25T02:15:47.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "GCC",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "163598",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163598",
+  "category": [
+    "GCC",
+    "General Availability",
+    "Microsoft Teams",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams:  Automatic updates for the Teams app on Android-based Teams devices",
+  "description": "Android-based Teams devices will receive automatic updates of the Teams app without the need for any manual intervention. Administrators can manage the automatic updates by organizing devices into update phases or pausing the rollout temporarily, if needed, from Teams Admin Center.",
+  "pubDate": "Wed, 20 Sep 2023 23:13:39 -0700",
+  "updated": "2023-10-25T06:06:36+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

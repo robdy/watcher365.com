@@ -1,11 +1,21 @@
 {
   "timestamp": "2023-06-27T02:54:52.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "March CY2024",
-    "newValue": "June CY2024"
-  },
-  "publicPreviewDate": {
-    "oldValue": "December CY2023",
-    "newValue": "March CY2024"
-  }
+  "guid": "63213",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=63213",
+  "category": [
+    "DoD",
+    "Exchange",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Exchange: Adding Inbound Support for DNSSEC/DANE for SMTP to Exchange Online",
+  "description": ",Microsoft is committed to providing world-class email security solutions and the support for the latest Internet standards in order to provide advanced email protection for our customers. With this change we are adding inbound support for DNSSEC/DANE for SMTP to Exchange Online. Look for another roadmap item which covers outbound mail. \n",
+  "pubDate": "Mon, 06 Apr 2020 23:35:46 -0700",
+  "updated": "2023-06-27T06:13:50+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2024",
+  "publicPreviewDate": "March CY2024"
 }

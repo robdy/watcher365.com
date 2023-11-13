@@ -1,11 +1,20 @@
 {
   "timestamp": "2023-05-19T02:27:36.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "September CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": "March CY2023",
-    "newValue": "July CY2023"
-  }
+  "guid": "88529",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88529",
+  "category": [
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal:  AIP client and scanner data surfaced in Content explorer",
+  "description": ",All files detected by the AIP_Onprem_scanner via the 'Discover' event will be showcased in the Content explorer under two new on-premises locations: File Share and SharePoint Server.  <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-content-explorer?view=o365-worldwide",
+  "pubDate": "Fri, 03 Dec 2021 02:02:42 -0800",
+  "updated": "2023-05-19T06:13:32+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "July CY2023"
 }

@@ -1,22 +1,17 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - | Maintain label and protection when creating PDF files from VBA in Word, Excel, and PowerPoint"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",This feature is for VBA developers who use Office fixed format export functions to create PDFs from documents with sensitivity labels and encryption. By default, all PDFs created using Office's fixed format export functions will automatically inherit the source document's label or encryption. Some VBA add-ins may need to be updated to avoid issues when post-processing an encrypted PDF. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide<br>GA date: December CY2022<br>Preview date: September CY2022"
-  }
+  "guid": "93406",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93406",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - | Maintain label and protection when creating PDF files from VBA in Word, Excel, and PowerPoint",
+  "description": ",This feature is for VBA developers who use Office fixed format export functions to create PDFs from documents with sensitivity labels and encryption. By default, all PDFs created using Office's fixed format export functions will automatically inherit the source document's label or encryption. Some VBA add-ins may need to be updated to avoid issues when post-processing an encrypted PDF. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels?view=o365-worldwide<br>GA date: December CY2022<br>Preview date: September CY2022",
+  "pubDate": "Fri, 15 Jul 2022 22:04:34 -0700",
+  "updated": "2023-01-25T08:06:36+00:00"
 }

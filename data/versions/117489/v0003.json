@@ -1,7 +1,18 @@
 {
   "timestamp": "2023-06-30T02:46:36.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "July CY2023"
-  }
+  "guid": "117489",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117489",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Apply Purview Message Encryption branding with DLP policy",
+  "description": "Purview Messaging Encryption supports customized branding templates for encrypted mail sent to external recipients. The functionality is being brought to Data Loss Prevention from Exchange mail flow rule. In addition, DLP policies provide additional configuration to control whether Microsoft 365 external recipients will be able to view the encrypted mail inline using Outlook or the encrypted portal experience.",
+  "pubDate": "Mon, 03 Apr 2023 23:19:03 -0700",
+  "updated": "2023-06-30T06:25:57+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": null
 }

@@ -1,21 +1,17 @@
 {
   "timestamp": "2023-04-20T02:26:01.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "Microsoft Intune",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Cancelled",
-      "General Availability",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",App and driver compatibility reports for Windows update planning.",
-    "newValue": ",[This is cancelled as a duplicate of 103639] App and driver compatibility reports for Windows update planning."
-  }
+  "guid": "103614",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103614",
+  "category": [
+    "Cancelled",
+    "General Availability",
+    "Microsoft Intune",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Update Readiness Reports",
+  "description": ",[This is cancelled as a duplicate of 103639] App and driver compatibility reports for Windows update planning.",
+  "pubDate": "Wed, 30 Nov 2022 00:17:57 -0800",
+  "updated": "2023-04-20T06:21:08+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "May CY2022"
 }

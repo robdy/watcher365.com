@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-03-17T02:33:54.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "iOS",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "iOS",
-      "Launched",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "102651",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=102651",
+  "category": [
+    "Android",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "iOS",
+    "Launched",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Notification Granularity",
+  "description": "Admins can use Intune to determine the types of content a user can see in a notification on their mobile lock screen.",
+  "pubDate": "Fri, 02 Dec 2022 23:17:49 -0800",
+  "updated": "2023-03-17T06:55:13+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2022",
+  "publicPreviewDate": null
 }

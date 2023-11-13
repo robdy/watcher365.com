@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-09-16T02:12:15.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "101962",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=101962",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Mac",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: New ‘notes’ tab when creating a standard channel",
+  "description": "When creating a new standard channel, a new Notes tab will be automatically created. Each Teams team will have a dedicated OneNote workbook and each channel will have its own section, making it easier on the workgroup to add their notes. We will not be rolling out to GCC, GCC-High and DoD at this time and a new Roadmap item will be available for these environments shortly.",
+  "pubDate": "Thu, 20 Apr 2023 23:25:41 -0700",
+  "updated": "2023-09-16T05:02:18+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

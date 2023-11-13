@@ -1,11 +1,21 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "Currently, EOP and MDO tenant administrators can specify domains and senders to be allowed using Anti-Spam policy. However, these domains and senders can be easily spoofed by attackers. We are making changes to improve the security of sender and domain allows defined in the Antispam policy and within user allow lists so that they require the domain or sender to pass authentication in order for the allow to be honored. The change only impacts messages that are considered to be internal, that is, the sender or domain is defined as an accepted domain in your organization. All other messages are handled as they are today.<br>GA date: September CY2022",
-    "newValue": "Currently, EOP and MDO tenant administrators can specify domains and senders to be allowed using Anti-Spam policy. However, these domains and senders can be easily spoofed by attackers. We are making changes to improve the security of sender and domain allows defined in the Antispam policy and within user allow lists so that they require the domain or sender to pass authentication in order for the allow to be honored. The change only impacts messages that are considered to be internal, that is, the sender or domain is defined as an accepted domain in your organization. All other messages are handled as they are today."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2022"
-  }
+  "guid": "93436",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93436",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Enforce authentication to pass on AntiSpam allowed domains & senders for Spoof protection",
+  "description": "Currently, EOP and MDO tenant administrators can specify domains and senders to be allowed using Anti-Spam policy. However, these domains and senders can be easily spoofed by attackers. We are making changes to improve the security of sender and domain allows defined in the Antispam policy and within user allow lists so that they require the domain or sender to pass authentication in order for the allow to be honored. The change only impacts messages that are considered to be internal, that is, the sender or domain is defined as an accepted domain in your organization. All other messages are handled as they are today.",
+  "pubDate": "Tue, 09 Aug 2022 23:20:19 -0700",
+  "updated": "2023-01-20T08:11:38+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }

@@ -1,26 +1,19 @@
 {
   "timestamp": "2023-11-10T02:18:25.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "December CY2023",
-    "newValue": "November CY2023"
-  }
+  "guid": "151829",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=151829",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: App centric management in Teams Admin Center to manage the Apps access for tenants, end-users, and groups",
+  "description": "App centric management introduces new admin\nsettings to control who in the tenant can install Teams apps. First, admins can\nset a default value for new apps that are published to Teams app store. Second,\nadmins can edit the availability of an app to 'All users can install',\n'Specific users and groups can install', or 'No user can install'. This feature\nevolves the existing app permission policies and provides admins with the\nability to manage access to the app individually. The app permission policies for\nexisting customers are migrated to maintain existing app availability in the\ntenant.",
+  "pubDate": "Wed, 23 Aug 2023 23:34:11 -0700",
+  "updated": "2023-11-10T08:13:59+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

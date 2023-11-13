@@ -1,30 +1,19 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal : Insider Risk Management – Bring your own detections"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",Allow customers to bring their own user activity\nindicators from homegrown, SIEM/UEBA platforms, or other line-of-business\napplications, and leverage them in existing Insider Risk Management playbooks.\nMicrosoft Purview Insider Risk Management correlates various signals to\nidentify potential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy. <br>More info: https://learn.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management?view=o365-worldwide"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "February CY2024"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "June CY2023"
-  }
+  "guid": "122278",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122278",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal : Insider Risk Management – Bring your own detections",
+  "description": ",Allow customers to bring their own user activity\nindicators from homegrown, SIEM/UEBA platforms, or other line-of-business\napplications, and leverage them in existing Insider Risk Management playbooks.\nMicrosoft Purview Insider Risk Management correlates various signals to\nidentify potential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy. <br>More info: https://learn.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+  "pubDate": "Fri, 10 Mar 2023 00:05:12 -0800",
+  "updated": "2023-03-10T08:05:12+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2024",
+  "publicPreviewDate": "June CY2023"
 }

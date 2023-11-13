@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-03-23T02:27:46.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  }
+  "guid": "88996",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88996",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview | Communication Compliance Customer complaints\nclassifier (U.S. Government clouds)",
+  "description": "Detects messages that may suggest customer complaints\nmade on your organization’s products or services, as required by law for\nregulated industries.This classifier can help customers manage regulatory\ncompliance obligations such as FINRA Rule 4530, FINRA 4513, FINRA 2111,\nConsumer Financial Protection Bureau, Code of Federal Regulations Title 21 –\nFood and Drugs, and Federal Trade Commission Act.Microsoft Purview\nCommunication Compliance provides the tools to help organizations\ndetect regulatory compliance violations (e.g. SEC or FINRA), such as\nsensitive or confidential information, harassing or threatening language, and\nsharing of adult content. Built with privacy by design, usernames are\npseudonymized by default, role-based access controls are built in,\ninvestigators are opted in by an\nadmin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+  "pubDate": "Thu, 17 Mar 2022 23:04:50 -0700",
+  "updated": "2023-03-23T06:15:29+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2022",
+  "publicPreviewDate": null
 }

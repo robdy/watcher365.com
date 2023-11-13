@@ -1,23 +1,18 @@
 {
   "timestamp": "2023-07-01T03:00:54.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Edge",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Microsoft Edge",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": "Microsoft Edge: In-browser JSON viewer",
-    "newValue": "Microsoft Edge: v.114 In-browser JSON viewer"
-  }
+  "guid": "114592",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=114592",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Edge",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Edge: v.114 In-browser JSON viewer",
+  "description": "Improvements to how JSON files are displayed in the browser, which includes a color-coded tree view with line numbers and the ability to collapse and expand the data.  This functionality will trigger automatically when the browser navigates to a JSON file on the web or the user opens a local one.  Additional features and enhancements will roll out as available.  For more information and to provide feedback visit.  <br>More info: https://aka.ms/discuss-json-viewer",
+  "pubDate": "Fri, 20 Jan 2023 00:17:14 -0800",
+  "updated": "2023-07-01T04:05:59+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2023",
+  "publicPreviewDate": null
 }

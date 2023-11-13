@@ -1,24 +1,19 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Android",
-      "Desktop",
-      "General Availability",
-      "iOS",
-      "Launched",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Teams: Pairing the channel and the corresponding SharePoint folder name."
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "This feature has been updated to reflect new\ntiming. When renaming a Teams’ channel, the corresponding SharePoint folder will be renamed and reflect the new name. This will help create consistency across Microsoft 365 endpoints, making it easier on users to find their files from anywhere.  This new feature will be available for all Standard and Private channels. For Standard channels – The corresponding folder in SharePoint will be renamed. For Private channels – The corresponding site name and the folder in SharePoint will be renamed. For legacy Teams channels that were renamed prior to this rollout, there will be no change in experience. When a legacy channel is renamed after this release, it will simultaneously rename the corresponding SharePoint folder.  This feature has been updated to reflect new timing.<br>GA date: June CY2022"
-  }
+  "guid": "72211",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=72211",
+  "category": [
+    "Android",
+    "Desktop",
+    "General Availability",
+    "iOS",
+    "Launched",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Pairing the channel and the corresponding SharePoint folder name.",
+  "description": "This feature has been updated to reflect new\ntiming. When renaming a Teams’ channel, the corresponding SharePoint folder will be renamed and reflect the new name. This will help create consistency across Microsoft 365 endpoints, making it easier on users to find their files from anywhere.  This new feature will be available for all Standard and Private channels. For Standard channels – The corresponding folder in SharePoint will be renamed. For Private channels – The corresponding site name and the folder in SharePoint will be renamed. For legacy Teams channels that were renamed prior to this rollout, there will be no change in experience. When a legacy channel is renamed after this release, it will simultaneously rename the corresponding SharePoint folder.  This feature has been updated to reflect new timing.<br>GA date: June CY2022",
+  "pubDate": "Wed, 28 Apr 2021 23:25:00 -0700",
+  "updated": "2022-08-03T06:16:45+00:00"
 }

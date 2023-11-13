@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-06-09T02:53:36.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Stream",
-      "Rolling out",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Stream",
-      "Web"
-    ]
-  }
+  "guid": "117583",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117583",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Stream",
+    "Web"
+  ],
+  "title": "Microsoft Stream: Search video transcript for Stream (on SharePoint)",
+  "description": "This feature allows users who are viewing a video to search for keywords contained in the video transcript. This feature is available on video files that have transcripts and are stored in OneDrive or SharePoint. Users can navigate through the search results and click on a portion of the transcript to be taken to the respective spot in the video. Users need view or edit permissions on a file to search the transcript. Note: This feature is for searching the transcript of a single video. Users also have the option to search the transcripts of all videos they have permissions to view using Microsoft 365 search.",
+  "pubDate": "Wed, 22 Mar 2023 23:19:27 -0700",
+  "updated": "2023-06-09T06:18:10+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

@@ -1,30 +1,20 @@
 {
   "timestamp": "2023-03-30T02:31:42.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Viva",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Viva",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "April CY2023",
-    "newValue": "May CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": "March CY2023",
-    "newValue": "April CY2023"
-  }
+  "guid": "88699",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88699",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "In development",
+    "Microsoft Viva",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Viva: Topic engagement analytics",
+  "description": ",This update will introduce usage and engagement analytics on topics (views, edits, etc.) to the Microsoft Admin Center.",
+  "pubDate": "Tue, 02 Nov 2021 17:48:44 -0700",
+  "updated": "2023-03-30T07:47:55+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": "April CY2023"
 }

@@ -1,11 +1,21 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "We are expanding coverage of the malicious URL click alert. The alert will now include any clicks in the past 48 hours (for emails) from the time the malicious URL verdict is identified. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide#default-alert-policies<br>GA date: September CY2022",
-    "newValue": "We are expanding coverage of the malicious URL click alert. The alert will now include any clicks in the past 48 hours (for emails) from the time the malicious URL verdict is identified. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide#default-alert-policies"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2022"
-  }
+  "guid": "93300",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93300",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Expansion for URL Click Alert policy",
+  "description": "We are expanding coverage of the malicious URL click alert. The alert will now include any clicks in the past 48 hours (for emails) from the time the malicious URL verdict is identified. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide#default-alert-policies",
+  "pubDate": "Tue, 17 May 2022 23:00:39 -0700",
+  "updated": "2022-11-03T06:02:18+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }

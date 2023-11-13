@@ -1,27 +1,18 @@
 {
   "timestamp": "2023-03-15T02:34:08.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Edge",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Microsoft Edge",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": "Microsoft Edge: TLS server certificate verification changes",
-    "newValue": "Microsoft Edge: v.111 - TLS server certificate verification changes"
-  },
-  "description": {
-    "oldValue": "In Microsoft Edge version 111, the certificate trust list and the certificate verifier will be decoupled from the host operating system’s root store. Instead the default certificate trust list and the certificate verifier will be provided by and shipped with the browser. The MicrosoftRootStoreEnabled policy is available for testing to control when the built-in root store and certificate verifier are used until the planned policy deprecation.     <br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-security-cert-verification",
-    "newValue": "In Microsoft Edge version 111 on Windows and macOS, the certificate trust list and the certificate verifier will be decoupled from the host operating system’s root store. Instead the default certificate trust list and the certificate verifier will be provided by and shipped with the browser. The MicrosoftRootStoreEnabled policy is available for testing to control when the built-in root store and certificate verifier are used until the planned policy deprecation.      <br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-security-cert-verification"
-  }
+  "guid": "106443",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=106443",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Edge",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Edge: v.111 - TLS server certificate verification changes",
+  "description": "In Microsoft Edge version 111 on Windows and macOS, the certificate trust list and the certificate verifier will be decoupled from the host operating system’s root store. Instead the default certificate trust list and the certificate verifier will be provided by and shipped with the browser. The MicrosoftRootStoreEnabled policy is available for testing to control when the built-in root store and certificate verifier are used until the planned policy deprecation.      <br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-security-cert-verification",
+  "pubDate": "Wed, 23 Nov 2022 21:07:16 -0800",
+  "updated": "2022-11-24T05:01:43+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2023",
+  "publicPreviewDate": null
 }

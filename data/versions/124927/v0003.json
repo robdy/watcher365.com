@@ -1,25 +1,19 @@
 {
   "timestamp": "2023-05-24T02:31:20.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Cancelled",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",With this update, admins will be able to assign a case or alert to other admins, analysts, and investigators, making it easier for colleagues to know which alerts and cases are being worked on. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
-    "newValue": ",[This is a duplicate of 124925] With this update, admins will be able to assign a case or alert to other admins, analysts, and investigators, making it easier for colleagues to know which alerts and cases are being worked on. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
-  }
+  "guid": "124927",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124927",
+  "category": [
+    "Cancelled",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Ability to assign alerts & cases to an owner",
+  "description": ",[This is a duplicate of 124925] With this update, admins will be able to assign a case or alert to other admins, analysts, and investigators, making it easier for colleagues to know which alerts and cases are being worked on. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Fri, 19 May 2023 22:09:29 -0700",
+  "updated": "2023-05-24T06:14:20+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "June CY2023"
 }

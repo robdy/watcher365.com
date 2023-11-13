@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-05-03T02:25:27.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "70580",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=70580",
+  "category": [
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal:  Data Lifecycle Management - Auto-labeling of cloud attachments",
+  "description": ",This update enables organizations to automatically apply retention labels to the version of files shared as cloud attachments, which are live links of SharePoint or OneDrive content that can be shared via emails or Teams messages. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/get-started-with-retention",
+  "pubDate": "Tue, 19 Jan 2021 08:00:00 -0800",
+  "updated": "2023-05-03T06:19:53+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "July CY2022"
 }

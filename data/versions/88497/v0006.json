@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-10-18T02:16:34.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "In development",
-      "iOS",
-      "Microsoft Intune",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "iOS",
-      "Launched",
-      "Microsoft Intune",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "88497",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88497",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "iOS",
+    "Launched",
+    "Microsoft Intune",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Account-driven User Enrollment on iOS/iPadOS",
+  "description": ",Use Apple account driven enrollment to onboard devices into Intune.",
+  "pubDate": "Tue, 02 Nov 2021 22:54:21 -0700",
+  "updated": "2023-10-18T07:02:57+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": "May CY2023"
 }

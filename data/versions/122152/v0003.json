@@ -1,25 +1,19 @@
 {
   "timestamp": "2023-06-23T02:53:44.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Outlook",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Outlook",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "April CY2023",
-    "newValue": "June CY2023"
-  }
+  "guid": "122152",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122152",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Outlook",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: New Outlook for Windows and web, support for search folders",
+  "description": "Search Folders are virtual folders that provide\na view of all email items that match specific search criteria. For example, the\nUnread Mail Search Folder enables you to view all unread messages in one\nfolder, even though the messages might be saved in different folders across\nyour mailbox.",
+  "pubDate": "Tue, 28 Mar 2023 23:27:57 -0700",
+  "updated": "2023-06-23T06:23:36+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

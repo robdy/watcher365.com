@@ -1,36 +1,23 @@
 {
   "timestamp": "2023-03-25T02:26:34.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "Starting today, users can successfully join and\nparticipate in a meeting directly with their Teams Button on their Microsoft\nTeams certified peripheral. After a user receives a meeting start notification,\nthe user can press the Teams Button to bring up their Meeting Pre-Join Screen.\nNow, a subsequent press of the Teams Button will allow the user to join the\nmeeting!",
-    "newValue": ",Starting today, users can successfully join and\nparticipate in a meeting directly with their Teams Button on their Microsoft\nTeams certified peripheral. After a user receives a meeting start notification,\nthe user can press the Teams Button to bring up their Meeting Pre-Join Screen.\nNow, a subsequent press of the Teams Button will allow the user to join the\nmeeting!"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "April CY2023"
-  }
+  "guid": "95632",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=95632",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Teams Button to Join Meeting from Pre-Join Screen",
+  "description": ",Starting today, users can successfully join and\nparticipate in a meeting directly with their Teams Button on their Microsoft\nTeams certified peripheral. After a user receives a meeting start notification,\nthe user can press the Teams Button to bring up their Meeting Pre-Join Screen.\nNow, a subsequent press of the Teams Button will allow the user to join the\nmeeting!",
+  "pubDate": "Thu, 02 Mar 2023 00:21:59 -0800",
+  "updated": "2023-03-25T05:13:55+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "April CY2023"
 }

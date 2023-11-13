@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-05-06T02:23:00.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Stream",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Stream: View video analytics in playback experience for government clouds"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "This feature will allow users to view analytics for videos stored in OneDrive or SharePoint for which they have view permissions.  The analytics are shown as an overlay during video playback and can be toggled on or off by selecting the ‘Analytics’ side pane. Users will be able to see stats showing the number of views and viewers for the last 90 days along with viewership retention which indicate the parts of the video that are most and least viewed."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "May CY2023"
-  }
+  "guid": "124873",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124873",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Stream",
+    "Web"
+  ],
+  "title": "Microsoft Stream: View video analytics in playback experience for government clouds",
+  "description": "This feature will allow users to view analytics for videos stored in OneDrive or SharePoint for which they have view permissions.  The analytics are shown as an overlay during video playback and can be toggled on or off by selecting the ‘Analytics’ side pane. Users will be able to see stats showing the number of views and viewers for the last 90 days along with viewership retention which indicate the parts of the video that are most and least viewed.",
+  "pubDate": "Fri, 05 May 2023 22:10:48 -0700",
+  "updated": "2023-05-06T05:10:48+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

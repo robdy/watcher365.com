@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-03-17T02:33:54.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "115469",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=115469",
+  "category": [
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Enhanced Source Code classifier",
+  "description": ",The enhanced Source Code trainable classifier includes support for partial/embedded code in Office files, support for 23+ programming languages and 30+ extensions, and high accuracy and low noise with as low as 20 lines of code. This classifier can be used by auto-labeling and data loss prevention policies to detect source code across the digital estate.",
+  "pubDate": "Thu, 19 Jan 2023 00:13:17 -0800",
+  "updated": "2023-03-17T06:55:13+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2023",
+  "publicPreviewDate": "January CY2023"
 }

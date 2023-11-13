@@ -1,32 +1,21 @@
 {
   "timestamp": "2023-04-21T02:26:45.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - Label footers enhancement for emails (U.S. Government clouds)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",When labels are configured to add footers, currently the footers accumulate at the very bottom of long email chains. This enhancement now adds footers at the bottom of the most recent reply instead of at the bottom of the whole email thread. Note that this feature supports emails formatted as HTML or PlainText. Support for Rich Text email formats is legacy and will not be improved in Outlook. For emails formatted as Rich Text, label footers will continue to accumulate at the bottom of email threads as before."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "August CY2023"
-  }
+  "guid": "124817",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124817",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Label footers enhancement for emails (U.S. Government clouds)",
+  "description": ",When labels are configured to add footers, currently the footers accumulate at the very bottom of long email chains. This enhancement now adds footers at the bottom of the most recent reply instead of at the bottom of the whole email thread. Note that this feature supports emails formatted as HTML or PlainText. Support for Rich Text email formats is legacy and will not be improved in Outlook. For emails formatted as Rich Text, label footers will continue to accumulate at the bottom of email threads as before.",
+  "pubDate": "Thu, 20 Apr 2023 23:23:07 -0700",
+  "updated": "2023-04-21T06:23:07+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "August CY2023"
 }

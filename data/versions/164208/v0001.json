@@ -1,30 +1,23 @@
 {
   "timestamp": "2023-08-18T02:12:38.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Current Channel",
-      "Desktop",
-      "Excel",
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "PowerPoint",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Purview Information Protection Tracking and Revocation – File Registration"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "When a sensitivity label is used to encrypt an Office file, it is automatically registered for tracking, and previously label-protected Office files are registered the next time they are opened in an updated client. This only applies to local files. Compliance administrators can track and revoke access to registered Office files."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "August CY2023"
-  }
+  "guid": "164208",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164208",
+  "category": [
+    "Current Channel",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "PowerPoint",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Purview Information Protection Tracking and Revocation – File Registration",
+  "description": "When a sensitivity label is used to encrypt an Office file, it is automatically registered for tracking, and previously label-protected Office files are registered the next time they are opened in an updated client. This only applies to local files. Compliance administrators can track and revoke access to registered Office files.",
+  "pubDate": "Thu, 17 Aug 2023 23:13:24 -0700",
+  "updated": "2023-08-18T06:13:24+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

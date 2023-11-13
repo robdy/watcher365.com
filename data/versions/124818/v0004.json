@@ -1,7 +1,21 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "August CY2023"
-  }
+  "guid": "124818",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124818",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Enabling malware filter bypass for SecOps Mailboxes",
+  "description": "We are adding the ability for security admins and security operations (SecOps) teams to triage messages with malware verdicts for their own review and analysis. This update enables malware filter bypass on messages delivered to configured SecOps mailboxes in the advanced delivery policy.",
+  "pubDate": "Tue, 18 Apr 2023 23:28:09 -0700",
+  "updated": "2023-06-17T05:05:40+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

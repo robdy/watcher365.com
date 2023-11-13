@@ -1,15 +1,25 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore<br>GA date: March CY2023<br>Preview date: January CY2023",
-    "newValue": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "March CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "January CY2023"
-  }
+  "guid": "98135",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98135",
+  "category": [
+    "Android",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Mac",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: Office apps can now audit protection properties applied to a document through sensitivity labels",
+  "description": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore",
+  "pubDate": "Fri, 07 Oct 2022 22:20:53 -0700",
+  "updated": "2023-02-07T08:11:31+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": "January CY2023"
 }

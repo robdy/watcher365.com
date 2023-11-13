@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-05-02T02:27:13.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "100711",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100711",
+  "category": [
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: Configure labels independently on files and emails",
+  "description": ",Admins can scope labels to apply to email or files independently. Configure label policy in the Microsoft Purview compliance portal to be applicable to emails only, files only, or both.",
+  "pubDate": "Tue, 18 Oct 2022 23:07:23 -0700",
+  "updated": "2023-05-02T06:26:17+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "March CY2023"
 }

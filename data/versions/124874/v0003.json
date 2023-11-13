@@ -1,27 +1,18 @@
 {
   "timestamp": "2023-07-19T03:39:27.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "In development",
-      "Microsoft Intune",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",Leverages Frequent Pattern Mining AI models looking for device cohorts correlated with a higher positive rate of a given anomaly type to help with the investigation process.",
-    "newValue": "Leverages Frequent Pattern Mining AI models looking for device cohorts correlated with a higher positive rate of a given anomaly type to help with the investigation process."
-  },
-  "publicPreviewDate": {
-    "oldValue": "June CY2023",
-    "newValue": null
-  }
+  "guid": "124874",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124874",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "In development",
+    "Microsoft Intune",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Anomaly detection device cohorts",
+  "description": "Leverages Frequent Pattern Mining AI models looking for device cohorts correlated with a higher positive rate of a given anomaly type to help with the investigation process.",
+  "pubDate": "Fri, 12 May 2023 22:23:37 -0700",
+  "updated": "2023-07-19T07:04:20+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

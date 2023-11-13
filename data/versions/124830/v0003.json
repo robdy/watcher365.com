@@ -1,7 +1,20 @@
 {
   "timestamp": "2023-07-19T03:39:27.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "May CY2023",
-    "newValue": "July CY2023"
-  }
+  "guid": "124830",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124830",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal"
+  ],
+  "title": "Microsoft Purview compliance portal: Endpoint DLP – Authorized printer groups (U.S. Government clouds)",
+  "description": "With this capability, you can create groups of printer devices and designate restrictive actions for each group within your DLP policy in Microsoft Purview Data Loss Prevention. As an example, you will be able to create authorized or unauthorized groups and allow the \"Print\" activity to certain groups of printers and block \"Print\" for others.",
+  "pubDate": "Tue, 18 Apr 2023 23:28:17 -0700",
+  "updated": "2023-07-19T07:04:20+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": null
 }

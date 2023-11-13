@@ -1,22 +1,20 @@
 {
   "timestamp": "2023-08-11T02:11:57.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "117354",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117354",
+  "category": [
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies",
+  "description": ",Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+  "pubDate": "Thu, 02 Mar 2023 00:22:19 -0800",
+  "updated": "2023-08-11T06:11:18+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": "April CY2023"
 }

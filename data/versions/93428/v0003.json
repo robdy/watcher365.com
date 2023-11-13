@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-08-22T02:13:30.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  }
+  "guid": "93428",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93428",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview | Endpoint DLP – Restrict copying sensitive files\nto remote desktop (RDP) sessions (U.S. Government clouds)",
+  "description": "With this update, you will be able to create Microsoft Purview Data Loss Prevention policies to regulate the sharing of sensitive data over an RDP session. DLP controls for RDP include support for deploying DLP policies in Audit mode, Block with Override mode, and Block mode.",
+  "pubDate": "Fri, 29 Jul 2022 22:05:32 -0700",
+  "updated": "2023-08-22T06:08:28+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2022",
+  "publicPreviewDate": null
 }

@@ -1,28 +1,20 @@
 {
   "timestamp": "2023-05-16T02:28:55.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "May CY2022"
-  }
+  "guid": "86992",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=86992",
+  "category": [
+    "Desktop",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Dynamic caller ID for call queue agents",
+  "description": "Call queue agents can now place calls from the Calls app using a call queue phone number as their caller ID. This ensures the call is properly identified by the recipient and that the call back number is the call queue number rather than the agent's personal line.",
+  "pubDate": "Fri, 22 Apr 2022 22:14:21 -0700",
+  "updated": "2023-05-16T06:07:12+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2022",
+  "publicPreviewDate": null
 }

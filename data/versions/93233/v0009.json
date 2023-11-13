@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-10-10T02:15:36.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "93233",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93233",
+  "category": [
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection – Optical character recognition (OCR) support for SharePoint Online and OneDrive for Business ",
+  "description": ",With this update, you will be able to detect and protect sensitive content in images in SharePoint Online and OneDrive and subsequently apply DLP policies to prevent exfiltration of that sensitive data. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP, and PDF (image only).",
+  "pubDate": "Thu, 02 Mar 2023 00:21:55 -0800",
+  "updated": "2023-10-10T06:12:49+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "April CY2023"
 }

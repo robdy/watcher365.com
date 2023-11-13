@@ -1,7 +1,18 @@
 {
   "timestamp": "2023-10-14T02:13:21.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "October CY2023",
-    "newValue": "January CY2024"
-  }
+  "guid": "141108",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141108",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Extended Real-time telemetry retention for upto 7 days (Premium)",
+  "description": "To facilitate meeting quality troubleshooting\nfor admins in Teams admin center, real-time telemetry available during the\nmeeting will be retained for an extended period of time (up to 7 days after\nmeeting is ended) for users with Premium licenses. This will help admins\nidentify and fix quality issues using granular telemetry after the meeting is\nover for up to 7 days.",
+  "pubDate": "Tue, 11 Jul 2023 23:45:06 -0700",
+  "updated": "2023-10-14T05:05:06+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2024",
+  "publicPreviewDate": null
 }

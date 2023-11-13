@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-06-07T02:48:59.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft 365 Admin Center",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Microsoft 365 Admin Center",
-      "Rolling out",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "May CY2023",
-    "newValue": "June CY2023"
-  }
+  "guid": "124856",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124856",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Microsoft 365 Admin Center",
+    "Rolling out",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft 365 admin center: Microsoft Edge management service",
+  "description": ",Microsoft Edge management service is a single portal for admins to manage the Edge browser. It is a simple and easy-to-manage experience. Admins will be able to configure all Edge browser policies for their organization in a configuration profile and set-up the browser to use these settings.",
+  "pubDate": "Wed, 26 Apr 2023 23:33:10 -0700",
+  "updated": "2023-06-07T06:16:50+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": "May CY2023"
 }

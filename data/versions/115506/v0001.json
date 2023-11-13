@@ -1,21 +1,16 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Defender for Office 365",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Defender for Office 365: Tenant Allow/Block List - indicating allowed entries which are malicious"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "With this change, Microsoft will start indicating using Tenant Allow/Block List page on security.microsoft.com and cmdlets if an allow created by the customer is malicious in nature. This will help customer remove allows proactively which might end up harming their tenant.<br>GA date: May CY2023"
-  }
+  "guid": "115506",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=115506",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Tenant Allow/Block List - indicating allowed entries which are malicious",
+  "description": "With this change, Microsoft will start indicating using Tenant Allow/Block List page on security.microsoft.com and cmdlets if an allow created by the customer is malicious in nature. This will help customer remove allows proactively which might end up harming their tenant.<br>GA date: May CY2023",
+  "pubDate": "Fri, 17 Feb 2023 00:31:36 -0800",
+  "updated": "2023-02-17T08:26:28+00:00"
 }

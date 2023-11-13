@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-04-12T02:26:00.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "Exchange",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "Exchange",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "59438",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=59438",
+  "category": [
+    "DoD",
+    "Exchange",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Exchange: Message Recall in Exchange Online",
+  "description": "The Message Recall feature in Outlook for Windows is extremely popular with users, yet it doesn't always work so well. Part of the problem is that the recall is client-based, and the recall can only happen if the recipient also uses Outlook. With millions of users with mailboxes in Microsoft 365, we're now able to improve message recall by performing the recall directly against the recipients’ cloud mailboxes. So it will no longer matter which email client the recipient uses, the recall will happen in their cloud mailbox, and when the recipient’s email client syncs with their cloud mailbox, the message will be gone. While there are still some scenarios where a recall won't happen (like for messages sent outside of the Microsoft 365 organization), moving the recall to the cloud significantly improves the recall success rate. Additionally, users will also now have a single message recall status report that will make it simpler to track the recall status for all recipients.",
+  "pubDate": "Thu, 05 Dec 2019 08:00:00 -0800",
+  "updated": "2023-04-12T06:52:36+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2023",
+  "publicPreviewDate": null
 }

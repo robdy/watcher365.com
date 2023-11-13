@@ -1,11 +1,18 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": ",Applications can now use the new \"Sites.selected\" permission to request access to SharePoint sites.  By default an application that requests “Sites.Selected” instead of a tenant wide permission may not access any SharePoint sites. The tenant administrator can grant or revoke an application’s access to individual sites through new endpoints in the Microsoft Graph API.<br>Preview date: October CY2021",
-    "newValue": ",Applications can now use the new \"Sites.selected\" permission to request access to SharePoint sites.  By default an application that requests “Sites.Selected” instead of a tenant wide permission may not access any SharePoint sites. The tenant administrator can grant or revoke an application’s access to individual sites through new endpoints in the Microsoft Graph API."
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "October CY2021"
-  }
+  "guid": "76685",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=76685",
+  "category": [
+    "Developer",
+    "Launched",
+    "Microsoft Graph",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint:  Site Collection Level permissions for Microsoft Graph",
+  "description": ",Applications can now use the new \"Sites.selected\" permission to request access to SharePoint sites.  By default an application that requests “Sites.Selected” instead of a tenant wide permission may not access any SharePoint sites. The tenant administrator can grant or revoke an application’s access to individual sites through new endpoints in the Microsoft Graph API.",
+  "pubDate": "Thu, 14 Jan 2021 01:35:43 -0800",
+  "updated": "2022-11-01T06:16:36+00:00",
+  "publicDisclosureAvailabilityDate": null,
+  "publicPreviewDate": "October CY2021"
 }

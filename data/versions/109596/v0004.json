@@ -1,31 +1,22 @@
 {
   "timestamp": "2023-07-28T02:25:02.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Teams",
-      "Visio",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Visio",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "Visio will be available as a personal app, or private workspace, in Microsoft Teams. With a private workspace, users will be able to view and edit Visio files in a central location without leaving Teams. When using the Teams desktop app, users will be able to use the Pop out app option to open Visio in a separate window, allowing users to continue using Teams chat, call, collaboration, and meeting capabilities.",
-    "newValue": "Visio will be available as a personal app, or private workspace, in Microsoft Teams. With a private workspace, users will be able to view and edit Visio files in a central location without leaving Teams. When using the Teams desktop app, users will be able to use the Pop out app option to open Visio in a separate window, allowing users to continue using Teams chat, call, collaboration, and meeting capabilities. Note: The launch status was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused."
-  }
+  "guid": "109596",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109596",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Teams",
+    "Rolling out",
+    "Visio",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Visio: Visio personal app in Microsoft Teams",
+  "description": "Visio will be available as a personal app, or private workspace, in Microsoft Teams. With a private workspace, users will be able to view and edit Visio files in a central location without leaving Teams. When using the Teams desktop app, users will be able to use the Pop out app option to open Visio in a separate window, allowing users to continue using Teams chat, call, collaboration, and meeting capabilities. Note: The launch status was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Thu, 15 Dec 2022 00:12:28 -0800",
+  "updated": "2023-07-28T06:36:49+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2023",
+  "publicPreviewDate": null
 }

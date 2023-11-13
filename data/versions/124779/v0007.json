@@ -1,24 +1,22 @@
 {
   "timestamp": "2023-09-20T02:15:12.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "124779",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+  "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+  "updated": "2023-09-20T06:02:35+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": "June CY2023"
 }

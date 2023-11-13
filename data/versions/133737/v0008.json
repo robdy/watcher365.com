@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-10-05T02:18:07.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Teams and Surface Devices",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "Launched",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Teams and Surface Devices",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "133737",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=133737",
+  "category": [
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "Launched",
+    "Microsoft Teams",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Teams and Surface Devices",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Face enrollment on Teams Desktop to support recognition in Teams Rooms on Windows",
+  "description": "To support face recognition in Teams Rooms on Windows, the desktop client offers enrollment to enable face recognition and video labels. This feature is available for Microsoft Teams Rooms Pro license customers. Admins will need to set Teams policies to enable the feature. Note: We are adjusting the roadmap release phase to reflect the current state.  We apologize for any inconvenience this may have caused.",
+  "pubDate": "Thu, 29 Jun 2023 23:29:53 -0700",
+  "updated": "2023-10-05T06:03:14+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

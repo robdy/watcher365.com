@@ -1,33 +1,22 @@
 {
   "timestamp": "2023-09-27T02:15:43.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "We are releasing additional manager-controlled privacy settings in the Shifts app. Frontline managers will be able to set how far in the past their employees can view data in schedule view, to manage employees' views of each other's breaks and notes, and to import and export reports for time-off schedules, open shifts, and assigned shifts. ",
-    "newValue": "In the Shifts app, frontline managers will be able to specify how far in the past their employees can access schedule data. They will also be able to determine whether employees can view each other's breaks and notes. Finally, managers can import and export scheduling reports, including time-off schedules, open shifts, and assigned shifts."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "October CY2023",
-    "newValue": "November CY2023"
-  }
+  "guid": "169705",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=169705",
+  "category": [
+    "Android",
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Additional manager-controlled privacy settings in Shifts",
+  "description": "In the Shifts app, frontline managers will be able to specify how far in the past their employees can access schedule data. They will also be able to determine whether employees can view each other's breaks and notes. Finally, managers can import and export scheduling reports, including time-off schedules, open shifts, and assigned shifts.",
+  "pubDate": "Mon, 25 Sep 2023 23:04:23 -0700",
+  "updated": "2023-09-27T06:05:47+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

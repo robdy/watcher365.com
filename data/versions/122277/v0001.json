@@ -1,28 +1,21 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "OneNote",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft OneNote : improved protection against known high risk phishing file types"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "We add enhanced protection when users open or\ndownload an embedded file in OneNote. Users will receive a\nnotification when the files deem dangerous to improve the file protection\nexperience in OneNote on Windows."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "April CY2023"
-  }
+  "guid": "122277",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122277",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "OneNote",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft OneNote : improved protection against known high risk phishing file types",
+  "description": "We add enhanced protection when users open or\ndownload an embedded file in OneNote. Users will receive a\nnotification when the files deem dangerous to improve the file protection\nexperience in OneNote on Windows.",
+  "pubDate": "Fri, 10 Mar 2023 00:05:12 -0800",
+  "updated": "2023-03-10T08:05:12+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": null
 }

@@ -1,28 +1,21 @@
 {
   "timestamp": "2023-04-27T02:28:46.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - Exact Data Match to support multi-token corroborative evidence"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Exact Data Match (EDM) will support string match detection of multi-token (i.e., fields with multiple words separated by spaces or punctuation) corroborative evidence without requiring mapping Sensitive Information Types (SITs) to multi-token corroborative evidence fields."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "July CY2023"
-  }
+  "guid": "124847",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124847",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Exact Data Match to support multi-token corroborative evidence",
+  "description": "Exact Data Match (EDM) will support string match detection of multi-token (i.e., fields with multiple words separated by spaces or punctuation) corroborative evidence without requiring mapping Sensitive Information Types (SITs) to multi-token corroborative evidence fields.",
+  "pubDate": "Wed, 26 Apr 2023 23:28:49 -0700",
+  "updated": "2023-04-27T06:28:49+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": null
 }

@@ -1,31 +1,20 @@
 {
   "timestamp": "2023-07-12T02:51:41.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "description": {
-    "oldValue": "Records Management admins will be able to simulate the results of an auto-apply retention label policy. This feature allows admins to test the policy before deploying it in production. It will work with the Sensitive Information Type (SIT) and KQL properties policy types.",
-    "newValue": "Records Management admins will be able to simulate the results of an auto-apply retention label policy. This feature allows admins to test the policy before deploying it in production. It will work with the Sensitive Information Type (SIT) and KQL properties policy types. Note: We apologize for having updated this to rolling out in June.  It will launch in August."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "August CY2023"
-  }
+  "guid": "109569",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109569",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management: Simulation mode for automatically applied retention labels (U.S. government clouds)",
+  "description": "Records Management admins will be able to simulate the results of an auto-apply retention label policy. This feature allows admins to test the policy before deploying it in production. It will work with the Sensitive Information Type (SIT) and KQL properties policy types. Note: We apologize for having updated this to rolling out in June.  It will launch in August.",
+  "pubDate": "Fri, 06 Jan 2023 23:10:20 -0800",
+  "updated": "2023-07-12T06:36:37+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

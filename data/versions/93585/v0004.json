@@ -1,32 +1,23 @@
 {
   "timestamp": "2023-04-19T02:28:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Teams",
-      "Mobile",
-      "Web",
-      "Windows 10",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Teams",
-      "Mobile",
-      "Web",
-      "Windows 10",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "93585",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93585",
+  "category": [
+    "Android",
+    "Desktop",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Microsoft Teams",
+    "Mobile",
+    "Web",
+    "Windows 10",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Expanding up to 10,000 users in Distribution Lists for lobby policy in Teams meeting",
+  "description": "Currently, if you change your lobby policy in a Teams Meeting to \"Invited Users Only\" and invite a Distribution List (DL), only the first 1,000 users of that DL will be recognized and let through the lobby. All other users a part of the DL will not be recognized and will be placed in the lobby. With this update, up to 10,000 users of that given DL will be recognized and let through the lobby if the lobby policy is set to \"Invited Users Only.\"",
+  "pubDate": "Fri, 20 May 2022 22:03:34 -0700",
+  "updated": "2023-04-19T06:23:54+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

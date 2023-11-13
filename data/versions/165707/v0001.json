@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-09-30T02:13:21.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - Optical character recognition (OCR) support for Exchange Online and Teams"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in Exchange Online and Microsoft Teams. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF)."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "February CY2024"
-  }
+  "guid": "165707",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165707",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Optical character recognition (OCR) support for Exchange Online and Teams",
+  "description": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in Exchange Online and Microsoft Teams. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF).",
+  "pubDate": "Fri, 29 Sep 2023 22:02:59 -0700",
+  "updated": "2023-09-30T05:02:59+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2024",
+  "publicPreviewDate": null
 }

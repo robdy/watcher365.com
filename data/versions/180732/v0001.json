@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-10-12T02:14:34.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Outlook",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Outlook: S/MIME support for sensitivity labels"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Outlook on the web will\nsupport S/MIME (Secure/Multipurpose Internet Mail Extensions) signature and\nencryption as sensitivity label outcomes. Admins can define the label to have\nS/MIME signature, encryption, or both and emails with those labels will enforce\nS/MIME accordingly."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "October CY2023"
-  }
+  "guid": "180732",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180732",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Outlook",
+    "Web"
+  ],
+  "title": "Outlook: S/MIME support for sensitivity labels",
+  "description": "Outlook on the web will\nsupport S/MIME (Secure/Multipurpose Internet Mail Extensions) signature and\nencryption as sensitivity label outcomes. Admins can define the label to have\nS/MIME signature, encryption, or both and emails with those labels will enforce\nS/MIME accordingly.",
+  "pubDate": "Wed, 11 Oct 2023 07:00:00 -0700",
+  "updated": "2023-10-12T06:29:13+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

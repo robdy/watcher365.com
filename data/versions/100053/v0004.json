@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-05-09T02:30:20.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Rolling out",
-      "SharePoint",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "SharePoint",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "100053",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100053",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "SharePoint",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint: SharePoint admin center: Streamlining management of site related information across Microsoft Teams and Microsoft 365 Groups",
+  "description": ",SharePoint is updating the site detail panel to include Microsoft Teams and Microsoft 365 Groups information. Admins that have permissions to SharePoint, Teams and Groups admin centers can now manage all related attributes (membership, group name, description, etc.) from a single site detail panel in the SharePoint admin center 'Active Sites' tab. SharePoint admins with SharePoint only permissions will have read-only access to the new attributes.",
+  "pubDate": "Tue, 27 Sep 2022 23:10:26 -0700",
+  "updated": "2023-05-09T06:42:08+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2022",
+  "publicPreviewDate": "October CY2022"
 }

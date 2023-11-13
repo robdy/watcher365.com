@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Current Channel",
-      "Current Channel (Preview)",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Outlook",
-      "Preview",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Outlook: Labeling email from attachments' label"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",Outlook desktop will match the highest sensitivity label from attachments on email. Admin could configure this either use the cmdlet set-labelpolicy advanced setting or use the Compliance portal to configure the label policy(Roadmap: 100158). Customer will see automatically or recommendations that email gets the higher label from attachments' label.<br>GA date: April CY2023<br>Preview date: March CY2023"
-  }
+  "guid": "100490",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100490",
+  "category": [
+    "Current Channel",
+    "Current Channel (Preview)",
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Outlook",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: Labeling email from attachments' label",
+  "description": ",Outlook desktop will match the highest sensitivity label from attachments on email. Admin could configure this either use the cmdlet set-labelpolicy advanced setting or use the Compliance portal to configure the label policy(Roadmap: 100158). Customer will see automatically or recommendations that email gets the higher label from attachments' label.<br>GA date: April CY2023<br>Preview date: March CY2023",
+  "pubDate": "Thu, 06 Oct 2022 23:09:04 -0700",
+  "updated": "2023-02-17T08:26:28+00:00"
 }

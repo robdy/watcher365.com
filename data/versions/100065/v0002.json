@@ -1,11 +1,20 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "This feature enables admins to eliminate multiple DLP alerts and notifications when an automated app or process tries to access or copy a file for which it is unallowed and quarantines the file to a configurable location. <br>GA date: November CY2022",
-    "newValue": "This feature enables admins to eliminate multiple DLP alerts and notifications when an automated app or process tries to access or copy a file for which it is unallowed and quarantines the file to a configurable location."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "November CY2022"
-  }
+  "guid": "100065",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100065",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview | Data Loss Prevention Auto-quarantine sensitive files accessed by unallowed apps (U.S. Government clouds)",
+  "description": "This feature enables admins to eliminate multiple DLP alerts and notifications when an automated app or process tries to access or copy a file for which it is unallowed and quarantines the file to a configurable location.",
+  "pubDate": "Tue, 27 Sep 2022 23:10:27 -0700",
+  "updated": "2022-10-04T06:39:42+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2022",
+  "publicPreviewDate": null
 }

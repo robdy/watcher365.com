@@ -1,23 +1,18 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Launched",
-      "Microsoft Compliance center",
-      "Preview",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft 365 compliance center: Microsoft Purview | Insider Risk Management - Native triggers (New signals, indicator selection, customization, Activity explorer)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",You can choose to assign selected indicators as triggering events for a policy. This flexibility and customization help scope the policy to only the activities covered by the indicators. Also, you can customize thresholds for each triggering event. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide#general-data-leaks<br>Preview date: December CY2021"
-  }
+  "guid": "82198",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=82198",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "Launched",
+    "Microsoft Compliance center",
+    "Preview",
+    "Web"
+  ],
+  "title": "Microsoft 365 compliance center: Microsoft Purview | Insider Risk Management - Native triggers (New signals, indicator selection, customization, Activity explorer)",
+  "description": ",You can choose to assign selected indicators as triggering events for a policy. This flexibility and customization help scope the policy to only the activities covered by the indicators. Also, you can customize thresholds for each triggering event. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-policies?view=o365-worldwide#general-data-leaks<br>Preview date: December CY2021",
+  "pubDate": "Fri, 03 Dec 2021 02:03:33 -0800",
+  "updated": "2022-01-13T08:05:23+00:00"
 }

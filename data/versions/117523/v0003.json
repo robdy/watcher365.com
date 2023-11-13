@@ -1,29 +1,22 @@
 {
   "timestamp": "2023-04-28T02:27:53.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Web"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "July CY2023",
-    "newValue": "November CY2023"
-  }
+  "guid": "117523",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+  "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+  "pubDate": "Fri, 17 Feb 2023 00:31:48 -0800",
+  "updated": "2023-04-28T06:15:39+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

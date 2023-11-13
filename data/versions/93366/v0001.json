@@ -1,24 +1,19 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Defender for Office 365",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Defender for Office 365: Automatically allow Spoofing and Impersonation related messages directly using Admin Submissions"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Today security administrators can use the Submissions page in the Microsoft 365 Defender portal to submit email messages, URLs, and attachments to Microsoft for scanning. We are enhancing this capability with an option to automatically allow Spoofing and Impersonation related emails from senders/infrastructure that were classified as legitimate by the admin, despite being initially blocked by the system. This will help mitigate false positives while the system continues to learn. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/admin-submission?view=o365-worldwide#submit-a-questionable-email-to-microsoft<br>GA date: June CY2022"
-  }
+  "guid": "93366",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93366",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Automatically allow Spoofing and Impersonation related messages directly using Admin Submissions",
+  "description": "Today security administrators can use the Submissions page in the Microsoft 365 Defender portal to submit email messages, URLs, and attachments to Microsoft for scanning. We are enhancing this capability with an option to automatically allow Spoofing and Impersonation related emails from senders/infrastructure that were classified as legitimate by the admin, despite being initially blocked by the system. This will help mitigate false positives while the system continues to learn. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/admin-submission?view=o365-worldwide#submit-a-questionable-email-to-microsoft<br>GA date: June CY2022",
+  "pubDate": "Thu, 16 Jun 2022 23:01:23 -0700",
+  "updated": "2022-06-22T06:00:16+00:00"
 }

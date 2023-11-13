@@ -1,29 +1,23 @@
 {
   "timestamp": "2023-03-25T02:26:34.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Mac",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "91142",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91142",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Mac",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Disable chat write access for anonymous or unauthenticated users",
+  "description": "IT admins can now\ndisable chat write access at the policy level for non-federated users and\nunauthenticated users who join Teams meetings through a link that must be used\nin conjunction with disabled meeting chat policy to provide additional security\nagainst data exfiltration.",
+  "pubDate": "Tue, 31 May 2022 23:04:32 -0700",
+  "updated": "2023-03-25T05:13:55+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2022",
+  "publicPreviewDate": null
 }

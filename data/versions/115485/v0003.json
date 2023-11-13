@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-04-05T02:15:36.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Current Channel",
-      "Desktop",
-      "Excel",
-      "In development",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Current Channel",
-      "Desktop",
-      "Excel",
-      "Launched",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "115485",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=115485",
+  "category": [
+    "Current Channel",
+    "Desktop",
+    "Excel",
+    "Launched",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Excel: Blocking XLL add-ins from the internet.",
+  "description": "In order to combat the increasing number of malware attacks in recent months, we are implementing measures that will block XLL add-ins coming from the internet.",
+  "pubDate": "Fri, 20 Jan 2023 23:27:38 -0800",
+  "updated": "2023-04-05T06:26:31+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": null
 }

@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-11-10T02:18:25.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Outlook",
-      "Rolling out",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Outlook",
-      "Web"
-    ]
-  }
+  "guid": "180732",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180732",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Outlook",
+    "Web"
+  ],
+  "title": "Outlook: S/MIME support for sensitivity labels",
+  "description": "Outlook on the web will\nsupport S/MIME (Secure/Multipurpose Internet Mail Extensions) signature and\nencryption as sensitivity label outcomes. Admins can define the label to have\nS/MIME signature, encryption, or both and emails with those labels will enforce\nS/MIME accordingly.",
+  "pubDate": "Wed, 11 Oct 2023 07:00:00 -0700",
+  "updated": "2023-11-10T08:13:59+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

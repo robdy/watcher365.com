@@ -1,22 +1,21 @@
 {
   "timestamp": "2023-09-19T02:16:47.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "124874",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124874",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Intune",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Anomaly detection device cohorts",
+  "description": "Leverages Frequent Pattern Mining AI models looking for device cohorts correlated with a higher positive rate of a given anomaly type to help with the investigation process.",
+  "pubDate": "Fri, 12 May 2023 22:23:37 -0700",
+  "updated": "2023-09-19T06:10:11+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

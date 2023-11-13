@@ -1,31 +1,23 @@
 {
   "timestamp": "2023-04-19T02:28:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "May CY2023",
-    "newValue": "April CY2023"
-  }
+  "guid": "119698",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=119698",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Teams",
+    "Rolling out",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Support Breakout Rooms on VDI",
+  "description": "Enable organizer support for Breakout Rooms for VDI users.",
+  "pubDate": "Fri, 24 Feb 2023 23:14:02 -0800",
+  "updated": "2023-04-19T06:23:55+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": null
 }

@@ -1,24 +1,21 @@
 {
   "timestamp": "2023-09-16T02:12:15.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Outlook",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "163358",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163358",
+  "category": [
+    "Android",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Outlook",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: MIP Label Support for Events",
+  "description": ",Tenants who have setup MIP sensitivity labels\nfor use on events will now have support in Outlook for Android to both read and\nwrite labels to their meetings with enforcement of rules such as encryption as\ndefined by tenant admins.",
+  "pubDate": "Mon, 21 Aug 2023 23:11:44 -0700",
+  "updated": "2023-09-16T05:02:18+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": "October CY2023"
 }

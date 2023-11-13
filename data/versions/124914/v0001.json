@@ -1,30 +1,19 @@
 {
   "timestamp": "2023-05-13T02:25:31.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - Auto-labeling support OneDrive users and group scoping"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",Service side auto-labeling now supports scoping of OneDrive workload to OneDrive users and groups vs Site URLs. Existing policies configured with Site URLs will still work but can't be edited to add more Site URLs. Existing policies can remove Site URLs from location to trigger the new OneDrive user and group picker."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "July CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "June CY2023"
-  }
+  "guid": "124914",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124914",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Auto-labeling support OneDrive users and group scoping",
+  "description": ",Service side auto-labeling now supports scoping of OneDrive workload to OneDrive users and groups vs Site URLs. Existing policies configured with Site URLs will still work but can't be edited to add more Site URLs. Existing policies can remove Site URLs from location to trigger the new OneDrive user and group picker.",
+  "pubDate": "Fri, 12 May 2023 22:19:50 -0700",
+  "updated": "2023-05-13T05:19:50+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": "June CY2023"
 }

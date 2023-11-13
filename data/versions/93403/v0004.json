@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-05-31T02:48:30.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Mobile",
-      "Universal Print",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Mobile",
-      "Rolling out",
-      "Universal Print",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "93403",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93403",
+  "category": [
+    "General Availability",
+    "Mobile",
+    "Rolling out",
+    "Universal Print",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Universal Print: Secure release with QR code on Microsoft Office mobile app",
+  "description": "Secure release prevents waste from unnecessary printing and maintains user privacy by holding their jobs until they show-up at the printer. Universal Print will allow secure release to be configured for any printer. Users can retrieve their print jobs by scanning a QR Code and using the Microsoft Office mobile app. Users need to be authenticated with their work or school account. QR code-based release will work with both Universal Print ready printers and printers using the Universal Print connector. We may add more secure release options in the future.",
+  "pubDate": "Mon, 25 Jul 2022 23:07:12 -0700",
+  "updated": "2023-05-31T06:26:09+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

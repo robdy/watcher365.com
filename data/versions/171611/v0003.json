@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-11-08T02:18:16.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Planner",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Planner",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "171611",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171611",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Planner",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Planner: Planner Personal Plans",
+  "description": "Today in Planner, all created plans must be contained by an M365 group or a roster. With the new Personal plan API, plans can be contained by a new type of container, called a user container. For these types of plans, the creator of the plan is the only member and owner.",
+  "pubDate": "Wed, 13 Sep 2023 07:00:00 -0700",
+  "updated": "2023-11-08T08:15:04+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

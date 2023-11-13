@@ -1,7 +1,21 @@
 {
   "timestamp": "2023-07-11T02:45:42.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "July CY2023"
-  }
+  "guid": "124857",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124857",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Bulk import and export of domains",
+  "description": "This feature will allow admins to upload or download a CSV file of unallowed, allowed, and third-party domains defined by admins with the right permissions in insider risk settings to fine-tune the detection of activities involving certain domains. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Wed, 26 Apr 2023 23:33:12 -0700",
+  "updated": "2023-07-11T03:58:40+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": null
 }

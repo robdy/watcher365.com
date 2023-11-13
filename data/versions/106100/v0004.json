@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-09-13T02:15:04.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ]
-  }
+  "guid": "106100",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=106100",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Rolling out",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Retention support for files shared as cloud attachments or links (U.S. Government clouds)",
+  "description": "This update enables organizations to automatically apply retention labels to the version of files shared as cloud attachments, which are live links of SharePoint or OneDrive content that can be shared via emails or Teams messages. Note:  The status and date were incorrect and have been changed to reflect current plans. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Tue, 13 Jun 2023 23:12:31 -0700",
+  "updated": "2023-09-13T06:02:25+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": null
 }

@@ -1,3 +1,21 @@
 {
-  "timestamp": "2023-03-18T02:32:56.0000000+00:00"
+  "timestamp": "2023-03-18T02:32:56.0000000+00:00",
+  "guid": "117520",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117520",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: New filter option for messages blocked due to file type block",
+  "description": "We are introducing a new filter for the ‘Quarantine Reason’ in the Quarantine page (Email). As part of this release, the SecOps can now apply this filter to display only the emails which are blocked when file extension/type of one or more of the attachments matches those configured in the common attachment filter in the Anti-malware policy. Currently these emails are shown under the ‘Malware’ as the Quarantine Reason.",
+  "pubDate": "Thu, 16 Feb 2023 00:07:22 -0800",
+  "updated": "2023-03-18T05:43:26+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": null
 }

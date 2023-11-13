@@ -1,32 +1,21 @@
 {
   "timestamp": "2023-06-30T02:46:36.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "OneDrive",
-      "Preview",
-      "SharePoint",
-      "Targeted Release (Entire Organization)",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "SharePoint: Improvements for document library version history limits "
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ", We are increasing version history limits for SharePoint document libraries. Admins can set an appropriate level of recoverability and auditability for their organization. Today Site Owners can set count-based version limits at the individual document library level. With the upcoming changes, people will have two version history settings: 1) Automatic mode that intelligently adjusts based on a version’s age and restore probability, and 2) Manual mode that will allow admins to set version expiration and count limits on the versions created. And tenant admins will be able set version limits that apply universally to all newly created document libraries in their organization; site owners can then update settings for their document library(ies). Version history limits and management also apply to OneDrive."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "March CY2024"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "November CY2023"
-  }
+  "guid": "145802",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+  "category": [
+    "General Availability",
+    "In development",
+    "OneDrive",
+    "Preview",
+    "SharePoint",
+    "Targeted Release (Entire Organization)",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint: Improvements for document library version history limits ",
+  "description": ", We are increasing version history limits for SharePoint document libraries. Admins can set an appropriate level of recoverability and auditability for their organization. Today Site Owners can set count-based version limits at the individual document library level. With the upcoming changes, people will have two version history settings: 1) Automatic mode that intelligently adjusts based on a version’s age and restore probability, and 2) Manual mode that will allow admins to set version expiration and count limits on the versions created. And tenant admins will be able set version limits that apply universally to all newly created document libraries in their organization; site owners can then update settings for their document library(ies). Version history limits and management also apply to OneDrive.",
+  "pubDate": "Thu, 29 Jun 2023 23:25:57 -0700",
+  "updated": "2023-06-30T06:25:57+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2024",
+  "publicPreviewDate": "November CY2023"
 }

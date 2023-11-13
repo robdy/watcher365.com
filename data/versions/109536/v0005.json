@@ -1,24 +1,19 @@
 {
   "timestamp": "2023-09-20T02:15:12.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "November CY2023",
-    "newValue": "February CY2024"
-  }
+  "guid": "109536",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109536",
+  "category": [
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Intune",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Advanced Endpoint analytics",
+  "description": "Data science and AI powered automation, recommendations and insights enable IT to proactively improve user experiences based on endpoint health and performance.",
+  "pubDate": "Fri, 03 Mar 2023 00:24:15 -0800",
+  "updated": "2023-09-20T06:02:34+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2024",
+  "publicPreviewDate": null
 }
