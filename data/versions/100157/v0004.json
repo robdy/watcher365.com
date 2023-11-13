@@ -1,7 +1,19 @@
 {
   "timestamp": "2023-06-09T02:53:36.0000000+00:00",
-  "description": {
-    "oldValue": ",Configure Data Loss Prevention policies to enable policy tips for emails with sensitivity labels.",
-    "newValue": ",Configure DLP rules that display warnings in a popup dialog before sending emails. With this capability, admins can set up rules to provide warnings, require business justifications, or request explicit acknowledgements before sending emails. Furthermore, admins can customize a Compliance URL within a DLP rule, ensuring that end users receive valuable guidance through the popup."
-  }
+  "guid": "100157",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100157",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: Configure policy tips as popups for labeled emails and attachments",
+  "description": ",Configure DLP rules that display warnings in a popup dialog before sending emails. With this capability, admins can set up rules to provide warnings, require business justifications, or request explicit acknowledgements before sending emails. Furthermore, admins can customize a Compliance URL within a DLP rule, ensuring that end users receive valuable guidance through the popup.",
+  "pubDate": "Tue, 11 Oct 2022 00:32:43 -0700",
+  "updated": "2023-06-09T06:18:10+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": "March CY2023"
 }

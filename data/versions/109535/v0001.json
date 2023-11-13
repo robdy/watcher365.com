@@ -1,23 +1,18 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Defender for Office 365",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Defender for Office 365: DMARC aggregate reports for enterprise"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "As part of the DMARC standard the owner of the domain can request reports about how receivers viewed their traffic which will help the domain owners adjust their sender authentication configurations so they can get to an actionable DMARC policy.  This feature will be available for all EOP customers <br>GA date: March CY2023"
-  }
+  "guid": "109535",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109535",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: DMARC aggregate reports for enterprise",
+  "description": "As part of the DMARC standard the owner of the domain can request reports about how receivers viewed their traffic which will help the domain owners adjust their sender authentication configurations so they can get to an actionable DMARC policy.  This feature will be available for all EOP customers <br>GA date: March CY2023",
+  "pubDate": "Wed, 14 Dec 2022 00:05:31 -0800",
+  "updated": "2022-12-14T08:00:57+00:00"
 }

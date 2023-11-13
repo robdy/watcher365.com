@@ -1,15 +1,19 @@
 {
   "timestamp": "2023-08-23T02:12:40.0000000+00:00",
-  "title": {
-    "oldValue": "Microsoft Intune: iOS ADE enrollment",
-    "newValue": "Microsoft Intune: Await final configuration for iOS automated device enrollment"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "August CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": "August CY2023",
-    "newValue": "June CY2023"
-  }
+  "guid": "124883",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124883",
+  "category": [
+    "General Availability",
+    "In development",
+    "iOS",
+    "Microsoft Intune",
+    "Preview",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Await final configuration for iOS automated device enrollment",
+  "description": ",When enrolling corporate Apple devices with ADE (setup assistant with Modern Auth), admins want to ensure that device config policies and apps (macOS only) are on the device prior to the device being released from SA for the IW to freely use.  This can be accomplished though Apple MDM Command called AwaitingConfiguration.  This item delivers this Apple MDM command to iOS and ipadOS devices using ADE.",
+  "pubDate": "Mon, 08 May 2023 23:46:26 -0700",
+  "updated": "2023-08-23T06:13:11+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": "June CY2023"
 }

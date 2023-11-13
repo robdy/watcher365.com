@@ -1,41 +1,25 @@
 {
   "timestamp": "2023-04-19T02:28:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "Excel",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Outlook",
-      "PowerPoint",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "Excel",
-      "GCC",
-      "General Availability",
-      "iOS",
-      "Launched",
-      "Mac",
-      "Outlook",
-      "PowerPoint",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "March CY2023",
-    "newValue": "April CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": "January CY2023",
-    "newValue": "March CY2023"
-  }
+  "guid": "98135",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98135",
+  "category": [
+    "Android",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "General Availability",
+    "iOS",
+    "Launched",
+    "Mac",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: Office apps can now audit protection properties applied to a document through sensitivity labels",
+  "description": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore",
+  "pubDate": "Fri, 07 Oct 2022 22:20:53 -0700",
+  "updated": "2023-04-18T06:18:01+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "March CY2023"
 }

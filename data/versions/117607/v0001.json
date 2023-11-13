@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-04-04T02:26:52.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Physical access indicators and connectors (U.S. Government clouds)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "This feature allows admins to define priority physical assets. With priority physical assets enabled and the physical badging data connector configured, Insider Risk Management can correlate signals from an organization’s physical control and access systems with other user activities to help make more informed response decisions for alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "June CY2023"
-  }
+  "guid": "117607",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117607",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Physical access indicators and connectors (U.S. Government clouds)",
+  "description": "This feature allows admins to define priority physical assets. With priority physical assets enabled and the physical badging data connector configured, Insider Risk Management can correlate signals from an organization’s physical control and access systems with other user activities to help make more informed response decisions for alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 03 Apr 2023 23:09:25 -0700",
+  "updated": "2023-04-04T06:09:25+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

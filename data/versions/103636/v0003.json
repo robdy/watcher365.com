@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-04-05T02:15:36.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Defender for Office 365",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Microsoft Defender for Office 365",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "103636",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103636",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Microsoft Defender for Office 365",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Office 365: Evaluations in audit mode",
+  "description": "We are adding several new capabilities to our audit mode, which is used to evaluate Defender for Office 365 through a trial or a subscription that includes Defender for Office 365 Plan 2. 1) Security Administrators can now turn on/off specific evaluation policies. 2) You can now evaluate domain and user impersonation protection in audit mode where no action on messages will be taken. 3) If your organization’s MX is pointed to a 3rd party email filtering provider and you want to evaluate spoof filtering in Defender for Office 365, you will be able to do so in audit mode where no action, such as send to junk/quarantine, on messages will be taken.",
+  "pubDate": "Wed, 07 Dec 2022 00:06:35 -0800",
+  "updated": "2023-04-05T06:26:30+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2023",
+  "publicPreviewDate": null
 }

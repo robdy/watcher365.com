@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-10-24T02:16:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "163967",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163967",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Require background blur when no background is selected (Premium)",
+  "description": "When enabled, if a user does not have a background image applied their video background will be blurred.",
+  "pubDate": "Wed, 27 Sep 2023 23:23:57 -0700",
+  "updated": "2023-10-24T06:21:59+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

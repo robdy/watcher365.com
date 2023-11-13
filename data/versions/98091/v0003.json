@@ -1,38 +1,26 @@
 {
   "timestamp": "2023-05-10T02:25:55.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Stream",
-      "Office 365",
-      "SharePoint",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Stream",
-      "Office 365",
-      "Preview",
-      "SharePoint",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "July CY2023",
-    "newValue": "September CY2023"
-  }
+  "guid": "98091",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98091",
+  "category": [
+    "Android",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Microsoft Stream",
+    "Office 365",
+    "Preview",
+    "SharePoint",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint on Stream: Inline playback of videos in SharePoint Highlighted content web parts for grid, carousel and filmstrip layouts",
+  "description": ",When users click to play a video in a Highlighted content web part (Grid, Carousel or filmstrip layouts) section of a SharePoint site, the video will play inline. This feature allows users to watch a video without being taken off the SharePoint page and keeps the video playing while users to browse/scroll through the other contents of the page.",
+  "pubDate": "Thu, 25 Aug 2022 23:45:13 -0700",
+  "updated": "2023-05-10T06:01:25+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "July CY2023"
 }

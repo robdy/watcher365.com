@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-06-20T02:32:09.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "OneDrive",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "OneDrive",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "124868",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124868",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Mac",
+    "OneDrive",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "OneDrive: Configure Sync Setting to excluded specific files",
+  "description": "This feature will allow you to configure OneDrive Sync Setting to exclude selected files and selected file types from syncing to OneDrive. When available the configuration settings will be located in the OneDrive admin center.",
+  "pubDate": "Wed, 14 Jun 2023 23:31:18 -0700",
+  "updated": "2023-06-20T06:27:53+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

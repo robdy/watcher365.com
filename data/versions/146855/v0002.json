@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-10-28T02:13:00.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "iOS",
-      "Microsoft Teams",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "146855",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=146855",
+  "category": [
+    "Android",
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "iOS",
+    "Microsoft Teams",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Scheduling improvements in Shifts app",
+  "description": "In the Shifts app,\npeople count, and full names, will show in the calendar view. The most recent\nfilter settings will be saved automatically. Managers will be able to add\ninline notes in the day view, and notes can also be added using the Graph API.",
+  "pubDate": "Wed, 27 Sep 2023 23:23:52 -0700",
+  "updated": "2023-10-28T05:08:54+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

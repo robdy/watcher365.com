@@ -1,29 +1,23 @@
 {
   "timestamp": "2023-07-12T02:51:41.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Targeted Release (Entire Organization)",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "123975",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123975",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Targeted Release (Entire Organization)",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Ability to block meeting chat access in external, non-trusted meeting joins.",
+  "description": "Public Description: This feature enables IT Admin\nto block regulated, internal users to access chat when these users attend\nmeetings organized by external non-trusted tenants.",
+  "pubDate": "Mon, 17 Apr 2023 23:24:27 -0700",
+  "updated": "2023-07-12T06:36:38+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": null
 }

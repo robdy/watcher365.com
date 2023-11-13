@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-08-25T02:14:33.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Cancelled",
-      "GCC",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",All files detected by the AIP_Onprem_scanner via the 'Discover' event will be showcased in the Content explorer under two new on-premises locations: File Share and SharePoint Server.  <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-content-explorer?view=o365-worldwide",
-    "newValue": ",All files detected by the AIP_Onprem_scanner via the 'Discover' event will be showcased in the Content explorer under two new on-premises locations: File Share and SharePoint Server. This item is no longer scheduled and will be removed from the roadmap.  <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-content-explorer?view=o365-worldwide"
-  }
+  "guid": "88529",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88529",
+  "category": [
+    "Cancelled",
+    "GCC",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal:  AIP client and scanner data surfaced in Content explorer",
+  "description": ",All files detected by the AIP_Onprem_scanner via the 'Discover' event will be showcased in the Content explorer under two new on-premises locations: File Share and SharePoint Server. This item is no longer scheduled and will be removed from the roadmap.  <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/data-classification-content-explorer?view=o365-worldwide",
+  "pubDate": "Fri, 03 Dec 2021 02:02:42 -0800",
+  "updated": "2023-08-25T06:09:47+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2024",
+  "publicPreviewDate": "January CY2024"
 }

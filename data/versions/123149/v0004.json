@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-11-01T02:20:02.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "123149",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123149",
+  "category": [
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Unique join links for external presenters in Webinars",
+  "description": "When organizers set up events and add external\npresenters, these presenters will receive unique join links for the webinar.\nThis unique link allows the external presenter to automatically bypass the\nlobby and join a webinar directly as a presenter role.",
+  "pubDate": "Mon, 14 Aug 2023 23:13:38 -0700",
+  "updated": "2023-11-01T06:22:49+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

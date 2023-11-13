@@ -1,7 +1,21 @@
 {
   "timestamp": "2023-07-11T02:45:42.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "July CY2023"
-  }
+  "guid": "124864",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124864",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Peer group anomaly detection",
+  "description": "With this update, Insider Risk Management can detect exfiltration anomalies when compared with users in similar groups or roles. Insider Risk Management defines similar user groups by grouping together users who access the same SharePoint Online destinations, who are in the same team, or who have similar job titles as configured in Azure AD. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Tue, 25 Apr 2023 23:12:48 -0700",
+  "updated": "2023-07-11T03:58:40+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": null
 }

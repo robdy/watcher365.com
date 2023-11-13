@@ -1,26 +1,19 @@
 {
   "timestamp": "2023-08-17T02:11:17.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: [OCR] [ODSP] OCR Support for embedded images on SPOD"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Currently, OCR is available only for standalone Images. \n\nAim is to Support OCR for images embedded in: \n1. Hybrid PDF file - PDF files with both images and searchable text\n2. Office files - DOCX, PPTX, XLSX\n3. Container files - zip, rar, 7z, etc."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "December CY2023"
-  }
+  "guid": "160010",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160010",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: [OCR] [ODSP] OCR Support for embedded images on SPOD",
+  "description": "Currently, OCR is available only for standalone Images. \n\nAim is to Support OCR for images embedded in: \n1. Hybrid PDF file - PDF files with both images and searchable text\n2. Office files - DOCX, PPTX, XLSX\n3. Container files - zip, rar, 7z, etc.",
+  "pubDate": "Wed, 16 Aug 2023 23:17:42 -0700",
+  "updated": "2023-08-17T06:17:42+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2023",
+  "publicPreviewDate": null
 }

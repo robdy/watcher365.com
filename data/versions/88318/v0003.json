@@ -1,36 +1,19 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",This feature will update default tag management settings in\nthe Teams Admin Center to include ”Team owners and members\" and not just\n\"Team owners.” You can still update this to only \"Team owners\"\nat the tenant level and override the default.",
-    "newValue": ",This feature will update default tag management settings in the Teams Admin Center to include ”Microsoft Default\" along with Team owners and members\" and \"Team owners.” You can update this to your preferred option of \"Team owners\" or \"Team owners and members\" at the tenant level and override the default."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "July CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": "November CY2021",
-    "newValue": "June CY2023"
-  }
+  "guid": "88318",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88318",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: New Tag Management Settings",
+  "description": ",This feature will update default tag management settings in the Teams Admin Center to include ”Microsoft Default\" along with Team owners and members\" and \"Team owners.” You can update this to your preferred option of \"Team owners\" or \"Team owners and members\" at the tenant level and override the default.",
+  "pubDate": "Tue, 26 Oct 2021 23:14:46 -0700",
+  "updated": "2023-06-16T06:11:00+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": "June CY2023"
 }

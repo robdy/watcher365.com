@@ -1,31 +1,24 @@
 {
   "timestamp": "2023-10-25T02:15:47.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "144248",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=144248",
+  "category": [
+    "Android",
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Choose which users to notify when publishing a task list",
+  "description": "The task publishing experience in Microsoft Teams will soon allow you to choose which users to notify when you publish or unpublish a task list. In response to customer requests, you'll soon have the ability to choose which members of teams receiving the tasks should get a notification in their Teams activity feed: all owners and members, owners only, or no one. Similarly, you will be able to choose who to notify when unpublishing a task list.",
+  "pubDate": "Mon, 31 Jul 2023 23:16:05 -0700",
+  "updated": "2023-10-25T06:06:36+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

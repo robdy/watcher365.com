@@ -1,11 +1,21 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "An IT admin can turn on \"owners can delete sent messages\" and assign this messaging policy to a user or group of users. This policy must be applied before channel owner/s can see \"owners can delete sent messages\" option on Member Permissions through Manage Team - Settings. If this option is enabled, channel owner/s who were assigned the policy will be permitted to delete chat messages in the main window and meeting window.<br>GA date: June CY2022",
-    "newValue": "An IT admin can turn on \"owners can delete sent messages\" and assign this messaging policy to a user or group of users. This policy must be applied before channel owner/s can see \"owners can delete sent messages\" option on Member Permissions through Manage Team - Settings. If this option is enabled, channel owner/s who were assigned the policy will be permitted to delete chat messages in the main window and meeting window."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "June CY2022"
-  }
+  "guid": "91320",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91320",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Mac",
+    "Microsoft Teams"
+  ],
+  "title": "Microsoft Teams: Channel owner/s can delete meeting chat messages within channel meetings for government clouds",
+  "description": "An IT admin can turn on \"owners can delete sent messages\" and assign this messaging policy to a user or group of users. This policy must be applied before channel owner/s can see \"owners can delete sent messages\" option on Member Permissions through Manage Team - Settings. If this option is enabled, channel owner/s who were assigned the policy will be permitted to delete chat messages in the main window and meeting window.",
+  "pubDate": "Mon, 16 May 2022 23:10:43 -0700",
+  "updated": "2022-07-26T06:01:57+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2022",
+  "publicPreviewDate": null
 }

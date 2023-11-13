@@ -1,31 +1,20 @@
 {
   "timestamp": "2023-07-26T02:31:59.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "description": {
-    "oldValue": "This update enables organizations to automatically apply retention labels to the version of files shared as cloud attachments, which are live links of SharePoint or OneDrive content that can be shared via emails or Teams messages.",
-    "newValue": "This update enables organizations to automatically apply retention labels to the version of files shared as cloud attachments, which are live links of SharePoint or OneDrive content that can be shared via emails or Teams messages. Note:  The status and date were incorrect and have been changed to reflect current plans. We apologize for any inconvenience this may have caused."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "September CY2023"
-  }
+  "guid": "106100",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=106100",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Retention support for files shared as cloud attachments or links (U.S. Government clouds)",
+  "description": "This update enables organizations to automatically apply retention labels to the version of files shared as cloud attachments, which are live links of SharePoint or OneDrive content that can be shared via emails or Teams messages. Note:  The status and date were incorrect and have been changed to reflect current plans. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Tue, 13 Jun 2023 23:12:31 -0700",
+  "updated": "2023-07-26T06:06:27+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": null
 }

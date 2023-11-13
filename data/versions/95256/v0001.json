@@ -1,21 +1,16 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Teams: End to end encryption for one-to-one calls in Teams Rooms on Windows"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Teams Rooms on Windows can be configured to encrypt all person-to-person (P2P) calls. The callee must also have encryption setting turned on. When in an encrypted call, both caller and callee can verify encryption key to make sure the call is end to end encrypted and secure.<br>GA date: August CY2022"
-  }
+  "guid": "95256",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=95256",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Microsoft Teams",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: End to end encryption for one-to-one calls in Teams Rooms on Windows",
+  "description": "Teams Rooms on Windows can be configured to encrypt all person-to-person (P2P) calls. The callee must also have encryption setting turned on. When in an encrypted call, both caller and callee can verify encryption key to make sure the call is end to end encrypted and secure.<br>GA date: August CY2022",
+  "pubDate": "Wed, 03 Aug 2022 23:10:31 -0700",
+  "updated": "2022-08-09T06:06:13+00:00"
 }

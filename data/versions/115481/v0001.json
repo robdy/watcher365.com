@@ -1,28 +1,23 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Current Channel",
-      "Current Channel (Preview)",
-      "Desktop",
-      "Excel",
-      "GCC",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Outlook",
-      "PowerPoint",
-      "Preview",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview | Information Protection: Assign a sublabel as the default when a parent label is selected in Word, Excel, PowerPoint, and Outlook"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",When using built-in sensitivity labels in Microsoft 365 Apps, admins can specify a sublabel to get applied automatically when a parent label is selected. This takes effect only when users select a parent label manually.<br>GA date: February CY2023<br>Preview date: January CY2023"
-  }
+  "guid": "115481",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=115481",
+  "category": [
+    "Current Channel",
+    "Current Channel (Preview)",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Outlook",
+    "PowerPoint",
+    "Preview",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: Assign a sublabel as the default when a parent label is selected in Word, Excel, PowerPoint, and Outlook",
+  "description": ",When using built-in sensitivity labels in Microsoft 365 Apps, admins can specify a sublabel to get applied automatically when a parent label is selected. This takes effect only when users select a parent label manually.<br>GA date: February CY2023<br>Preview date: January CY2023",
+  "pubDate": "Thu, 09 Feb 2023 00:15:55 -0800",
+  "updated": "2023-02-09T08:10:40+00:00"
 }

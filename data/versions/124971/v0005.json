@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-10-25T02:15:47.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "124971",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124971",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management – Cumulative exfiltration detection tuning",
+  "description": ",With this update, cumulative exfiltration activities will no longer be detected and scored if they have already been identified in a previous cumulative exfiltration alert. This change will reduce unnecessary alerts generated from cumulative exfiltration activities. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Tue, 30 May 2023 23:33:22 -0700",
+  "updated": "2023-10-25T06:06:36+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2024",
+  "publicPreviewDate": "September CY2023"
 }

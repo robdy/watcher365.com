@@ -1,11 +1,22 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "Shared device mode for iOS is an Azure Active Directory (AAD) capability supported by apps that allows you to initiate a global app sign in/ sign-out by any supported applications.   <br>GA date: December CY2022",
-    "newValue": "Shared device mode for iOS is an Azure Active Directory (AAD) capability supported by apps that allows you to initiate a global app sign in/ sign-out by any supported applications."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "December CY2022"
-  }
+  "guid": "82130",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=82130",
+  "category": [
+    "DoD",
+    "Education",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Microsoft Intune",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Enroll iOS devices into Azure AD Shared device mode",
+  "description": "Shared device mode for iOS is an Azure Active Directory (AAD) capability supported by apps that allows you to initiate a global app sign in/ sign-out by any supported applications.",
+  "pubDate": "Tue, 19 Oct 2021 23:14:02 -0700",
+  "updated": "2022-08-24T06:18:54+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2022",
+  "publicPreviewDate": null
 }

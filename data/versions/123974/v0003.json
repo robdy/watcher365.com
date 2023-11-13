@@ -1,32 +1,23 @@
 {
   "timestamp": "2023-05-09T02:30:20.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "May CY2023"
-  }
+  "guid": "123974",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123974",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Targeted Release (Entire Organization)",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Block anonymous users' meeting chat read access in addition to current write access",
+  "description": "This feature enables IT admins to block\nanonymous users from accessing the chat in internally hosted meetings by\ndisabling the read access on top of the existing disabled write access.",
+  "pubDate": "Thu, 20 Apr 2023 23:26:02 -0700",
+  "updated": "2023-05-09T06:42:07+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

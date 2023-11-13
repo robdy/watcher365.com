@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-04-20T02:26:01.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Beta Channel",
-      "Desktop",
-      "In development",
-      "Microsoft Intune",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Beta Channel",
-      "Desktop",
-      "Microsoft Intune",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "109491",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109491",
+  "category": [
+    "Beta Channel",
+    "Desktop",
+    "Microsoft Intune",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Intune: Endpoint Privilege Management",
+  "description": ",Allows administrators to elevate end-user permissions to perform approved administrative actions only when needed on their desktop computers.",
+  "pubDate": "Fri, 10 Feb 2023 00:18:32 -0800",
+  "updated": "2023-04-20T06:21:08+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "March CY2023"
 }

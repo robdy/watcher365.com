@@ -1,11 +1,22 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "A common request from Exchange Online admins is for the ability to customize the organizations message expiration timeout. When a message can't be delivered immediately due to a transient error, it will queue up and be periodically retried until either the message is sent or until the message expires 24 hours later. For some messages, 24 hours can be too long to wait only to find out a message wasn't delivered. So, we're introducing the ability for admins to customize the message expiration timeout to be less than 24 hours. <br>GA date: October CY2022",
-    "newValue": "A common request from Exchange Online admins is for the ability to customize the organizations message expiration timeout. When a message can't be delivered immediately due to a transient error, it will queue up and be periodically retried until either the message is sent or until the message expires 24 hours later. For some messages, 24 hours can be too long to wait only to find out a message wasn't delivered. So, we're introducing the ability for admins to customize the message expiration timeout to be less than 24 hours."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "October CY2022"
-  }
+  "guid": "93315",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93315",
+  "category": [
+    "Desktop",
+    "DoD",
+    "Exchange",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Mac",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Exchange: Customizable Message Expiration",
+  "description": "A common request from Exchange Online admins is for the ability to customize the organizations message expiration timeout. When a message can't be delivered immediately due to a transient error, it will queue up and be periodically retried until either the message is sent or until the message expires 24 hours later. For some messages, 24 hours can be too long to wait only to find out a message wasn't delivered. So, we're introducing the ability for admins to customize the message expiration timeout to be less than 24 hours.",
+  "pubDate": "Tue, 17 May 2022 23:00:40 -0700",
+  "updated": "2022-10-28T06:17:01+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2022",
+  "publicPreviewDate": null
 }

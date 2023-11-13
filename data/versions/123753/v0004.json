@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-08-29T02:44:31.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "123753",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123753",
+  "category": [
+    "Android",
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Teams",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Call delegation feature enhancements",
+  "description": "Shared line appearance lets a user choose a\ndelegate to answer or handle calls on their behalf. We are launching a\nsimplified experience for users who have set up call delegation which will be\navailable on the Teams desktop app and Teams phone devices. The new UI will\nallow delegates to easily switch between the different delegator lines they\nmanage and view call history for the delegator’s line.\nDelegators will be able to view and join active calls handled by the delegate\nand grant delegates permission to join active calls.",
+  "pubDate": "Tue, 06 Jun 2023 23:21:20 -0700",
+  "updated": "2023-08-29T06:37:12+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

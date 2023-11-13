@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-06-07T02:48:59.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "117608",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117608",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy customization from alert review experience",
+  "description": "This feature allows admins to customize an Insider Risk Management policy and adjust policy thresholds from within the alert review experience instead of going through the policy configuration wizard, so customization decisions can be made in the context of alert review activities. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 03 Apr 2023 23:19:26 -0700",
+  "updated": "2023-06-07T06:16:50+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

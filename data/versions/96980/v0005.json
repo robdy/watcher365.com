@@ -1,29 +1,23 @@
 {
   "timestamp": "2023-09-20T02:15:12.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Cancelled",
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "96980",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=96980",
+  "category": [
+    "Android",
+    "Cancelled",
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Resources-specific consent apps",
+  "description": ",Admins will be allowed to pre-approve apps using\nresource-specific consent (RSC) permissions, so that users can install them\neven when RSC is otherwise turned off.",
+  "pubDate": "Wed, 17 May 2023 23:09:48 -0700",
+  "updated": "2023-09-20T06:02:34+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": "September CY2023"
 }

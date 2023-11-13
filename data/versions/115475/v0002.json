@@ -1,15 +1,24 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": ",This feature is for PowerBI creators who import data to PowerBI datasets or PowerBI Desktop files from Excel files applied with sensitivity label and/or Synapse, SQL databases that are classified with sensitivity labels. By default, PowerBI datasets and PBIX files will automatically inherit the sensitivity label from the source if perquisite conditions are met.<br>GA date: July CY2023<br>Preview date: August CY2021",
-    "newValue": ",This feature is for PowerBI creators who import data to PowerBI datasets or PowerBI Desktop files from Excel files applied with sensitivity label and/or Synapse, SQL databases that are classified with sensitivity labels. By default, PowerBI datasets and PBIX files will automatically inherit the sensitivity label from the source if perquisite conditions are met."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "July CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "August CY2021"
-  }
+  "guid": "115475",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=115475",
+  "category": [
+    "Desktop",
+    "DoD",
+    "Excel",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Power BI",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - | Maintain label and protection when import data to PowerBI (Web and Desktop)",
+  "description": ",This feature is for PowerBI creators who import data to PowerBI datasets or PowerBI Desktop files from Excel files applied with sensitivity label and/or Synapse, SQL databases that are classified with sensitivity labels. By default, PowerBI datasets and PBIX files will automatically inherit the sensitivity label from the source if perquisite conditions are met.",
+  "pubDate": "Fri, 20 Jan 2023 23:27:35 -0800",
+  "updated": "2023-01-21T07:19:19+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": "August CY2021"
 }

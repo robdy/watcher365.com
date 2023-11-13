@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-08-10T02:29:46.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "Microsoft Stream",
-      "Mobile",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Microsoft Stream",
-      "Mobile",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "93298",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93298",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Microsoft Stream",
+    "Mobile",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Stream: Timeline markers in Teams meeting recordings for when you left or joined meetings",
+  "description": "We are adding markers (which appear as icons above the video timeline) in Teams meeting recording timelines to indicate when you joined or left a meeting. The markers are personalized, so that only you will see your join and leave marker. The markers help you jump right to part of a meeting that you may have missed. Markers will only show up on recordings of Teams meeting that you were invited to and that you joined.",
+  "pubDate": "Wed, 18 May 2022 23:05:08 -0700",
+  "updated": "2023-08-10T06:12:36+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2022",
+  "publicPreviewDate": null
 }

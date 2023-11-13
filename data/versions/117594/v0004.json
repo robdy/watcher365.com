@@ -1,36 +1,23 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Excel",
-      "GCC",
-      "General Availability",
-      "Microsoft Information Protection",
-      "PowerPoint",
-      "Rolling out",
-      "Web",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Excel",
-      "GCC",
-      "General Availability",
-      "Launched",
-      "Microsoft 365 app",
-      "Microsoft Information Protection",
-      "PowerPoint",
-      "Web",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": "Microsoft Purview Information Protection in Microsoft 365 Apps | Office Apps on the Web can create PDFs that inherit the source files sensitivity labels",
-    "newValue": "Microsoft Information Protection: Microsoft 365 Apps | Office Apps on the Web can create PDFs that inherit the source files sensitivity labels"
-  },
-  "description": {
-    "oldValue": "PDFs created from Word, Excel, and PowerPoint will inherit their source files sensitivity labels in Office for the Web when the label is unencrypted.",
-    "newValue": "PDFs  created from Word, Excel, and PowerPoint will inherit their source files sensitivity labels in Office for the Web when the label is unencrypted.  "
-  }
+  "guid": "117594",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117594",
+  "category": [
+    "Excel",
+    "GCC",
+    "General Availability",
+    "Launched",
+    "Microsoft 365 app",
+    "Microsoft Information Protection",
+    "PowerPoint",
+    "Web",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Information Protection: Microsoft 365 Apps | Office Apps on the Web can create PDFs that inherit the source files sensitivity labels",
+  "description": "PDFs  created from Word, Excel, and PowerPoint will inherit their source files sensitivity labels in Office for the Web when the label is unencrypted.  ",
+  "pubDate": "Thu, 23 Mar 2023 23:13:36 -0700",
+  "updated": "2023-06-14T06:09:51+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

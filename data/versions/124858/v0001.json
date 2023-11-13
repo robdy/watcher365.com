@@ -1,30 +1,19 @@
 {
   "timestamp": "2023-04-28T02:27:53.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Activity explorer export limit increase"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",The activity explorer's export limit will increase from 10K to 100K records. This update will benefit organizations that prefer exporting user activity insights to a CSV file, as they now can filter, sort, or pivot a bigger data set more conveniently. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "May CY2023"
-  }
+  "guid": "124858",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124858",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Activity explorer export limit increase",
+  "description": ",The activity explorer's export limit will increase from 10K to 100K records. This update will benefit organizations that prefer exporting user activity insights to a CSV file, as they now can filter, sort, or pivot a bigger data set more conveniently. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Thu, 27 Apr 2023 23:15:39 -0700",
+  "updated": "2023-04-28T06:15:39+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "May CY2023"
 }

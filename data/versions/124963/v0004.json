@@ -1,7 +1,18 @@
 {
   "timestamp": "2023-11-07T02:18:57.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "October CY2023",
-    "newValue": "December CY2023"
-  }
+  "guid": "124963",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124963",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Edge",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Edge: Enhanced security mode on by default",
+  "description": "Enhanced security mode is being turned on by default to “Balanced” mode for x64 Windows, x64 macOS, x64 Linux, and ARM64 systems.  Also, administrators have 2 new policies to manage the Enhanced security mode user experience: EnhanceSecurityModeIndicatorUIEnabled and EnhanceSecurityModeOptOutUXEnabled.<br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-security-browse-safer",
+  "pubDate": "Thu, 01 Jun 2023 23:31:38 -0700",
+  "updated": "2023-11-07T08:35:51+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2023",
+  "publicPreviewDate": null
 }

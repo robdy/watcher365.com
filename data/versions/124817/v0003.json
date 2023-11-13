@@ -1,3 +1,21 @@
 {
-  "timestamp": "2023-09-08T02:14:45.0000000+00:00"
+  "timestamp": "2023-09-08T02:14:45.0000000+00:00",
+  "guid": "124817",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124817",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Label footers enhancement for emails (U.S. Government clouds)",
+  "description": ",When labels are configured to add footers, currently the footers accumulate at the very bottom of long email chains. This enhancement now adds footers at the bottom of the most recent reply instead of at the bottom of the whole email thread. Note that this feature supports emails formatted as HTML or PlainText. Support for Rich Text email formats is legacy and will not be improved in Outlook. For emails formatted as Rich Text, label footers will continue to accumulate at the bottom of email threads as before.",
+  "pubDate": "Thu, 20 Apr 2023 23:26:06 -0700",
+  "updated": "2023-09-08T06:58:43+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "August CY2023"
 }

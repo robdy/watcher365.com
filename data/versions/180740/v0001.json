@@ -1,25 +1,18 @@
 {
   "timestamp": "2023-10-10T02:15:36.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Audit - New Yammer / Viva Engage Logs for Microsoft Purview Audit Standard Users"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview is\nexpanding access to wider cloud security events for Microsoft Viva Engage\n(formerly known as Yammer). As part of the changes, standard users of Purview\nAudit will begin to generate 6 new Microsoft Viva Engage events that were\npreviously generated only for Audit Premium licensed users. The following\nevents will now be provided for all Audit Standard users: 1. ThreadViewed; 2.\nThreadAccessFailure; 3. MessageUpdated; 4. FileAccessFailure; 5.\nMessageCreation; 6. GroupAccessFailure"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "November CY2023"
-  }
+  "guid": "180740",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180740",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Audit - New Yammer / Viva Engage Logs for Microsoft Purview Audit Standard Users",
+  "description": "Microsoft Purview is\nexpanding access to wider cloud security events for Microsoft Viva Engage\n(formerly known as Yammer). As part of the changes, standard users of Purview\nAudit will begin to generate 6 new Microsoft Viva Engage events that were\npreviously generated only for Audit Premium licensed users. The following\nevents will now be provided for all Audit Standard users: 1. ThreadViewed; 2.\nThreadAccessFailure; 3. MessageUpdated; 4. FileAccessFailure; 5.\nMessageCreation; 6. GroupAccessFailure",
+  "pubDate": "Mon, 09 Oct 2023 23:12:55 -0700",
+  "updated": "2023-10-10T06:12:55+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

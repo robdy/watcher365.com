@@ -1,25 +1,17 @@
 {
   "timestamp": "2023-03-08T02:48:12.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Cancelled",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",Given the sensitivity of Audit log data, many organizations want to add additional layers of protection, including encryption. Microsoft Purview Customer Key allows organizations to use their own keys giving them control over their encryption. With this update, admins will have the ability to encrypt their Audit log data using Customer Key.<br>GA date: March CY2023<br>Preview date: March CY2023",
-    "newValue": ",This feature is postponed indefinitely. Given the sensitivity of Audit log data, many organizations want to add additional layers of protection, including encryption. Microsoft Purview Customer Key allows organizations to use their own keys giving them control over their encryption. With this update, admins will have the ability to encrypt their Audit log data using Customer Key. <br>GA date: March CY2023<br>Preview date: March CY2023"
-  }
+  "guid": "98201",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98201",
+  "category": [
+    "Cancelled",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal:  Audit Support for Customer Key",
+  "description": ",This feature is postponed indefinitely. Given the sensitivity of Audit log data, many organizations want to add additional layers of protection, including encryption. Microsoft Purview Customer Key allows organizations to use their own keys giving them control over their encryption. With this update, admins will have the ability to encrypt their Audit log data using Customer Key. <br>GA date: March CY2023<br>Preview date: March CY2023",
+  "pubDate": "Tue, 20 Sep 2022 23:13:14 -0700",
+  "updated": "2022-11-23T08:16:10+00:00"
 }

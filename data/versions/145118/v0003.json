@@ -1,11 +1,18 @@
 {
   "timestamp": "2023-07-29T02:21:09.0000000+00:00",
-  "description": {
-    "oldValue": "Organizations can use Microsoft Graph APIs to manage retention labels on items in SharePoint and OneDrive. This update includes the ability to apply and remove retention labels on items, get information about retention labels applied to items, and lock/unlock labels that classify content as records.",
-    "newValue": ",Organizations can use Microsoft Graph APIs to manage retention labels on items in SharePoint and OneDrive. This update includes the ability to apply and remove retention labels on items, get information about retention labels applied to items, and lock/unlock labels that classify content as records."
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "January CY2024"
-  }
+  "guid": "145118",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145118",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management – New Microsoft Graph APIs for retention labels in SharePoint and OneDrive",
+  "description": ",Organizations can use Microsoft Graph APIs to manage retention labels on items in SharePoint and OneDrive. This update includes the ability to apply and remove retention labels on items, get information about retention labels applied to items, and lock/unlock labels that classify content as records.",
+  "pubDate": "Thu, 29 Jun 2023 23:29:56 -0700",
+  "updated": "2023-07-29T05:11:28+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2024",
+  "publicPreviewDate": "January CY2024"
 }

@@ -1,25 +1,21 @@
 {
-  "timestamp": "2023-07-29T02:21:09.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "SharePoint",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "SharePoint",
-      "Web"
-    ]
-  }
+  "timestamp": "2023-03-09T21:11:53.0000000+00:00",
+  "guid": "93362",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93362",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "SharePoint",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - | Application of a “default label” to an unlabeled file uploaded to a SharePoint Online document library (U.S. Government clouds)",
+  "description": "With this update, all newly uploaded documents to a document library can \"inherit\" the configured label for the document library (if not already labeled).",
+  "pubDate": "Fri, 24 Jun 2022 22:07:16 -0700",
+  "updated": "2022-11-09T08:08:01+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

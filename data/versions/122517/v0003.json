@@ -1,20 +1,18 @@
 {
   "timestamp": "2023-06-22T02:39:40.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Developer",
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Developer",
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "122517",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122517",
+  "category": [
+    "Developer",
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Export API Support for Teams Control Messages",
+  "description": "Control Messages are system generated messages\non Teams client when an activity or event occurs. For example, User A was added\nUser B to a chat and shared all chat history. Export API, a compliance\narchiving solution for Teams, goes beyond user generated Teams message and\nprovides support to archive Teams control messages. As part of this release,\nExport API will support member add and member remove messages in the context of\nTeams, chats, and channels.",
+  "pubDate": "Thu, 27 Apr 2023 23:19:34 -0700",
+  "updated": "2023-06-22T06:11:41+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

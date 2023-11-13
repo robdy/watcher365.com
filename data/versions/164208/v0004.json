@@ -1,7 +1,24 @@
 {
   "timestamp": "2023-10-12T02:14:34.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "August CY2023",
-    "newValue": "October CY2023"
-  }
+  "guid": "164208",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164208",
+  "category": [
+    "Current Channel",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "PowerPoint",
+    "Preview",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Microsoft Purview Information Protection Tracking and Revocation - File Registration",
+  "description": "When a sensitivity label is used to encrypt an Office file, it is automatically registered for tracking, and previously label-protected Office files are registered the next time they are opened in an updated client. This only applies to local files. Compliance administrators can track and revoke access to registered Office files.",
+  "pubDate": "Thu, 17 Aug 2023 23:22:52 -0700",
+  "updated": "2023-10-12T06:29:13+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

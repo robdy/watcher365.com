@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-04-19T02:28:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "General Availability",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "100974",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100974",
+  "category": [
+    "Android",
+    "Desktop",
+    "General Availability",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Geo filtering for Teams apps",
+  "description": "ISV's can now target applications to select\ngeographies (countries/regions) via partner center. Thus, users will only see\napps relevant for them given their country and region.",
+  "pubDate": "Fri, 24 Feb 2023 23:13:46 -0800",
+  "updated": "2023-04-19T06:23:54+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": null
 }

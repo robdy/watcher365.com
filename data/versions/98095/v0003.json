@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-05-24T02:31:20.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "98095",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98095",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Data loss prevention: Contextual evidence match for Endpoint DLP",
+  "description": ",With this update you will be able to see the matched sensitive information type and the context surrounding it (300 characters) as a result of a DLP policy match on your endpoint devices. Now available in public preview.",
+  "pubDate": "Fri, 19 Aug 2022 22:17:33 -0700",
+  "updated": "2023-05-24T06:14:19+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2023",
+  "publicPreviewDate": "October CY2022"
 }

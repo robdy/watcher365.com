@@ -1,31 +1,22 @@
 {
   "timestamp": "2023-05-02T02:27:13.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Microsoft Graph",
-      "Preview",
-      "Rolling out",
-      "SharePoint",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "In development",
-      "Microsoft Graph",
-      "Preview",
-      "SharePoint",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",New graph API to create and manage SharePoint pages and news posts.",
-    "newValue": ",New graph API to create and manage SharePoint pages and news posts.  Correcting the status to \"In Development as only a preview is available at this time."
-  }
+  "guid": "101166",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=101166",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "In development",
+    "Microsoft Graph",
+    "Preview",
+    "SharePoint",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Graph: SharePoint Pages API",
+  "description": ",New graph API to create and manage SharePoint pages and news posts.  Correcting the status to \"In Development as only a preview is available at this time.",
+  "pubDate": "Fri, 14 Oct 2022 22:05:42 -0700",
+  "updated": "2023-05-02T06:26:17+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": "January CY2023"
 }

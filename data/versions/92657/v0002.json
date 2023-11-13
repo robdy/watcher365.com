@@ -1,11 +1,18 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "The EdgeDefaultProfileEnabled policy will allow you to set a default profile to be used when opening the browser rather than the last profile used. This policy will not be applicable if the \"--profile-directory\" parameter has been specified.  <br>GA date: April CY2022",
-    "newValue": "The EdgeDefaultProfileEnabled policy will allow you to set a default profile to be used when opening the browser rather than the last profile used. This policy will not be applicable if the \"--profile-directory\" parameter has been specified."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "April CY2022"
-  }
+  "guid": "92657",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=92657",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Edge",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Edge v.101: Ability to set default profile",
+  "description": "The EdgeDefaultProfileEnabled policy will allow you to set a default profile to be used when opening the browser rather than the last profile used. This policy will not be applicable if the \"--profile-directory\" parameter has been specified.",
+  "pubDate": "Fri, 11 Feb 2022 23:06:35 -0800",
+  "updated": "2022-04-30T04:58:36+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2022",
+  "publicPreviewDate": null
 }

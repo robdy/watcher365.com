@@ -1,25 +1,20 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Teams: Automatic lowering of a user's Raised Hand after speaking"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",To reduce the number of stale raised hands in meetings, we will now suggest users to lower their raised hand after we detect they spoke in the meeting. They will be able to choose to keep their hand raised. If the user doesn't take any action on the suggestion notification, we'll automatically lower their hand. This should ensure smoother meeting facilitation for organizers and presenters.  <br>GA date: March CY2023<br>Preview date: February CY2023"
-  }
+  "guid": "90022",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=90022",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Automatic lowering of a user's Raised Hand after speaking",
+  "description": ",To reduce the number of stale raised hands in meetings, we will now suggest users to lower their raised hand after we detect they spoke in the meeting. They will be able to choose to keep their hand raised. If the user doesn't take any action on the suggestion notification, we'll automatically lower their hand. This should ensure smoother meeting facilitation for organizers and presenters.  <br>GA date: March CY2023<br>Preview date: February CY2023",
+  "pubDate": "Fri, 09 Dec 2022 23:12:43 -0800",
+  "updated": "2022-12-10T07:07:08+00:00"
 }

@@ -1,33 +1,22 @@
 {
   "timestamp": "2023-07-12T02:51:41.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - Enhanced recommendations for no-alert policies"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",With this update, admins with the appropriate permissions can get insights-enhanced recommendations for policies that do not generate alerts on the policy page. The enhancement provides admins with recommended thresholds derived from real-time analytics, making the recommendations highly actionable and enabling the effectiveness of the policy. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "February CY2024"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "September CY2023"
-  }
+  "guid": "146861",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=146861",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - Enhanced recommendations for no-alert policies",
+  "description": ",With this update, admins with the appropriate permissions can get insights-enhanced recommendations for policies that do not generate alerts on the policy page. The enhancement provides admins with recommended thresholds derived from real-time analytics, making the recommendations highly actionable and enabling the effectiveness of the policy. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Tue, 11 Jul 2023 23:36:38 -0700",
+  "updated": "2023-07-12T06:36:38+00:00",
+  "publicDisclosureAvailabilityDate": "February CY2024",
+  "publicPreviewDate": "September CY2023"
 }

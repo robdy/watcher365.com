@@ -1,7 +1,20 @@
 {
   "timestamp": "2023-07-20T02:28:20.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "August CY2023",
-    "newValue": "September CY2023"
-  }
+  "guid": "106092",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=106092",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+  "description": ",With this update, you will be able to detect and protect sensitive content in images and subsequently apply DLP policies to prevent the exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP, and PDF (image only).",
+  "pubDate": "Thu, 30 Mar 2023 23:04:08 -0700",
+  "updated": "2023-07-20T07:24:02+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "April CY2023"
 }

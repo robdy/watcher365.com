@@ -1,31 +1,20 @@
 {
   "timestamp": "2023-09-14T02:14:23.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "description": {
-    "oldValue": "Expand the functionality of DLP Policy Tips in\nOutlook Win32 to support additional\ntop predicates and exceptions, and advanced classification for E5 users.",
-    "newValue": "Expand the functionality of DLP Policy Tips in Outlook Win32 to support additional top predicates and exceptions, and advanced classification for E5 users. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "August CY2023",
-    "newValue": "September CY2023"
-  }
+  "guid": "138577",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=138577",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Policy Tips revamp on Outlook Win32 desktop (U.S. Government clouds)",
+  "description": "Expand the functionality of DLP Policy Tips in Outlook Win32 to support additional top predicates and exceptions, and advanced classification for E5 users. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Fri, 16 Jun 2023 22:08:51 -0700",
+  "updated": "2023-09-14T06:12:47+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": null
 }

@@ -1,7 +1,19 @@
 {
   "timestamp": "2023-06-09T02:53:36.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "July CY2023"
-  }
+  "guid": "117380",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117380",
+  "category": [
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Windows 365",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Windows 365: Downsizing a Cloud PC (Direct Assigned Licenses)",
+  "description": ",An administrator will have the ability to downsize a user's Cloud PC, provided that the admin has licenses in inventory to perform the downgrade. Only available for direct assigned licenses. Downsizing is only supported for vCPU/RAM – not storage.",
+  "pubDate": "Fri, 10 Feb 2023 23:49:23 -0800",
+  "updated": "2023-06-09T06:18:10+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2023",
+  "publicPreviewDate": "September CY2022"
 }

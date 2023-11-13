@@ -1,11 +1,21 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "When OneDrive can't sync a file or folder because its name contains invalid characters, OneDrive can sometimes rename it for you. During automatic renaming, OneDrive replaces each invalid character with an underscore. <br>GA date: August CY2022",
-    "newValue": "When OneDrive can't sync a file or folder because its name contains invalid characters, OneDrive can sometimes rename it for you. During automatic renaming, OneDrive replaces each invalid character with an underscore."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "August CY2022"
-  }
+  "guid": "93425",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93425",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "OneDrive",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "OneDrive: Bulk Automated Rename",
+  "description": "When OneDrive can't sync a file or folder because its name contains invalid characters, OneDrive can sometimes rename it for you. During automatic renaming, OneDrive replaces each invalid character with an underscore.",
+  "pubDate": "Thu, 28 Jul 2022 23:10:24 -0700",
+  "updated": "2022-07-29T06:03:49+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2022",
+  "publicPreviewDate": null
 }

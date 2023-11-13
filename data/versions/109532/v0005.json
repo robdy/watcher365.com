@@ -1,38 +1,26 @@
 {
   "timestamp": "2023-09-13T02:15:04.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "Excel",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Information Protection",
-      "PowerPoint",
-      "Preview",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Current Channel",
-      "Desktop",
-      "DoD",
-      "Excel",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Information Protection",
-      "PowerPoint",
-      "Preview",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed.",
-    "newValue": ",Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused."
-  }
+  "guid": "109532",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109532",
+  "category": [
+    "Current Channel",
+    "Desktop",
+    "DoD",
+    "Excel",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Information Protection",
+    "PowerPoint",
+    "Preview",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview Information Protection: Sensitivity label required to restrict permissions for labeling-enabled users",
+  "description": ",Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Fri, 09 Jun 2023 22:38:01 -0700",
+  "updated": "2023-09-13T06:02:25+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": "August CY2023"
 }

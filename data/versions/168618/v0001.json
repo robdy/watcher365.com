@@ -1,32 +1,21 @@
 {
   "timestamp": "2023-09-12T02:13:25.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "OneDrive",
-      "Preview",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "OneDrive: Offline mode"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",This feature will\nallow you to launch OneDrive in your browser and view, sort, rename, move,\ncopy, delete and files even without internet access. Additionally, for locally\nstored OneDrive files (those that are marked as “always available offline”) you\nwill be able to open and work on these in your browser even if you are offline.\nAll of the changes you make offline will be automatically synced back when\nInternet connection is restored."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "December CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "November CY2023"
-  }
+  "guid": "168618",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168618",
+  "category": [
+    "General Availability",
+    "In development",
+    "OneDrive",
+    "Preview",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "OneDrive: Offline mode",
+  "description": ",This feature will\nallow you to launch OneDrive in your browser and view, sort, rename, move,\ncopy, delete and files even without internet access. Additionally, for locally\nstored OneDrive files (those that are marked as “always available offline”) you\nwill be able to open and work on these in your browser even if you are offline.\nAll of the changes you make offline will be automatically synced back when\nInternet connection is restored.",
+  "pubDate": "Mon, 11 Sep 2023 23:03:56 -0700",
+  "updated": "2023-09-12T06:03:56+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2023",
+  "publicPreviewDate": "November CY2023"
 }

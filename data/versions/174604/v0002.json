@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-10-12T02:14:34.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web"
-    ]
-  }
+  "guid": "174604",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174604",
+  "category": [
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Rolling out",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: eDiscovery - PowerShell hold removal cmdlet for legacy and orphaned holds",
+  "description": "This Cmdlet will be available in the Security & Compliance PowerShell and will enable users to get a list of holds stamped on a location (Mailbox/SPO) and remove a given hold from the location by specifying the ID.",
+  "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+  "updated": "2023-10-12T06:29:13+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

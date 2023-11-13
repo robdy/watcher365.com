@@ -1,11 +1,18 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device and location policies on a specific SharePoint site collection based by simply attaching CA policies to a label.<br>GA date: September CY2022",
-    "newValue": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device and location policies on a specific SharePoint site collection based by simply attaching CA policies to a label."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2022"
-  }
+  "guid": "82115",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=82115",
+  "category": [
+    "GCC",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - | Granular conditional access policies via “Sensitivity Labels” for SharePoint Online sites",
+  "description": "Admins will have the ability to use Azure AD conditional access policies to trigger multi-factor authentication (MFA), device and location policies on a specific SharePoint site collection based by simply attaching CA policies to a label.",
+  "pubDate": "Mon, 26 Jul 2021 23:15:19 -0700",
+  "updated": "2022-11-22T08:04:14+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }

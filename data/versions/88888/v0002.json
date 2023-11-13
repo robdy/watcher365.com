@@ -1,15 +1,25 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": ",Outlook will provide consistent access control on protected emails for delegates and shared mailbox members. For delegates or shared mailbox members, when they have full access of the owner's mailbox but are not allowed to read encrypted email, Outlook will have a new setting to block the owner's protected email access which covers ad-hoc encrypted email as well as email with protected MIP sensitivity labels.   <br>GA date: July CY2022<br>Preview date: June CY2022",
-    "newValue": ",Outlook will provide consistent access control on protected emails for delegates and shared mailbox members. For delegates or shared mailbox members, when they have full access of the owner's mailbox but are not allowed to read encrypted email, Outlook will have a new setting to block the owner's protected email access which covers ad-hoc encrypted email as well as email with protected MIP sensitivity labels."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "July CY2022"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "June CY2022"
-  }
+  "guid": "88888",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88888",
+  "category": [
+    "Android",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "iOS",
+    "Launched",
+    "Mac",
+    "Outlook",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: Delegate access control on protected emails",
+  "description": ",Outlook will provide consistent access control on protected emails for delegates and shared mailbox members. For delegates or shared mailbox members, when they have full access of the owner's mailbox but are not allowed to read encrypted email, Outlook will have a new setting to block the owner's protected email access which covers ad-hoc encrypted email as well as email with protected MIP sensitivity labels.",
+  "pubDate": "Fri, 11 Feb 2022 00:12:45 -0800",
+  "updated": "2022-10-06T06:32:43+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2022",
+  "publicPreviewDate": "June CY2022"
 }

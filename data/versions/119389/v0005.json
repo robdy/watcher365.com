@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-05-24T02:31:20.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "GCC",
-      "General Availability",
-      "Microsoft Teams",
-      "Rolling out",
-      "Teams and Surface Devices",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "GCC",
-      "General Availability",
-      "Launched",
-      "Microsoft Teams",
-      "Teams and Surface Devices",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "119389",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=119389",
+  "category": [
+    "GCC",
+    "General Availability",
+    "Launched",
+    "Microsoft Teams",
+    "Teams and Surface Devices",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Track and pause automatic firmware updates for Android-based Teams devices in the Teams Admin Center",
+  "description": "With this feature, IT admins can track which\nfirmware is being rolled out through automatic updates via the Teams Admin\nCenter and when. Additionally, automatic updates can be paused temporarily,\nallowing time to validate scenarios. This feature is applicable for Teams Rooms\non Android and Android-based Teams Phones, Panels, and displays. <br>More info: https://learn.microsoft.com/en-us/microsoftteams/devices/remote-update",
+  "pubDate": "Thu, 27 Apr 2023 23:19:28 -0700",
+  "updated": "2023-05-24T06:14:20+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

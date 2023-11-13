@@ -1,22 +1,17 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal:  DLP incident management in Microsoft Defender portal"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",This feature provides a singular view for incident management across solutions by making the Microsoft Purview Data Loss Prevention incidents available in the unified incidents queue in the Microsoft Defender portal. In addition, customers can also leverage the Microsoft 365 Defender connector in Microsoft Sentinel to import all DLP incidents into Sentinel to extend correlation, detection, and investigation across additional Microsoft and non-Microsoft data sources and extend automated orchestration flows using Sentinels native SOAR capabilities.<br>GA date: September CY2022<br>Preview date: June CY2022"
-  }
+  "guid": "93322",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93322",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal:  DLP incident management in Microsoft Defender portal",
+  "description": ",This feature provides a singular view for incident management across solutions by making the Microsoft Purview Data Loss Prevention incidents available in the unified incidents queue in the Microsoft Defender portal. In addition, customers can also leverage the Microsoft 365 Defender connector in Microsoft Sentinel to import all DLP incidents into Sentinel to extend correlation, detection, and investigation across additional Microsoft and non-Microsoft data sources and extend automated orchestration flows using Sentinels native SOAR capabilities.<br>GA date: September CY2022<br>Preview date: June CY2022",
+  "pubDate": "Tue, 24 May 2022 23:00:08 -0700",
+  "updated": "2022-10-12T06:46:44+00:00"
 }

@@ -1,21 +1,16 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Insider Risk Management – Forensic evidence"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "The forensic evidence capability is an opt-in add-in to Insider Risk Management, helping customers’ security teams get visual insights into potentially risky user actions that might lead to a data security incident. Forensic evidence is off by default and policy creation requires dual authorization. Customers determine what triggers the feature and manage investigation processes. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. <br>GA date: March CY2023"
-  }
+  "guid": "109540",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109540",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management – Forensic evidence",
+  "description": "The forensic evidence capability is an opt-in add-in to Insider Risk Management, helping customers’ security teams get visual insights into potentially risky user actions that might lead to a data security incident. Forensic evidence is off by default and policy creation requires dual authorization. Customers determine what triggers the feature and manage investigation processes. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. <br>GA date: March CY2023",
+  "pubDate": "Wed, 14 Dec 2022 00:05:34 -0800",
+  "updated": "2022-12-20T08:10:50+00:00"
 }

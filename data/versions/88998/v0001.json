@@ -1,24 +1,19 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Compliance center",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft 365 compliance center: Microsoft Purview | Insider Risk Management - Enhancements to Export Alerts"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "For the Export alerts feature, we have increased the frequency in which alerts are sent to the Office 365 Management Activity API to every hour (previously every 12 hours) so updated alert information is more readily available. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.     <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-solution-overview?view=o365-worldwide<br>GA date: April CY2022"
-  }
+  "guid": "88998",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88998",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Compliance center",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft 365 compliance center: Microsoft Purview | Insider Risk Management - Enhancements to Export Alerts",
+  "description": "For the Export alerts feature, we have increased the frequency in which alerts are sent to the Office 365 Management Activity API to every hour (previously every 12 hours) so updated alert information is more readily available. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.     <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/insider-risk-management-solution-overview?view=o365-worldwide<br>GA date: April CY2022",
+  "pubDate": "Thu, 17 Mar 2022 23:04:51 -0700",
+  "updated": "2022-04-30T04:58:36+00:00"
 }

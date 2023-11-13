@@ -1,33 +1,22 @@
 {
   "timestamp": "2023-09-20T02:15:12.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: eDiscovery - Review set query report"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",Within a review set, generate and download a hit-by-term report on a KQL query. Quickly see the count and volume of the items hit on a particular keyword or a list of compound queries."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "June CY2024"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "December CY2023"
-  }
+  "guid": "171751",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171751",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: eDiscovery - Review set query report",
+  "description": ",Within a review set, generate and download a hit-by-term report on a KQL query. Quickly see the count and volume of the items hit on a particular keyword or a list of compound queries.",
+  "pubDate": "Tue, 19 Sep 2023 23:02:35 -0700",
+  "updated": "2023-09-20T06:02:35+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2024",
+  "publicPreviewDate": "December CY2023"
 }

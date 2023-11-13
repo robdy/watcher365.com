@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-08-19T02:10:23.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Data Loss Prevention - Admin Units support in Data Loss Prevention and Information Protection"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "With this capability organizations will be able to delegate management and remediation authority for different people in different regions or organization units with role-based access control (RBAC) via Azure Active Directory Administrative Units.  Eg – German investigators should be able to investigate alerts and audit events for only German users."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "October CY2023"
-  }
+  "guid": "165027",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165027",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Admin Units support in Data Loss Prevention and Information Protection",
+  "description": "With this capability organizations will be able to delegate management and remediation authority for different people in different regions or organization units with role-based access control (RBAC) via Azure Active Directory Administrative Units.  Eg – German investigators should be able to investigate alerts and audit events for only German users.",
+  "pubDate": "Fri, 18 Aug 2023 22:04:26 -0700",
+  "updated": "2023-08-19T05:04:26+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

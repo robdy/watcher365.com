@@ -1,24 +1,19 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Azure Active Directory",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Preview",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Azure Active Directory: Tenant Creation Lockdown"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",This new capability will provide admins with the ability to lock down tenant creation to decide whether they want their users to create more tenants. We have also created the Tenant Creator role, which will allow users assigned to this role to create new tenants.  <br>GA date: March CY2023<br>Preview date: December CY2022"
-  }
+  "guid": "109541",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109541",
+  "category": [
+    "Azure Active Directory",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Preview",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Azure Active Directory: Tenant Creation Lockdown",
+  "description": ",This new capability will provide admins with the ability to lock down tenant creation to decide whether they want their users to create more tenants. We have also created the Tenant Creator role, which will allow users assigned to this role to create new tenants.  <br>GA date: March CY2023<br>Preview date: December CY2022",
+  "pubDate": "Wed, 14 Dec 2022 00:05:36 -0800",
+  "updated": "2022-12-15T08:05:42+00:00"
 }

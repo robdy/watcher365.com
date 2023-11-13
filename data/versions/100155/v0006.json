@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-08-19T02:10:23.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  }
+  "guid": "100155",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100155",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview | Endpoint DLP App groups and granular app restriction policies (U.S. Government clouds)",
+  "description": "This feature enables admins to define endpoint data loss prevention policies to lock specific apps for different activities and enables more granular restrictions for individual apps.<br>More info:  https//docs.microsoft.com/microsoft-365/compliance/dlp-configure-endpoint-settings?view=o365-worldwide#restricted-apps-and-app-groups",
+  "pubDate": "Tue, 27 Sep 2022 23:10:31 -0700",
+  "updated": "2023-08-19T05:04:25+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

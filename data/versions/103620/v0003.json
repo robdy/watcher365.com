@@ -1,25 +1,21 @@
 {
   "timestamp": "2023-03-18T02:32:56.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web"
-    ]
-  }
+  "guid": "103620",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103620",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web"
+  ],
+  "title": "Microsoft Purview | Data loss prevention: Support for complex conditions (U.S. government clouds)",
+  "description": ",With this update, you will be able to create complex conditions while configuring your Microsoft Purview Data Loss Prevention policies. You will be able to create conditions with AND/OR combinations with the ability to create groups to achieve condition combinations like A AND (B OR C).",
+  "pubDate": "Fri, 11 Nov 2022 23:25:29 -0800",
+  "updated": "2023-03-18T05:43:26+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": "January CY2023"
 }

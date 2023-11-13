@@ -1,11 +1,21 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "If you attempt to delete multiple content types from content type gallery which have dependencies on other lists/content types, you will get improved error messages that lists out the dependent resources. <br>GA date: July CY2022",
-    "newValue": "If you attempt to delete multiple content types from content type gallery which have dependencies on other lists/content types, you will get improved error messages that lists out the dependent resources."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "July CY2022"
-  }
+  "guid": "93379",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93379",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "SharePoint",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint: Content Type Deletion – Improved Error Messages",
+  "description": "If you attempt to delete multiple content types from content type gallery which have dependencies on other lists/content types, you will get improved error messages that lists out the dependent resources.",
+  "pubDate": "Tue, 05 Jul 2022 23:07:18 -0700",
+  "updated": "2022-09-09T06:12:25+00:00",
+  "publicDisclosureAvailabilityDate": "July CY2022",
+  "publicPreviewDate": null
 }

@@ -1,11 +1,20 @@
 {
   "timestamp": "2023-08-03T02:22:48.0000000+00:00",
-  "description": {
-    "oldValue": "The addition of new Credentials Sensitive Information Types (SITs) will allow your company to detect individual credential patterns (access keys, tokens, general passwords, etc.). Additionally, we will be offering a SIT which bundles all individual credential types for more holistic detection. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide",
-    "newValue": "The addition of new Credentials Sensitive Information Types (SITs) will allow your company to detect individual credential patterns (access keys, tokens, general passwords, etc.). Additionally, we will be offering a SIT which bundles all individual credential types for more holistic detection. Note: The launch status was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "June CY2023",
-    "newValue": "August CY2023"
-  }
+  "guid": "93265",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93265",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Purview compliance portal",
+    "Rolling out",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - New Credentials SITs (U.S. Government clouds)",
+  "description": "The addition of new Credentials Sensitive Information Types (SITs) will allow your company to detect individual credential patterns (access keys, tokens, general passwords, etc.). Additionally, we will be offering a SIT which bundles all individual credential types for more holistic detection. Note: The launch status was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide",
+  "pubDate": "Wed, 10 Aug 2022 23:11:07 -0700",
+  "updated": "2023-08-03T06:11:29+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

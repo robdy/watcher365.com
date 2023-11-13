@@ -1,21 +1,16 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Microsoft 365 Admin Center",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft 365 admin center: Ability to show multiple services being impacted by a single issue"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Today when there is a broadly impacting issue that affects multiple services across the Microsoft 365 services, Microsoft will create a single incident usually under Microsoft 365 Suite. In the message details of this incident, we will call out specific services impacted with their overall current state.<br>GA date: May CY2022"
-  }
+  "guid": "88666",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88666",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft 365 Admin Center",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft 365 admin center: Ability to show multiple services being impacted by a single issue",
+  "description": "Today when there is a broadly impacting issue that affects multiple services across the Microsoft 365 services, Microsoft will create a single incident usually under Microsoft 365 Suite. In the message details of this incident, we will call out specific services impacted with their overall current state.<br>GA date: May CY2022",
+  "pubDate": "Wed, 02 Feb 2022 00:09:13 -0800",
+  "updated": "2022-06-21T06:01:15+00:00"
 }

@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-08-18T02:12:38.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Insider Risk Management - Email signature exclusion"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Images in email signatures are by default\ntreated as attachments, which could make it seem like a user is sending emails\nwith attachments many times a day, creating many false alerts in Insider Risk\nManagement. With this update, admins can choose to exclude images in signatures\nautomatically to reduce noisy signals. Microsoft Purview Insider Risk\nManagement correlates various signals to identify potential malicious or\ninadvertent insider risks, such as IP theft, data leakage, and security\nviolations. Insider Risk Management enables customers to create policies to\nmanage security and compliance. Built with privacy by design, users are\npseudonymized by default, and role-based access controls and audit logs are in\nplace to help ensure user-level privacy."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2023"
-  }
+  "guid": "164871",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164871",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Email signature exclusion",
+  "description": "Images in email signatures are by default\ntreated as attachments, which could make it seem like a user is sending emails\nwith attachments many times a day, creating many false alerts in Insider Risk\nManagement. With this update, admins can choose to exclude images in signatures\nautomatically to reduce noisy signals. Microsoft Purview Insider Risk\nManagement correlates various signals to identify potential malicious or\ninadvertent insider risks, such as IP theft, data leakage, and security\nviolations. Insider Risk Management enables customers to create policies to\nmanage security and compliance. Built with privacy by design, users are\npseudonymized by default, and role-based access controls and audit logs are in\nplace to help ensure user-level privacy.",
+  "pubDate": "Thu, 17 Aug 2023 23:13:24 -0700",
+  "updated": "2023-08-18T06:13:24+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2023",
+  "publicPreviewDate": null
 }

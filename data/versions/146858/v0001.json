@@ -1,26 +1,19 @@
 {
   "timestamp": "2023-07-12T02:51:41.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Communication Compliance – User scoping role-based access control (RBAC)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Delegate management and remediation authority for different people in different regions or organization units with role-based access control (RBAC).For example,– German investigators should be able to investigate messages for only German users; German administrators can only create/manage policies for only German users. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "December CY2023"
-  }
+  "guid": "146858",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=146858",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Communication Compliance – User scoping role-based access control (RBAC)",
+  "description": "Delegate management and remediation authority for different people in different regions or organization units with role-based access control (RBAC).For example,– German investigators should be able to investigate messages for only German users; German administrators can only create/manage policies for only German users. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin.",
+  "pubDate": "Tue, 11 Jul 2023 23:36:38 -0700",
+  "updated": "2023-07-12T06:36:38+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2023",
+  "publicPreviewDate": null
 }

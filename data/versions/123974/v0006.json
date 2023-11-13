@@ -1,33 +1,22 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "This feature enables IT admins to block anonymous users from accessing the chat in internally hosted meetings by disabling the read access on top of the existing disabled right access.",
-    "newValue": "This feature enables IT admins to block anonymous users from accessing the chat in internally hosted meetings by disabling the read access on top of the existing disabled right access. Due to service issues, we have decided to forgo Targeted Release in favor of rolling out straight to Standard."
-  }
+  "guid": "123974",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123974",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Block anonymous users' meeting chat read access in addition to current write access",
+  "description": "This feature enables IT admins to block anonymous users from accessing the chat in internally hosted meetings by disabling the read access on top of the existing disabled right access. Due to service issues, we have decided to forgo Targeted Release in favor of rolling out straight to Standard.",
+  "pubDate": "Thu, 20 Apr 2023 23:26:02 -0700",
+  "updated": "2023-06-17T05:05:40+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

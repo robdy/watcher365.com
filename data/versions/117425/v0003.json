@@ -1,7 +1,20 @@
 {
   "timestamp": "2023-04-28T02:27:53.0000000+00:00",
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "July CY2023",
-    "newValue": "November CY2023"
-  }
+  "guid": "117425",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+  "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+  "pubDate": "Wed, 01 Mar 2023 00:09:20 -0800",
+  "updated": "2023-04-28T06:15:39+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

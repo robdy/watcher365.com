@@ -1,27 +1,22 @@
 {
   "timestamp": "2023-07-11T02:45:42.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "In development",
-      "Preview",
-      "SharePoint",
-      "Targeted Release",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "Launched",
-      "Preview",
-      "SharePoint",
-      "Targeted Release",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "93440",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93440",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "Launched",
+    "Preview",
+    "SharePoint",
+    "Targeted Release",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint: SharePoint server migration assessment",
+  "description": ",Before you move any site or\nlist from SharePoint Server on-premises into Microsoft 365, it's best practice\nto assess content and plan for the migration. The SharePoint Migration Tool\n(SPMT) will provide content assessment so cloud admins can best understand what\ncontent they have, decide what to migrate, and what to remediate. In this\nupdate, SPMT supports SharePoint Server migration assessment for versions 2010,\n2013, 2016 and 2019.",
+  "pubDate": "Thu, 08 Sep 2022 23:16:49 -0700",
+  "updated": "2023-07-11T06:19:55+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": "December CY2022"
 }

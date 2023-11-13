@@ -1,23 +1,18 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - | Named entities sensitive information types (SITs) and policy authoring templates"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Named entities are sensitive information types (SITs) that can’t easily be identified by a regular expression or a function; these include person names, physical addresses, and medical terms & conditions. This update adds 52 new SITs representing named entities and 10 enhanced policy templates that can be used in solutions such as Data Loss Prevention (DLP) and auto-labeling, and cover important regulations, such as US Health Insurance Portability and Accountability Act (HIPAA) and European Union (EU) General Data Protection Regulation (GDPR).<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide<br>GA date: May CY2023"
-  }
+  "guid": "82116",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=82116",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - | Named entities sensitive information types (SITs) and policy authoring templates",
+  "description": "Named entities are sensitive information types (SITs) that can’t easily be identified by a regular expression or a function; these include person names, physical addresses, and medical terms & conditions. This update adds 52 new SITs representing named entities and 10 enhanced policy templates that can be used in solutions such as Data Loss Prevention (DLP) and auto-labeling, and cover important regulations, such as US Health Insurance Portability and Accountability Act (HIPAA) and European Union (EU) General Data Protection Regulation (GDPR).<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitive-information-type-learn-about?view=o365-worldwide<br>GA date: May CY2023",
+  "pubDate": "Tue, 10 Aug 2021 23:33:26 -0700",
+  "updated": "2023-01-24T08:10:43+00:00"
 }

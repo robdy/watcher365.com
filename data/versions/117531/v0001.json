@@ -1,23 +1,18 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer (U.S. Government clouds)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.<br>GA date: August CY2023"
-  }
+  "guid": "117531",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117531",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer (U.S. Government clouds)",
+  "description": "The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.<br>GA date: August CY2023",
+  "pubDate": "Fri, 24 Feb 2023 23:13:54 -0800",
+  "updated": "2023-02-25T07:07:54+00:00"
 }

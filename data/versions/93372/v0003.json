@@ -1,23 +1,20 @@
 {
   "timestamp": "2023-07-01T03:00:54.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  }
+  "guid": "93372",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93372",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Advanced Message Encryption - Office 365 Message Encryption portal access logs (U.S. Government clouds)",
+  "description": "This feature will enable logging of external user activities accessing the Office 365 Message Encryption Portal to retrieve encrypted mail. The logs can be retrieved using the Audit Logs functionality in the Microsoft Purview compliance portal.",
+  "pubDate": "Fri, 17 Jun 2022 22:10:06 -0700",
+  "updated": "2023-07-01T04:05:58+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

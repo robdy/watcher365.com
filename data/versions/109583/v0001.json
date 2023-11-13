@@ -1,31 +1,20 @@
 {
   "timestamp": "2023-03-21T02:26:48.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Desktop",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",Admins can access the file that resulted in the DLP restrictions with the DLP alert experience. This level of visibility will help analyze the amount of content that triggered the DLP violation, assess severity, and inform remediation."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "June CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "March CY2023"
-  }
+  "guid": "109583",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109583",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence",
+  "description": ",Admins can access the file that resulted in the DLP restrictions with the DLP alert experience. This level of visibility will help analyze the amount of content that triggered the DLP violation, assess severity, and inform remediation.",
+  "pubDate": "Mon, 20 Mar 2023 23:18:37 -0700",
+  "updated": "2023-03-21T06:18:37+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": "March CY2023"
 }

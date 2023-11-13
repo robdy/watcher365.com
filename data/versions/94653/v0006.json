@@ -1,33 +1,25 @@
 {
   "timestamp": "2023-09-22T02:15:21.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Cancelled",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "94653",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=94653",
+  "category": [
+    "Android",
+    "Cancelled",
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Approvals Graph API's",
+  "description": "The Approvals Graph APIs allows developers to create and manager Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals. Approvals Graph APIs are currently in Private Preview.",
+  "pubDate": "Thu, 06 Oct 2022 23:08:53 -0700",
+  "updated": "2023-09-22T05:59:22+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

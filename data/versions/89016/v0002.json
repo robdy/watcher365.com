@@ -1,11 +1,18 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "The previously released ML-based noise suppression is now enabled by default for most of our customers. ML-based noise suppression considers any non-speech signal picked up by the microphone as noise which should be suppressed. To avoid suppressing music and to allow users to enable the new high-fidelity music mode, we have built an ML-based music detector which will inform the user whenever music is present through a notification. This will give the end user the choice whether music is indeed an unwanted background noise, such as when calling into a meeting from a coffee shop, or if music is a desired signal, such as when participating in a music lesson. This new feature is now available to Edu customers only. We will communicate when this is available to commercial and government customers. <br>GA date: April CY2022",
-    "newValue": "The previously released ML-based noise suppression is now enabled by default for most of our customers. ML-based noise suppression considers any non-speech signal picked up by the microphone as noise which should be suppressed. To avoid suppressing music and to allow users to enable the new high-fidelity music mode, we have built an ML-based music detector which will inform the user whenever music is present through a notification. This will give the end user the choice whether music is indeed an unwanted background noise, such as when calling into a meeting from a coffee shop, or if music is a desired signal, such as when participating in a music lesson. This new feature is now available to Edu customers only. We will communicate when this is available to commercial and government customers."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "April CY2022"
-  }
+  "guid": "89016",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=89016",
+  "category": [
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Detect Music Automatically (Education only)",
+  "description": "The previously released ML-based noise suppression is now enabled by default for most of our customers. ML-based noise suppression considers any non-speech signal picked up by the microphone as noise which should be suppressed. To avoid suppressing music and to allow users to enable the new high-fidelity music mode, we have built an ML-based music detector which will inform the user whenever music is present through a notification. This will give the end user the choice whether music is indeed an unwanted background noise, such as when calling into a meeting from a coffee shop, or if music is a desired signal, such as when participating in a music lesson. This new feature is now available to Edu customers only. We will communicate when this is available to commercial and government customers.",
+  "pubDate": "Fri, 12 Nov 2021 00:22:18 -0800",
+  "updated": "2022-04-28T06:06:26+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2022",
+  "publicPreviewDate": null
 }

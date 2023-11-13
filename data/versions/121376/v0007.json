@@ -1,29 +1,21 @@
 {
   "timestamp": "2023-09-26T02:15:47.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Teams",
-      "Teams and Surface Devices",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft Teams",
-      "Teams and Surface Devices"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "August CY2023",
-    "newValue": "October CY2023"
-  }
+  "guid": "121376",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=121376",
+  "category": [
+    "Android",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Teams",
+    "Teams and Surface Devices"
+  ],
+  "title": "Microsoft Teams: Primary camera switching for Teams Rooms on Android",
+  "description": "Allows in room users to switch the main meeting camera if USB cameras are attached to a Microsoft Teams Room on Android. IT admins have the option to select the default primary camera using device settings. This feature is available for all Teams Rooms licenses.",
+  "pubDate": "Tue, 04 Apr 2023 23:35:54 -0700",
+  "updated": "2023-09-26T06:00:27+00:00",
+  "publicDisclosureAvailabilityDate": "October CY2023",
+  "publicPreviewDate": null
 }

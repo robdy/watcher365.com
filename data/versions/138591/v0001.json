@@ -1,27 +1,20 @@
 {
   "timestamp": "2023-06-08T02:48:11.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Data Loss Prevention - Apply protection at the time of egress on endpoints (U.S. Government clouds)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "Extend protection to unclassified files on\nWindows endpoint by applying restrictions defined in DLP policies at the time\nof egress."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "November CY2023"
-  }
+  "guid": "138591",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=138591",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Apply protection at the time of egress on endpoints (U.S. Government clouds)",
+  "description": "Extend protection to unclassified files on\nWindows endpoint by applying restrictions defined in DLP policies at the time\nof egress.",
+  "pubDate": "Wed, 07 Jun 2023 23:12:31 -0700",
+  "updated": "2023-06-08T06:12:31+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

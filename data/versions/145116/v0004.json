@@ -1,19 +1,18 @@
 {
   "timestamp": "2023-09-07T02:14:17.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "Microsoft Purview compliance portal",
-      "Rolling out",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "145116",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145116",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Detect AIP labelled files (pfile) using the condition “content contains sensitivity label”",
+  "description": "Data Loss Prevention policy supports a condition to detect if a file contains certain label. Today, office (DOCX, PPTX, XLSX) and PDF files are supported. This feature will support files other than Office and PDF also where MIP label is applied using AIP labelling client.",
+  "pubDate": "Fri, 30 Jun 2023 21:09:07 -0700",
+  "updated": "2023-09-07T06:40:00+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

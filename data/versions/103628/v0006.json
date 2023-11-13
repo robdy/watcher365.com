@@ -1,35 +1,25 @@
 {
   "timestamp": "2023-05-18T02:27:49.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Microsoft 365 Admin Center",
-      "Microsoft Project",
-      "OneDrive",
-      "Planner",
-      "PowerPoint",
-      "SharePoint",
-      "Web",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "GCC",
-      "General Availability",
-      "Launched",
-      "Microsoft 365 Admin Center",
-      "Microsoft Project",
-      "OneDrive",
-      "Planner",
-      "PowerPoint",
-      "SharePoint",
-      "Web",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "103628",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103628",
+  "category": [
+    "GCC",
+    "General Availability",
+    "Launched",
+    "Microsoft 365 Admin Center",
+    "Microsoft Project",
+    "OneDrive",
+    "Planner",
+    "PowerPoint",
+    "SharePoint",
+    "Web",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft 365 admin center: Send email notifications from your own domain",
+  "description": "Notifications that cannot be sent from a user's email account can now be configured to use your own custom verified domain instead of the Microsoft default domain",
+  "pubDate": "Tue, 10 Jan 2023 00:32:13 -0800",
+  "updated": "2023-05-18T06:06:08+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": null
 }

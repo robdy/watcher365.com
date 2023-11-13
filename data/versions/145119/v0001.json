@@ -1,26 +1,19 @@
 {
   "timestamp": "2023-06-29T02:49:32.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Information Protection",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview Information Protection: Office Apps on the Web can create PDFs that inherit the source files sensitivity labels"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "PDFs created from Word, Excel, and PowerPoint will inherit their source files sensitivity labels in Office for the Web when the label is unencrypted."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "August CY2023"
-  }
+  "guid": "145119",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145119",
+  "category": [
+    "DoD",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Information Protection",
+    "Web"
+  ],
+  "title": "Microsoft Purview Information Protection: Office Apps on the Web can create PDFs that inherit the source files sensitivity labels",
+  "description": "PDFs created from Word, Excel, and PowerPoint will inherit their source files sensitivity labels in Office for the Web when the label is unencrypted.",
+  "pubDate": "Wed, 28 Jun 2023 23:15:27 -0700",
+  "updated": "2023-06-29T06:14:55+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

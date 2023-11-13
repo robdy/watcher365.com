@@ -1,28 +1,23 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Android",
-      "Desktop",
-      "Excel",
-      "GCC",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Outlook",
-      "PowerPoint",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview | Information Protection: Office apps can now audit protection properties applied to a document through sensitivity labels"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore<br>GA date: March CY2023<br>Preview date: January CY2023"
-  }
+  "guid": "98135",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98135",
+  "category": [
+    "Android",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Mac",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: Office apps can now audit protection properties applied to a document through sensitivity labels",
+  "description": ",Added the missing audit fields related to the protection status of a document and how the protection was changed due to a specific event. That would include the following fields: protectionEventType, documentEncrypted, documentEncryptedBefore, protectionType, protectionTypeBefore, protectionTemplateId, protectionTemplateIdBefore, protectionOwner and protectionOwnerBefore<br>GA date: March CY2023<br>Preview date: January CY2023",
+  "pubDate": "Fri, 07 Oct 2022 22:20:53 -0700",
+  "updated": "2023-02-07T08:11:31+00:00"
 }

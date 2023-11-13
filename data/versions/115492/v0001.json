@@ -1,22 +1,17 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Insider Risk Management – Deduplication of signals"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",A single user activity could generate duplicate signals used to identify insider risks, creating noisy alerts. With this update, signals will be de-duplicated, reducing noise in alerts without losing risk context. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>GA date: December CY2023<br>Preview date: February CY2023"
-  }
+  "guid": "115492",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=115492",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management – Deduplication of signals",
+  "description": ",A single user activity could generate duplicate signals used to identify insider risks, creating noisy alerts. With this update, signals will be de-duplicated, reducing noise in alerts without losing risk context. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>GA date: December CY2023<br>Preview date: February CY2023",
+  "pubDate": "Thu, 26 Jan 2023 00:14:13 -0800",
+  "updated": "2023-01-26T08:08:01+00:00"
 }

@@ -1,11 +1,22 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": ",You are now able to create Conditional Access policies to allow/deny access using a new type of Named Location known as GPS. For these policies, the user will need to share their GPS location from the mobile device on which Microsoft Authenticator is installed.<br>More info: https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/quickstart-configure-named-locations<br>Preview date: October CY2021",
-    "newValue": ",You are now able to create Conditional Access policies to allow/deny access using a new type of Named Location known as GPS. For these policies, the user will need to share their GPS location from the mobile device on which Microsoft Authenticator is installed.<br>More info: https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/quickstart-configure-named-locations"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "October CY2021"
-  }
+  "guid": "72205",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=72205",
+  "category": [
+    "Android",
+    "Azure Active Directory",
+    "Desktop",
+    "iOS",
+    "Launched",
+    "Mobile",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Azure Active Directory: Location Based Access Control Public Preview",
+  "description": ",You are now able to create Conditional Access policies to allow/deny access using a new type of Named Location known as GPS. For these policies, the user will need to share their GPS location from the mobile device on which Microsoft Authenticator is installed.<br>More info: https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/quickstart-configure-named-locations",
+  "pubDate": "Tue, 06 Apr 2021 23:15:16 -0700",
+  "updated": "2022-11-01T06:16:35+00:00",
+  "publicDisclosureAvailabilityDate": null,
+  "publicPreviewDate": "October CY2021"
 }

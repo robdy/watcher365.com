@@ -1,21 +1,19 @@
 {
   "timestamp": "2023-05-10T02:25:55.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "Office app",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "GCC",
-      "General Availability",
-      "Launched",
-      "Office app",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "98131",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98131",
+  "category": [
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "Launched",
+    "Office app",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview | Information Protection: User-defined permissions now support domain name restrictions",
+  "description": ",When you choose a sensitivity label configured for user-defined permissions, they can now use domain names to restrict file access to specific individuals, or to all individuals from that domain. For example, you can specify \"someone@example.com\" or \"@example.com\" and permissions will be restricted based on those parameters.",
+  "pubDate": "Mon, 29 Aug 2022 23:33:38 -0700",
+  "updated": "2023-05-10T06:17:25+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": "December CY2022"
 }

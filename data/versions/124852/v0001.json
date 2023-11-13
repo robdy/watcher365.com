@@ -1,28 +1,21 @@
 {
   "timestamp": "2023-04-27T02:28:46.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Defender for Office 365",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft defender for Office 365: Priority Account User tags filtering in the URL protection report"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "We are adding a new filter to the URL protection report that will allow security admins to easily filter for Users who are in the Priority Account tag of their organization. This capability will be extremely valuable in helping security teams prioritize focus on critical individuals within the organization while reviewing the URL threat details in the report.<br>More info: https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385"
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "May CY2023"
-  }
+  "guid": "124852",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124852",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Defender for Office 365",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft defender for Office 365: Priority Account User tags filtering in the URL protection report",
+  "description": "We are adding a new filter to the URL protection report that will allow security admins to easily filter for Users who are in the Priority Account tag of their organization. This capability will be extremely valuable in helping security teams prioritize focus on critical individuals within the organization while reviewing the URL threat details in the report.<br>More info: https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/announcing-priority-account-protection-in-microsoft-defender-for/ba-p/1696385",
+  "pubDate": "Wed, 26 Apr 2023 23:28:49 -0700",
+  "updated": "2023-04-27T06:28:49+00:00",
+  "publicDisclosureAvailabilityDate": "May CY2023",
+  "publicPreviewDate": null
 }

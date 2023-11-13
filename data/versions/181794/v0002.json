@@ -1,33 +1,24 @@
 {
   "timestamp": "2023-11-11T02:47:09.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "February CY2024",
-    "newValue": "December CY2023"
-  }
+  "guid": "181794",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181794",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Remove items from your activity feed",
+  "description": "Users will be able to\nremove items they no longer need from their activity feed, helping the user\nstay on top of their notifications.",
+  "pubDate": "Fri, 10 Nov 2023 00:18:02 -0800",
+  "updated": "2023-11-11T07:12:37+00:00",
+  "publicDisclosureAvailabilityDate": "December CY2023",
+  "publicPreviewDate": null
 }

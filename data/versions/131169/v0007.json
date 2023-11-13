@@ -1,34 +1,23 @@
 {
   "timestamp": "2023-09-09T02:11:42.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Android",
-      "Desktop",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "iOS",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "August CY2023",
-    "newValue": "January CY2024"
-  }
+  "guid": "131169",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+  "category": [
+    "Android",
+    "Desktop",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+  "description": "Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center",
+  "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+  "updated": "2023-09-09T05:50:06+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2024",
+  "publicPreviewDate": null
 }

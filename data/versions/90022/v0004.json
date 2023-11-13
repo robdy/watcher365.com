@@ -1,30 +1,21 @@
 {
   "timestamp": "2023-05-19T02:27:36.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": ",To reduce the number of stale raised hands in meetings, we will now suggest users to lower their raised hand after we detect they spoke in the meeting. They will be able to choose to keep their hand raised. If the user doesn't take any action on the suggestion notification, we'll automatically lower their hand. This should ensure smoother meeting facilitation for organizers and presenters.",
-    "newValue": ",{We have made the decision to postpone rolling out to DoD organizations at this time. We will communicate via Roadmap and Message center when we are ready to proceed.} To reduce the number of stale raised hand in meetings, we will now suggest users to lower their raised hand. After we detect, they spoke in the meeting. They will be able to choose to keep their hand raised. If the user doesn’t take any action on the suggestion notification, will automatically lower their hand. This should ensure smoother meeting facilitation for organizers and presenters."
-  }
+  "guid": "90022",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=90022",
+  "category": [
+    "Desktop",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Mac",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Automatic lowering of a user's Raised Hand after speaking",
+  "description": ",{We have made the decision to postpone rolling out to DoD organizations at this time. We will communicate via Roadmap and Message center when we are ready to proceed.} To reduce the number of stale raised hand in meetings, we will now suggest users to lower their raised hand. After we detect, they spoke in the meeting. They will be able to choose to keep their hand raised. If the user doesn’t take any action on the suggestion notification, will automatically lower their hand. This should ensure smoother meeting facilitation for organizers and presenters.",
+  "pubDate": "Fri, 09 Dec 2022 23:12:43 -0800",
+  "updated": "2023-05-19T06:13:33+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": "February CY2023"
 }

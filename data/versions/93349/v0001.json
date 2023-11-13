@@ -1,21 +1,16 @@
 {
   "timestamp": "2023-03-02T06:18:27.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "DoD",
-      "General Availability",
-      "Launched",
-      "Microsoft Purview compliance portal",
-      "Web"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview compliance portal: Information Protection – Advanced Message Encryption (DoD)"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": "With Microsoft Purview Advanced Message Encryption, you can control sensitive emails shared outside the organization with automatic policies. You configure these policies to identify sensitive information types such as PII, Financial, or Health IDs, or you can use keywords to enhance protection. Once configured, you can pair policies with custom branded email templates and then add an expiration date for extra control of emails that fit the policy. Also, admins can further control encrypted emails accessed externally through a secure web portal by revoking access to the mail at any time. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/ome-advanced-message-encryption?view=o365-worldwide#get-started-with-office-365-advanced-message-encryption<br>GA date: July CY2022"
-  }
+  "guid": "93349",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93349",
+  "category": [
+    "DoD",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection – Advanced Message Encryption (DoD)",
+  "description": "With Microsoft Purview Advanced Message Encryption, you can control sensitive emails shared outside the organization with automatic policies. You configure these policies to identify sensitive information types such as PII, Financial, or Health IDs, or you can use keywords to enhance protection. Once configured, you can pair policies with custom branded email templates and then add an expiration date for extra control of emails that fit the policy. Also, admins can further control encrypted emails accessed externally through a secure web portal by revoking access to the mail at any time. <br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/ome-advanced-message-encryption?view=o365-worldwide#get-started-with-office-365-advanced-message-encryption<br>GA date: July CY2022",
+  "pubDate": "Wed, 08 Jun 2022 23:07:56 -0700",
+  "updated": "2022-08-03T06:16:51+00:00"
 }

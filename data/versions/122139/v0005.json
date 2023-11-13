@@ -1,25 +1,20 @@
 {
   "timestamp": "2023-04-28T02:27:53.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Teams",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "May CY2023",
-    "newValue": "June CY2023"
-  }
+  "guid": "122139",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122139",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Automatically view up to 9 videos (3x3) in Teams meetings in Chrome and Edge",
+  "description": "Microsoft Teams Meetings currently supports a\nmaximum of 4 videos (2x2) on the screen by default (i.e., Gallery view) on web\nbrowsers. With this update, users will be able to automatically see up to 9\nvideos (3x3) on Chrome and Edge on their screen by default without an explicit\naction.",
+  "pubDate": "Tue, 14 Mar 2023 23:24:31 -0700",
+  "updated": "2023-04-28T06:15:39+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": null
 }

@@ -1,33 +1,25 @@
 {
   "timestamp": "2023-09-20T02:15:12.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Microsoft Stream",
-      "SharePoint",
-      "Targeted Release",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Microsoft Stream",
-      "Rolling out",
-      "SharePoint",
-      "Targeted Release",
-      "Targeted Release (Entire Organization)",
-      "Targeted Release (Select People)",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "124800",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124800",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Microsoft Stream",
+    "Rolling out",
+    "SharePoint",
+    "Targeted Release",
+    "Targeted Release (Entire Organization)",
+    "Targeted Release (Select People)",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Stream: New Stream webpart",
+  "description": "This new Stream webpart will support configuration of single and multiple videos for Stream (on SharePoint).",
+  "pubDate": "Tue, 02 May 2023 23:25:00 -0700",
+  "updated": "2023-09-20T06:02:35+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": null
 }

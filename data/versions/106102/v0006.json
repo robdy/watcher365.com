@@ -1,3 +1,22 @@
 {
-  "timestamp": "2023-05-11T02:25:39.0000000+00:00"
+  "timestamp": "2023-05-11T02:25:39.0000000+00:00",
+  "guid": "106102",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=106102",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Disposition review: Export of items pending review using a cmdlet",
+  "description": "This change will enable admins to export the list of items pending disposition review or disposed items for a label using a PowerShell cmdlet without the 50,000-item limitation that applies to exporting via the UX.",
+  "pubDate": "Wed, 23 Nov 2022 00:21:49 -0800",
+  "updated": "2023-05-11T06:11:08+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2023",
+  "publicPreviewDate": null
 }

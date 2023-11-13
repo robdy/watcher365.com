@@ -1,32 +1,19 @@
 {
   "timestamp": "2023-04-07T02:24:12.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "Simplified picking of relevant Teams and channels (standard, private, and shared) to intelligently identify associated custodian mailboxes, group mailboxes, OneDrive for Business accounts, and SharePoint sites that may contain Teams data that's relevant to your case.",
-    "newValue": ",Simplified picking of relevant Teams and channels (standard, private, and shared) to intelligently identify associated custodian mailboxes, group mailboxes, OneDrive for Business accounts, and SharePoint sites that may contain Teams data that's relevant to your case."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "April CY2023",
-    "newValue": "June CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "May CY2023"
-  }
+  "guid": "88815",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88815",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal:  eDiscovery (Premium) - Identify Teams as data sources",
+  "description": ",Simplified picking of relevant Teams and channels (standard, private, and shared) to intelligently identify associated custodian mailboxes, group mailboxes, OneDrive for Business accounts, and SharePoint sites that may contain Teams data that's relevant to your case.",
+  "pubDate": "Wed, 08 Dec 2021 00:11:58 -0800",
+  "updated": "2023-04-07T06:14:09+00:00",
+  "publicDisclosureAvailabilityDate": "June CY2023",
+  "publicPreviewDate": "May CY2023"
 }

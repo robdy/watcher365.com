@@ -1,34 +1,23 @@
 {
   "timestamp": "2023-06-28T02:52:55.0000000+00:00",
-  "category": {
-    "oldValue": null,
-    "newValue": [
-      "Current Channel",
-      "Current Channel (Preview)",
-      "Desktop",
-      "Excel",
-      "GCC",
-      "In development",
-      "Outlook",
-      "PowerPoint",
-      "Word",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": null,
-    "newValue": "Microsoft Purview Information Protection: Use double-key encryption to protect your most sensitive files and emails in Microsoft 365 Apps on Windows"
-  },
-  "description": {
-    "oldValue": null,
-    "newValue": ",To protect your most sensitive content, users of Microsoft 365 Apps can now use Double Key Encryption (DKE) for files and emails using the built-in labeling client. With DKE, Microsoft stores one key in Microsoft Azure and you hold the other key, ensuring that only you can ever decrypt protected content, under all circumstances. Sensitivity labels configured with DKE in Microsoft Purview Compliance Portal are now available for users in Word, Excel, PowerPoint, and Outlook to publish or consume content protected with DKE."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "August CY2023"
-  },
-  "publicPreviewDate": {
-    "oldValue": null,
-    "newValue": "April CY2023"
-  }
+  "guid": "124984",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124984",
+  "category": [
+    "Current Channel",
+    "Current Channel (Preview)",
+    "Desktop",
+    "Excel",
+    "GCC",
+    "In development",
+    "Outlook",
+    "PowerPoint",
+    "Word",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview Information Protection: Use double-key encryption to protect your most sensitive files and emails in Microsoft 365 Apps on Windows",
+  "description": ",To protect your most sensitive content, users of Microsoft 365 Apps can now use Double Key Encryption (DKE) for files and emails using the built-in labeling client. With DKE, Microsoft stores one key in Microsoft Azure and you hold the other key, ensuring that only you can ever decrypt protected content, under all circumstances. Sensitivity labels configured with DKE in Microsoft Purview Compliance Portal are now available for users in Word, Excel, PowerPoint, and Outlook to publish or consume content protected with DKE.",
+  "pubDate": "Tue, 27 Jun 2023 23:26:29 -0700",
+  "updated": "2023-06-28T06:26:29+00:00",
+  "publicDisclosureAvailabilityDate": "August CY2023",
+  "publicPreviewDate": "April CY2023"
 }

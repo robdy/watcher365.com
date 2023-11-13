@@ -1,35 +1,22 @@
 {
   "timestamp": "2023-10-25T02:15:47.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Mac",
-      "Microsoft Teams",
-      "Rolling out",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "In development",
-      "Mac",
-      "Microsoft Teams",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "description": {
-    "oldValue": "We\nare launching an out-of-the-box template that can be useful when meeting with\nexternal participants. The controlled-content meeting template has preset\ndefaults for meeting options to provide tight controls over lobby bypass, who\ncan present, allowing chat in lobby/in-meeting, and who can record.",
-    "newValue": "We are launching an out-of-the-box template that can be useful when meeting with external participants. The controlled-content meeting template has preset defaults for meeting options to provide tight controls over lobby bypass, who can present, allowing chat in lobby/in-meeting, and who can record. Note: The roadmap item was inadvertently marked rolling out. We apologize for any inconvenience this may have caused."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "October CY2023",
-    "newValue": "November CY2023"
-  }
+  "guid": "91286",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91286",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Controlled-content meeting template (Premium)",
+  "description": "We are launching an out-of-the-box template that can be useful when meeting with external participants. The controlled-content meeting template has preset defaults for meeting options to provide tight controls over lobby bypass, who can present, allowing chat in lobby/in-meeting, and who can record. Note: The roadmap item was inadvertently marked rolling out. We apologize for any inconvenience this may have caused.",
+  "pubDate": "Wed, 20 Sep 2023 23:12:55 -0700",
+  "updated": "2023-10-25T06:06:35+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

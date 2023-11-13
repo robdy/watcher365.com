@@ -1,26 +1,20 @@
 {
   "timestamp": "2023-06-19T07:58:14.0000000+00:00",
-  "category": {
-    "oldValue": [
-      "Current Channel",
-      "Desktop",
-      "DoD",
-      "GCC",
-      "GCC High",
-      "General Availability",
-      "Launched",
-      "Outlook",
-      "Semi-Annual Enterprise Channel",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "Current Channel",
-      "Desktop",
-      "General Availability",
-      "Launched",
-      "Outlook",
-      "Semi-Annual Enterprise Channel",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  }
+  "guid": "100062",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100062",
+  "category": [
+    "Current Channel",
+    "Desktop",
+    "General Availability",
+    "Launched",
+    "Outlook",
+    "Semi-Annual Enterprise Channel",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: S/MIME sensitivity label support natively on Outlook for Windows ",
+  "description": ",Outlook for Windows will support S/MIME (Secure/Multipurpose Internet Mail Extensions) sign and encryption as sensitivity label outcome. Admins can define the label to have S/MIME sign, encryption, or both and emails with those labels will enforce S/MIME accordingly. <br>More info: https//www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=93199",
+  "pubDate": "Wed, 05 Oct 2022 23:45:19 -0700",
+  "updated": "2023-06-14T06:09:51+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2022",
+  "publicPreviewDate": "September CY2022"
 }

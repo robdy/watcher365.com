@@ -1,11 +1,18 @@
 {
   "timestamp": "2023-03-09T21:11:53.0000000+00:00",
-  "description": {
-    "oldValue": "We're updating the subject and heading of service health emails to make it easier to grasp key information quickly.  Instead of the generic subject line \"Microsoft 365 Service Health Notification\" we'll include the incident ID and affected product in the subject line.  The heading of email will be changed from \"[Product name] Service Health Notification\" to the title of the issue.<br>GA date: September CY2022",
-    "newValue": "We're updating the subject and heading of service health emails to make it easier to grasp key information quickly.  Instead of the generic subject line \"Microsoft 365 Service Health Notification\" we'll include the incident ID and affected product in the subject line.  The heading of email will be changed from \"[Product name] Service Health Notification\" to the title of the issue."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": null,
-    "newValue": "September CY2022"
-  }
+  "guid": "98133",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98133",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft 365 Admin Center",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft 365 admin center: New formatting for service health emails",
+  "description": "We're updating the subject and heading of service health emails to make it easier to grasp key information quickly.  Instead of the generic subject line \"Microsoft 365 Service Health Notification\" we'll include the incident ID and affected product in the subject line.  The heading of email will be changed from \"[Product name] Service Health Notification\" to the title of the issue.",
+  "pubDate": "Fri, 26 Aug 2022 22:18:36 -0700",
+  "updated": "2022-10-12T06:46:44+00:00",
+  "publicDisclosureAvailabilityDate": "September CY2022",
+  "publicPreviewDate": null
 }
