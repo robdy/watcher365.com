@@ -1,0 +1,34 @@
+{
+  "timestamp": "2023-11-14T02:18:37.9232884+00:00",
+  "category": {
+    "oldValue": [
+      "GCC",
+      "General Availability",
+      "In development",
+      "Microsoft 365 Admin Center",
+      "Web"
+    ],
+    "newValue": [
+      "DoD",
+      "GCC",
+      "GCC High",
+      "General Availability",
+      "In development",
+      "Visio",
+      "Web",
+      "Worldwide (Standard Multi-Tenant)"
+    ]
+  },
+  "title": {
+    "oldValue": "Microsoft 365 admin center: Manage ownerless Microsoft 365 groups and teams",
+    "newValue": "Visio: Define Shape Data in Visio for the web"
+  },
+  "description": {
+    "oldValue": "Teams, Outlook groups, Team Sites etc. powered by Microsoft 365 Groups supports two roles: members and owners. Members can collaborate with others in the group through files, emails, messages etc. Owners manage the group membership and monitor content and conversations. When employees leave an organization or switch projects internally, it results in their existing user accounts getting deleted. If such employees were group owners, keeping track of their groups becomes critical to ensure accountability within the organization. We have introduced a new ownership governance policy to help automate the management of ownerless groups by requesting active members to become owners of the group. Admins can define who is eligible for these notifications and configure what notifications and how often these notifications are sent to active group members. Users, who are members of the ownerless groups can simply accept or decline request via the actionable email message.",
+    "newValue": "Users with a Visio Plan 1 or Visio Plan 2 license will be able to harness the full potential of shape data in Visio for the web. This powerful feature enables users to create custom data fields and associate them with shapes, simplifying the process of tracking and analyzing information in their diagrams."
+  },
+  "publicDisclosureAvailabilityDate": {
+    "oldValue": "November CY2023",
+    "newValue": "March CY2024"
+  }
+}
