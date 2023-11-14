@@ -14,11 +14,11 @@ const getData = async (
     const response = await octokit.rest.repos.listCommits({ 
       owner, 
       repo,
-      path: "data",
+      path: "data/versions",
     });
 
     let commitList : any = [];
-    for (const commit of response.data.slice(0, 5)) {
+    for (const commit of response.data.slice(0, 1)) {
       commitList = commitList.concat(commit.sha)
     }
     return { commitList };
@@ -37,7 +37,6 @@ const Home = async () => {
   return (
     <section className="container max-w-5xl mx-auto ">
       <Search />
-
       <div className="my-10">
         {listContainer}
       </div>
