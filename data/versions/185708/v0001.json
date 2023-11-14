@@ -1,32 +1,19 @@
 {
-  "timestamp": "2023-11-14T02:18:37.9232884+00:00",
-  "category": {
-    "oldValue": [
-      "DoD",
-      "General Availability",
-      "In development",
-      "Microsoft Defender for Office 365",
-      "Web"
-    ],
-    "newValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": "Microsoft Defender for Office 365: Attack Simulation Training in DoD",
-    "newValue": "Microsoft Purview compliance portal: Data Loss Prevention- Out-of-box Advanced Hunting queries for Data Loss Prevention incidents in Microsoft 365 Defender"
-  },
-  "description": {
-    "oldValue": "Attack simulation and training (AST) in the Microsoft Defender for Office 365 is an intelligent risk reduction tool, which allows customers to run realistic attack scenarios in their organization, identify vulnerable users, and help drive behavior change through an integrated security awareness training program. It is to be made available in the DoD environment.",
-    "newValue": "Organizations can click the \"Go Hunt” dropdown from the DLP alert page in Microsoft 365 Defender and select from a list of pre-populated queries for common scenarios such as understanding if a file is shared externally, participants of a Teams meetings, and more."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "January CY2024",
-    "newValue": "November CY2023"
-  }
+  "timestamp": "2023-11-14T12:14:15.9878362+00:00",
+  "guid": "185708",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185708",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention- Out-of-box Advanced Hunting queries for Data Loss Prevention incidents in Microsoft 365 Defender",
+  "description": "Organizations can click the \"Go Hunt” dropdown from the DLP alert page in Microsoft 365 Defender and select from a list of pre-populated queries for common scenarios such as understanding if a file is shared externally, participants of a Teams meetings, and more.",
+  "pubDate": "Tue, 14 Nov 2023 00:01:50 -0800",
+  "updated": "2023-11-14T08:01:50+00:00",
+  "publicDisclosureAvailabilityDate": "November CY2023",
+  "publicPreviewDate": null
 }

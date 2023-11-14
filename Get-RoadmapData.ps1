@@ -75,34 +75,6 @@ foreach ($entry in $res) {
 	$currentData = $jsonEntry | ConvertFrom-Json
 	if (Compare-Object $currentData.PSObject.Properties $previousData.PSObject.Properties) {
 		# If there are differences
-		$diffObject = New-Object PSObject
-		$diffObject | Add-Member -Type NoteProperty -Name 'timestamp' -Value $timestamp
-		$propsToBeCompared = @(
-			'category'
-			'title',
-			'description',
-			'publicDisclosureAvailabilityDate',
-			'publicPreviewDate'
-		)
-		foreach ($prop in $propsToBeCompared) {
-			if (
-				(
-					($prop -ne 'category') -and
-					($currentData.$prop -ne $previousData.$prop)
-				) -or
-				(
-					($prop -eq 'category') -and
-					($currentData.$prop -join(', ') -ne $previousData.$prop -join(', '))
-				)
-			) {
-				$diffObject | Add-Member -Type NoteProperty -Name $prop -Value @{
-					"oldValue" = $previousData.$prop
-					"newValue" = $currentData.$prop
-				}
-			} else { # Change in untracked property
-				Write-Host "$($entry.guid.'#text'): skipping change in untracked property"
-			}
-		}
 		$versionNumber = 0
 		$versionEntryFolder = Join-Path $versionFolder $fileName
 		if (-not (Test-Path $versionEntryFolder)) {
@@ -113,7 +85,8 @@ foreach ($entry in $res) {
 			$versionFile = Join-Path $versionEntryFolder "v$($versionNumber.ToString('0000')).json"
 		} until (-not (Test-Path $versionFile))
 		# Save differences to file
-		$diffObject | ConvertTo-Json | Out-File $versionFile -Force
+		$fullContentObj =  $currentData | Select-Object @{name="timestamp";expression={$timestamp}},* 
+		$fullContentObj | ConvertTo-Json | Out-File $versionFile -Force
 	}
 }
 Write-Host 'Script finished'

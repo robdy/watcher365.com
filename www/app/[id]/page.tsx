@@ -1,37 +1,31 @@
 import React from "react";
 import EntryTile from "@/components/EntryTile";
+const fs = require('fs'); 
 const util = require('node:util');
 const exec = util.promisify(require('node:child_process').exec);
 
 export async function generateStaticParams() {
-  const { stdout } = await exec('ls ../data')
+  const { stdout } = await exec('find ../data/versions/ -type d')
   let filesArr: string[] = stdout.split('\n')
 
-  if (process.env.CODESPACES) {
-    const lastCommitsOnly = await exec(`git log -n 5 --pretty=format:'' --name-only -- '../data/' | sort -u`)
-    filesArr = lastCommitsOnly.stdout.split('\n')
-  }
-
   return filesArr.map((file) => ({
-    id: file.replace(/\.json$/, '').replace(/^data\//, ''),
+    id: file.split('/')[3]
   }))
 }
 
 const EntryPage = async ({ params }: {params: {id: string}}) => {
   const { id } = params
-  const { stdout } = await exec(`git log --format=format:"%H;%cs" ../data/${id}.json`)
-  const commitDataArr: string[] = stdout.split('\n');
+  const versionsArr: string[] = await fs.promises.readdir(`../data/versions/${id}`);
 
   return (
     <section className="container max-w-5xl mx-auto pb-10">
-      {commitDataArr.map((item: any) => {
-        const [sha, date] = item.split(';')
+      {versionsArr.reverse().map((item: any) => {
         return (
           <React.Fragment key={item}>
             <h2 className="text-green-700 font-bold text-sm md:text-base pb-3 pt-10">
-              {item === commitDataArr[0] ? `Changelog of ${id}` : date}
+              {item === versionsArr[0] ? `Changelog of ${id}` : item}
             </h2>
-            <EntryTile entryID={id} commitSha={sha} />
+            <EntryTile entryID={id} version={item} />
           </React.Fragment>
         )
       }

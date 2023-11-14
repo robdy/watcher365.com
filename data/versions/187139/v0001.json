@@ -1,37 +1,19 @@
 {
-  "timestamp": "2023-11-14T02:18:37.9232884+00:00",
-  "category": {
-    "oldValue": [
-      "General Availability",
-      "In development",
-      "Microsoft Purview compliance portal",
-      "Preview",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ],
-    "newValue": [
-      "GCC",
-      "General Availability",
-      "In development",
-      "Microsoft Project",
-      "Web",
-      "Worldwide (Standard Multi-Tenant)"
-    ]
-  },
-  "title": {
-    "oldValue": "Microsoft Purview compliance portal: Insider Risk Management- Browsed to generative AI websites indicator",
-    "newValue": "Microsoft Project: Baseline with Project level variance"
-  },
-  "description": {
-    "oldValue": ",With this update, we are adding a new indicator,\n“browsed to generative AI sites,” for the risky browser usage policy template,\ngiving visibility into organizational usage of generative AI domains. User\ninformation is pseudonymized by default with strong privacy controls in place\nto protect end user trust. While visiting one of these AI domains may be\nauthorized by an organization, this indicator is designed to help ensure they\nare correctly accounting for whether and how, these sites may be accessed in\npolicies. Microsoft Purview Insider Risk Management correlates various signals\nto identify potential malicious or inadvertent insider risks, such as IP theft,\ndata leakage, and security violations. Insider Risk Management enables\ncustomers to create policies based on their own internal policies, governance,\nand organizational requirements. Built with privacy by design, users are\npseudonymized by default, and role-based access controls and audit logs are in\nplace to help ensure user-level privacy.",
-    "newValue": "Record a snapshot of the project and view project level variance to know if the project is on track or delayed."
-  },
-  "publicDisclosureAvailabilityDate": {
-    "oldValue": "January CY2024",
-    "newValue": "March CY2024"
-  },
-  "publicPreviewDate": {
-    "oldValue": "December CY2023",
-    "newValue": null
-  }
+  "timestamp": "2023-11-14T12:14:15.9878362+00:00",
+  "guid": "187139",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187139",
+  "category": [
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Project",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Project: Baseline with Project level variance",
+  "description": "Record a snapshot of the project and view project level variance to know if the project is on track or delayed.",
+  "pubDate": "Tue, 14 Nov 2023 00:01:50 -0800",
+  "updated": "2023-11-14T08:01:50+00:00",
+  "publicDisclosureAvailabilityDate": "March CY2024",
+  "publicPreviewDate": null
 }

@@ -1,37 +1,27 @@
 import React from "react";
 import EntryTileVew from "./EntryTileView";
-import util from 'node:util';
-const exec = util.promisify(require('node:child_process').exec);
+const fs = require('fs');
 
-
-const EntryTile: any = async ({ entryID, commitSha }: any) => {
-  const entryFilePath = `data/${entryID}.json`;
-  const { stdout } = await exec(`git log --format=format:%H ../${entryFilePath}`)
-  const allCommitIDs: string[] = stdout.split('\n');
-  // Get content from selected commit and before
-
-  // If commit not provided, take the most recent one
-  const afterCommit = commitSha || allCommitIDs[0];
-  const afterIndex = allCommitIDs.findIndex(item => item === afterCommit);
-  const { stdout: afterData } = await exec(`git show ${afterCommit}:${entryFilePath}`);
+const EntryTile: any = async ({ entryID, version }: any) => {
+  // List files in data/versions/{entryID} folder
+  const versionsFolderPath = `../data/versions/${entryID}`;
+  
+  const afterData = await fs.promises.readFile(`${versionsFolderPath}/${version}`);
   const afterObj = JSON.parse(afterData)
 
-  // If commitSha points to last commit, return -1
-  const beforeIndex = afterIndex + 1 < allCommitIDs.length
-    ? afterIndex + 1
-    : -1
-  let beforeObj: any
-  if (beforeIndex === -1) {
-    beforeObj = {
-      category: [],
-      title: '',
-      description: ''
-    }
-  } else {
-    const beforeCommit = allCommitIDs[beforeIndex];
-    const { stdout: beforeData } = await exec(`git show ${beforeCommit}:${entryFilePath}`);
-    beforeObj = JSON.parse(beforeData)
+  const getBeforeVersion = (afterVersion: string) => {
+    if (afterVersion === 'v0001.json') return ''
+    const afterVersionNum: number = parseInt(afterVersion.replace(/^v/,'').replace(/\.json$/, ''))
+    const zeroPad = (num: number, places: number) => String(num).padStart(places, '0')
+    return zeroPad(afterVersionNum - 1, 4)
   }
+  const beforeVersion = getBeforeVersion(version);
+  const beforeFile = `v${beforeVersion}.json`
+  const beforeObj = beforeVersion === '' ? {
+    category: [],
+    title: '',
+    description: ''
+  } : JSON.parse(await fs.promises.readFile(`${versionsFolderPath}/${beforeFile}`));
 
   return (
     <EntryTileVew beforeObj={beforeObj} afterObj={afterObj} />
