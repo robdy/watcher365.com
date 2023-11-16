@@ -5,7 +5,7 @@ const util = require('node:util');
 const exec = util.promisify(require('node:child_process').exec);
 
 export async function generateStaticParams() {
-  const { stdout } = await exec('find ../data/versions/ -type d')
+  const { stdout } = await exec('find ../data/versions/ -mindepth 1 -type d')
   let filesArr: string[] = stdout.split('\n')
 
   return filesArr.map((file) => ({
