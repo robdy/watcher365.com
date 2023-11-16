@@ -3,6 +3,7 @@ import EntryTileVew from "./EntryTileView";
 const fs = require('fs');
 
 const EntryTile: any = async ({ entryID, version }: any) => {
+  if (version.match(/v\d{4}\.json/) === null) return (<div>Invalid version</div>)
   // List files in data/versions/{entryID} folder
   const versionsFolderPath = `../data/versions/${entryID}`;
   
