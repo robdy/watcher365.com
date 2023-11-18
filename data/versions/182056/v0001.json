@@ -1,0 +1,27 @@
+{
+  "timestamp": "2023-11-18T02:20:18.5896492+00:00",
+  "guid": "182056",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182056",
+  "category": [
+    "Android",
+    "Azure Active Directory",
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Mac",
+    "Microsoft Entra",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Entra: Expanded support for device-bound passkeys in Microsoft Entra ID",
+  "description": ",Microsoft Entra ID will add support for device-bound passkeys stored on computers and mobile devices as an authentication method in preview, in addition to the existing support for FIDO2 security keys. This enables users to perform phishing-resistant authentication using the devices that they already have. The existing FIDO2 authentication methods policy and end user experiences will be changed to support this preview release. For organizations to opt-in to this preview, admins will need to enforce key restrictions to allow specified passkey providers in the FIDO2 policy.",
+  "pubDate": "Fri, 17 Nov 2023 23:28:49 -0800",
+  "updated": "2023-11-18T07:28:49+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2024",
+  "publicPreviewDate": "January CY2024"
+}
