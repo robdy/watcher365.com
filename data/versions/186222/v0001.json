@@ -1,0 +1,21 @@
+{
+  "timestamp": "2023-11-23T02:21:12.9086659+00:00",
+  "guid": "186222",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186222",
+  "category": [
+    "Azure Active Directory",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Azure Active Directory: Cross-tenant manager synchronization",
+  "description": ",Cross-tenant synchronization will support provisioning a user's manager across tenants.  For existing synchronization configurations that use the default schema (where you haven't made any customizations to the attribute mappings or scoping rules), the manager will start to provision automatically for new users. For existing synchronization configurations that do not use the default schema, you can add the manager attribute to your attribute mappings.",
+  "pubDate": "Wed, 22 Nov 2023 22:02:13 -0800",
+  "updated": "2023-11-23T06:02:13+00:00",
+  "publicDisclosureAvailabilityDate": "April CY2024",
+  "publicPreviewDate": "January CY2024"
+}
