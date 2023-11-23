@@ -1,24 +1,20 @@
 import React from 'react';
 import EntryTile from '@/components/EntryTile';
 import Search from '@/components/Search';
-const util = require('node:util');
-const fs = require('fs');
-const exec = util.promisify(require('node:child_process').exec);
+import { pullAllEntryIDs, pullAllVersionsFromEntryID } from '@/libs/pullData';
 
 const AllPage = async () => {
-	const { stdout } = await exec('find ../data/versions/ -mindepth 1 -type d')
-	let filesArr: string[] = stdout.split('\n')
-	// Remove last empty item
-	filesArr.pop()
+	const allEntries = await pullAllEntryIDs();
 
-	let entriesArr: any[] = filesArr.map((file) => {
-		const allVersions = fs.readdirSync(file)
+	const entriesPromisesArr: any[] = allEntries.map(async (id) => {
+		const allVersions = await pullAllVersionsFromEntryID(id);
 		const latestVersion = allVersions[allVersions.length - 1]
 		return ({
-			id: file.split('/')[3],
-			latestVersion: latestVersion
+			id: id,
+			latestVersion: `v${latestVersion}.json`
 		})
 	})
+	const entriesArr = await Promise.all(entriesPromisesArr)
 	return (
 		<section className="container max-w-5xl mx-auto ">
 			<Search />
