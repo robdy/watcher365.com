@@ -3,7 +3,10 @@ import EntryTile from "@/components/EntryTile";
 import {  pullAllEntryIDs, pullAllVersionsFromEntryID } from "@/libs/pullData";
 
 export async function generateStaticParams() {
-  return await pullAllEntryIDs()
+  const entryIDs = await pullAllEntryIDs()
+  return entryIDs.map(entry => ({
+    id: entry
+  }))
 }
 
 const EntryPage = async ({ params }: {params: {id: string}}) => {
