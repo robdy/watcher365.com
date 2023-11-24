@@ -1,8 +1,7 @@
 
 import EntryTileView from '@/components/EntryTileView';
 import React from 'react';
-import { readFile } from 'fs/promises';
-import { getSummaries } from '@/libs/getSummaries';
+import { pullAllSummaries, pullSummaryData } from '@/libs/pullData';
 import Search from '@/components/Search';
 
 export const dynamic = 'force-static';
@@ -35,15 +34,14 @@ type WeeklyData = {
 
 
 export async function generateStaticParams() {
-	return await getSummaries('weekly');
+	return await pullAllSummaries('weekly');
 }
 
 const Weekly = async ({ params }: { params: { id: string } }) => {
 	const { id } = params
 	
 	// Import file from data/weekly/${id}.json using fs
-	const data = await readFile(`data/weekly/${id}.json`, 'utf-8')
-	const dataArr = JSON.parse(data) as WeeklyData[]
+	const dataArr = await pullSummaryData('weekly', id) as WeeklyData[]
 	let otherItems = dataArr
 
 	// Functions for detecting change types

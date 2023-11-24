@@ -1,6 +1,6 @@
-import { repo, owner, octokit } from "@/config/octokit";
 import ListContainer from "@/components/ListContainer";
 import Search from "@/components/Search";
+import { pullLatestNChanges } from "@/libs/pullData";
 
 export const revalidate = 3600 / 6;
 
@@ -10,22 +10,10 @@ const getData = async (
   { commitList: any } | undefined
 > => {
   try {
-    // gat all commits from repo
-    const response = await octokit.rest.repos.listCommits({ 
-      owner, 
-      repo,
-      path: "data/versions",
-    });
-
-    let commitList : any = [];
-    for (const commit of response.data.slice(0, 1)) {
-      commitList = commitList.concat(commit.sha)
-    }
-    return { commitList };
+    return pullLatestNChanges(1);
   } catch (error: any) {
     throw new Error(error.message);
   }
-  
 };
 
 const Home = async () => {

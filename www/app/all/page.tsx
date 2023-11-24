@@ -2,13 +2,13 @@ import React from 'react';
 import EntryTile from '@/components/EntryTile';
 import Search from '@/components/Search';
 import { pullAllEntryIDs, pullAllVersionsFromEntryID } from '@/libs/pullData';
-
+import { getLatestVersionFromVersions } from '@/libs/processData';
 const AllPage = async () => {
 	const allEntries = await pullAllEntryIDs();
 
 	const entriesPromisesArr: any[] = allEntries.map(async (id) => {
 		const allVersions = await pullAllVersionsFromEntryID(id);
-		const latestVersion = allVersions[allVersions.length - 1]
+		const latestVersion = getLatestVersionFromVersions(allVersions);
 		return ({
 			id: id,
 			latestVersion: `v${latestVersion}.json`
