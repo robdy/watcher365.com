@@ -1,9 +1,9 @@
-name: Weekly summary
+name: Daily summary
 
-# Run every Sunday one hour later than the RSS watcher
+# Run every day at 3 AM UTC
 on:
   schedule:
-    - cron: "0 4 * * 0"
+    - cron: "0 3 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -17,11 +17,11 @@ jobs:
           fetch-depth: 0
       - name: Run script
         id: checker
-        run: ./scripts/Generate-TimedDiff.ps1 -Type Weekly
+        run: ./scripts/Generate-TimedDiff.ps1 -Type Daily
       - name: Commit changes
         run: |
           git add .
           git config --global user.name 'Robert Dyjas'
           git config --global user.email '15113729+robdy@users.noreply.github.com'
-          git commit -am "$(Get-Date -Format 'yyyy-MM-dd') weekly summary"
+          git commit -am "$(Get-Date -Format 'yyyy-MM-dd') daily summary"
           git push
