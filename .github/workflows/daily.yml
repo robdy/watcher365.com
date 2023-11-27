@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
       - name: Run script
         id: checker
-        run: ./scripts/Generate-TimedDiff.ps1 -Type Daily
+        run: ./scripts/Generate-TimedDiff.ps1 -Type daily
       - name: Commit changes
         run: |
           git add .
