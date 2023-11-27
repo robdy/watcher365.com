@@ -7,7 +7,7 @@ $todayString = (Get-Date $currentDate -Format "yyyyMMdd")
 
 
 if ($Type -eq 'daily') {
-	$yesterdayString = (Get-Date -Hour 0 -Minute 0 -Second 0).AddDays(1).ToString('o')
+	$yesterdayString = (Get-Date -Hour 0 -Minute 0 -Second 0).ToString('o')
 	$commitID = (git log --until "$yesterdayString" --format="%H" -- 'data')[0]
 
 } elseif ($Type -eq 'weekly') {
