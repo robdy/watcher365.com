@@ -7,8 +7,8 @@ $todayString = (Get-Date $currentDate -Format "yyyyMMdd")
 
 
 if ($Type -eq 'daily') {
-	$startDayString = (Get-Date -Hour 0 -Minute 0 -Second 0)
-	$commitID = (git log --until "$startDayString" --format="%H" -- 'data')[0]
+	$yesterdayString = (Get-Date -Hour 0 -Minute 0 -Second 0).AddDays(1).ToString('o')
+	$commitID = (git log --until "$yesterdayString" --format="%H" -- 'data')[0]
 
 } elseif ($Type -eq 'weekly') {
 	# Get last commit  (Monday-Sunday)
