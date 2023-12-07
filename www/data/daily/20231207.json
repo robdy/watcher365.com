@@ -1,0 +1,1548 @@
+[
+  {
+    "Path": "data/100066.json",
+    "CurrentVersion": {
+      "guid": "100066",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100066",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Support PowerPoint Live and Whiteboard for Watermark meeting (Premium)",
+      "description": "Watermark enabled\nMicrosoft Teams meetings will now support PowerPoint Live and Whiteboard to\nalso be watermarked.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:08 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/117453.json",
+    "CurrentVersion": {
+      "guid": "117453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117453",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals in People Profile Cards",
+      "description": "View other users' OKRs and goals in Viva Goals from their user profile cards in Outlook (when enabled).",
+      "pubDate": "Thu, 20 Apr 2023 23:25:46 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117453",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals in People Profile Cards",
+      "description": "Increase transparency by viewing a user's OKRs from Viva Goals within a Live People Card in Outlook",
+      "pubDate": "Thu, 20 Apr 2023 23:25:46 -0700",
+      "updated": "2023-09-22T05:59:22+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117546.json",
+    "CurrentVersion": {
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2023-10-27T06:03:17+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": "September CY2023"
+    }
+  },
+  {
+    "Path": "data/117574.json",
+    "CurrentVersion": {
+      "guid": "117574",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117574",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention – Restrict egress activities when accessing sensitive websites in Microsoft Edge (U.S. Government clouds)",
+      "description": "This capability allows restricting common egress activities as users navigate protected sites or access sensitive content via Microsoft Edge. With this new capability, organizations will be able to designate groups of protected sites and apply different restrictions, and monitor or restrict common egress activities when users visit protected sites with audit, block, and block override controls.",
+      "pubDate": "Mon, 01 May 2023 23:34:01 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117574",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117574",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention – Restrict egress activities when accessing sensitive websites in Microsoft Edge (U.S. Government clouds)",
+      "description": "This capability allows restricting common egress activities as users navigate protected sites or access sensitive content via Microsoft Edge. With this new capability, organizations will be able to designate groups of protected sites and apply different restrictions, and monitor or restrict common egress activities when users visit protected sites with audit, block, and block override controls.",
+      "pubDate": "Mon, 01 May 2023 23:34:01 -0700",
+      "updated": "2023-11-15T08:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/123963.json",
+    "CurrentVersion": {
+      "guid": "123963",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123963",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: meeting participants time-zone",
+      "description": "When scheduling a meeting with people from\ndifferent time-zones, the user will be prompted with suggested start times and\nadditional insights that correspond to the participants respective time-zone,\nensuring a more suitable time for all meeting participants.",
+      "pubDate": "Tue, 20 Jun 2023 23:11:08 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "123963",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123963",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: meeting participants time-zone",
+      "description": "When scheduling a meeting with people from\ndifferent time-zones, the user will be prompted with suggested start times and\nadditional insights that correspond to the participants respective time-zone,\nensuring a more suitable time for all meeting participants.",
+      "pubDate": "Tue, 20 Jun 2023 23:11:08 -0700",
+      "updated": "2023-10-14T05:05:06+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/139460.json",
+    "CurrentVersion": {
+      "guid": "139460",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=139460",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Named entity coverage for additional markets and languages",
+      "description": "Named entities are sensitive information types (SITs) that can’t easily be identified by a regular expression or a function; these include person names, physical addresses, and medical terms and conditions. This update expands name and address coverage to an additional 7 countries, such as China and Russia, and expands medical terms and conditions (specifically for the Diseases SIT) to an additional 29 languages covering much of Europe, China, Japan, and Korea.",
+      "pubDate": "Mon, 19 Jun 2023 23:33:43 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "139460",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=139460",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Named entity coverage for additional markets and languages",
+      "description": "Named entities are sensitive information types (SITs) that can’t easily be identified by a regular expression or a function; these include person names, physical addresses, and medical terms and conditions. This update expands name and address coverage to an additional 7 countries, such as China and Russia, and expands medical terms and conditions (specifically for the Diseases SIT) to an additional 29 languages covering much of Europe, China, Japan, and Korea.",
+      "pubDate": "Mon, 19 Jun 2023 23:33:43 -0700",
+      "updated": "2023-11-28T08:04:24+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163363.json",
+    "CurrentVersion": {
+      "guid": "163363",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163363",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Simplified channel creation",
+      "description": "We\nadded the option to create a channel directly from the + button in the Teams\napp, making it easier for the user to create a channel.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:08 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/163364.json",
+    "CurrentVersion": {
+      "guid": "163364",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163364",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Simplified team create",
+      "description": "When\ncreating a team, the new default experience will be ‘create a team from\nscratch’, making it a simpler and quicker experience.",
+      "pubDate": "Wed, 06 Dec 2023 00:42:13 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163364",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163364",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Simplified team create",
+      "description": "When\ncreating a team, the new default experience will be ‘create a team from\nscratch’, making it a simpler and quicker experience.",
+      "pubDate": "Wed, 06 Dec 2023 00:38:12 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/176155.json",
+    "CurrentVersion": {
+      "guid": "176155",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=176155",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Exact Data Match adding support for role-based access control (RBAC) for EDM upload authorization",
+      "description": ",Customers will be able to choose to leverage RBAC to authorize users for uploading data to the Exact Data Match (EDM) service instead of leveraging the EDM_DataUploaders security group for authorization.",
+      "pubDate": "Wed, 27 Sep 2023 07:00:00 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {
+      "guid": "176155",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=176155",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Exact Data Match adding support for role-based access control (RBAC) for EDM upload authorization",
+      "description": "Customers will be able to choose to leverage RBAC to authorize users for uploading data to the Exact Data Match (EDM) service instead of leveraging the EDM_DataUploaders security group for authorization.",
+      "pubDate": "Wed, 27 Sep 2023 07:00:00 -0700",
+      "updated": "2023-12-02T07:01:06+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/180322.json",
+    "CurrentVersion": {
+      "guid": "180322",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180322",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Containers in Visio for the web [Visio Plan 1, Plan 2]",
+      "description": "Containers are a powerful tool for organizing\nand managing complex diagrams. Users with a Visio Plan 1 or Visio Plan 2\nlicense will be able to use containers in Visio for the web to create\nprofessional-looking diagrams that are easy to understand and navigate.",
+      "pubDate": "Wed, 01 Nov 2023 23:20:58 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "180322",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180322",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Containers in Visio for the web",
+      "description": "Containers are a powerful tool for organizing\nand managing complex diagrams. Users with a Visio Plan 1 or Visio Plan 2\nlicense will be able to use containers in Visio for the web to create\nprofessional-looking diagrams that are easy to understand and navigate.",
+      "pubDate": "Wed, 01 Nov 2023 23:20:58 -0700",
+      "updated": "2023-11-02T06:16:05+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/180769.json",
+    "CurrentVersion": {
+      "guid": "180769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180769",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Define Shape Data in Visio for the web [Visio Plan 1, Plan 2]",
+      "description": "Users with a Visio Plan 1 or Visio Plan 2 license will be able to harness the full potential of shape data in Visio for the web. This powerful feature enables users to create custom data fields and associate them with shapes, simplifying the process of tracking and analyzing information in their diagrams.",
+      "pubDate": "Tue, 14 Nov 2023 00:06:12 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "180769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180769",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Define Shape Data in Visio for the web",
+      "description": "Users with a Visio Plan 1 or Visio Plan 2 license will be able to harness the full potential of shape data in Visio for the web. This powerful feature enables users to create custom data fields and associate them with shapes, simplifying the process of tracking and analyzing information in their diagrams.",
+      "pubDate": "Tue, 14 Nov 2023 00:06:12 -0800",
+      "updated": "2023-11-14T08:01:50+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/185006.json",
+    "CurrentVersion": {
+      "guid": "185006",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185006",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat between multi-tenant organization contacts will default to external chat",
+      "description": "1:1 chat between\nmulti-tenant organization (MTO) contacts will now default to external chat,\ncreating a single conversation thread. As part of this change, existing B2B\nchat threads will be available as read-only.",
+      "pubDate": "Wed, 06 Dec 2023 00:42:43 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "185006",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185006",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat between multi-tenant organization contacts will default to external chat",
+      "description": "1:1 chat between\nmulti-tenant organization (MTO) contacts will now default to external chat,\ncreating a single conversation thread. As part of this change, existing B2B\nchat threads will be available as read-only.",
+      "pubDate": "Wed, 06 Dec 2023 00:38:12 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186528.json",
+    "CurrentVersion": {
+      "guid": "186528",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186528",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Full File Evidence for all workloads in Activity Explorer",
+      "description": ",This feature grants the user the capability to view the source link of the file associated with the activity flagged in Activity Explorer.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:02 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "December CY2023"
+    },
+    "OldVersion": {
+      "guid": "186528",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186528",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Full File Evidence for all workloads in Activity Explorer",
+      "description": ",This feature grants the user the capability to view the source link of the file associated with the activity flagged in Activity Explorer.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:02 -0800",
+      "updated": "2023-11-29T07:59:53+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/187230.json",
+    "CurrentVersion": {
+      "guid": "187230",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187230",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New Admin policy for enabling/disabling tenant users to join externally hosted meetings",
+      "description": "As an admin, you can control which meetings your org users can attend - only internally hosted meetings or externally hosted meetings as well. This can help your org to meet compliance needs and strengthen controls around Teams meetings.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:09 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/189809.json",
+    "CurrentVersion": {
+      "guid": "189809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189809",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "With the new sync window, you can choose how many days' worth of emails and attachments you want to\ndownload to your device so you can always access them even while offline.",
+      "pubDate": "Thu, 30 Nov 2023 00:07:16 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "189809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189809",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "With the new sync window, you can choose how many days' worth of emails and attachments you want to\ndownload to your device so you can always access them even while offline.",
+      "pubDate": "Thu, 30 Nov 2023 00:07:16 -0800",
+      "updated": "2023-11-30T08:01:24+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/189826.json",
+    "CurrentVersion": {
+      "guid": "189826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189826",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Visio",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Modernized user-defined permissions experience",
+      "description": ",A modernized experience for selecting which users should have which permissions when a sensitivity label configured for user-defined permissions is applied to a file in M365 apps or when a user applies protection using standalone Information Rights Management.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:09 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/190927.json",
+    "CurrentVersion": {
+      "guid": "190927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=190927",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Coaching by Copilot in classic Outlook for Windows",
+      "description": "Copilot combines the power of LLMs and Outlook data to help you do more. Copilot coaches you on how to best get your message across and you can adjust the tone and length of your message.",
+      "pubDate": "Wed, 06 Dec 2023 00:42:59 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "190927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=190927",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Coaching by Copilot in classic Outlook for Windows",
+      "description": "Copilot combines the power of LLMs and Outlook data to help you do more. Copilot coaches you on how to best get your message across and you can adjust the tone and length of your message.",
+      "pubDate": "Wed, 06 Dec 2023 00:38:12 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/190937.json",
+    "CurrentVersion": {
+      "guid": "190937",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=190937",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Draft by Copilot in classic Outlook for Windows",
+      "description": "Copilot combines the power of LLMs and Outlook data to help you do more. Copilot can now help you draft new messages or replies.",
+      "pubDate": "Wed, 06 Dec 2023 00:43:02 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "190937",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=190937",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Draft by Copilot in classic Outlook for Windows",
+      "description": "Copilot combines the power of LLMs and Outlook data to help you do more. Copilot can now help you draft new messages or replies.",
+      "pubDate": "Wed, 06 Dec 2023 00:38:12 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/192177.json",
+    "CurrentVersion": {
+      "guid": "192177",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192177",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Teams",
+        "TeamsAndSurfaceDevices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot for Microsoft 365  in Teams Chat list",
+      "description": "The Copilot for Microsoft 365 app is available in the Teams Apps Store for Copilot licensed users. This update will make the Copilot app visible in the Teams Chat list for easy access.",
+      "pubDate": "Wed, 06 Dec 2023 00:43:05 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "192177",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192177",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Teams",
+        "TeamsAndSurfaceDevices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot for Microsoft 365  in Teams Chat list",
+      "description": "The Copilot for Microsoft 365 app is available in the Teams Apps Store for Copilot licensed users. This update will make the Copilot app visible in the Teams Chat list for easy access.",
+      "pubDate": "Wed, 06 Dec 2023 00:38:12 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/192236.json",
+    "CurrentVersion": {
+      "guid": "192236",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192236",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Admin apps pinned by default in Mail Compose and Read",
+      "description": "When an app is deployed in\nIntegrated Apps (Get Apps & Upload Custom LOB apps) in the Microsoft Admin\nCenter, it will be available in Outlook on the web in Read Message Actions and\nCompose Ribbon.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:09 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/83113.json",
+    "CurrentVersion": {
+      "guid": "83113",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=83113",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center:  Group Driven Membership Management",
+      "description": "With this in-product feature support, end users and admins will be able to add other groups as member of a Dynamic Microsoft 365 Group by using the memberOf property. In the preview, users will be able to create these GDM a.k.a nested groups from Azure Portal & Group Card and they can be accessed & used like any other Dynamic Microsoft 365 Group across apps like Teams, Outlook & SharePoint. Enhancements around deeper levels of nesting, increasing the number of memberOf groups in a tenant are also being worked on and will be eventually available for GA.",
+      "pubDate": "Wed, 19 May 2021 23:55:41 -0700",
+      "updated": "2023-12-07T08:01:06+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "83113",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=83113",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center:  Group Driven Membership Management",
+      "description": "With this in-product feature support, end users and admins will be able to add other groups as member of a Dynamic Microsoft 365 Group by using the memberOf property. In the preview, users will be able to create these GDM a.k.a nested groups from Azure Portal & Group Card and they can be accessed & used like any other Dynamic Microsoft 365 Group across apps like Teams, Outlook & SharePoint. Enhancements around deeper levels of nesting, increasing the number of memberOf groups in a tenant are also being worked on and will be eventually available for GA.",
+      "pubDate": "Wed, 19 May 2021 23:55:41 -0700",
+      "updated": "2023-10-18T07:02:56+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/88858.json",
+    "CurrentVersion": {
+      "guid": "88858",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88858",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Mind maps in Visio for the web [Visio Plan 1, Plan 2]",
+      "description": "Brainstorm and capture information in a structured format that makes it easy to understand and recall with new mind map shapes in Visio for the web.",
+      "pubDate": "Fri, 21 Jan 2022 00:11:31 -0800",
+      "updated": "2023-12-07T08:01:07+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "88858",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88858",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Mind maps in Visio for the web",
+      "description": "Brainstorm and capture information in a structured format that makes it easy to understand and recall with new mind map shapes in Visio for the web.",
+      "pubDate": "Fri, 21 Jan 2022 00:11:31 -0800",
+      "updated": "2023-11-02T06:16:05+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/98501.json",
+    "CurrentVersion": {
+      "guid": "98501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98501",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Location-based routing for Teams on VDI",
+      "description": "This feature will be delivered as part of VDI 2.0.",
+      "pubDate": "Tue, 11 Oct 2022 23:53:10 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "98501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98501",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Location-based routing for Teams on VDI",
+      "description": "When making or receiving a PSTN call,\nlocation-based routing for Teams on VDI, enables the bypass of toll\nrestrictions based on where the user is located. Such as when the user is not\nphysically located on a corporate network.",
+      "pubDate": "Tue, 11 Oct 2022 23:53:10 -0700",
+      "updated": "2023-10-03T06:03:50+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/99523.json",
+    "CurrentVersion": {
+      "guid": "99523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=99523",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Manual course completion",
+      "description": "Users can mark a course as complete in Viva\nlearning. ",
+      "pubDate": "Wed, 22 Feb 2023 00:14:03 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "99523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=99523",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Manual course completion",
+      "description": "Users can mark a course as complete in Viva\nlearning. ",
+      "pubDate": "Wed, 22 Feb 2023 00:14:03 -0800",
+      "updated": "2023-06-08T06:12:30+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/100066/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "100066",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100066",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Support PowerPoint Live and Whiteboard for Watermark meeting (Premium)",
+      "description": "Watermark enabled\nMicrosoft Teams meetings will now support PowerPoint Live and Whiteboard to\nalso be watermarked.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:08 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117453/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "117453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117453",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals in People Profile Cards",
+      "description": "View other users' OKRs and goals in Viva Goals from their user profile cards in Outlook (when enabled).",
+      "pubDate": "Thu, 20 Apr 2023 23:25:46 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117546/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117574/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "117574",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117574",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention – Restrict egress activities when accessing sensitive websites in Microsoft Edge (U.S. Government clouds)",
+      "description": "This capability allows restricting common egress activities as users navigate protected sites or access sensitive content via Microsoft Edge. With this new capability, organizations will be able to designate groups of protected sites and apply different restrictions, and monitor or restrict common egress activities when users visit protected sites with audit, block, and block override controls.",
+      "pubDate": "Mon, 01 May 2023 23:34:01 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/123963/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "123963",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123963",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: meeting participants time-zone",
+      "description": "When scheduling a meeting with people from\ndifferent time-zones, the user will be prompted with suggested start times and\nadditional insights that correspond to the participants respective time-zone,\nensuring a more suitable time for all meeting participants.",
+      "pubDate": "Tue, 20 Jun 2023 23:11:08 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/139460/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "139460",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=139460",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Named entity coverage for additional markets and languages",
+      "description": "Named entities are sensitive information types (SITs) that can’t easily be identified by a regular expression or a function; these include person names, physical addresses, and medical terms and conditions. This update expands name and address coverage to an additional 7 countries, such as China and Russia, and expands medical terms and conditions (specifically for the Diseases SIT) to an additional 29 languages covering much of Europe, China, Japan, and Korea.",
+      "pubDate": "Mon, 19 Jun 2023 23:33:43 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163363/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "163363",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163363",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Simplified channel creation",
+      "description": "We\nadded the option to create a channel directly from the + button in the Teams\napp, making it easier for the user to create a channel.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:08 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163364/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "163364",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163364",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Simplified team create",
+      "description": "When\ncreating a team, the new default experience will be ‘create a team from\nscratch’, making it a simpler and quicker experience.",
+      "pubDate": "Wed, 06 Dec 2023 00:42:13 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/176155/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "176155",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=176155",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Exact Data Match adding support for role-based access control (RBAC) for EDM upload authorization",
+      "description": ",Customers will be able to choose to leverage RBAC to authorize users for uploading data to the Exact Data Match (EDM) service instead of leveraging the EDM_DataUploaders security group for authorization.",
+      "pubDate": "Wed, 27 Sep 2023 07:00:00 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/180322/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "180322",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180322",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Containers in Visio for the web [Visio Plan 1, Plan 2]",
+      "description": "Containers are a powerful tool for organizing\nand managing complex diagrams. Users with a Visio Plan 1 or Visio Plan 2\nlicense will be able to use containers in Visio for the web to create\nprofessional-looking diagrams that are easy to understand and navigate.",
+      "pubDate": "Wed, 01 Nov 2023 23:20:58 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/180769/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "180769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180769",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Define Shape Data in Visio for the web [Visio Plan 1, Plan 2]",
+      "description": "Users with a Visio Plan 1 or Visio Plan 2 license will be able to harness the full potential of shape data in Visio for the web. This powerful feature enables users to create custom data fields and associate them with shapes, simplifying the process of tracking and analyzing information in their diagrams.",
+      "pubDate": "Tue, 14 Nov 2023 00:06:12 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/185006/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "185006",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185006",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat between multi-tenant organization contacts will default to external chat",
+      "description": "1:1 chat between\nmulti-tenant organization (MTO) contacts will now default to external chat,\ncreating a single conversation thread. As part of this change, existing B2B\nchat threads will be available as read-only.",
+      "pubDate": "Wed, 06 Dec 2023 00:42:43 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186528/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "186528",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186528",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Full File Evidence for all workloads in Activity Explorer",
+      "description": ",This feature grants the user the capability to view the source link of the file associated with the activity flagged in Activity Explorer.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:02 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "December CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/187230/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "187230",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187230",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New Admin policy for enabling/disabling tenant users to join externally hosted meetings",
+      "description": "As an admin, you can control which meetings your org users can attend - only internally hosted meetings or externally hosted meetings as well. This can help your org to meet compliance needs and strengthen controls around Teams meetings.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:09 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/189809/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "189809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189809",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "With the new sync window, you can choose how many days' worth of emails and attachments you want to\ndownload to your device so you can always access them even while offline.",
+      "pubDate": "Thu, 30 Nov 2023 00:07:16 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/189826/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "189826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189826",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Visio",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Modernized user-defined permissions experience",
+      "description": ",A modernized experience for selecting which users should have which permissions when a sensitivity label configured for user-defined permissions is applied to a file in M365 apps or when a user applies protection using standalone Information Rights Management.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:09 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/190927/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "190927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=190927",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Coaching by Copilot in classic Outlook for Windows",
+      "description": "Copilot combines the power of LLMs and Outlook data to help you do more. Copilot coaches you on how to best get your message across and you can adjust the tone and length of your message.",
+      "pubDate": "Wed, 06 Dec 2023 00:42:59 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/190937/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "190937",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=190937",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Draft by Copilot in classic Outlook for Windows",
+      "description": "Copilot combines the power of LLMs and Outlook data to help you do more. Copilot can now help you draft new messages or replies.",
+      "pubDate": "Wed, 06 Dec 2023 00:43:02 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/192177/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "192177",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192177",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Teams",
+        "TeamsAndSurfaceDevices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot for Microsoft 365  in Teams Chat list",
+      "description": "The Copilot for Microsoft 365 app is available in the Teams Apps Store for Copilot licensed users. This update will make the Copilot app visible in the Teams Chat list for easy access.",
+      "pubDate": "Wed, 06 Dec 2023 00:43:05 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/192236/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "192236",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192236",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Admin apps pinned by default in Mail Compose and Read",
+      "description": "When an app is deployed in\nIntegrated Apps (Get Apps & Upload Custom LOB apps) in the Microsoft Admin\nCenter, it will be available in Outlook on the web in Read Message Actions and\nCompose Ribbon.",
+      "pubDate": "Thu, 07 Dec 2023 00:01:09 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/83113/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "83113",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=83113",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center:  Group Driven Membership Management",
+      "description": "With this in-product feature support, end users and admins will be able to add other groups as member of a Dynamic Microsoft 365 Group by using the memberOf property. In the preview, users will be able to create these GDM a.k.a nested groups from Azure Portal & Group Card and they can be accessed & used like any other Dynamic Microsoft 365 Group across apps like Teams, Outlook & SharePoint. Enhancements around deeper levels of nesting, increasing the number of memberOf groups in a tenant are also being worked on and will be eventually available for GA.",
+      "pubDate": "Wed, 19 May 2021 23:55:41 -0700",
+      "updated": "2023-12-07T08:01:06+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/88858/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "88858",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88858",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Visio",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Visio: Mind maps in Visio for the web [Visio Plan 1, Plan 2]",
+      "description": "Brainstorm and capture information in a structured format that makes it easy to understand and recall with new mind map shapes in Visio for the web.",
+      "pubDate": "Fri, 21 Jan 2022 00:11:31 -0800",
+      "updated": "2023-12-07T08:01:07+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/98501/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "98501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98501",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Location-based routing for Teams on VDI",
+      "description": "This feature will be delivered as part of VDI 2.0.",
+      "pubDate": "Tue, 11 Oct 2022 23:53:10 -0700",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/99523/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2023-12-07T02:22:54.8411988+00:00",
+      "guid": "99523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=99523",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Manual course completion",
+      "description": "Users can mark a course as complete in Viva\nlearning. ",
+      "pubDate": "Wed, 22 Feb 2023 00:14:03 -0800",
+      "updated": "2023-12-07T08:01:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
