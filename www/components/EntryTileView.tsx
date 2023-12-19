@@ -7,7 +7,11 @@ import { BsMap } from "react-icons/bs";
 import { MdHistory } from "react-icons/md"
 
 const normalizeText = (text: string): string => {
-	return text.replaceAll(/^,/g, "")
+	// Remove leading commas
+	let normalizedText = text.replaceAll(/^,/g, "");
+	// Skip HTML tags
+	normalizedText = normalizedText.replaceAll(/<[^>]*>/g, "");	
+	return normalizedText
 }
 
 const EntryTileVew: any = async ({ beforeObj, afterObj }: any) => {
