@@ -1,0 +1,17 @@
+name: Screenshot
+
+# Run every day at 2 AM UTC
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Screenshot Website
+        uses: swinton/screenshot-website@v1.x
+        with:
+          source: https://watcher365.com
+          destination: screenshot.png
+          full-page: true
