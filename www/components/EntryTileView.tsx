@@ -128,11 +128,14 @@ const EntryTileVew: any = async ({ beforeObj, afterObj }: any) => {
 
 	const DiffedText: any = ({ type, }: { type: "title" | "description" }) => {
 		let diffedTextObject: any = []
-		if (beforeObj[type] === '') {
-			return <span className={`text-gray-600`}>{afterObj[type]}</span>
-		}
-		const beforeText = normalizeText(beforeObj[type])
+		// Normalizes new version first
 		const afterText = normalizeText(afterObj[type])
+		if (beforeObj[type] === '') {
+			return <span className={`text-gray-600`}>{afterText}</span>
+		}
+		// Only normalizes old version if it exists
+		const beforeText = normalizeText(beforeObj[type])
+
 		let textDiff = Diff.diffWords(
 			beforeText, afterText
 		)
