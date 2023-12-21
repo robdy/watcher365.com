@@ -1,0 +1,18 @@
+{
+  "timestamp": "2023-12-21T02:21:07.8531832+00:00",
+  "guid": "375261",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375261",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Edge",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Edge: Enable organizational branding in Edge for Business",
+  "description": "Enable your organization's branding assets from Entra onto profile-related UI for profiles signed in with an Entra ID (formerly known as Azure Active Directory) account. You can add your organization’s details such as name to the profile pill, name and brand color to the profile flyout, and logo to overlay the Edge for Business taskbar icon. This branding can help users more easily differentiate between multiple profiles and browser windows. Default organizational branding can be enabled by admins through the following policies: OrganizationalBrandingOnWorkProfileUIEnabled and OrganizationLogoOverlayOnAppIconEnabled. Admins will need to have 'company branding' assets configured in the Microsoft Entra admin center for branding assets to be applied to this feature. <br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-for-business#company-branding",
+  "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+  "updated": "2023-12-21T08:30:17+00:00",
+  "publicDisclosureAvailabilityDate": "January CY2024",
+  "publicPreviewDate": null
+}
