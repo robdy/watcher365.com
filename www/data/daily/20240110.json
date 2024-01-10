@@ -1,0 +1,960 @@
+[
+  {
+    "Path": "data/101511.json",
+    "CurrentVersion": {
+      "guid": "101511",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=101511",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Editor proofing in multiple languages.",
+      "description": "<div>Outlook on the web can now proof your writing simultaneously in up to three languages. Users must select which languages to add in Editor settings. </div>",
+      "pubDate": "Thu, 20 Oct 2022 23:50:57 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2022",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "101511",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=101511",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Editor proofing in multiple languages.",
+      "description": "Outlook on the web can now proof your writing simultaneously in up to three languages. Users must select which languages to add in Editor settings.",
+      "pubDate": "Thu, 20 Oct 2022 23:50:57 -0700",
+      "updated": "2023-06-20T06:27:52+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2022",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117425.json",
+    "CurrentVersion": {
+      "guid": "117425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+      "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+      "pubDate": "Wed, 01 Mar 2023 00:09:20 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+      "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+      "pubDate": "Wed, 01 Mar 2023 00:09:20 -0800",
+      "updated": "2023-11-04T05:09:24+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117523.json",
+    "CurrentVersion": {
+      "guid": "117523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+      "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:48 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+      "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:48 -0800",
+      "updated": "2023-11-01T06:22:49+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/118580.json",
+    "CurrentVersion": {
+      "guid": "118580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118580",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enable second video stream with \"Teams Content Camera on Desktop\"",
+      "description": "This feature will no longer be rolling out to Teams. We will publish a new announcement when we have a new release schedule confirmed. Users will be able to enable a second video stream to support both their Personal Video and Teams Content Camera on Desktop feature. When enabling the Teams Content Camera on Desktop feature, the Personal Video is expected to be maintained so long that the user selects a separate Camera to support the two video streams.",
+      "pubDate": "Fri, 03 Mar 2023 23:31:39 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "118580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118580",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enable second video stream with \"Teams Content Camera on Desktop\"",
+      "description": "Users will be able to enable a second video stream to support both their Personal Video and Teams Content Camera on Desktop feature.  When enabling the Teams Content Camera on Desktop feature, the Personal Video is expected to be maintained so long that the user selects a separate Camera to support the two video streams. This feature will no longer be rolling out to classic Teams and will only be generally available in the new Teams experience with a revised Rollout Start schedule.",
+      "pubDate": "Fri, 03 Mar 2023 23:31:39 -0800",
+      "updated": "2024-01-05T08:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/122703.json",
+    "CurrentVersion": {
+      "guid": "122703",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122703",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Outlook for Windows and web - Language Sync for accounts",
+      "description": "<div><span></span> </div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Users will have the option to enable language\nsync between their accounts and the new Outlook for Windows and web clients.\nThe option can be found in Settings in those clients, once enabled it will sync\nthe language a user has set in &quot;MyAccount&quot; with the Outlook clients\nmentioned. This means, the language that a user has set in\n&quot;MyAccount&quot; will start to be used in Outlook. This feature will be\noff by default and users can choose to opt-in.</span>",
+      "pubDate": "Fri, 24 Mar 2023 22:17:25 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "122703",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122703",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Outlook for Windows and web - Language Sync for accounts",
+      "description": " Users will have the option to enable language\nsync between their accounts and the new Outlook for Windows and web clients.\nThe option can be found in Settings in those clients, once enabled it will sync\nthe language a user has set in \"MyAccount\" with the Outlook clients\nmentioned. This means, the language that a user has set in\n\"MyAccount\" will start to be used in Outlook. This feature will be\noff by default and users can choose to opt-in.",
+      "pubDate": "Fri, 24 Mar 2023 22:17:25 -0700",
+      "updated": "2023-06-22T06:11:41+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/141204.json",
+    "CurrentVersion": {
+      "guid": "141204",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141204",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updates to in-call user experience",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Making it easier for\nusers to access calling capabilities with a redesigned user experience during\ncalls.</span> </div><div> </div>",
+      "pubDate": "Fri, 27 Oct 2023 22:13:17 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "141204",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141204",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updates to in-call user experience",
+      "description": "Making it easier for\nusers to access calling capabilities with a redesigned user experience during\ncalls.",
+      "pubDate": "Fri, 27 Oct 2023 22:13:17 -0700",
+      "updated": "2023-11-29T07:59:53+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/183908.json",
+    "CurrentVersion": {
+      "guid": "183908",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=183908",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List",
+      "description": "<div>Tenant allow block list domains &amp; addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed. </div>",
+      "pubDate": "Wed, 25 Oct 2023 23:30:55 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "183908",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=183908",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List",
+      "description": "Tenant allow block list domains & addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed.",
+      "pubDate": "Wed, 25 Oct 2023 23:30:55 -0700",
+      "updated": "2023-12-02T07:01:06+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186560.json",
+    "CurrentVersion": {
+      "guid": "186560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186560",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Assign staff and set duration for on-demand Virtual Appointments (Premium)",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Scheduling\nadministrators and staff managing on-demand appointments can assign specific\nstaff members and set appointment duration to handle on-demand services. This\nensures that when an on-demand appointment is requested, there is a designated\nstaff member assigned to the appointment and a defined duration for the\nappointment is set. The designated staff member also receives a notification to\nattend the on-demand appointment.</span> </div>",
+      "pubDate": "Tue, 28 Nov 2023 02:14:28 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186560",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Assign staff and set duration for on-demand Virtual Appointments (Premium)",
+      "description": "Scheduling\nadministrators and staff managing on-demand appointments can assign specific\nstaff members and set appointment duration to handle on-demand services. This\nensures that when an on-demand appointment is requested, there is a designated\nstaff member assigned to the appointment and a defined duration for the\nappointment is set. The designated staff member also receives a notification to\nattend the on-demand appointment.",
+      "pubDate": "Tue, 28 Nov 2023 02:14:28 -0800",
+      "updated": "2023-12-01T08:06:29+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/372120.json",
+    "CurrentVersion": {
+      "guid": "372120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=372120",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: External call routing settings",
+      "description": "End users will now be able to change their external call routing settings directly from the Teams app, allowing them to decide how incoming PSTN calls are routed. Calls can be redirected based on existing unanswered call settings or sent to voicemail. This new capability provides more flexibility for handling customer communications.",
+      "pubDate": "Wed, 10 Jan 2024 00:15:42 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/375220.json",
+    "CurrentVersion": {
+      "guid": "375220",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375220",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - New goal sharing experience",
+      "description": "Users will now be able to experience the enhanced share functionality with supported platforms including Teams, Email, Slack along with Copy link options. They can share specific goals, initiatives, dashboards, explorer views, check-ins as well as entire goals or initiative lists.",
+      "pubDate": "Thu, 14 Dec 2023 23:30:55 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375220",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375220",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - New goal sharing experience",
+      "description": "Facilitate effortless sharing of goals and goal progress with the enhanced sharing functionality in Viva Goals.",
+      "pubDate": "Thu, 14 Dec 2023 23:30:55 -0800",
+      "updated": "2024-01-09T08:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375694.json",
+    "CurrentVersion": {
+      "guid": "375694",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375694",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Select the domain to choose for Teams Email Service",
+      "description": "Admins will be able to select the domain to send emails to their users via Teams Email Service",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375694",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375694",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Select the domain to choose for Teams Email Service",
+      "description": "Admins will be able to select the domain to send emails to their users via Teams Email Service",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 -0800",
+      "updated": "2024-01-05T08:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/376853.json",
+    "CurrentVersion": {
+      "guid": "376853",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376853",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to duplicate an existing town hall for simplified event creation",
+      "description": "Organizers can schedule a new town hall by duplicating information from an existing scheduled one. This includes duplicating information such as details, presenters, theming, and more. The organizer can also edit and update the information as needed for the new event.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "376853",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376853",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to duplicate an existing town hall for simplified event creation",
+      "description": "Organizers can schedule a new webinar by duplicating information from an existing scheduled one. This includes duplicating information such as details, presenters, theming, and more. The organizer can also edit and update the information as needed for the new event.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-01-06T07:45:56+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/64123.json",
+    "CurrentVersion": {
+      "guid": "64123",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=64123",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "Desktop",
+        "Education",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook for Windows: Send email from your proxy email address (alias)",
+      "description": ",<div>This feature had been delayed and the timeline has been updated. Send email from a proxy email address or account alias rather than your primary email address. The alias email address will be preserved in the FROM and REPLY TO for the recipients. </div>",
+      "pubDate": "Tue, 15 Dec 2020 00:10:08 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2022",
+      "publicPreviewDate": "June CY2022"
+    },
+    "OldVersion": {
+      "guid": "64123",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=64123",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "Desktop",
+        "Education",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook for Windows: Send email from your proxy email address (alias)",
+      "description": ",This feature had been delayed and the timeline has been updated. Send email from a proxy email address or account alias rather than your primary email address. The alias email address will be preserved in the FROM and REPLY TO for the recipients.",
+      "pubDate": "Tue, 15 Dec 2020 00:10:08 -0800",
+      "updated": "2023-04-07T06:14:08+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2022",
+      "publicPreviewDate": "June CY2022"
+    }
+  },
+  {
+    "Path": "data/93264.json",
+    "CurrentVersion": {
+      "guid": "93264",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93264",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "Desktop",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Notifications pane in Outlook for Windows",
+      "description": "<div>Using the Notifications pane, you can stay connected with updates focused on you, like @mentions, that you might have missed in the context of your regular mail. </div>",
+      "pubDate": "Mon, 02 May 2022 23:14:39 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "93264",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93264",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "Desktop",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Notifications pane in Outlook for Windows",
+      "description": "Using the Notifications pane, you can stay connected with updates focused on you, like @mentions, that you might have missed in the context of your regular mail.",
+      "pubDate": "Mon, 02 May 2022 23:14:39 -0700",
+      "updated": "2022-11-17T08:13:47+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/98129.json",
+    "CurrentVersion": {
+      "guid": "98129",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98129",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Outlook: Search now shows results from Teams messages",
+      "description": "<div><span style=\"font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Search\nresults in Outlook on the web will now show Teams messages and files shared in\nTeams conversations</span> </div>",
+      "pubDate": "Tue, 13 Dec 2022 00:21:09 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "98129",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98129",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Outlook: Search now shows results from Teams messages",
+      "description": "Search\nresults in Outlook on the web will now show Teams messages and files shared in\nTeams conversations",
+      "pubDate": "Tue, 13 Dec 2022 00:21:09 -0800",
+      "updated": "2023-06-21T06:06:43+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/101511/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "101511",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=101511",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Editor proofing in multiple languages.",
+      "description": "<div>Outlook on the web can now proof your writing simultaneously in up to three languages. Users must select which languages to add in Editor settings. </div>",
+      "pubDate": "Thu, 20 Oct 2022 23:50:57 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2022",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117425/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "117425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+      "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+      "pubDate": "Wed, 01 Mar 2023 00:09:20 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117523/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "117523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+      "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:48 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/118580/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "118580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118580",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enable second video stream with \"Teams Content Camera on Desktop\"",
+      "description": "This feature will no longer be rolling out to Teams. We will publish a new announcement when we have a new release schedule confirmed. Users will be able to enable a second video stream to support both their Personal Video and Teams Content Camera on Desktop feature. When enabling the Teams Content Camera on Desktop feature, the Personal Video is expected to be maintained so long that the user selects a separate Camera to support the two video streams.",
+      "pubDate": "Fri, 03 Mar 2023 23:31:39 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/122703/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "122703",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122703",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Outlook for Windows and web - Language Sync for accounts",
+      "description": "<div><span></span> </div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Users will have the option to enable language\nsync between their accounts and the new Outlook for Windows and web clients.\nThe option can be found in Settings in those clients, once enabled it will sync\nthe language a user has set in &quot;MyAccount&quot; with the Outlook clients\nmentioned. This means, the language that a user has set in\n&quot;MyAccount&quot; will start to be used in Outlook. This feature will be\noff by default and users can choose to opt-in.</span>",
+      "pubDate": "Fri, 24 Mar 2023 22:17:25 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/141204/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "141204",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141204",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updates to in-call user experience",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Making it easier for\nusers to access calling capabilities with a redesigned user experience during\ncalls.</span> </div><div> </div>",
+      "pubDate": "Fri, 27 Oct 2023 22:13:17 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/183908/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "183908",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=183908",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List",
+      "description": "<div>Tenant allow block list domains &amp; addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed. </div>",
+      "pubDate": "Wed, 25 Oct 2023 23:30:55 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186560/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "186560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186560",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Assign staff and set duration for on-demand Virtual Appointments (Premium)",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Scheduling\nadministrators and staff managing on-demand appointments can assign specific\nstaff members and set appointment duration to handle on-demand services. This\nensures that when an on-demand appointment is requested, there is a designated\nstaff member assigned to the appointment and a defined duration for the\nappointment is set. The designated staff member also receives a notification to\nattend the on-demand appointment.</span> </div>",
+      "pubDate": "Tue, 28 Nov 2023 02:14:28 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/372120/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "372120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=372120",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: External call routing settings",
+      "description": "End users will now be able to change their external call routing settings directly from the Teams app, allowing them to decide how incoming PSTN calls are routed. Calls can be redirected based on existing unanswered call settings or sent to voicemail. This new capability provides more flexibility for handling customer communications.",
+      "pubDate": "Wed, 10 Jan 2024 00:15:42 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375220/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "375220",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375220",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - New goal sharing experience",
+      "description": "Users will now be able to experience the enhanced share functionality with supported platforms including Teams, Email, Slack along with Copy link options. They can share specific goals, initiatives, dashboards, explorer views, check-ins as well as entire goals or initiative lists.",
+      "pubDate": "Thu, 14 Dec 2023 23:30:55 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375694/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "375694",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375694",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Select the domain to choose for Teams Email Service",
+      "description": "Admins will be able to select the domain to send emails to their users via Teams Email Service",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/376853/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "376853",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376853",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to duplicate an existing town hall for simplified event creation",
+      "description": "Organizers can schedule a new town hall by duplicating information from an existing scheduled one. This includes duplicating information such as details, presenters, theming, and more. The organizer can also edit and update the information as needed for the new event.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/64123/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "64123",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=64123",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "Desktop",
+        "Education",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook for Windows: Send email from your proxy email address (alias)",
+      "description": ",<div>This feature had been delayed and the timeline has been updated. Send email from a proxy email address or account alias rather than your primary email address. The alias email address will be preserved in the FROM and REPLY TO for the recipients. </div>",
+      "pubDate": "Tue, 15 Dec 2020 00:10:08 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2022",
+      "publicPreviewDate": "June CY2022"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/93264/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "93264",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93264",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "Desktop",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Notifications pane in Outlook for Windows",
+      "description": "<div>Using the Notifications pane, you can stay connected with updates focused on you, like @mentions, that you might have missed in the context of your regular mail. </div>",
+      "pubDate": "Mon, 02 May 2022 23:14:39 -0700",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/98129/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-10T02:23:18.5580588+00:00",
+      "guid": "98129",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98129",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Outlook: Search now shows results from Teams messages",
+      "description": "<div><span style=\"font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Search\nresults in Outlook on the web will now show Teams messages and files shared in\nTeams conversations</span> </div>",
+      "pubDate": "Tue, 13 Dec 2022 00:21:09 -0800",
+      "updated": "2024-01-10T08:15:42+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
