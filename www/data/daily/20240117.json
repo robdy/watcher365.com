@@ -1,0 +1,819 @@
+[
+  {
+    "Path": "data/118467.json",
+    "CurrentVersion": {
+      "guid": "118467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updates to Gallery View in Teams Meetings",
+      "description": "<div><span style=\"\">The updated Gallery View places everyone in tiles of equal size by default (16:9 ratio) whether their video is on or off. Users can also easily change their gallery size, choose to prioritize tiles with video-on, and remove their tile from the main gallery. When a Microsoft Teams Room joins the meeting, video is optimized by enlarging the size by default and users can re-size via the contextual menu. Available only in the new Microsoft Teams experience.</span> </div>",
+      "pubDate": "Tue, 14 Mar 2023 23:24:27 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "118467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updates to Gallery View in Teams Meetings",
+      "description": "The updated Gallery View places everyone in tiles of equal size by default (16:9 ratio) whether their video is on or off. Users can also easily change their gallery size, choose to prioritize tiles with video-on, and remove their tile from the main gallery. When a Microsoft Teams Room joins the meeting, video is optimized by enlarging the size by default and users can re-size via the contextual menu. Available only in the new Microsoft Teams experience.",
+      "pubDate": "Tue, 14 Mar 2023 23:24:27 -0700",
+      "updated": "2023-11-28T08:04:24+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/122280.json",
+    "CurrentVersion": {
+      "guid": "122280",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122280",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal : Insider Risk Management – Real-time policy tuning analysis",
+      "description": ",<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Policy tuning analysis provides admins with a\nreal-time prediction based on the number of users that could match a given set\nof policy conditions. It helps organizations efficiently adjust the selection\nof indicators and thresholds of activity occurrence, so they don<span lang=ZH-CN>’</span>t have too few or too many alerts from a policy. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy.</span> </div><br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+      "pubDate": "Fri, 10 Mar 2023 00:09:55 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2023"
+    },
+    "OldVersion": {
+      "guid": "122280",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122280",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal : Insider Risk Management – Real-time policy tuning analysis",
+      "description": ",Policy tuning analysis provides admins with a\nreal-time prediction based on the number of users that could match a given set\nof policy conditions. It helps organizations efficiently adjust the selection\nof indicators and thresholds of activity occurrence, so they don’t have too few or too many alerts from a policy. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy. <br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+      "pubDate": "Fri, 10 Mar 2023 00:09:55 -0800",
+      "updated": "2023-04-26T06:09:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "April CY2023"
+    }
+  },
+  {
+    "Path": "data/156014.json",
+    "CurrentVersion": {
+      "guid": "156014",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156014",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": ",<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 31 Jul 2023 23:16:10 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {
+      "guid": "156014",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156014",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": ",With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 31 Jul 2023 23:16:10 -0700",
+      "updated": "2023-08-11T06:11:19+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "August CY2023"
+    }
+  },
+  {
+    "Path": "data/156015.json",
+    "CurrentVersion": {
+      "guid": "156015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:47 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "156015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 27 Jul 2023 23:39:47 -0700",
+      "updated": "2023-07-28T06:36:50+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/156952.json",
+    "CurrentVersion": {
+      "guid": "156952",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156952",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to set the availability by specific date in Shifts",
+      "description": "<div>Currently, we solely permit the frontline workers to establish daily recurring availability. With this new feature, we are enabling Frontline workers to set the availability for a specific date/time, in addition to recurring availability. </div><div> </div>",
+      "pubDate": "Wed, 15 Nov 2023 00:19:36 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "156952",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156952",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to set the availability by specific date in Shifts",
+      "description": "Currently, we solely permit the frontline workers to establish daily recurring availability. With this new feature, we are enabling Frontline workers to set the availability for a specific date/time, in addition to recurring availability.",
+      "pubDate": "Wed, 15 Nov 2023 00:19:36 -0800",
+      "updated": "2023-11-16T08:22:51+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/161427.json",
+    "CurrentVersion": {
+      "guid": "161427",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161427",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enabling cameras with IntelliFrame and People Recognition experiences in the new Microsoft Teams app",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#424242;\">Remote\nattendees in a hybrid meeting will be able to view multi-stream IntelliFrame\nvideo, panoramic room view, and in-room attendees with speaker recognition\n(including name labels) in the new Teams desktop client</span>. </div>",
+      "pubDate": "Thu, 28 Sep 2023 23:09:18 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "161427",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161427",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enabling cameras with IntelliFrame and People Recognition experiences in the new Microsoft Teams app",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#424242;\">Remote\nattendees in a hybrid meeting will be able to view multi-stream IntelliFrame\nvideo, panoramic room view, and in-room attendees with speaker recognition\n(including name labels) in the new Teams desktop client</span>. </div>",
+      "pubDate": "Thu, 28 Sep 2023 23:09:18 -0700",
+      "updated": "2023-12-15T09:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/167976.json",
+    "CurrentVersion": {
+      "guid": "167976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167976",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Outlook: Conditional Formatting in New Outlook for Windows and Web",
+      "description": "<div>Conditional formatting is a feature to make messages that meet defined conditions stand out in the message list by using different font colors. The users can specify conditions that an incoming message should meet, such as a sender’s name or email address. </div><div> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:15 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167976",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Conditional Formatting in New Outlook for Windows and Web",
+      "description": "Conditional formatting is a feature to make messages that meet defined conditions stand out in the message list by using different font colors. The users can specify conditions that an incoming message should meet, such as a sender’s name or email address.",
+      "pubDate": "Wed, 08 Nov 2023 00:22:15 -0800",
+      "updated": "2023-12-01T08:06:29+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186553.json",
+    "CurrentVersion": {
+      "guid": "186553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186553",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Azure protected voicemail on Teams App",
+      "description": "Teams users will now have link to their Azure protected voicemails from the Teams App. Users will get notification for the voicemail on the Teams App and can open the attached link to access the voicemail on the web browser.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:04 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186553",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Azure protected voicemail on Teams App",
+      "description": "Teams users will now have link to their Azure protected voicemails from the Teams App. Users will get notification for the voicemail on the Teams App and can open the attached link to access the voicemail on the web browser.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:04 -0800",
+      "updated": "2023-12-14T08:30:11+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/376219.json",
+    "CurrentVersion": {
+      "guid": "376219",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376219",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin setting for uploading files using drag-drop",
+      "description": "Admin will be able to control the default content app for local files uploaded using drag-drop in chat and channels. OneDrive / SharePoint are the existing default locations for uploads using drag-drop.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "376219",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376219",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin setting for uploading files using drag-drop",
+      "description": "Admin will be able to control the default content app for local files uploaded using drag-drop in chat and channels. OneDrive / SharePoint are the existing default locations for uploads using drag-drop.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-01-06T07:45:56+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/378647.json",
+    "CurrentVersion": {
+      "guid": "378647",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378647",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Section Background",
+      "description": "SharePoint now allows you to add an image or gradient color to the sections of the page from a new set of options, including image settings to ensure readability. With this release, we're providing authors to make beautiful pages with featured sections.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/378648.json",
+    "CurrentVersion": {
+      "guid": "378648",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378648",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Custom image as Section Background ",
+      "description": "SharePoint lets you customize the sections backgrounds with your own image. We've enhanced the focal point and introduced more settings like fill mode, overlay, opacity to help you adhere to accessibility best practices and make sure that your contents are clear and readable with customized background. This gives you more power over the image to make your page beautiful.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/378778.json",
+    "CurrentVersion": {
+      "guid": "378778",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378778",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Code Snippets in Viva Engage",
+      "description": "Users will be able to add code snippets to their posts, discussions, replies, questions, polls, and praises on Viva Engage. \n\nAdditionally, if customers are licensed for Answers in Viva Engage, this feature will also be available when asking questions on Answers.\n\nTo add code snippets, locate the new </> button on the publisher toolbar.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/379477.json",
+    "CurrentVersion": {
+      "guid": "379477",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379477",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Real-time policy tuning analysis",
+      "description": "Policy tuning analysis provides admins with a real-time policy alert prediction based on the number of users in a tenant that could potentially match a given set of policy conditions. It helps organizations efficiently adjust the selection of indicators and thresholds of activity occurrence, so they don’t have too few or too many alerts from a policy. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/118467/v0018.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "118467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updates to Gallery View in Teams Meetings",
+      "description": "<div><span style=\"\">The updated Gallery View places everyone in tiles of equal size by default (16:9 ratio) whether their video is on or off. Users can also easily change their gallery size, choose to prioritize tiles with video-on, and remove their tile from the main gallery. When a Microsoft Teams Room joins the meeting, video is optimized by enlarging the size by default and users can re-size via the contextual menu. Available only in the new Microsoft Teams experience.</span> </div>",
+      "pubDate": "Tue, 14 Mar 2023 23:24:27 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/122280/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "122280",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122280",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal : Insider Risk Management – Real-time policy tuning analysis",
+      "description": ",<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Policy tuning analysis provides admins with a\nreal-time prediction based on the number of users that could match a given set\nof policy conditions. It helps organizations efficiently adjust the selection\nof indicators and thresholds of activity occurrence, so they don<span lang=ZH-CN>’</span>t have too few or too many alerts from a policy. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy.</span> </div><br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+      "pubDate": "Fri, 10 Mar 2023 00:09:55 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156014/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "156014",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156014",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": ",<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 31 Jul 2023 23:16:10 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156015/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "156015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:47 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156952/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "156952",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156952",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to set the availability by specific date in Shifts",
+      "description": "<div>Currently, we solely permit the frontline workers to establish daily recurring availability. With this new feature, we are enabling Frontline workers to set the availability for a specific date/time, in addition to recurring availability. </div><div> </div>",
+      "pubDate": "Wed, 15 Nov 2023 00:19:36 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/161427/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "161427",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161427",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enabling cameras with IntelliFrame and People Recognition experiences in the new Microsoft Teams app",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:#424242;\">Remote\nattendees in a hybrid meeting will be able to view multi-stream IntelliFrame\nvideo, panoramic room view, and in-room attendees with speaker recognition\n(including name labels) in the new Teams desktop client</span>. </div>",
+      "pubDate": "Thu, 28 Sep 2023 23:09:18 -0700",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167976/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "167976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167976",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Outlook: Conditional Formatting in New Outlook for Windows and Web",
+      "description": "<div>Conditional formatting is a feature to make messages that meet defined conditions stand out in the message list by using different font colors. The users can specify conditions that an incoming message should meet, such as a sender’s name or email address. </div><div> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:15 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186553/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "186553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186553",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Azure protected voicemail on Teams App",
+      "description": "Teams users will now have link to their Azure protected voicemails from the Teams App. Users will get notification for the voicemail on the Teams App and can open the attached link to access the voicemail on the web browser.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:04 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/376219/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "376219",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376219",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin setting for uploading files using drag-drop",
+      "description": "Admin will be able to control the default content app for local files uploaded using drag-drop in chat and channels. OneDrive / SharePoint are the existing default locations for uploads using drag-drop.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378647/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "378647",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378647",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Section Background",
+      "description": "SharePoint now allows you to add an image or gradient color to the sections of the page from a new set of options, including image settings to ensure readability. With this release, we're providing authors to make beautiful pages with featured sections.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378648/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "378648",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378648",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Custom image as Section Background ",
+      "description": "SharePoint lets you customize the sections backgrounds with your own image. We've enhanced the focal point and introduced more settings like fill mode, overlay, opacity to help you adhere to accessibility best practices and make sure that your contents are clear and readable with customized background. This gives you more power over the image to make your page beautiful.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378778/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "378778",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378778",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Code Snippets in Viva Engage",
+      "description": "Users will be able to add code snippets to their posts, discussions, replies, questions, polls, and praises on Viva Engage. \n\nAdditionally, if customers are licensed for Answers in Viva Engage, this feature will also be available when asking questions on Answers.\n\nTo add code snippets, locate the new </> button on the publisher toolbar.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/379477/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-17T02:24:04.5340957+00:00",
+      "guid": "379477",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379477",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Real-time policy tuning analysis",
+      "description": "Policy tuning analysis provides admins with a real-time policy alert prediction based on the number of users in a tenant that could potentially match a given set of policy conditions. It helps organizations efficiently adjust the selection of indicators and thresholds of activity occurrence, so they don’t have too few or too many alerts from a policy. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
