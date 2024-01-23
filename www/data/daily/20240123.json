@@ -1,0 +1,1333 @@
+[
+  {
+    "Path": "data/100250.json",
+    "CurrentVersion": {
+      "guid": "100250",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100250",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Manage learning providers in Viva Learning admin tab",
+      "description": ",Learning admins can manage the configured learning providers in Viva Learning admin tab. This feature will provide a detailed sync status as well as sync logs in case of a failed sync.",
+      "pubDate": "Wed, 28 Sep 2022 23:09:30 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2022",
+      "publicPreviewDate": "October CY2022"
+    },
+    "OldVersion": {
+      "guid": "100250",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100250",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Manage learning providers in Viva Learning Admin tab",
+      "description": ",Learning admins can manage the configured learning providers in Viva Learning admin tab. This feature will provide a detailed sync status as well as sync logs in case of a failed sync.",
+      "pubDate": "Wed, 28 Sep 2022 23:09:30 -0700",
+      "updated": "2024-01-12T08:15:02+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2022",
+      "publicPreviewDate": "October CY2022"
+    }
+  },
+  {
+    "Path": "data/117546.json",
+    "CurrentVersion": {
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security &amp; Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security &amp; Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2024-01-13T07:30:16+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "September CY2023"
+    }
+  },
+  {
+    "Path": "data/118670.json",
+    "CurrentVersion": {
+      "guid": "118670",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118670",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Add learning to calendar on Viva Learning mobile app",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\"><span>Add to Calendar mobile feature will help learners on the Viva Learning mobile app add learning content to their calendars and block focused time for learning.</span></span> </div>",
+      "pubDate": "Wed, 22 Feb 2023 00:14:14 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "118670",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118670",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Add learning to calendar on Viva Learning mobile app",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\"><span>Add to Calendar mobile feature will help learners on the Viva Learning mobile app add learning content to their calendars and block focused time for learning.</span></span> </div>",
+      "pubDate": "Wed, 22 Feb 2023 00:14:14 -0800",
+      "updated": "2024-01-13T07:30:16+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/118965.json",
+    "CurrentVersion": {
+      "guid": "118965",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118965",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Search relevance improvements",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Improvements to relevancy of search results in\nViva Learning including attribute boosting, spell correction, exact match, and\npersonalized results based on interests.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 24 Feb 2023 23:13:57 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "118965",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118965",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Search relevance improvements in Viva Learning",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Improvements to relevancy of search results in\nViva Learning including attribute boosting, spell correction, exact match, and\npersonalized results based on interests.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 24 Feb 2023 23:13:57 -0800",
+      "updated": "2024-01-20T08:30:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/118966.json",
+    "CurrentVersion": {
+      "guid": "118966",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118966",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Additional filters for search results",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Viva learning will be supporting more Filters on\nLanguage, Content Type and Source fields in Search results page. </span> </div>",
+      "pubDate": "Thu, 16 Feb 2023 00:07:34 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "118966",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118966",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Additional filters for search results in Viva Learning ",
+      "description": "Viva learning will be supporting more Filters on\nLanguage, Content Type and Source fields in Search results page.",
+      "pubDate": "Thu, 16 Feb 2023 00:07:34 -0800",
+      "updated": "2023-07-29T05:11:28+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/141108.json",
+    "CurrentVersion": {
+      "guid": "141108",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141108",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Extended Real-time telemetry retention for upto 7 days (Premium)",
+      "description": "To facilitate meeting quality troubleshooting for admins in Teams admin center, real-time telemetry available during the meeting will be retained for an extended period of time (up to 7 days after meeting is ended) for users with Premium licenses. This will help admins identify and fix quality issues using granular telemetry after the meeting is over for up to 7 days. Note: We have updated the release phase and month to reflect the current state. We apologize for any inconvenience this may cause.",
+      "pubDate": "Tue, 11 Jul 2023 23:45:06 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "141108",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141108",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Extended Real-time telemetry retention for upto 7 days (Premium)",
+      "description": "To facilitate meeting quality troubleshooting for admins in Teams admin center, real-time telemetry available during the meeting will be retained for an extended period of time (up to 7 days after meeting is ended) for users with Premium licenses. This will help admins identify and fix quality issues using granular telemetry after the meeting is over for up to 7 days. Note: We have updated the release phase and month to reflect the current state. We apologize for any inconvenience this may cause.",
+      "pubDate": "Tue, 11 Jul 2023 23:45:06 -0700",
+      "updated": "2023-12-14T08:30:11+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/148467.json",
+    "CurrentVersion": {
+      "guid": "148467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=148467",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Bring your own content to learning collections with external URL support",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:DengXian;\"><span style=\"font-size:11.0pt;font-family:DengXian;color:black;\">Users can add content using external links from\nsources like YouTube, Vimeo, news articles, etc while creating learning\ncollections.</span></span> </div>",
+      "pubDate": "Thu, 10 Aug 2023 23:15:39 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "148467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=148467",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Bring your own content using external URLs from sources like YouTube, Vimeo, news articles, etc while creating learning collections",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:DengXian;\"><span style=\"font-size:11.0pt;font-family:DengXian;color:black;\">Users can add content using external links from\nsources like YouTube, Vimeo, news articles, etc while creating learning\ncollections.</span></span> </div>",
+      "pubDate": "Thu, 10 Aug 2023 23:15:39 -0700",
+      "updated": "2024-01-13T07:30:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/152126.json",
+    "CurrentVersion": {
+      "guid": "152126",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=152126",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Tracking and Revocation in Compliance Portal",
+      "description": ",Users can access the Microsoft Purview compliance portal to check who has tried accessing their sensitivity labeled and encrypted local Office files and revoke access when needed.",
+      "pubDate": "Mon, 24 Jul 2023 23:42:57 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {
+      "guid": "152126",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=152126",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Tracking and Revocation in Compliance Portal",
+      "description": ",<div><span>Users can access the Microsoft Purview compliance portal to check who has tried accessing their sensitivity labeled and encrypted local Office files and revoke access when needed. Note: We have updated the release phase to reflect the current state as we are evaluating this release and have paused the rollout. We apologize for any inconvenience this may cause.</span> </div><div> </div>",
+      "pubDate": "Mon, 24 Jul 2023 23:42:57 -0700",
+      "updated": "2024-01-09T08:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "August CY2023"
+    }
+  },
+  {
+    "Path": "data/154557.json",
+    "CurrentVersion": {
+      "guid": "154557",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=154557",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Follow a meeting in new Outlook for Windows and web ",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Follow is a new meeting response (RSVP) option\nthat goes beyond the traditional Accept, Tentative and Decline choices geared\ntowards individuals with high meeting loads and conflicting meetings each day.\nFollow is the ideal RSVP option for meetings you can't attend but still want to\nstay engaged and receive info about. Other attendees will be able to see if you\nare following a meeting. This feature will be available in the new Outlook for\nWindows and Outlook on the web</span>. </div><div> </div>",
+      "pubDate": "Mon, 02 Oct 2023 23:11:23 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "154557",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=154557",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Follow a meeting in new Outlook for Windows and web ",
+      "description": "Follow is a new meeting response (RSVP) option\nthat goes beyond the traditional Accept, Tentative and Decline choices geared\ntowards individuals with high meeting loads and conflicting meetings each day.\nFollow is the ideal RSVP option for meetings you can't attend but still want to\nstay engaged and receive info about. Other attendees will be able to see if you\nare following a meeting. This feature will be available in the new Outlook for\nWindows and Outlook on the web.",
+      "pubDate": "Mon, 02 Oct 2023 23:11:23 -0700",
+      "updated": "2023-10-03T06:03:51+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/160731.json",
+    "CurrentVersion": {
+      "guid": "160731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160731",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Sort search results by ratings",
+      "description": "<div><span style=\"\">Users can sort in-app search results by ratings and relevance of the content.</span> </div>",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "160731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160731",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Sort Search results by Ratings in Viva Learning",
+      "description": "Users can sort in-app search results by ratings and relevance of the content.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2023-09-22T05:59:23+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/160736.json",
+    "CurrentVersion": {
+      "guid": "160736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160736",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Increased synergy between webapp and Teams App",
+      "description": "<div>Users will be able to easily switch within Viva Learning Teams app and Webapp. </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "160736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160736",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Increased synergy of Viva Learning Webapp and Teams App",
+      "description": "Users will be able to easily switch within Viva Learning Teams app and Webapp.",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2023-09-22T05:59:23+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/162942.json",
+    "CurrentVersion": {
+      "guid": "162942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162942",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Microsoft Shell integration in Viva Learning webapp",
+      "description": "<div><span style=\"\">Viva Learning Webapp will have an Application Header similar to other Microsoft M365 webapps. It will help users to easily switch between Microsoft webapps.</span> </div>",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "162942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162942",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Microsoft Shell Integration in Viva Learning Webapp",
+      "description": "Viva Learning Webapp will have an Application Header similar to other Microsoft M365 webapps. It will help users to easily switch between Microsoft webapps.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2023-09-26T06:00:27+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/162947.json",
+    "CurrentVersion": {
+      "guid": "162947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162947",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Proficiency level content filter",
+      "description": "<div><span style=\"\">Users can filter content based on the proficiency level of the content</span><span style=\"font-size:10.5pt;line-height:107%;font-family:&quot;Segoe UI&quot;, sans-serif;\">—</span><span style=\"\">Beginner, Intermediate and Advanced.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "162947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162947",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Level Filter in Viva Learning",
+      "description": "Users can filter content based on the proficiency level of the content—Beginner, Intermediate and Advanced.",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2023-09-22T05:59:23+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/165698.json",
+    "CurrentVersion": {
+      "guid": "165698",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165698",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Microsoft Teams",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Changes in Sensitivity labels to control Microsoft Teams shared channels and private team discoverability",
+      "description": ",<div>Information Protection - Controls while adding/editing Sensitivity labels to manage Microsoft Teams shared channels settings and private team discoverability. </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:56 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {
+      "guid": "165698",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165698",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Microsoft Teams",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Information Protection - Changes in Sensitivity labels to control Microsoft Teams shared channels and private team discoverability",
+      "description": ",<div>Information Protection - Controls while adding/editing Sensitivity labels to manage Microsoft Teams shared channels settings and private team discoverability. </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:56 -0700",
+      "updated": "2024-01-18T08:30:38+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/167892.json",
+    "CurrentVersion": {
+      "guid": "167892",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167892",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pick a local folder for saving attachments",
+      "description": "<div>Users are now able to pick a folder when saving an attachment in the new Outlook for Windows. </div><div> </div>",
+      "pubDate": "Tue, 10 Oct 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167892",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167892",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pick a local folder for saving attachments",
+      "description": "Users are now able to pick a folder when saving an attachment in the new Outlook for Windows.",
+      "pubDate": "Tue, 10 Oct 2023 07:00:00 -0700",
+      "updated": "2023-11-29T07:59:53+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186580.json",
+    "CurrentVersion": {
+      "guid": "186580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186580",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Recommended actions for finetuning policies",
+      "description": ",We are introducing additional recommended actions to provide guidance on fine-tuning your insider risk policies and implementing advanced configurations.\nThese new tasks and journeys will be accessible through the Recommended Actions page. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 10 Nov 2023 00:18:10 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {
+      "guid": "186580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186580",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Recommended actions for finetuning policies",
+      "description": ",We are introducing additional recommended actions to provide guidance on fine-tuning your insider risk policies and implementing advanced configurations.\nThese new tasks and journeys will be accessible through the Recommended Actions page. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 10 Nov 2023 00:18:10 -0800",
+      "updated": "2023-12-08T08:12:21+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/367053.json",
+    "CurrentVersion": {
+      "guid": "367053",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=367053",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Oversharing Popups enhancements on Outlook win32 desktop",
+      "description": ",We are expanding the functionality of oversharing popups (Show policy tip as a dialog) in outlook win32 to support the following: 1) Additional scenarios powered with predicates such as Content is not labeled, Message/Attachment is not labeled, and File extension is, and 2) Customizable oversharing dialog with the ability to configure custom title, body, business justifications, and dynamic variables/tokens for matched recipients, attachment names, and labels.",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "367053",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=367053",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Oversharing Popups enhancements on Outlook win32 desktop",
+      "description": ",We are expanding the functionality of oversharing popups (Show policy tip as a dialog) in outlook win32 to support the following: 1) Additional scenarios powered with predicates such as Content is not labeled, Message/Attachment is not labeled, and File extension is, and 2) Customizable oversharing dialog with the ability to configure custom title, body, business justifications, and dynamic variables/tokens for matched recipients, attachment names, and labels.",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-01-11T08:30:11+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/370535.json",
+    "CurrentVersion": {
+      "guid": "370535",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=370535",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to rename the policy and rule names in DLP",
+      "description": ",This feature gives the ability for the DLP admin to rename the existing policy/rule without having to create the entire the rule or policy again.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/377674.json",
+    "CurrentVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/377679.json",
+    "CurrentVersion": {
+      "guid": "377679",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377679",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Simulation mode for DLP",
+      "description": ",With this capability, Admins will be able to try a Microsoft Purview DLP policy, assess its impact, and fine tune the policy as required in an isolated environment. This will help Admins build confidence in the configuration of the policy and reduce the policy enforcement time.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/379606.json",
+    "CurrentVersion": {
+      "guid": "379606",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379606",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: EML, MSG, and OFT File Support",
+      "description": "EML, MSG, and OFT files type support will enable users to open \"*,eml\", \"*.oft\", and \"*.msg\" files in the new Outlook by dragging-and-dropping them onto the reading pane, or by double-clicking on them, or by using the Open With menu option in File Explorer.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/379610.json",
+    "CurrentVersion": {
+      "guid": "379610",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379610",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Privacy statement customization in Virtual Appointments",
+      "description": "Admins can customize the privacy statement shown to attendees joining the appointment to address specific considerations and concerns for their online engagement. Admins can update the content for the privacy statement under the privacy profile in the Microsoft Admin Center.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/99167.json",
+    "CurrentVersion": {
+      "guid": "99167",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=99167",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Configure learning academies",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Admins can create and manage learning academies\nin the Viva Learning Admin tab.</span> </div>",
+      "pubDate": "Tue, 09 May 2023 23:05:54 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "99167",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=99167",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Configure learning academies",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Admins can create and manage learning academies\nin the Viva Learning Admin tab.</span> </div>",
+      "pubDate": "Tue, 09 May 2023 23:05:54 -0700",
+      "updated": "2024-01-12T08:15:02+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/100250/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "100250",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100250",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Manage learning providers in Viva Learning admin tab",
+      "description": ",Learning admins can manage the configured learning providers in Viva Learning admin tab. This feature will provide a detailed sync status as well as sync logs in case of a failed sync.",
+      "pubDate": "Wed, 28 Sep 2022 23:09:30 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2022",
+      "publicPreviewDate": "October CY2022"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117546/v0013.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security &amp; Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/118670/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "118670",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118670",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Add learning to calendar on Viva Learning mobile app",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\"><span>Add to Calendar mobile feature will help learners on the Viva Learning mobile app add learning content to their calendars and block focused time for learning.</span></span> </div>",
+      "pubDate": "Wed, 22 Feb 2023 00:14:14 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/118965/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "118965",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118965",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Search relevance improvements",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Improvements to relevancy of search results in\nViva Learning including attribute boosting, spell correction, exact match, and\npersonalized results based on interests.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 24 Feb 2023 23:13:57 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/118966/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "118966",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=118966",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Additional filters for search results",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Viva learning will be supporting more Filters on\nLanguage, Content Type and Source fields in Search results page. </span> </div>",
+      "pubDate": "Thu, 16 Feb 2023 00:07:34 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/141108/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "141108",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141108",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Extended Real-time telemetry retention for upto 7 days (Premium)",
+      "description": "To facilitate meeting quality troubleshooting for admins in Teams admin center, real-time telemetry available during the meeting will be retained for an extended period of time (up to 7 days after meeting is ended) for users with Premium licenses. This will help admins identify and fix quality issues using granular telemetry after the meeting is over for up to 7 days. Note: We have updated the release phase and month to reflect the current state. We apologize for any inconvenience this may cause.",
+      "pubDate": "Tue, 11 Jul 2023 23:45:06 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/148467/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "148467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=148467",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Bring your own content to learning collections with external URL support",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:DengXian;\"><span style=\"font-size:11.0pt;font-family:DengXian;color:black;\">Users can add content using external links from\nsources like YouTube, Vimeo, news articles, etc while creating learning\ncollections.</span></span> </div>",
+      "pubDate": "Thu, 10 Aug 2023 23:15:39 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/152126/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "152126",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=152126",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Tracking and Revocation in Compliance Portal",
+      "description": ",Users can access the Microsoft Purview compliance portal to check who has tried accessing their sensitivity labeled and encrypted local Office files and revoke access when needed.",
+      "pubDate": "Mon, 24 Jul 2023 23:42:57 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/154557/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "154557",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=154557",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Follow a meeting in new Outlook for Windows and web ",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Follow is a new meeting response (RSVP) option\nthat goes beyond the traditional Accept, Tentative and Decline choices geared\ntowards individuals with high meeting loads and conflicting meetings each day.\nFollow is the ideal RSVP option for meetings you can't attend but still want to\nstay engaged and receive info about. Other attendees will be able to see if you\nare following a meeting. This feature will be available in the new Outlook for\nWindows and Outlook on the web</span>. </div><div> </div>",
+      "pubDate": "Mon, 02 Oct 2023 23:11:23 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160731/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "160731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160731",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Sort search results by ratings",
+      "description": "<div><span style=\"\">Users can sort in-app search results by ratings and relevance of the content.</span> </div>",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160736/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "160736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160736",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Increased synergy between webapp and Teams App",
+      "description": "<div>Users will be able to easily switch within Viva Learning Teams app and Webapp. </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/162942/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "162942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162942",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Microsoft Shell integration in Viva Learning webapp",
+      "description": "<div><span style=\"\">Viva Learning Webapp will have an Application Header similar to other Microsoft M365 webapps. It will help users to easily switch between Microsoft webapps.</span> </div>",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/162947/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "162947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162947",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Proficiency level content filter",
+      "description": "<div><span style=\"\">Users can filter content based on the proficiency level of the content</span><span style=\"font-size:10.5pt;line-height:107%;font-family:&quot;Segoe UI&quot;, sans-serif;\">—</span><span style=\"\">Beginner, Intermediate and Advanced.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/165698/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "165698",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165698",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Microsoft Teams",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Changes in Sensitivity labels to control Microsoft Teams shared channels and private team discoverability",
+      "description": ",<div>Information Protection - Controls while adding/editing Sensitivity labels to manage Microsoft Teams shared channels settings and private team discoverability. </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:56 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167892/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "167892",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167892",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pick a local folder for saving attachments",
+      "description": "<div>Users are now able to pick a folder when saving an attachment in the new Outlook for Windows. </div><div> </div>",
+      "pubDate": "Tue, 10 Oct 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186580/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "186580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186580",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Recommended actions for finetuning policies",
+      "description": ",We are introducing additional recommended actions to provide guidance on fine-tuning your insider risk policies and implementing advanced configurations.\nThese new tasks and journeys will be accessible through the Recommended Actions page. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 10 Nov 2023 00:18:10 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/367053/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "367053",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=367053",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Oversharing Popups enhancements on Outlook win32 desktop",
+      "description": ",We are expanding the functionality of oversharing popups (Show policy tip as a dialog) in outlook win32 to support the following: 1) Additional scenarios powered with predicates such as Content is not labeled, Message/Attachment is not labeled, and File extension is, and 2) Customizable oversharing dialog with the ability to configure custom title, body, business justifications, and dynamic variables/tokens for matched recipients, attachment names, and labels.",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/370535/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "370535",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=370535",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to rename the policy and rule names in DLP",
+      "description": ",This feature gives the ability for the DLP admin to rename the existing policy/rule without having to create the entire the rule or policy again.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377674/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377679/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "377679",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377679",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Simulation mode for DLP",
+      "description": ",With this capability, Admins will be able to try a Microsoft Purview DLP policy, assess its impact, and fine tune the policy as required in an isolated environment. This will help Admins build confidence in the configuration of the policy and reduce the policy enforcement time.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/379606/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "379606",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379606",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: EML, MSG, and OFT File Support",
+      "description": "EML, MSG, and OFT files type support will enable users to open \"*,eml\", \"*.oft\", and \"*.msg\" files in the new Outlook by dragging-and-dropping them onto the reading pane, or by double-clicking on them, or by using the Open With menu option in File Explorer.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/379610/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "379610",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379610",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Privacy statement customization in Virtual Appointments",
+      "description": "Admins can customize the privacy statement shown to attendees joining the appointment to address specific considerations and concerns for their online engagement. Admins can update the content for the privacy statement under the privacy profile in the Microsoft Admin Center.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/99167/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-23T02:25:38.5266801+00:00",
+      "guid": "99167",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=99167",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Configure learning academies",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Admins can create and manage learning academies\nin the Viva Learning Admin tab.</span> </div>",
+      "pubDate": "Tue, 09 May 2023 23:05:54 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
