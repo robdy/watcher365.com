@@ -1,0 +1,891 @@
+[
+  {
+    "Path": "data/153651.json",
+    "CurrentVersion": {
+      "guid": "153651",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=153651",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Ability to change retention period on labels set to start retention based on “When items were labeled”",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:DengXian;color:black;\">Previously, admins could not change the\nretention period set on existing labels configured to start retention from when\nitems were labeled. This feature will remove this restriction, and the\nresulting behavior will be consistent with other retention label types.</span> </div>",
+      "pubDate": "Fri, 21 Jul 2023 22:41:23 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "153651",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=153651",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Ability to change retention period on labels set to start retention based on “When items were labeled”",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:DengXian;color:black;\">Previously, admins could not change the\nretention period set on existing labels configured to start retention from when\nitems were labeled. This feature will remove this restriction, and the\nresulting behavior will be consistent with other retention label types.</span> </div>",
+      "pubDate": "Fri, 21 Jul 2023 22:41:23 -0700",
+      "updated": "2024-01-09T08:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/161739.json",
+    "CurrentVersion": {
+      "guid": "161739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161739",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Integrate Chat notification with Meeting RSVP status",
+      "description": "Microsoft Teams users will be able to control how they get notified in meeting chats through RSVP to their meetings. When you decline a meeting, you will not receive notifications or see the chats in chat list; when you accept a meeting, you will receive notification for all new messages.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:17 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "161739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161739",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Integrate Chat notification with Meeting RSVP status",
+      "description": "Microsoft Teams users will be able to control how they get notified in meeting chats through RSVP to their meetings. When you decline a meeting, you will not receive notifications or see the chats in chat list; when you accept a meeting, you will receive notification for all new messages.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:17 -0700",
+      "updated": "2023-12-05T08:19:53+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/173626.json",
+    "CurrentVersion": {
+      "guid": "173626",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=173626",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Simulation mode for DLP",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this capability,\nAdmins will be able to try a Microsoft Purview DLP policy, assess its impact,\nand fine tune the policy as required in an isolated experience. This will help\nAdmins build confidence in the configuration of the policy and reduce the policy\nenforcement time.</span> </div>",
+      "pubDate": "Tue, 19 Sep 2023 23:09:50 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "173626",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=173626",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Simulation mode for DLP",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this capability,\nAdmins will be able to try a Microsoft Purview DLP policy, assess its impact,\nand fine tune the policy as required in an isolated experience. This will help\nAdmins build confidence in the configuration of the policy and reduce the policy\nenforcement time.</span> </div>",
+      "pubDate": "Tue, 19 Sep 2023 23:09:50 -0700",
+      "updated": "2024-01-06T07:45:56+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/184359.json",
+    "CurrentVersion": {
+      "guid": "184359",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=184359",
+      "category": [
+        "Excel",
+        "GCC",
+        "General Availability",
+        "Microsoft 365 app",
+        "PowerPoint",
+        "Rolling out",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Catch Up Improvements on Web",
+      "description": ",Catch Up allows you to stay in sync with your collaborators in Word, Excel, and PowerPoint by showing you the latest comment activity that is directed at you and a summary of recent changes. Based on your feedback, we made improvements to the Catch Up feature. The comment activity directed at you will now persist in Catch Up between sessions for up to 28 days. New items will be indicated with a blue dot for clarity. You can also dismiss items individually if you do not wish to keep them in Catch Up.",
+      "pubDate": "Fri, 27 Oct 2023 22:13:27 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "184359",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=184359",
+      "category": [
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "PowerPoint",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Catch Up Improvements on Web",
+      "description": ",Catch Up allows you to stay in sync with your collaborators in Word, Excel, and PowerPoint by showing you the latest comment activity that is directed at you and a summary of recent changes. Based on your feedback, we made improvements to the Catch Up feature. The comment activity directed at you will now persist in Catch Up between sessions for up to 28 days. New items will be indicated with a blue dot for clarity. You can also dismiss items individually if you do not wish to keep them in Catch Up.",
+      "pubDate": "Fri, 27 Oct 2023 22:13:27 -0700",
+      "updated": "2023-11-28T08:04:25+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/192236.json",
+    "CurrentVersion": {
+      "guid": "192236",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192236",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Admin apps pinned by default in Mail Compose and Read",
+      "description": "<div><span>When an app is deployed in\nIntegrated Apps (Get Apps &amp; Upload Custom LOB apps) in the Microsoft Admin\nCenter, it will be available in Outlook on the web in Read Message Actions and\nCompose Ribbon.</span> </div>",
+      "pubDate": "Thu, 07 Dec 2023 00:05:35 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "192236",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192236",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Admin apps pinned by default in Mail Compose and Read",
+      "description": "When an app is deployed in\nIntegrated Apps (Get Apps & Upload Custom LOB apps) in the Microsoft Admin\nCenter, it will be available in Outlook on the web in Read Message Actions and\nCompose Ribbon.",
+      "pubDate": "Thu, 07 Dec 2023 00:05:35 -0800",
+      "updated": "2023-12-07T08:01:09+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/332424.json",
+    "CurrentVersion": {
+      "guid": "332424",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332424",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting Chat shown by default in Gallery View for Teams Rooms on Windows",
+      "description": "Meeting Chat is now shown by default when joining a Teams meeting with Teams Rooms on Windows in Gallery View, making it easier to see incoming chat messages on the front of room display. IT Admins can configure the default chat experience for a room, and users can make in-meeting changes to show or hide the chat using the touch console.",
+      "pubDate": "Fri, 26 Jan 2024 00:45:52 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "332424",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332424",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting Chat shown by default in Gallery View for Teams Rooms on Windows",
+      "description": "Meeting Chat is now shown by default when joining a Teams meeting with Teams Rooms on Windows in Gallery View, making it easier to see incoming chat messages on the front of room display. IT Admins can configure the default chat experience for a room, and users can make in-meeting changes to show or hide the chat using the touch console.",
+      "pubDate": "Fri, 26 Jan 2024 00:45:52 -0800",
+      "updated": "2024-01-26T08:45:52+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/335856.json",
+    "CurrentVersion": {
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2023-12-21T08:30:17+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/373655.json",
+    "CurrentVersion": {
+      "guid": "373655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373655",
+      "category": [
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Copilot for Sales plugin for Copilot in Teams meetings",
+      "description": "Admins can enable the Copilot for Sales plugin in the plugin menu. All plugins are toggled ‘off’ by default, and users can toggle it ‘on’ from the plugin menu. When Copilot for Sales plugin is set to ‘on,’ Copilot in Teams meetings will be able to access Sales and Dynamics 365 data to return insights for a summary of the sales opportunity for the meeting based on the transcript, as well as retrieve brand information for the account from Dynamics 365 if the account name was mentioned.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380183.json",
+    "CurrentVersion": {
+      "guid": "380183",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380183",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Drag to order list items",
+      "description": "Easily organize your list by dragging and dropping items into a custom sort order for you and your team.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380667.json",
+    "CurrentVersion": {
+      "guid": "380667",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380667",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 4K local HDMI content sharing quality for Teams Rooms on Android",
+      "description": "Users can see HDMI content in 4K quality on Teams Rooms on Android devices that support 4K HDMI input, when they share content without joining a Teams meeting.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380674.json",
+    "CurrentVersion": {
+      "guid": "380674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380674",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join meetings with a QR code on Teams Rooms on Android using Teams mobile",
+      "description": "Users can quickly join a meeting from a Teams Room even without forwarding the invite to the room calendar by scanning a QR code using their mobile device camera. The user will then enter the Teams mobile companion mode experience on their mobile. The QR code is found on the Teams Room home screen and can also be scanned to start an ad-hoc meeting or cast content from their mobile to the Teams Room display. If the user does not have the Teams mobile app, they will be directed to download it after scanning the QR code. IT admins can control the QR code feature in the device settings and the Teams admin center. The feature supports cross-tenant meetings when the organization and user policies allow it.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380678.json",
+    "CurrentVersion": {
+      "guid": "380678",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380678",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to rename the policy and rule names in DLP",
+      "description": "This feature gives the ability for the DLP admin to rename the existing policy/rule without having to create the entire the rule or policy again.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380683.json",
+    "CurrentVersion": {
+      "guid": "380683",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380683",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Give feedback for Teams Rooms on Android",
+      "description": "The Help button includes a Give feedback option that lets users share their opinions and ideas about Teams Rooms with Microsoft. We use this feedback to improve the Teams experience. IT admins can enable or disable this feature for users and manage feedback policies using PowerShell.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380687.json",
+    "CurrentVersion": {
+      "guid": "380687",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380687",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Home screen refresh for Teams Rooms on Android",
+      "description": "The Teams Rooms on Android home screen matches the look and feel of Teams Rooms on Windows, enabling users to engage with a consistent Teams Rooms interface. The touch console features six action buttons and shows the room calendar on the right side of the home screen. A room tip appears at the bottom left corner of the front of room display for user education.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380856.json",
+    "CurrentVersion": {
+      "guid": "380856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380856",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 4K display UI scaling for Teams Rooms on Windows",
+      "description": "4K-enabled displays, including front of room displays and touch boards, are natively supported on the Teams Rooms experience. Additional disclosure: 4K video is not supported.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/381157.json",
+    "CurrentVersion": {
+      "guid": "381157",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381157",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: new Teams is now part of Teams Rooms on Windows",
+      "description": "The new Teams app is now supported on Teams Rooms on Windows, allowing all Teams Rooms devices to optimize room experience and render intelligent audio and video more reliably.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/153651/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "153651",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=153651",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Ability to change retention period on labels set to start retention based on “When items were labeled”",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:DengXian;color:black;\">Previously, admins could not change the\nretention period set on existing labels configured to start retention from when\nitems were labeled. This feature will remove this restriction, and the\nresulting behavior will be consistent with other retention label types.</span> </div>",
+      "pubDate": "Fri, 21 Jul 2023 22:41:23 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/161739/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "161739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161739",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Integrate Chat notification with Meeting RSVP status",
+      "description": "Microsoft Teams users will be able to control how they get notified in meeting chats through RSVP to their meetings. When you decline a meeting, you will not receive notifications or see the chats in chat list; when you accept a meeting, you will receive notification for all new messages.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:17 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/173626/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "173626",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=173626",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Simulation mode for DLP",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this capability,\nAdmins will be able to try a Microsoft Purview DLP policy, assess its impact,\nand fine tune the policy as required in an isolated experience. This will help\nAdmins build confidence in the configuration of the policy and reduce the policy\nenforcement time.</span> </div>",
+      "pubDate": "Tue, 19 Sep 2023 23:09:50 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/184359/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "184359",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=184359",
+      "category": [
+        "Excel",
+        "GCC",
+        "General Availability",
+        "Microsoft 365 app",
+        "PowerPoint",
+        "Rolling out",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Catch Up Improvements on Web",
+      "description": ",Catch Up allows you to stay in sync with your collaborators in Word, Excel, and PowerPoint by showing you the latest comment activity that is directed at you and a summary of recent changes. Based on your feedback, we made improvements to the Catch Up feature. The comment activity directed at you will now persist in Catch Up between sessions for up to 28 days. New items will be indicated with a blue dot for clarity. You can also dismiss items individually if you do not wish to keep them in Catch Up.",
+      "pubDate": "Fri, 27 Oct 2023 22:13:27 -0700",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/192236/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "192236",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192236",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Admin apps pinned by default in Mail Compose and Read",
+      "description": "<div><span>When an app is deployed in\nIntegrated Apps (Get Apps &amp; Upload Custom LOB apps) in the Microsoft Admin\nCenter, it will be available in Outlook on the web in Read Message Actions and\nCompose Ribbon.</span> </div>",
+      "pubDate": "Thu, 07 Dec 2023 00:05:35 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/332424/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "332424",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332424",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting Chat shown by default in Gallery View for Teams Rooms on Windows",
+      "description": "Meeting Chat is now shown by default when joining a Teams meeting with Teams Rooms on Windows in Gallery View, making it easier to see incoming chat messages on the front of room display. IT Admins can configure the default chat experience for a room, and users can make in-meeting changes to show or hide the chat using the touch console.",
+      "pubDate": "Fri, 26 Jan 2024 00:45:52 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/335856/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/373655/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "373655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373655",
+      "category": [
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Copilot for Sales plugin for Copilot in Teams meetings",
+      "description": "Admins can enable the Copilot for Sales plugin in the plugin menu. All plugins are toggled ‘off’ by default, and users can toggle it ‘on’ from the plugin menu. When Copilot for Sales plugin is set to ‘on,’ Copilot in Teams meetings will be able to access Sales and Dynamics 365 data to return insights for a summary of the sales opportunity for the meeting based on the transcript, as well as retrieve brand information for the account from Dynamics 365 if the account name was mentioned.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380183/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380183",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380183",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Drag to order list items",
+      "description": "Easily organize your list by dragging and dropping items into a custom sort order for you and your team.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380667/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380667",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380667",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 4K local HDMI content sharing quality for Teams Rooms on Android",
+      "description": "Users can see HDMI content in 4K quality on Teams Rooms on Android devices that support 4K HDMI input, when they share content without joining a Teams meeting.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380674/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380674",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join meetings with a QR code on Teams Rooms on Android using Teams mobile",
+      "description": "Users can quickly join a meeting from a Teams Room even without forwarding the invite to the room calendar by scanning a QR code using their mobile device camera. The user will then enter the Teams mobile companion mode experience on their mobile. The QR code is found on the Teams Room home screen and can also be scanned to start an ad-hoc meeting or cast content from their mobile to the Teams Room display. If the user does not have the Teams mobile app, they will be directed to download it after scanning the QR code. IT admins can control the QR code feature in the device settings and the Teams admin center. The feature supports cross-tenant meetings when the organization and user policies allow it.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380678/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380678",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380678",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to rename the policy and rule names in DLP",
+      "description": "This feature gives the ability for the DLP admin to rename the existing policy/rule without having to create the entire the rule or policy again.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380683/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380683",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380683",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Give feedback for Teams Rooms on Android",
+      "description": "The Help button includes a Give feedback option that lets users share their opinions and ideas about Teams Rooms with Microsoft. We use this feedback to improve the Teams experience. IT admins can enable or disable this feature for users and manage feedback policies using PowerShell.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380687/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380687",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380687",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Home screen refresh for Teams Rooms on Android",
+      "description": "The Teams Rooms on Android home screen matches the look and feel of Teams Rooms on Windows, enabling users to engage with a consistent Teams Rooms interface. The touch console features six action buttons and shows the room calendar on the right side of the home screen. A room tip appears at the bottom left corner of the front of room display for user education.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380856/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "380856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380856",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 4K display UI scaling for Teams Rooms on Windows",
+      "description": "4K-enabled displays, including front of room displays and touch boards, are natively supported on the Teams Rooms experience. Additional disclosure: 4K video is not supported.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381157/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-01-27T02:12:31.8068231+00:00",
+      "guid": "381157",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381157",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: new Teams is now part of Teams Rooms on Windows",
+      "description": "The new Teams app is now supported on Teams Rooms on Windows, allowing all Teams Rooms devices to optimize room experience and render intelligent audio and video more reliably.",
+      "pubDate": "Fri, 26 Jan 2024 23:15:25 -0800",
+      "updated": "2024-01-27T07:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
