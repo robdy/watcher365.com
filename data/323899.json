@@ -6,12 +6,13 @@
     "General Availability",
     "In development",
     "Microsoft Purview compliance portal",
+    "Preview",
     "Web"
   ],
   "title": "Microsoft Purview compliance portal: Object Character Recognition (OCR) support for embedded images in Exchange Online and Microsoft Teams",
-  "description": "We are extending the Object Character Recognition (OCR) for Exchange Online and Microsoft Teams in Microsoft Purview to support images embedded in more file types such as: Hybrid PDF files, which are PDF files with both images and searchable text,  Microsoft Office files with the extensions DOCX, PPTX, XLSX , Container files such as zip, rar, 7z, and more.",
+  "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
   "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
-  "updated": "2024-01-04T00:15:15-08:00",
+  "updated": "2024-02-09T01:00:53-08:00",
   "publicDisclosureAvailabilityDate": "June CY2024",
-  "publicPreviewDate": null
+  "publicPreviewDate": "May CY2024"
 }
