@@ -1,4 +1,5 @@
 {
+  "timestamp": "2024-02-15T02:07:14.4174954+00:00",
   "guid": "145802",
   "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
   "category": [
@@ -13,7 +14,7 @@
   "title": "SharePoint: Improvements for document library version history limits ",
   "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
   "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
-  "updated": "2024-02-15T00:15:19-08:00",
+  "updated": "2024-02-15T08:15:19+00:00",
   "publicDisclosureAvailabilityDate": "March CY2024",
   "publicPreviewDate": "March CY2024"
 }
