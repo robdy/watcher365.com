@@ -1,0 +1,1188 @@
+[
+  {
+    "Path": "data/135562.json",
+    "CurrentVersion": {
+      "guid": "135562",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=135562",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Planner",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Recurring task lists and top task publishing requests",
+      "description": "Task publishing allows an organization to centrally define and distribute tasks across their frontline locations and monitor how that work is going. The task publishing capability will allow users to create recurring task lists that repeat on a selected cadence, to create lists assigned to everyone in a recipient team, to require a Microsoft Forms form as a prerequisite to completion, and to designate an approval as a prerequisite to completion.<br>More info: https://support.microsoft.com/office/publish-task-lists-to-create-and-track-work-in-your-organization-095409b3-f5af-40aa-9f9e-339b54e705df",
+      "pubDate": "Tue, 01 Aug 2023 23:12:47 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "135562",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=135562",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Planner",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Recurring task lists and top task publishing requests",
+      "description": "Task publishing allows an organization to centrally define and distribute tasks across their frontline locations and monitor how that work is going. The task publishing capability will allow users to create recurring task lists that repeat on a selected cadence, to create lists assigned to everyone in a recipient team, to require a Microsoft Forms form as a prerequisite to completion, and to designate an approval as a prerequisite to completion.<br>More info: https://support.microsoft.com/office/publish-task-lists-to-create-and-track-work-in-your-organization-095409b3-f5af-40aa-9f9e-339b54e705df",
+      "pubDate": "Tue, 01 Aug 2023 23:12:47 -0700",
+      "updated": "2024-02-10T07:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/138139.json",
+    "CurrentVersion": {
+      "guid": "138139",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=138139",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join Zoom enabled meetings from Teams",
+      "description": "<div>If the any organizer creates a Zoom/Google meet/\nany third-party meeting application from Outlook or OWA, meeting participants\nwill be able to join that meeting from inside Teams calendar. </div><div> </div><div> </div>",
+      "pubDate": "Thu, 13 Jul 2023 23:20:38 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "138139",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=138139",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join Zoom enabled meetings from Teams",
+      "description": "If the any organizer creates a Zoom/Google meet/\nany third-party meeting application from Outlook or OWA, meeting participants\nwill be able to join that meeting from inside Teams calendar.",
+      "pubDate": "Thu, 13 Jul 2023 23:20:38 -0700",
+      "updated": "2023-09-15T05:46:48+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/145802.json",
+    "CurrentVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
+      "updated": "2024-02-15T08:15:19+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/163368.json",
+    "CurrentVersion": {
+      "guid": "163368",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163368",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Standardization of Viva Learning Webapp Links",
+      "description": "Webapp links will have user-friendly and easily addressable links to pages",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163368",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163368",
+      "category": [
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Standardization of Viva Learning Webapp Links",
+      "description": "Webapp links will have user-friendly and easily addressable links to pages",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2023-11-09T08:07:13+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163989.json",
+    "CurrentVersion": {
+      "guid": "163989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163989",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to customize reminders",
+      "description": "Ability to customize survey reminders, nudges and other notifications and support additional languages",
+      "pubDate": "Mon, 14 Aug 2023 23:13:53 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163989",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to customize reminders",
+      "description": "Ability to customize survey reminders, nudges and other notifications and support additional languages",
+      "pubDate": "Mon, 14 Aug 2023 23:13:53 -0700",
+      "updated": "2024-01-19T08:15:45+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/168626.json",
+    "CurrentVersion": {
+      "guid": "168626",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168626",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Engage Community Analytics",
+      "description": ",Updates to community analytics will allow community admins to better understand engagement trends, reach and the top conversations that occur within their communities.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:34 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {
+      "guid": "168626",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168626",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Engage Community Analytics",
+      "description": ",Updates to community analytics will allow community admins to better understand engagement trends, reach and the top conversations that occur within their communities.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:34 -0700",
+      "updated": "2023-09-20T06:02:35+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/174575.json",
+    "CurrentVersion": {
+      "guid": "174575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174575",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Sensitivity labels to protect Microsoft Teams shared channels",
+      "description": "Sensitivity labels will protect Microsoft Teams shared controls with sharing and discovery controls.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:16 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "174575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174575",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Sensitivity labels to protect Microsoft Teams shared channels",
+      "description": "Sensitivity labels will protect Microsoft Teams shared controls with sharing and discovery controls.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:16 -0700",
+      "updated": "2023-10-19T06:13:36+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/181825.json",
+    "CurrentVersion": {
+      "guid": "181825",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181825",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Alert improvements",
+      "description": ",This feature is about improving the alerting capabilities and customization in Communication Compliance.",
+      "pubDate": "Mon, 16 Oct 2023 23:35:31 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "181825",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181825",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Alert improvements",
+      "description": ",This feature is about improving the alerting capabilities and customization in Communication Compliance.",
+      "pubDate": "Mon, 16 Oct 2023 23:35:31 -0700",
+      "updated": "2023-11-17T08:24:25+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/188616.json",
+    "CurrentVersion": {
+      "guid": "188616",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=188616",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Copilot in Stream",
+      "description": "Copilot in Stream leverages LLM (Large Language Model) AI technology to help you quickly get the insights you need from Stream (on SharePoint) videos. With Copilot in Stream you can quickly and effectively summarize any video with a transcript, or ask deep dive questions for topics you need to understand. This feature is only available for customers who have purchased the Microsoft 365 Copilot license.",
+      "pubDate": "Tue, 21 Nov 2023 00:44:16 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "188616",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=188616",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Copilot in Stream",
+      "description": "Copilot in Stream leverages LLM (Large Language Model) AI technology to help you quickly get the insights you need from Stream (on SharePoint) videos. With Copilot in Stream you can quickly and effectively summarize any video with a transcript, or ask deep dive questions for topics you need to understand. This feature is only available for customers who have purchased the Microsoft 365 Copilot license.",
+      "pubDate": "Tue, 21 Nov 2023 00:44:16 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375179.json",
+    "CurrentVersion": {
+      "guid": "375179",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375179",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: To Do in Outlook for Mac",
+      "description": ",To Do helps you manage your tasks and stay on top of what's next. These features will be available in Outlook for Mac for commercial users.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "375179",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375179",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: To Do in Outlook for Mac",
+      "description": ",To Do helps you manage your tasks and stay on top of what's next. These features will be available in Outlook for Mac for commercial users.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-02-07T09:00:38+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/378774.json",
+    "CurrentVersion": {
+      "guid": "378774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378774",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Working hours and location",
+      "description": ",New working hours and location options in Outlook lets people set more flexible working hours each day and specify the location from where they plan to work. You can also view your colleagues' work location when scheduling a meeting.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/382921.json",
+    "CurrentVersion": {
+      "guid": "382921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382921",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Request License for Others",
+      "description": "This feature enables all unlicensed users to request a license from their IT Admin. IT Admins see these requests in MAC and either approve or decline them. Today, unlicensed users who get errors while trying to sign in cannot proceed. With this feature, they can at least express intent to their IT Admin to start using Goals. Also, Org Admins can now request licenses for all unlicensed users in their Goals Organizations, thus unblocking them from using Goals.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/382923.json",
+    "CurrentVersion": {
+      "guid": "382923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382923",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - New users can auto-claim licenses",
+      "description": "By creating the Auto-claim policy for any product, IT Admins will enable eligible new users to claim a license to the product when they sign in. This removes the dependency on the IT Admin and provides a seamless experience to end users. Viva Goals will be onboarded to this platform.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/382924.json",
+    "CurrentVersion": {
+      "guid": "382924",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382924",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Campaign Enhancements - Targeted campaigns and campaigns in the digest.",
+      "description": "Corporate communications and campaign managers will now have the capability to effectively promote their campaigns by sending notifications directly to users, ensuring they are promptly informed about new campaigns and can readily participate in them. Additionally, campaigns will be discoverable in the engage digest, enhancing visibility and engagement opportunities.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383010.json",
+    "CurrentVersion": {
+      "guid": "383010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383010",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot for Microsoft 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: \"Help me create\" in Microsoft 365",
+      "description": ",\"Help me create\" is a content create feature in Microsoft365.com that is powered by Copilot for Microsoft 365. Like Copilot, \"Help me create\" is built on Microsoft's comprehensive approach to security, compliance, and privacy.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "October CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383019.json",
+    "CurrentVersion": {
+      "guid": "383019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383019",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams meeting chat will take the meeting transcript into account",
+      "description": "When you ask Copilot in the meeting chat a question, it will use the chat and transcript content as the source.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383383.json",
+    "CurrentVersion": {
+      "guid": "383383",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383383",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Leader suggestions in Viva Engage",
+      "description": "Viva Engage Admins and corporate communicators will now see up to three leader suggestions so that they are added to leadership corner. These suggestions are primarily powered by AAD organizational data.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383404.json",
+    "CurrentVersion": {
+      "guid": "383404",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383404",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Open Teams app content in multi-window stageview",
+      "description": "Microsoft Teams enables you to open your app content in new multi-window experiences. Unlock multi-tasking workflows for your users inside Teams. Allow them to engage with content and conversation, side-by-side.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383529.json",
+    "CurrentVersion": {
+      "guid": "383529",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383529",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Use Apple AirPods to mute/unmute yourself in Microsoft Teams",
+      "description": "Microsoft Teams now works seamlessly with Apple AirPods to mute or unmute yourself on Mac models running macOS Sonoma. The same functionality already available on iPhone running iOS 17 is now supported on new Teams for Mac.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383534.json",
+    "CurrentVersion": {
+      "guid": "383534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383534",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Extending support for viewing MIP Protected PDF Files to different sovereignties (including GCCH)",
+      "description": "Sovereign cloud customers (including GCCH) will be able to open MIP protected PDF content in Microsoft Edge. This change will be available in the Microsoft Edge built-in PDF reader powered by Adobe Acrobat and the legacy Microsoft Edge PDF engine.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/81914.json",
+    "CurrentVersion": {
+      "guid": "81914",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81914",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams Rooms Managed Services: Device Portfolio - Surface Hub",
+      "description": "<div><span>Support Surface Hub devices for monitoring, incident management, app management (Connect, Teams), inventory management.</span> </div><div> </div>",
+      "pubDate": "Mon, 12 Apr 2021 23:15:34 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2022",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "81914",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81914",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams Rooms Managed Services: Device Portfolio - Surface Hub",
+      "description": "Support Surface Hub devices for monitoring, incident management, app management (Connect, Teams), inventory management.",
+      "pubDate": "Mon, 12 Apr 2021 23:15:34 -0700",
+      "updated": "2022-06-30T05:59:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2022",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/135562/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "135562",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=135562",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Planner",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Recurring task lists and top task publishing requests",
+      "description": "Task publishing allows an organization to centrally define and distribute tasks across their frontline locations and monitor how that work is going. The task publishing capability will allow users to create recurring task lists that repeat on a selected cadence, to create lists assigned to everyone in a recipient team, to require a Microsoft Forms form as a prerequisite to completion, and to designate an approval as a prerequisite to completion.<br>More info: https://support.microsoft.com/office/publish-task-lists-to-create-and-track-work-in-your-organization-095409b3-f5af-40aa-9f9e-339b54e705df",
+      "pubDate": "Tue, 01 Aug 2023 23:12:47 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/138139/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "138139",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=138139",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join Zoom enabled meetings from Teams",
+      "description": "<div>If the any organizer creates a Zoom/Google meet/\nany third-party meeting application from Outlook or OWA, meeting participants\nwill be able to join that meeting from inside Teams calendar. </div><div> </div><div> </div>",
+      "pubDate": "Thu, 13 Jul 2023 23:20:38 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/145802/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163368/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "163368",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163368",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Standardization of Viva Learning Webapp Links",
+      "description": "Webapp links will have user-friendly and easily addressable links to pages",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163989/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "163989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163989",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to customize reminders",
+      "description": "Ability to customize survey reminders, nudges and other notifications and support additional languages",
+      "pubDate": "Mon, 14 Aug 2023 23:13:53 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/168626/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "168626",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168626",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Engage Community Analytics",
+      "description": ",Updates to community analytics will allow community admins to better understand engagement trends, reach and the top conversations that occur within their communities.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:34 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/174575/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "174575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174575",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Sensitivity labels to protect Microsoft Teams shared channels",
+      "description": "Sensitivity labels will protect Microsoft Teams shared controls with sharing and discovery controls.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:16 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/181825/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "181825",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181825",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Alert improvements",
+      "description": ",This feature is about improving the alerting capabilities and customization in Communication Compliance.",
+      "pubDate": "Mon, 16 Oct 2023 23:35:31 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/188616/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "188616",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=188616",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Copilot in Stream",
+      "description": "Copilot in Stream leverages LLM (Large Language Model) AI technology to help you quickly get the insights you need from Stream (on SharePoint) videos. With Copilot in Stream you can quickly and effectively summarize any video with a transcript, or ask deep dive questions for topics you need to understand. This feature is only available for customers who have purchased the Microsoft 365 Copilot license.",
+      "pubDate": "Tue, 21 Nov 2023 00:44:16 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375179/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "375179",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375179",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: To Do in Outlook for Mac",
+      "description": ",To Do helps you manage your tasks and stay on top of what's next. These features will be available in Outlook for Mac for commercial users.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378774/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "378774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378774",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Working hours and location",
+      "description": ",New working hours and location options in Outlook lets people set more flexible working hours each day and specify the location from where they plan to work. You can also view your colleagues' work location when scheduling a meeting.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382921/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "382921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382921",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Request License for Others",
+      "description": "This feature enables all unlicensed users to request a license from their IT Admin. IT Admins see these requests in MAC and either approve or decline them. Today, unlicensed users who get errors while trying to sign in cannot proceed. With this feature, they can at least express intent to their IT Admin to start using Goals. Also, Org Admins can now request licenses for all unlicensed users in their Goals Organizations, thus unblocking them from using Goals.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382923/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "382923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382923",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - New users can auto-claim licenses",
+      "description": "By creating the Auto-claim policy for any product, IT Admins will enable eligible new users to claim a license to the product when they sign in. This removes the dependency on the IT Admin and provides a seamless experience to end users. Viva Goals will be onboarded to this platform.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382924/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "382924",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382924",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Campaign Enhancements - Targeted campaigns and campaigns in the digest.",
+      "description": "Corporate communications and campaign managers will now have the capability to effectively promote their campaigns by sending notifications directly to users, ensuring they are promptly informed about new campaigns and can readily participate in them. Additionally, campaigns will be discoverable in the engage digest, enhancing visibility and engagement opportunities.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383010/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "383010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383010",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot for Microsoft 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: \"Help me create\" in Microsoft 365",
+      "description": ",\"Help me create\" is a content create feature in Microsoft365.com that is powered by Copilot for Microsoft 365. Like Copilot, \"Help me create\" is built on Microsoft's comprehensive approach to security, compliance, and privacy.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "October CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383019/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "383019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383019",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams meeting chat will take the meeting transcript into account",
+      "description": "When you ask Copilot in the meeting chat a question, it will use the chat and transcript content as the source.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383383/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "383383",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383383",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Leader suggestions in Viva Engage",
+      "description": "Viva Engage Admins and corporate communicators will now see up to three leader suggestions so that they are added to leadership corner. These suggestions are primarily powered by AAD organizational data.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383404/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "383404",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383404",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Open Teams app content in multi-window stageview",
+      "description": "Microsoft Teams enables you to open your app content in new multi-window experiences. Unlock multi-tasking workflows for your users inside Teams. Allow them to engage with content and conversation, side-by-side.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383529/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "383529",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383529",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Use Apple AirPods to mute/unmute yourself in Microsoft Teams",
+      "description": "Microsoft Teams now works seamlessly with Apple AirPods to mute or unmute yourself on Mac models running macOS Sonoma. The same functionality already available on iPhone running iOS 17 is now supported on new Teams for Mac.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383534/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "383534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383534",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Extending support for viewing MIP Protected PDF Files to different sovereignties (including GCCH)",
+      "description": "Sovereign cloud customers (including GCCH) will be able to open MIP protected PDF content in Microsoft Edge. This change will be available in the Microsoft Edge built-in PDF reader powered by Adobe Acrobat and the legacy Microsoft Edge PDF engine.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 -0800",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/81914/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-16T02:07:02.5418741+00:00",
+      "guid": "81914",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81914",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams Rooms Managed Services: Device Portfolio - Surface Hub",
+      "description": "<div><span>Support Surface Hub devices for monitoring, incident management, app management (Connect, Teams), inventory management.</span> </div><div> </div>",
+      "pubDate": "Mon, 12 Apr 2021 23:15:34 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2022",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
