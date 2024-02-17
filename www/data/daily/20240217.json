@@ -1,0 +1,1190 @@
+[
+  {
+    "Path": "data/109532.json",
+    "CurrentVersion": {
+      "guid": "109532",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109532",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Preview",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Sensitivity label required to restrict permissions for labeling-enabled users",
+      "description": ",<div>Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused. </div>",
+      "pubDate": "Fri, 09 Jun 2023 22:38:01 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {
+      "guid": "109532",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109532",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Preview",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Sensitivity label required to restrict permissions for labeling-enabled users",
+      "description": ",Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused.",
+      "pubDate": "Fri, 09 Jun 2023 22:38:01 -0700",
+      "updated": "2023-09-27T06:05:47+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": "August CY2023"
+    }
+  },
+  {
+    "Path": "data/165698.json",
+    "CurrentVersion": {
+      "guid": "165698",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165698",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Microsoft Teams",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Changes in Sensitivity labels to control Microsoft Teams shared channels and private team discoverability",
+      "description": ",<div>Information Protection - Controls while adding/editing Sensitivity labels to manage Microsoft Teams shared channels settings and private team discoverability. </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:56 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {
+      "guid": "165698",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165698",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Microsoft Teams",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Changes in Sensitivity labels to control Microsoft Teams shared channels and private team discoverability",
+      "description": ",<div>Information Protection - Controls while adding/editing Sensitivity labels to manage Microsoft Teams shared channels settings and private team discoverability. </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:56 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/174658.json",
+    "CurrentVersion": {
+      "guid": "174658",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174658",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhancements to DLP capabilities on macOS endpoints",
+      "description": "<div><span style=\"\">With this update, we are adding several enhancements to DLP capabilities for macOS endpoints including the ability to create groups of USB, Printer, and Network share and apply different restrictions to different groups; support for most restrictive actions against multiple rule matches; and support for Network share exclusion.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "174658",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174658",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhancements to DLP capabilities on macOS endpoints",
+      "description": "<div><span style=\"\">With this update, we are adding several enhancements to DLP capabilities for macOS endpoints including the ability to create groups of USB, Printer, and Network share and apply different restrictions to different groups; support for most restrictive actions against multiple rule matches; and support for Network share exclusion.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2023-12-28T08:15:45+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/180352.json",
+    "CurrentVersion": {
+      "guid": "180352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180352",
+      "category": [
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Domain/URL Update",
+      "description": "To align the URL with the new Viva Engage branding and as part of the unified domain for Microsoft 365 initiative, Viva Engage’s URL schema is being updated. This change includes domains only. A separate roadmap will be created for email sender changes.",
+      "pubDate": "Thu, 05 Oct 2023 07:00:00 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "180352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180352",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Domain/URL Update",
+      "description": "To align the URL with the new Viva Engage branding and as part of the unified domain for Microsoft 365 initiative, Viva Engage’s URL schema is being updated. This change includes domains only. A separate roadmap will be created for email sender changes.",
+      "pubDate": "Thu, 05 Oct 2023 07:00:00 -0700",
+      "updated": "2024-02-07T09:00:38+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/181617.json",
+    "CurrentVersion": {
+      "guid": "181617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181617",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery Premium-Enhancements to eDiscovery experience for Microsoft Forms content",
+      "description": ",<div>Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities. </div><div> </div>",
+      "pubDate": "Mon, 30 Oct 2023 23:08:55 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "December CY2023"
+    },
+    "OldVersion": {
+      "guid": "181617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181617",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery Premium-Enhancements to eDiscovery experience for Microsoft Forms content",
+      "description": ",Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities.",
+      "pubDate": "Mon, 30 Oct 2023 23:08:55 -0700",
+      "updated": "2023-10-31T06:03:08+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "December CY2023"
+    }
+  },
+  {
+    "Path": "data/182056.json",
+    "CurrentVersion": {
+      "guid": "182056",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182056",
+      "category": [
+        "Android",
+        "Azure Active Directory",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Entra",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Entra: Expanded support for device-bound passkeys in Microsoft Entra ID",
+      "description": ",<div><span>Microsoft Entra ID will add support for device-bound passkeys stored on computers and mobile devices as an authentication method in preview, in addition to the existing support for FIDO2 security keys. This enables users to perform phishing-resistant authentication using the devices that they already have.&nbsp;</span><span>The existing FIDO2 authentication methods policy and end user experiences will be changed to support this preview release. For organizations to opt-in to this preview, admins will need to enforce key restrictions to allow specified passkey providers in the FIDO2 policy.</span> </div><div> </div>",
+      "pubDate": "Fri, 17 Nov 2023 23:32:39 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "182056",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182056",
+      "category": [
+        "Android",
+        "Azure Active Directory",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Entra",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Entra: Expanded support for device-bound passkeys in Microsoft Entra ID",
+      "description": ",Microsoft Entra ID will add support for device-bound passkeys stored on computers and mobile devices as an authentication method in preview, in addition to the existing support for FIDO2 security keys. This enables users to perform phishing-resistant authentication using the devices that they already have. The existing FIDO2 authentication methods policy and end user experiences will be changed to support this preview release. For organizations to opt-in to this preview, admins will need to enforce key restrictions to allow specified passkey providers in the FIDO2 policy.",
+      "pubDate": "Fri, 17 Nov 2023 23:32:39 -0800",
+      "updated": "2023-11-18T07:28:49+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/186540.json",
+    "CurrentVersion": {
+      "guid": "186540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186540",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Controls for enterprise secure AI",
+      "description": ",<div>The Microsoft Edge management service will give admins the controls to\nmanage settings for Enterprise AI features, including Copilot in Edge. </div><br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-management-service#manage-enterprise-secure-ai-settings",
+      "pubDate": "Thu, 16 Nov 2023 00:27:05 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "186540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186540",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Controls for enterprise secure AI",
+      "description": ",<div>The Microsoft Edge management service will give admins the controls to\nmanage settings for Enterprise AI features, including Copilot in Edge. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:05 -0800",
+      "updated": "2024-02-10T07:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/314355.json",
+    "CurrentVersion": {
+      "guid": "314355",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314355",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Calendar notifications in Teams",
+      "description": "Users can now triage the calendar notifications in their Activity Feed and will get notifications for meeting invites, updates, cancellations, and forwards (if the user is the meeting organizer). These notifications will show up as unread in the Activity Feed pane and will display the details when a user clicks on it.",
+      "pubDate": "Thu, 14 Dec 2023 00:15:26 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "314355",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314355",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Calendar notifications in Teams",
+      "description": "Users can now triage the calendar notifications in their Activity Feed and will get notifications for meeting invites, updates, cancellations, and forwards (if the user is the meeting organizer). These notifications will show up as unread in the Activity Feed pane and will display the details when a user clicks on it.",
+      "pubDate": "Thu, 14 Dec 2023 00:15:26 -0800",
+      "updated": "2023-12-14T08:15:26+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/323899.json",
+    "CurrentVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Object Character Recognition (OCR) support for embedded images in Exchange Online and Microsoft Teams",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-02-09T09:00:53+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/366447.json",
+    "CurrentVersion": {
+      "guid": "366447",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=366447",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting invite improvements",
+      "description": "Meeting invite is the first thing that the user invited to the meeting sees before joining. We are making some design improvements to make sure we have the most important information there and it's better grouped.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "366447",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=366447",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting invite improvements",
+      "description": "Meeting invite is the first thing that the user invited to the meeting sees before joining. We are making some design improvements to make sure we have the most important information there and it's better grouped.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2023-12-21T08:30:17+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375418.json",
+    "CurrentVersion": {
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-02-10T07:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381751.json",
+    "CurrentVersion": {
+      "guid": "381751",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381751",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Expand investigation pane to full screen for Data Loss Preventions alerts in Microsoft 365 Defender",
+      "description": "The investigation experience is now improved with a key usability feature to expand the investigation pane to full screen while reviewing the details of a Data Loss Prevention incident or alert in Microsoft 365 Defender.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381751",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381751",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Expand investigation pane to full screen for Data Loss Preventions alerts in Microsoft 365 Defender",
+      "description": "The investigation experience is now improved with a key usability feature to expand the investigation pane to full screen while reviewing the details of a Data Loss Prevention incident or alert in Microsoft 365 Defender.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-02-06T10:15:52+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/382922.json",
+    "CurrentVersion": {
+      "guid": "382922",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382922",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Improved FRE for new Goals users",
+      "description": "New users to Goals will have an easier onboarding with low confusion on their first sign-in.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383137.json",
+    "CurrentVersion": {
+      "guid": "383137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: New feature for silence removal (pauses) in Clipchamp",
+      "description": "We think editing your video could be a quick job but isn't necessarily so sometimes. Silence removal uses AI auto transcription to transcribe your audio. We infer pauses in your speech transcription and any gaps in the speech we detected for more than 3 seconds is considered a pause. We provide you with the option to remove all pauses at once with a single click or to review each pause where you can adjust and consider ones you want to keep.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383532.json",
+    "CurrentVersion": {
+      "guid": "383532",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383532",
+      "category": [
+        "Bookings",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Bookings: Updated Home page",
+      "description": "With this change, users can configure their personal booking page from the Bookings home page itself.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383656.json",
+    "CurrentVersion": {
+      "guid": "383656",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383656",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Notifications and Nudges in Teams",
+      "description": "Users can receive survey notifications and nudges in Teams",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383732.json",
+    "CurrentVersion": {
+      "guid": "383732",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383732",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – leader's dashboard in leadership corner",
+      "description": "Identified leaders in Viva Engage will now have access to a leader's dashboard in leadership corner",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383733.json",
+    "CurrentVersion": {
+      "guid": "383733",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383733",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – pin post to leadership corner",
+      "description": "Admins and corporate communicators will be able to pin one post that will show at the top of everyone's leadership corner",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383739.json",
+    "CurrentVersion": {
+      "guid": "383739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383739",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Restrict unintentional sharing to unallowed cloud apps and services (macOS)",
+      "description": ",Ability to restrict unintentional sharing of sensitive items to unallowed cloud apps and services in macOS.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383746.json",
+    "CurrentVersion": {
+      "guid": "383746",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383746",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enriched Data Loss Prevention Alert Email Notifications for DLP Admins",
+      "description": "There is now increased information in the alert email notification sent to the Data Loss Prevention (DLP) admin upon a DLP policy match. Previously a DLP alert email only included the user activity and the type of sensitive information matched in the alert. Now, DLP admins will get additional context such as alert ID, policy details, device details, and more. This will help admins quickly assess the priority of an alert and determine the next steps before navigating to the Microsoft Purview DLP alerts page or Microsoft 365 Defender DLP alerts page.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/109532/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "109532",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109532",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Preview",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Sensitivity label required to restrict permissions for labeling-enabled users",
+      "description": ",<div>Users with sensitivity labels available will no longer be able to restrict permissions without a label in most cases. Entry points to the legacy Set Permissions dialog will redirect to a sensitivity labeling dialog, where users can select an appropriate label to restrict permissions. UX allowing users to remove encryption or permission information without changing the sensitivity label will also be removed. Note: We are adjusting the roadmap release phase to reflect the current state. We apologize for any inconvenience this may have caused. </div>",
+      "pubDate": "Fri, 09 Jun 2023 22:38:01 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/165698/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "165698",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165698",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Microsoft Teams",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Changes in Sensitivity labels to control Microsoft Teams shared channels and private team discoverability",
+      "description": ",<div>Information Protection - Controls while adding/editing Sensitivity labels to manage Microsoft Teams shared channels settings and private team discoverability. </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:56 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/174658/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "174658",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174658",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhancements to DLP capabilities on macOS endpoints",
+      "description": "<div><span style=\"\">With this update, we are adding several enhancements to DLP capabilities for macOS endpoints including the ability to create groups of USB, Printer, and Network share and apply different restrictions to different groups; support for most restrictive actions against multiple rule matches; and support for Network share exclusion.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/180352/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "180352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180352",
+      "category": [
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Domain/URL Update",
+      "description": "To align the URL with the new Viva Engage branding and as part of the unified domain for Microsoft 365 initiative, Viva Engage’s URL schema is being updated. This change includes domains only. A separate roadmap will be created for email sender changes.",
+      "pubDate": "Thu, 05 Oct 2023 07:00:00 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/181617/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "181617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181617",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery Premium-Enhancements to eDiscovery experience for Microsoft Forms content",
+      "description": ",<div>Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities. </div><div> </div>",
+      "pubDate": "Mon, 30 Oct 2023 23:08:55 -0700",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "December CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/182056/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "182056",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182056",
+      "category": [
+        "Android",
+        "Azure Active Directory",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Entra",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Entra: Expanded support for device-bound passkeys in Microsoft Entra ID",
+      "description": ",<div><span>Microsoft Entra ID will add support for device-bound passkeys stored on computers and mobile devices as an authentication method in preview, in addition to the existing support for FIDO2 security keys. This enables users to perform phishing-resistant authentication using the devices that they already have.&nbsp;</span><span>The existing FIDO2 authentication methods policy and end user experiences will be changed to support this preview release. For organizations to opt-in to this preview, admins will need to enforce key restrictions to allow specified passkey providers in the FIDO2 policy.</span> </div><div> </div>",
+      "pubDate": "Fri, 17 Nov 2023 23:32:39 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186540/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "186540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186540",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Controls for enterprise secure AI",
+      "description": ",<div>The Microsoft Edge management service will give admins the controls to\nmanage settings for Enterprise AI features, including Copilot in Edge. </div><br>More info: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-management-service#manage-enterprise-secure-ai-settings",
+      "pubDate": "Thu, 16 Nov 2023 00:27:05 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/314355/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "314355",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314355",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Calendar notifications in Teams",
+      "description": "Users can now triage the calendar notifications in their Activity Feed and will get notifications for meeting invites, updates, cancellations, and forwards (if the user is the meeting organizer). These notifications will show up as unread in the Activity Feed pane and will display the details when a user clicks on it.",
+      "pubDate": "Thu, 14 Dec 2023 00:15:26 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/323899/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/366447/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "366447",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=366447",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting invite improvements",
+      "description": "Meeting invite is the first thing that the user invited to the meeting sees before joining. We are making some design improvements to make sure we have the most important information there and it's better grouped.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375418/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381751/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "381751",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381751",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Expand investigation pane to full screen for Data Loss Preventions alerts in Microsoft 365 Defender",
+      "description": "The investigation experience is now improved with a key usability feature to expand the investigation pane to full screen while reviewing the details of a Data Loss Prevention incident or alert in Microsoft 365 Defender.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382922/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "382922",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382922",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Improved FRE for new Goals users",
+      "description": "New users to Goals will have an easier onboarding with low confusion on their first sign-in.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383137/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: New feature for silence removal (pauses) in Clipchamp",
+      "description": "We think editing your video could be a quick job but isn't necessarily so sometimes. Silence removal uses AI auto transcription to transcribe your audio. We infer pauses in your speech transcription and any gaps in the speech we detected for more than 3 seconds is considered a pause. We provide you with the option to remove all pauses at once with a single click or to review each pause where you can adjust and consider ones you want to keep.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383532/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383532",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383532",
+      "category": [
+        "Bookings",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Bookings: Updated Home page",
+      "description": "With this change, users can configure their personal booking page from the Bookings home page itself.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383656/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383656",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383656",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Notifications and Nudges in Teams",
+      "description": "Users can receive survey notifications and nudges in Teams",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383732/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383732",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383732",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – leader's dashboard in leadership corner",
+      "description": "Identified leaders in Viva Engage will now have access to a leader's dashboard in leadership corner",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383733/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383733",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383733",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – pin post to leadership corner",
+      "description": "Admins and corporate communicators will be able to pin one post that will show at the top of everyone's leadership corner",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383739/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383739",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Restrict unintentional sharing to unallowed cloud apps and services (macOS)",
+      "description": ",Ability to restrict unintentional sharing of sensitive items to unallowed cloud apps and services in macOS.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383746/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-02-17T02:06:38.7847355+00:00",
+      "guid": "383746",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383746",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enriched Data Loss Prevention Alert Email Notifications for DLP Admins",
+      "description": "There is now increased information in the alert email notification sent to the Data Loss Prevention (DLP) admin upon a DLP policy match. Previously a DLP alert email only included the user activity and the type of sensitive information matched in the alert. Now, DLP admins will get additional context such as alert ID, policy details, device details, and more. This will help admins quickly assess the priority of an alert and determine the next steps before navigating to the Microsoft Purview DLP alerts page or Microsoft 365 Defender DLP alerts page.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
