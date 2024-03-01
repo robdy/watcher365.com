@@ -1,0 +1,883 @@
+[
+  {
+    "Path": "data/160008.json",
+    "CurrentVersion": {
+      "guid": "160008",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160008",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div>",
+      "pubDate": "Fri, 04 Aug 2023 22:05:23 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "160008",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160008",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+      "description": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF).",
+      "pubDate": "Fri, 04 Aug 2023 22:05:23 -0700",
+      "updated": "2023-08-05T05:02:08+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163980.json",
+    "CurrentVersion": {
+      "guid": "163980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163980",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for external benchmark consent",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Improved self service; Admins can give consent\nto include results for Viva Glint external benchmarks.</span> </div>",
+      "pubDate": "Fri, 25 Aug 2023 23:21:49 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163980",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for external benchmark consent",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Improved self service; Admins can give consent\nto include results for Viva Glint external benchmarks.</span> </div>",
+      "pubDate": "Fri, 25 Aug 2023 23:21:49 -0700",
+      "updated": "2024-01-06T07:45:56+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163981.json",
+    "CurrentVersion": {
+      "guid": "163981",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163981",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Multiple external benchmarks",
+      "description": "Organizations can now receive external benchmarks as part of the standard platform for comparison; Ability to enable multiple external benchmarks in reports",
+      "pubDate": "Fri, 11 Aug 2023 22:28:02 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163981",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163981",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Multiple external benchmarks",
+      "description": "Organizations can now receive external benchmarks as part of the standard platform for comparison; Ability to enable multiple external benchmarks in reports",
+      "pubDate": "Fri, 11 Aug 2023 22:28:02 -0700",
+      "updated": "2024-01-06T07:45:56+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163982.json",
+    "CurrentVersion": {
+      "guid": "163982",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163982",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for schema setup",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Improved self service; Admins can configure,\nview, and manage derived dashboard, survey locale, and time zone values for\ntheir employees.</span> </div>",
+      "pubDate": "Fri, 25 Aug 2023 23:21:50 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163982",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163982",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for schema setup",
+      "description": "Improved self service; Admins can configure,\nview, and manage derived dashboard, survey locale, and time zone values for\ntheir employees.",
+      "pubDate": "Fri, 25 Aug 2023 23:21:50 -0700",
+      "updated": "2023-11-18T07:28:49+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163984.json",
+    "CurrentVersion": {
+      "guid": "163984",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163984",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Viva Glint admin role in Microsoft 365 admin center",
+      "description": "Glint admin role in MAC",
+      "pubDate": "Fri, 11 Aug 2023 22:28:03 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163984",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163984",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Viva Glint admin role in Microsoft 365 admin center",
+      "description": "Glint admin role in MAC",
+      "pubDate": "Fri, 11 Aug 2023 22:28:03 -0700",
+      "updated": "2024-02-09T09:00:53+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/165707.json",
+    "CurrentVersion": {
+      "guid": "165707",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165707",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Optical character recognition (OCR) support for Exchange Online and Teams",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in Exchange Online and Microsoft Teams. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div><div> </div>",
+      "pubDate": "Fri, 29 Sep 2023 22:06:48 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "165707",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165707",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Optical character recognition (OCR) support for Exchange Online and Teams",
+      "description": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in Exchange Online and Microsoft Teams. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF).",
+      "pubDate": "Fri, 29 Sep 2023 22:06:48 -0700",
+      "updated": "2023-09-30T05:02:59+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/174575.json",
+    "CurrentVersion": {
+      "guid": "174575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174575",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Sensitivity labels to protect Microsoft Teams shared channels",
+      "description": "Sensitivity labels will protect Microsoft Teams shared controls with sharing and discovery controls. Note: The release phase has been updated to show current status.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:16 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "174575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174575",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Sensitivity labels to protect Microsoft Teams shared channels",
+      "description": "Sensitivity labels will protect Microsoft Teams shared controls with sharing and discovery controls.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:16 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/184497.json",
+    "CurrentVersion": {
+      "guid": "184497",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=184497",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Graph API for SMS notifications in Virtual Appointments",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Microsoft\nGraph API for SMS notifications in Virtual Appointments allows developers to\nprogrammatically send confirmation, update, reminder and cancellation SMS\nnotifications to customers. The API support for SMS notifications is currently\navailable in the United States and notifications can be sent to US phone\nnumbers.</span> </div>",
+      "pubDate": "Wed, 22 Nov 2023 22:05:58 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "184497",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=184497",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Graph API for SMS notifications in Virtual Appointments",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Microsoft\nGraph API for SMS notifications in Virtual Appointments allows developers to\nprogrammatically send confirmation, update, reminder and cancellation SMS\nnotifications to customers. The API support for SMS notifications is currently\navailable in the United States and notifications can be sent to US phone\nnumbers.</span> </div>",
+      "pubDate": "Wed, 22 Nov 2023 22:05:58 -0800",
+      "updated": "2024-02-09T09:00:53+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/185799.json",
+    "CurrentVersion": {
+      "guid": "185799",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185799",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Overview page redesign",
+      "description": ",The Microsoft 365 admin center Usage report Overview page has been redesigned to better navigate the most important usage insights in your organization. The redesign includes new engagement metrics such as enabled and active users, user state compositions (e.g. first time, returning users), storage by product, and key usage metrics for Microsoft 365 products. The release phase has been updated to show current standing.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 15 Nov 2023 00:39:58 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "185799",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185799",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Overview page redesign",
+      "description": "The Microsoft 365 admin center Usage report Overview page has been redesigned to better navigate the most important usage insights in your organization. The redesign includes new engagement metrics such as enabled and active users, user state compositions (e.g. first time, returning users), storage by product, and key usage metrics for Microsoft 365 products. The release phase has been updated to show current standing.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 15 Nov 2023 00:39:58 -0800",
+      "updated": "2024-02-28T08:45:58+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/323899.json",
+    "CurrentVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/373555.json",
+    "CurrentVersion": {
+      "guid": "373555",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373555",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tags in Shared Channels",
+      "description": "Users can now use team tags to @ mention groups of people within shared channels.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "373555",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373555",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tags in Shared Channels",
+      "description": "Users can now use team tags to @ mention groups of people within shared channels.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 -0800",
+      "updated": "2024-01-11T08:30:11+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383009.json",
+    "CurrentVersion": {
+      "guid": "383009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Microsoft Copilot assisted check-ins for Viva Goals",
+      "description": ",Unleash the potential of Copilot and effortlessly generate draft check-ins for your OKRs by synthesizing progress, status, and check-in details from associated child items tailored to your preferences through a selection of dynamic check-in templates.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383012.json",
+    "CurrentVersion": {
+      "guid": "383012",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383012",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - M365 Chat Plugin",
+      "description": ",M365 Copilot Plugin for Viva Goals empowers you to effortlessly search and pull quick summaries of your team's OKRs right within Teams. Stay ahead of the game by identifying key risks based on the progress and status of your team's OKRs, all seamlessly integrated into the flow of work. Unleash the potential of combining Viva Goals data with M365 information, providing your team with a holistic view for improved productivity and collaboration.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383721.json",
+    "CurrentVersion": {
+      "guid": "383721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383721",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updated work hours and location experience in the new Outlook for Windows and web",
+      "description": "This update brings a new look with the daily peek: click on your work location icon at the top of your calendar to change your work location, view who else will be in the office, or receive suggestions to help optimize your work day. This feature will come to the new Outlook for Windows and Outlook on the web. Your work location will reflect across Microsoft 365, such as in Teams and your profile card. You can also update your location from Teams which will stay in sync with Outlook. We are also introducing a new location type, out-of-office, which will automatically sync with your out-of-office calendar appointments. #newoutlookforwindows",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/384872.json",
+    "CurrentVersion": {
+      "guid": "384872",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384872",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to Copy Rule ",
+      "description": ",With this feature, admins will have capability to reuse existing rules and make slight edits instead of creating new rules from scratch every time. This will reduce a lot of manual re-work and boost their productivity.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160008/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "160008",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160008",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div>",
+      "pubDate": "Fri, 04 Aug 2023 22:05:23 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163980/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "163980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163980",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for external benchmark consent",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Improved self service; Admins can give consent\nto include results for Viva Glint external benchmarks.</span> </div>",
+      "pubDate": "Fri, 25 Aug 2023 23:21:49 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163981/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "163981",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163981",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Multiple external benchmarks",
+      "description": "Organizations can now receive external benchmarks as part of the standard platform for comparison; Ability to enable multiple external benchmarks in reports",
+      "pubDate": "Fri, 11 Aug 2023 22:28:02 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163982/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "163982",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163982",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for schema setup",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Improved self service; Admins can configure,\nview, and manage derived dashboard, survey locale, and time zone values for\ntheir employees.</span> </div>",
+      "pubDate": "Fri, 25 Aug 2023 23:21:50 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163984/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "163984",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163984",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Viva Glint admin role in Microsoft 365 admin center",
+      "description": "Glint admin role in MAC",
+      "pubDate": "Fri, 11 Aug 2023 22:28:03 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/165707/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "165707",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165707",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Optical character recognition (OCR) support for Exchange Online and Teams",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in Exchange Online and Microsoft Teams. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div><div> </div>",
+      "pubDate": "Fri, 29 Sep 2023 22:06:48 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/174575/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "174575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=174575",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Sensitivity labels to protect Microsoft Teams shared channels",
+      "description": "Sensitivity labels will protect Microsoft Teams shared controls with sharing and discovery controls. Note: The release phase has been updated to show current status.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:16 -0700",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/184497/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "184497",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=184497",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Graph API for SMS notifications in Virtual Appointments",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Microsoft\nGraph API for SMS notifications in Virtual Appointments allows developers to\nprogrammatically send confirmation, update, reminder and cancellation SMS\nnotifications to customers. The API support for SMS notifications is currently\navailable in the United States and notifications can be sent to US phone\nnumbers.</span> </div>",
+      "pubDate": "Wed, 22 Nov 2023 22:05:58 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/185799/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "185799",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185799",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Overview page redesign",
+      "description": ",The Microsoft 365 admin center Usage report Overview page has been redesigned to better navigate the most important usage insights in your organization. The redesign includes new engagement metrics such as enabled and active users, user state compositions (e.g. first time, returning users), storage by product, and key usage metrics for Microsoft 365 products. The release phase has been updated to show current standing.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 15 Nov 2023 00:39:58 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/323899/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/373555/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "373555",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373555",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tags in Shared Channels",
+      "description": "Users can now use team tags to @ mention groups of people within shared channels.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383009/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "383009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Microsoft Copilot assisted check-ins for Viva Goals",
+      "description": ",Unleash the potential of Copilot and effortlessly generate draft check-ins for your OKRs by synthesizing progress, status, and check-in details from associated child items tailored to your preferences through a selection of dynamic check-in templates.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383012/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "383012",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383012",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot for Microsoft 365",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - M365 Chat Plugin",
+      "description": ",M365 Copilot Plugin for Viva Goals empowers you to effortlessly search and pull quick summaries of your team's OKRs right within Teams. Stay ahead of the game by identifying key risks based on the progress and status of your team's OKRs, all seamlessly integrated into the flow of work. Unleash the potential of combining Viva Goals data with M365 information, providing your team with a holistic view for improved productivity and collaboration.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383721/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "383721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383721",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updated work hours and location experience in the new Outlook for Windows and web",
+      "description": "This update brings a new look with the daily peek: click on your work location icon at the top of your calendar to change your work location, view who else will be in the office, or receive suggestions to help optimize your work day. This feature will come to the new Outlook for Windows and Outlook on the web. Your work location will reflect across Microsoft 365, such as in Teams and your profile card. You can also update your location from Teams which will stay in sync with Outlook. We are also introducing a new location type, out-of-office, which will automatically sync with your out-of-office calendar appointments. #newoutlookforwindows",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384872/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-01T02:10:19.9986798+00:00",
+      "guid": "384872",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384872",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to Copy Rule ",
+      "description": ",With this feature, admins will have capability to reuse existing rules and make slight edits instead of creating new rules from scratch every time. This will reduce a lot of manual re-work and boost their productivity.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  }
+]
