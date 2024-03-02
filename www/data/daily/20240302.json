@@ -1,0 +1,1033 @@
+[
+  {
+    "Path": "data/117353.json",
+    "CurrentVersion": {
+      "guid": "117353",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117353",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies (U.S. government clouds)",
+      "description": "Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:17 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117353",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117353",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies (U.S. government clouds)",
+      "description": "Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:17 -0800",
+      "updated": "2024-02-02T08:45:19+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117354.json",
+    "CurrentVersion": {
+      "guid": "117354",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117354",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies",
+      "description": ",Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:19 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": "April CY2023"
+    },
+    "OldVersion": {
+      "guid": "117354",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117354",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies",
+      "description": ",Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:19 -0800",
+      "updated": "2023-09-23T05:02:11+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": "April CY2023"
+    }
+  },
+  {
+    "Path": "data/120405.json",
+    "CurrentVersion": {
+      "guid": "120405",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=120405",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Automatic application updates for new Microsoft Teams Rooms Windows devices",
+      "description": "In the quest to deliver low-friction deployment and proactive management for Microsoft Teams Rooms, the Microsoft Teams Rooms for Windows app now automatically checks for, and installs, new application and Windows updates during the initial setup process, ensuring devices are protected and up to date on day one.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/160010.json",
+    "CurrentVersion": {
+      "guid": "160010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160010",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for SharePoint Online and OneDrive for Business ",
+      "description": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in SharePoint Online and OneDrive. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP, and PDF (image-only PDF).\n",
+      "pubDate": "Wed, 16 Aug 2023 23:21:02 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "160010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160010",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: [OCR] [ODSP] OCR Support for embedded images on SPOD",
+      "description": "Currently, OCR is available only for standalone Images. \n\nAim is to Support OCR for images embedded in: \n1. Hybrid PDF file - PDF files with both images and searchable text\n2. Office files - DOCX, PPTX, XLSX\n3. Container files - zip, rar, 7z, etc.",
+      "pubDate": "Wed, 16 Aug 2023 23:21:02 -0700",
+      "updated": "2023-08-17T06:17:42+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163985.json",
+    "CurrentVersion": {
+      "guid": "163985",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163985",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to set survey deactivation times",
+      "description": "Improved self service; Ability to set survey deactivation time",
+      "pubDate": "Wed, 06 Sep 2023 23:43:50 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163985",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163985",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to set survey deactivation times",
+      "description": "Improved self service; Ability to set survey deactivation time",
+      "pubDate": "Wed, 06 Sep 2023 23:43:50 -0700",
+      "updated": "2023-10-10T06:12:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163987.json",
+    "CurrentVersion": {
+      "guid": "163987",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163987",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to relink surveys",
+      "description": "Improved self service; Ability to relink surveys to programs in progress",
+      "pubDate": "Mon, 21 Aug 2023 23:11:49 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163987",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163987",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to relink surveys",
+      "description": "Improved self service; Ability to relink surveys to programs in progress",
+      "pubDate": "Mon, 21 Aug 2023 23:11:49 -0700",
+      "updated": "2023-10-10T06:12:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/163989.json",
+    "CurrentVersion": {
+      "guid": "163989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163989",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to customize reminders",
+      "description": "Ability to customize survey reminders, nudges and other notifications and support additional languages",
+      "pubDate": "Mon, 14 Aug 2023 23:13:53 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163989",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to customize reminders",
+      "description": "Ability to customize survey reminders, nudges and other notifications and support additional languages",
+      "pubDate": "Mon, 14 Aug 2023 23:13:53 -0700",
+      "updated": "2024-02-16T08:45:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/178030.json",
+    "CurrentVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "<div>The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. </div><div> </div>",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "<div>The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. </div><div> </div>",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-01-31T09:00:33+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/180793.json",
+    "CurrentVersion": {
+      "guid": "180793",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180793",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Apply brand colors across all Connections endpoints using SharePoint themes or custom themes.",
+      "description": ",Viva Connections will offer a new set of theming options to reflect brand colors consistently across desktop, tablet, and mobile experiences. With this new functionality, customers will have the choice to apply existing SharePoint themes or a custom theme to their Connections experience as well as the SharePoint home site hosting the Connections experience.",
+      "pubDate": "Mon, 09 Oct 2023 07:00:00 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "180793",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180793",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Preview",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Apply brand colors across all Connections endpoints using SharePoint themes or custom themes.",
+      "description": ",Viva Connections will offer a new set of theming options to reflect brand colors consistently across desktop, tablet, and mobile experiences. With this new functionality, customers will have the choice to apply existing SharePoint themes or a custom theme to their Connections experience as well as the SharePoint home site hosting the Connections experience.",
+      "pubDate": "Mon, 09 Oct 2023 07:00:00 -0700",
+      "updated": "2023-11-21T08:39:14+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/182243.json",
+    "CurrentVersion": {
+      "guid": "182243",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182243",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Teams Logs for Microsoft Purview Audit Standard Users",
+      "description": ",<div>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Teams. As part of the changes, standard users of Purview Audit will begin to generate 15 new Microsoft Teams events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MeetingParticipantDetail; 2. MessageSent; 3. MessagesListed; 4. MeetingDetail; 5. MessageUpdated; 6. ChatRetrieved; 7. MessageRead; 8. MessageHostedContentRead; 9. ChatCreated; 10. ChatUpdated; 11. MessageCreatedNotification; 12. MessageDeletedNotification; 13. MessageUpdatedNotification; 14. SubscribedToMessages; 15. MessageHostedContentsListed </div>",
+      "pubDate": "Mon, 16 Oct 2023 23:35:36 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "182243",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182243",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Teams Logs for Microsoft Purview Audit Standard Users",
+      "description": ",<div>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Teams. As part of the changes, standard users of Purview Audit will begin to generate 15 new Microsoft Teams events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MeetingParticipantDetail; 2. MessageSent; 3. MessagesListed; 4. MeetingDetail; 5. MessageUpdated; 6. ChatRetrieved; 7. MessageRead; 8. MessageHostedContentRead; 9. ChatCreated; 10. ChatUpdated; 11. MessageCreatedNotification; 12. MessageDeletedNotification; 13. MessageUpdatedNotification; 14. SubscribedToMessages; 15. MessageHostedContentsListed </div>",
+      "pubDate": "Mon, 16 Oct 2023 23:35:36 -0700",
+      "updated": "2024-01-25T09:00:51+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/186228.json",
+    "CurrentVersion": {
+      "guid": "186228",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186228",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: Additional capabilities for Microsoft 365 users in Microsoft Project for the web",
+      "description": "<div><span>Currently, users\nwith Microsoft 365 licenses can view projects shared with them by users of\nMicrosoft Project for the web. This update will enable Microsoft 365 users to\ncollaborate more seamlessly with Project users by editing shared projects. The\nadded capabilities enable Microsoft 365 users to access any functionality where\nMicrosoft Planner and Microsoft Project for the web overlap. Note: This feature\nis specific to projects that are created within the default environment, such as\nby using project.microsoft.com.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 10 Nov 2023 00:18:06 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186228",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186228",
+      "category": [
+        "General Availability",
+        "Microsoft Project",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: Additional capabilities for Microsoft 365 users in Microsoft Project for the web",
+      "description": "<div><span>Currently, users\nwith Microsoft 365 licenses can view projects shared with them by users of\nMicrosoft Project for the web. This update will enable Microsoft 365 users to\ncollaborate more seamlessly with Project users by editing shared projects. The\nadded capabilities enable Microsoft 365 users to access any functionality where\nMicrosoft Planner and Microsoft Project for the web overlap. Note: This feature\nis specific to projects that are created within the default environment, such as\nby using project.microsoft.com.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 10 Nov 2023 00:18:06 -0800",
+      "updated": "2024-02-21T08:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186575.json",
+    "CurrentVersion": {
+      "guid": "186575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186575",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: User Submission Automatic Feedback Response",
+      "description": "<div>The user submission automatic feedback response enables organizations to automatically respond to end user submissions of phish based on the verdict from the automated investigation.  This feature is configurable and allows organizations to dictate in which threat scenarios they would like end users to receive feedback emails. Once enabled, Microsoft Defender for Office 365 (MDO) will automatically respond to end user submissions based on the investigation verdict and the configured settings. </div>",
+      "pubDate": "Wed, 22 Nov 2023 22:06:02 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186575",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: User Submission Automatic Feedback Response",
+      "description": "The user submission automatic feedback response enables organizations to automatically respond to end user submissions of phish based on the verdict from the automated investigation.  This feature is configurable and allows organizations to dictate in which threat scenarios they would like end users to receive feedback emails. Once enabled, Microsoft Defender for Office 365 (MDO) will automatically respond to end user submissions based on the investigation verdict and the configured settings.",
+      "pubDate": "Wed, 22 Nov 2023 22:06:02 -0800",
+      "updated": "2023-11-23T06:02:13+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375485.json",
+    "CurrentVersion": {
+      "guid": "375485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Pay-as-you-go transcript translations",
+      "description": "Make your content more inclusive by creating videos that your coworkers can easily view and understand in their primary language. Transcript translations in Stream (on SharePoint) give you the option to translate the transcript and closed captions of your Stream videos into more than 100 supported languages. To enable translations Admins must first setup billing using an Azure subscription, then they must be enable the feature in the M365 Admin center. Once enabled translations are billed via pay-as-you-go meters.<br>More info: https://support.microsoft.com/en-us/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Pay-as-you-go transcript translations",
+      "description": "Make your content more inclusive by creating videos that your coworkers can easily view and understand in their primary language. Transcript translations in Stream (on SharePoint) give you the option to translate the transcript and closed captions of your Stream videos into more than 100 supported languages. To enable translations Admins must first setup billing using an Azure subscription, then they must be enable the feature in the M365 Admin center. Once enabled translations are billed via pay-as-you-go meters.<br>More info: https://support.microsoft.com/en-us/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-02-03T08:00:26+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/378647.json",
+    "CurrentVersion": {
+      "guid": "378647",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378647",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Section Background",
+      "description": "SharePoint now allows you to add an image or gradient color to the sections of the page from a new set of options, including image settings to ensure readability. With this release, we're providing authors to make beautiful pages with featured sections.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "378647",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378647",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Section Background",
+      "description": "SharePoint now allows you to add an image or gradient color to the sections of the page from a new set of options, including image settings to ensure readability. With this release, we're providing authors to make beautiful pages with featured sections.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380690.json",
+    "CurrentVersion": {
+      "guid": "380690",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380690",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Exchange and SharePoint Logs for Microsoft Purview Audit Standard Users",
+      "description": ",Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Exchange and SharePoint. As part of the changes, standard users of Purview Audit will begin to generate four new Microsoft Exchange and SharePoint events that were previously generated only for Audit Premium licensed users: MailItemsAccessed, Send, SearchQueryInitiatedExchange, and SearchQueryInitiatedSharepoint. The following logs will differ based on the user’s license and additional metadata will be added to Exchange logs when the user is assigned an Audit Premium license: SensitivityLabel for MailItemsAccessed.",
+      "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "380690",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380690",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Exchange and SharePoint Logs for Microsoft Purview Audit Standard Users",
+      "description": ",Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Exchange and SharePoint. As part of the changes, standard users of Purview Audit will begin to generate four new Microsoft Exchange and SharePoint events that were previously generated only for Audit Premium licensed users: MailItemsAccessed, Send, SearchQueryInitiatedExchange, and SearchQueryInitiatedSharepoint. The following logs will differ based on the user’s license and additional metadata will be added to Exchange logs when the user is assigned an Audit Premium license: SensitivityLabel for MailItemsAccessed.",
+      "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
+      "updated": "2024-01-30T09:15:18+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/382931.json",
+    "CurrentVersion": {
+      "guid": "382931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382931",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365",
+        "Microsoft Copilot for Microsoft 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot for Microsoft 365: Data residency commitments",
+      "description": "New commitments covering stored content of interactions with Microsoft Copilot for Microsoft 365 will be added to existing data residency commitments for Microsoft 365. The commitments will be available for worldwide standard multi-tenant customers through Microsoft Product Terms and data residency product offerings, including the Advanced Data Residency (“ADR”) and Multi-Geo Capabilities add-ons.",
+      "pubDate": "Fri, 09 Feb 2024 01:00:53 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "382931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382931",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot for Microsoft 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot for Microsoft 365: Data residency commitments",
+      "description": "New commitments covering stored content of interactions with Microsoft Copilot for Microsoft 365 will be added to existing data residency commitments for Microsoft 365. The commitments will be available for worldwide standard multi-tenant customers through Microsoft Product Terms and data residency product offerings, including the Advanced Data Residency (“ADR”) and Multi-Geo Capabilities add-ons.",
+      "pubDate": "Fri, 09 Feb 2024 01:00:53 -0800",
+      "updated": "2024-02-29T08:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/385352.json",
+    "CurrentVersion": {
+      "guid": "385352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385352",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot for Microsoft 365",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot for Microsoft 365: Restricted SharePoint Search",
+      "description": "Restricted SharePoint Search (RSS) is a setting that will allow Global/Tenant and SharePoint Admins to disable organization-wide search and select a set of curated SharePoint sites. These selected sites, along with the users’ OneDrive files and content, will then become accessible in search and in the Copilot experiences. This means that whether you have Enterprise Search or Restricted SharePoint Search enabled, users in your organization will still be able to interact with their OneDrive information in Copilot.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117353/v0013.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "117353",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117353",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies (U.S. government clouds)",
+      "description": "Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:17 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117354/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "117354",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117354",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies",
+      "description": ",Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:19 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": "April CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/120405/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "120405",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=120405",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Automatic application updates for new Microsoft Teams Rooms Windows devices",
+      "description": "In the quest to deliver low-friction deployment and proactive management for Microsoft Teams Rooms, the Microsoft Teams Rooms for Windows app now automatically checks for, and installs, new application and Windows updates during the initial setup process, ensuring devices are protected and up to date on day one.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160010/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "160010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160010",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for SharePoint Online and OneDrive for Business ",
+      "description": "Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data in SharePoint Online and OneDrive. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP, and PDF (image-only PDF).\n",
+      "pubDate": "Wed, 16 Aug 2023 23:21:02 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163985/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "163985",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163985",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to set survey deactivation times",
+      "description": "Improved self service; Ability to set survey deactivation time",
+      "pubDate": "Wed, 06 Sep 2023 23:43:50 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163987/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "163987",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163987",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to relink surveys",
+      "description": "Improved self service; Ability to relink surveys to programs in progress",
+      "pubDate": "Mon, 21 Aug 2023 23:11:49 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/163989/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "163989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163989",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service to customize reminders",
+      "description": "Ability to customize survey reminders, nudges and other notifications and support additional languages",
+      "pubDate": "Mon, 14 Aug 2023 23:13:53 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178030/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "<div>The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. </div><div> </div>",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/180793/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "180793",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180793",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Apply brand colors across all Connections endpoints using SharePoint themes or custom themes.",
+      "description": ",Viva Connections will offer a new set of theming options to reflect brand colors consistently across desktop, tablet, and mobile experiences. With this new functionality, customers will have the choice to apply existing SharePoint themes or a custom theme to their Connections experience as well as the SharePoint home site hosting the Connections experience.",
+      "pubDate": "Mon, 09 Oct 2023 07:00:00 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/182243/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "182243",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182243",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Teams Logs for Microsoft Purview Audit Standard Users",
+      "description": ",<div>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Teams. As part of the changes, standard users of Purview Audit will begin to generate 15 new Microsoft Teams events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MeetingParticipantDetail; 2. MessageSent; 3. MessagesListed; 4. MeetingDetail; 5. MessageUpdated; 6. ChatRetrieved; 7. MessageRead; 8. MessageHostedContentRead; 9. ChatCreated; 10. ChatUpdated; 11. MessageCreatedNotification; 12. MessageDeletedNotification; 13. MessageUpdatedNotification; 14. SubscribedToMessages; 15. MessageHostedContentsListed </div>",
+      "pubDate": "Mon, 16 Oct 2023 23:35:36 -0700",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186228/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "186228",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186228",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: Additional capabilities for Microsoft 365 users in Microsoft Project for the web",
+      "description": "<div><span>Currently, users\nwith Microsoft 365 licenses can view projects shared with them by users of\nMicrosoft Project for the web. This update will enable Microsoft 365 users to\ncollaborate more seamlessly with Project users by editing shared projects. The\nadded capabilities enable Microsoft 365 users to access any functionality where\nMicrosoft Planner and Microsoft Project for the web overlap. Note: This feature\nis specific to projects that are created within the default environment, such as\nby using project.microsoft.com.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 10 Nov 2023 00:18:06 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186575/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "186575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186575",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: User Submission Automatic Feedback Response",
+      "description": "<div>The user submission automatic feedback response enables organizations to automatically respond to end user submissions of phish based on the verdict from the automated investigation.  This feature is configurable and allows organizations to dictate in which threat scenarios they would like end users to receive feedback emails. Once enabled, Microsoft Defender for Office 365 (MDO) will automatically respond to end user submissions based on the investigation verdict and the configured settings. </div>",
+      "pubDate": "Wed, 22 Nov 2023 22:06:02 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375485/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "375485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Pay-as-you-go transcript translations",
+      "description": "Make your content more inclusive by creating videos that your coworkers can easily view and understand in their primary language. Transcript translations in Stream (on SharePoint) give you the option to translate the transcript and closed captions of your Stream videos into more than 100 supported languages. To enable translations Admins must first setup billing using an Azure subscription, then they must be enable the feature in the M365 Admin center. Once enabled translations are billed via pay-as-you-go meters.<br>More info: https://support.microsoft.com/en-us/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378647/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "378647",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378647",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Section Background",
+      "description": "SharePoint now allows you to add an image or gradient color to the sections of the page from a new set of options, including image settings to ensure readability. With this release, we're providing authors to make beautiful pages with featured sections.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380690/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "380690",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380690",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Exchange and SharePoint Logs for Microsoft Purview Audit Standard Users",
+      "description": ",Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Exchange and SharePoint. As part of the changes, standard users of Purview Audit will begin to generate four new Microsoft Exchange and SharePoint events that were previously generated only for Audit Premium licensed users: MailItemsAccessed, Send, SearchQueryInitiatedExchange, and SearchQueryInitiatedSharepoint. The following logs will differ based on the user’s license and additional metadata will be added to Exchange logs when the user is assigned an Audit Premium license: SensitivityLabel for MailItemsAccessed.",
+      "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382931/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "382931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382931",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365",
+        "Microsoft Copilot for Microsoft 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot for Microsoft 365: Data residency commitments",
+      "description": "New commitments covering stored content of interactions with Microsoft Copilot for Microsoft 365 will be added to existing data residency commitments for Microsoft 365. The commitments will be available for worldwide standard multi-tenant customers through Microsoft Product Terms and data residency product offerings, including the Advanced Data Residency (“ADR”) and Multi-Geo Capabilities add-ons.",
+      "pubDate": "Fri, 09 Feb 2024 01:00:53 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/385352/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-02T02:05:25.8739322+00:00",
+      "guid": "385352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385352",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot for Microsoft 365",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot for Microsoft 365: Restricted SharePoint Search",
+      "description": "Restricted SharePoint Search (RSS) is a setting that will allow Global/Tenant and SharePoint Admins to disable organization-wide search and select a set of curated SharePoint sites. These selected sites, along with the users’ OneDrive files and content, will then become accessible in search and in the Copilot experiences. This means that whether you have Enterprise Search or Restricted SharePoint Search enabled, users in your organization will still be able to interact with their OneDrive information in Copilot.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
