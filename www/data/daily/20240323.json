@@ -1,0 +1,781 @@
+[
+  {
+    "Path": "data/116251.json",
+    "CurrentVersion": {
+      "guid": "116251",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116251",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams meeting recordings will be saved to meeting organizer’s OneDrive for Business",
+      "description": "With this change Teams meeting recordings will be saved to the meeting organizer’s OneDrive for Business instead of to the OneDrive for Business folder of the person who initiated the recording. This improves the compliance of recordings as meeting organizers can then manage access permissions and recording file management.",
+      "pubDate": "Fri, 22 Mar 2024 22:15:40 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/144586.json",
+    "CurrentVersion": {
+      "guid": "144586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=144586",
+      "category": [
+        "Android",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Hardware backed device attestation",
+      "description": "Enhancing Windows compliance policy - device health: adding 5 additional hardware attestation settings specific to Windows 11 - using advanced platform security features like Memory Integrity and Access Protection, Firmware protection, Virtualization-based security, and Early Launch Antimalware protection. \n\nThis item was incorrect and has been replaced with 387499",
+      "pubDate": "Wed, 02 Aug 2023 23:14:27 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "144586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=144586",
+      "category": [
+        "Android",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Hardware backed device attestation",
+      "description": "Enhancing Windows compliance policy - device health: adding 5 additional hardware attestation settings specific to Windows 11 - using advanced platform security features like Memory Integrity and Access Protection, Firmware protection, Virtualization-based security, and Early Launch Antimalware protection.",
+      "pubDate": "Wed, 02 Aug 2023 23:14:27 -0700",
+      "updated": "2024-01-09T08:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/178350.json",
+    "CurrentVersion": {
+      "guid": "178350",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178350",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Online Archive for Shared Mailboxes",
+      "description": ",<div><span style=\"\">Add Online Archive for\nShared Mailboxes in Outlook for Mac.</span> </div>",
+      "pubDate": "Wed, 15 Nov 2023 00:19:41 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2023"
+    },
+    "OldVersion": {
+      "guid": "178350",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178350",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Online Archive for Shared Mailboxes",
+      "description": ",<div><span style=\"\">Add Online Archive for\nShared Mailboxes in Outlook for Mac.</span> </div>",
+      "pubDate": "Wed, 15 Nov 2023 00:19:41 -0800",
+      "updated": "2024-02-07T09:00:38+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2023"
+    }
+  },
+  {
+    "Path": "data/178351.json",
+    "CurrentVersion": {
+      "guid": "178351",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178351",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Message reminders",
+      "description": ",<div><span style=\"\">When Outlook identifies\nthat a user could have forgotten to respond to or follow up on an email\nmessage, it could bring that email back to the top of the inbox, marking it\nneeding an action. A maximum of one email message can be brought to the top of\nthe user's inbox at a time.</span> </div>",
+      "pubDate": "Wed, 18 Oct 2023 00:09:08 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {
+      "guid": "178351",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178351",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Message reminders",
+      "description": ",<div><span style=\"\">When Outlook identifies\nthat a user could have forgotten to respond to or follow up on an email\nmessage, it could bring that email back to the top of the inbox, marking it\nneeding an action. A maximum of one email message can be brought to the top of\nthe user's inbox at a time.</span> </div>",
+      "pubDate": "Wed, 18 Oct 2023 00:09:08 -0700",
+      "updated": "2024-02-07T09:00:38+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/185799.json",
+    "CurrentVersion": {
+      "guid": "185799",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185799",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Overview page redesign",
+      "description": ",The Microsoft 365 admin center Usage report Overview page has been redesigned to better navigate the most important usage insights in your organization. The redesign includes new engagement metrics such as enabled and active users, user state compositions (e.g. first time, returning users), storage by product, and key usage metrics for Microsoft 365 products. The release phase has been updated to show current standing.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 15 Nov 2023 00:39:58 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "185799",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185799",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Overview page redesign",
+      "description": ",The Microsoft 365 admin center Usage report Overview page has been redesigned to better navigate the most important usage insights in your organization. The redesign includes new engagement metrics such as enabled and active users, user state compositions (e.g. first time, returning users), storage by product, and key usage metrics for Microsoft 365 products. The release phase has been updated to show current standing.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 15 Nov 2023 00:39:58 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/189804.json",
+    "CurrentVersion": {
+      "guid": "189804",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189804",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Message Recall",
+      "description": ",Exchange Online's Cloud-based Message Recall feature will be coming to Outlook for Mac.",
+      "pubDate": "Tue, 28 Nov 2023 02:15:35 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "189804",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189804",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Message Recall",
+      "description": ",Exchange Online's Cloud-based Message Recall feature will be coming to Outlook for Mac.",
+      "pubDate": "Tue, 28 Nov 2023 02:15:35 -0800",
+      "updated": "2023-11-28T08:04:25+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/365720.json",
+    "CurrentVersion": {
+      "guid": "365720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the view, download, and delete experience of Teams meeting transcript files",
+      "description": "We are streamlining the storage of meeting transcript files. Starting with this feature, all meeting transcript entry points in Teams app will point to the OneDrive for Business copy only. The rollout of this feature also improves the delete experience of the transcript for meeting organizers. Now, when a meeting organizer or co-organizer deletes the transcript in the Microsoft Teams app, this will delete both copies of the transcript (from OneDrive for Business and Exchange Online) at the same time. If the meeting organizer deletes the transcript from Stream, only the copy in OneDrive for Business will be deleted. At a later date to be announced, meeting transcripts will stop saving in Exchange Online altogether and all transcript storage will be standardized on OneDrive for Business.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "365720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View, download and delete OneDrive transcript files in Teams",
+      "description": "We are simplifying the storage and management of meeting transcript files by focusing transcript actions such as view, download, and delete to source from one place (OneDrive for Business) instead of two places (OneDrive for Business and Exchange Online).",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-03-08T08:45:34+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/369470.json",
+    "CurrentVersion": {
+      "guid": "369470",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369470",
+      "category": [
+        "Android",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Walkie Talkie Support for Generic Wired Headsets on Android",
+      "description": "We've integrated Walkie Talkie in Teams with the dedicated push-to-talk (PTT) button on specialized headsets to instantly brings up walkie talkie for clear and secure voice communication. In addition to select specialized headsets, Walkie Talkie in Teams will now work with any generic wired (USB-C and 3.5mm) headsets on Android. As long as the generic headsets have a control button to play/pause or to accept/decline calls, frontline workers can tap the button to start and stop transmissions on Walkie Talkie.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "369470",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369470",
+      "category": [
+        "Android",
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Walkie Talkie Support for Generic Wired Headsets on Android",
+      "description": "We've integrated Walkie Talkie in Teams with the dedicated push-to-talk (PTT) button on specialized headsets to instantly brings up walkie talkie for clear and secure voice communication. In addition to select specialized headsets, Walkie Talkie in Teams will now work with any generic wired (USB-C and 3.5mm) headsets on Android. As long as the generic headsets have a control button to play/pause or to accept/decline calls, frontline workers can tap the button to start and stop transmissions on Walkie Talkie.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-03-06T09:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383015.json",
+    "CurrentVersion": {
+      "guid": "383015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Right preview pane in the single line view aka column layout ",
+      "description": "Adding support to show the reading pane in the right when user selects column view.",
+      "pubDate": "Fri, 09 Feb 2024 23:00:37 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Right preview pane in the single line view aka column layout ",
+      "description": "Adding support to show the reading pane in the right when user selects column view.",
+      "pubDate": "Fri, 09 Feb 2024 23:00:37 -0800",
+      "updated": "2024-02-10T07:00:37+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/385012.json",
+    "CurrentVersion": {
+      "guid": "385012",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385012",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Creators and recipients can view, track, and sign their SharePoint eSignature requests in Approvals in Teams",
+      "description": "Users can track their SharePoint eSignature requests in the Approvals app in Teams. Users will be notified about new requests, updated about ongoing requests, and will be able to initiate signing within their flow of work in Teams.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "385012",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385012",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Syntex",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Syntex: Creators and recipients can view, track, and sign their eSignature requests in Approvals in Teams",
+      "description": "This feature will allow users to track their eSignature requests in the Approvals app in Teams. Users will be notified about new requests, updated about ongoing requests, and will be able to initiate signing within their flow of work in Teams.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-08T08:45:34+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/385349.json",
+    "CurrentVersion": {
+      "guid": "385349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385349",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Transfer Teams calls to mobile calls",
+      "description": "When using Teams on mobile phones, users can now transfer their ongoing Teams calls to the phone's native dialer, without any disruption or loss of context.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "385349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385349",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Transfer Teams calls to mobile calls",
+      "description": "When using Teams on mobile phones, users can now transfer their ongoing Teams calls to the phone's native dialer, without any disruption or loss of context.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-20T06:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/388915.json",
+    "CurrentVersion": {
+      "guid": "388915",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388915",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Folder tags on items in Search Folders in the new Outlook for Windows and web",
+      "description": ",Search Folders will now display a folder tag within the message list, indicating the folder to which each email belongs. This enhancement provides users with quick and easy access to contextual information, improving navigation and organization within their mailbox. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Mar 2024 22:15:40 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/116251/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "116251",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116251",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams meeting recordings will be saved to meeting organizer’s OneDrive for Business",
+      "description": "With this change Teams meeting recordings will be saved to the meeting organizer’s OneDrive for Business instead of to the OneDrive for Business folder of the person who initiated the recording. This improves the compliance of recordings as meeting organizers can then manage access permissions and recording file management.",
+      "pubDate": "Fri, 22 Mar 2024 22:15:40 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/144586/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "144586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=144586",
+      "category": [
+        "Android",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Hardware backed device attestation",
+      "description": "Enhancing Windows compliance policy - device health: adding 5 additional hardware attestation settings specific to Windows 11 - using advanced platform security features like Memory Integrity and Access Protection, Firmware protection, Virtualization-based security, and Early Launch Antimalware protection. \n\nThis item was incorrect and has been replaced with 387499",
+      "pubDate": "Wed, 02 Aug 2023 23:14:27 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178350/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "178350",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178350",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Online Archive for Shared Mailboxes",
+      "description": ",<div><span style=\"\">Add Online Archive for\nShared Mailboxes in Outlook for Mac.</span> </div>",
+      "pubDate": "Wed, 15 Nov 2023 00:19:41 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178351/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "178351",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178351",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Message reminders",
+      "description": ",<div><span style=\"\">When Outlook identifies\nthat a user could have forgotten to respond to or follow up on an email\nmessage, it could bring that email back to the top of the inbox, marking it\nneeding an action. A maximum of one email message can be brought to the top of\nthe user's inbox at a time.</span> </div>",
+      "pubDate": "Wed, 18 Oct 2023 00:09:08 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/185799/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "185799",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=185799",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Overview page redesign",
+      "description": ",The Microsoft 365 admin center Usage report Overview page has been redesigned to better navigate the most important usage insights in your organization. The redesign includes new engagement metrics such as enabled and active users, user state compositions (e.g. first time, returning users), storage by product, and key usage metrics for Microsoft 365 products. The release phase has been updated to show current standing.  We apologize for any inconvenience this may have caused.",
+      "pubDate": "Wed, 15 Nov 2023 00:39:58 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/189804/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "189804",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189804",
+      "category": [
+        "Current Channel",
+        "Current Channel (Preview)",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Message Recall",
+      "description": ",Exchange Online's Cloud-based Message Recall feature will be coming to Outlook for Mac.",
+      "pubDate": "Tue, 28 Nov 2023 02:15:35 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/365720/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "365720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the view, download, and delete experience of Teams meeting transcript files",
+      "description": "We are streamlining the storage of meeting transcript files. Starting with this feature, all meeting transcript entry points in Teams app will point to the OneDrive for Business copy only. The rollout of this feature also improves the delete experience of the transcript for meeting organizers. Now, when a meeting organizer or co-organizer deletes the transcript in the Microsoft Teams app, this will delete both copies of the transcript (from OneDrive for Business and Exchange Online) at the same time. If the meeting organizer deletes the transcript from Stream, only the copy in OneDrive for Business will be deleted. At a later date to be announced, meeting transcripts will stop saving in Exchange Online altogether and all transcript storage will be standardized on OneDrive for Business.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/369470/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "369470",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369470",
+      "category": [
+        "Android",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Walkie Talkie Support for Generic Wired Headsets on Android",
+      "description": "We've integrated Walkie Talkie in Teams with the dedicated push-to-talk (PTT) button on specialized headsets to instantly brings up walkie talkie for clear and secure voice communication. In addition to select specialized headsets, Walkie Talkie in Teams will now work with any generic wired (USB-C and 3.5mm) headsets on Android. As long as the generic headsets have a control button to play/pause or to accept/decline calls, frontline workers can tap the button to start and stop transmissions on Walkie Talkie.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383015/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "383015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Right preview pane in the single line view aka column layout ",
+      "description": "Adding support to show the reading pane in the right when user selects column view.",
+      "pubDate": "Fri, 09 Feb 2024 23:00:37 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/385012/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "385012",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385012",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Creators and recipients can view, track, and sign their SharePoint eSignature requests in Approvals in Teams",
+      "description": "Users can track their SharePoint eSignature requests in the Approvals app in Teams. Users will be notified about new requests, updated about ongoing requests, and will be able to initiate signing within their flow of work in Teams.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/385349/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "385349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385349",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Transfer Teams calls to mobile calls",
+      "description": "When using Teams on mobile phones, users can now transfer their ongoing Teams calls to the phone's native dialer, without any disruption or loss of context.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388915/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-23T02:07:27.5473981+00:00",
+      "guid": "388915",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388915",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Folder tags on items in Search Folders in the new Outlook for Windows and web",
+      "description": ",Search Folders will now display a folder tag within the message list, indicating the folder to which each email belongs. This enhancement provides users with quick and easy access to contextual information, improving navigation and organization within their mailbox. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Mar 2024 22:15:40 -0700",
+      "updated": "2024-03-23T05:15:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  }
+]
