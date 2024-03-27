@@ -1,0 +1,1057 @@
+[
+  {
+    "Path": "data/100692.json",
+    "CurrentVersion": {
+      "guid": "100692",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100692",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: [Android] Customizable Compose Toolbar and Drawer",
+      "description": "Now while writing an email, you can reorder tools to customize your experience and make your most used actions even easier to reach.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:31 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "100692",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100692",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: [Android] Customizable Compose Toolbar and Drawer",
+      "description": "<div><span style=\"\">Now while writing an email, you can reorder tools to customize your experience and make your most used actions even easier to reach.</span> </div><div> </div><div> </div>",
+      "pubDate": "Fri, 17 Feb 2023 00:31:31 -0800",
+      "updated": "2024-03-20T06:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/100696.json",
+    "CurrentVersion": {
+      "guid": "100696",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100696",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: [iOS] Customizable Compose Toolbar and Drawer",
+      "description": "<div>Now while writing an email you can reordering the tools, customizing your experience and making your most used actions even easier to reach. </div>",
+      "pubDate": "Thu, 05 Jan 2023 00:26:28 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "100696",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100696",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: [iOS] Customizable Compose Toolbar and Drawer",
+      "description": "<div>Now while writing an email you can reordering the tools, customizing your experience and making your most used actions even easier to reach. </div>",
+      "pubDate": "Thu, 05 Jan 2023 00:26:28 -0800",
+      "updated": "2024-02-28T08:45:58+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/123149.json",
+    "CurrentVersion": {
+      "guid": "123149",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123149",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Unique join links for external presenters in Webinars",
+      "description": "<div>When organizers set up events and add external\npresenters, these presenters will receive unique join links for the webinar.\nThis unique link allows the external presenter to automatically bypass the\nlobby and join a webinar directly as a presenter role. </div><div> </div><div> </div>",
+      "pubDate": "Mon, 14 Aug 2023 23:13:38 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "123149",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123149",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Unique join links for external presenters in Webinars",
+      "description": "When organizers set up events and add external\npresenters, these presenters will receive unique join links for the webinar.\nThis unique link allows the external presenter to automatically bypass the\nlobby and join a webinar directly as a presenter role.",
+      "pubDate": "Mon, 14 Aug 2023 23:13:38 -0700",
+      "updated": "2023-11-01T06:22:49+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/124779.json",
+    "CurrentVersion": {
+      "guid": "124779",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The cloud environments have been updated to show the current state.  We apologize for any incovenience this may cause.",
+      "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "June CY2023"
+    },
+    "OldVersion": {
+      "guid": "124779",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The cloud environments have been updated to show the current state.  We apologize for any incovenience this may cause.",
+      "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+      "updated": "2024-02-10T07:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "June CY2023"
+    }
+  },
+  {
+    "Path": "data/164209.json",
+    "CurrentVersion": {
+      "guid": "164209",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164209",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights delegate access for leaders",
+      "description": "New delegate access allows leaders to empower other individuals to view insights about their organization. Those with delegated access will be able to easily navigate to the leader's view of organizational insights.",
+      "pubDate": "Mon, 28 Aug 2023 23:40:37 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "164209",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164209",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights delegate access for leaders",
+      "description": "New delegate access allows leaders to empower other individuals to view insights about their organization. Those with delegated access will be able to easily navigate to the leader's view of organizational insights.",
+      "pubDate": "Mon, 28 Aug 2023 23:40:37 -0700",
+      "updated": "2024-02-15T08:15:19+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/164864.json",
+    "CurrentVersion": {
+      "guid": "164864",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164864",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Support for static and adaptive policy scopes for auto-apply retention labels targeting SITs in Exchange",
+      "description": "Auto-apply retention labels targeting sensitive information types in Exchange will now support static include/exclude and adaptive policy scopes. Previously admins could only target all Exchange mailboxes.",
+      "pubDate": "Wed, 16 Aug 2023 23:21:08 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "164864",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164864",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Support for static and adaptive policy scopes for auto-apply retention labels targeting SITs in Exchange",
+      "description": "Auto-apply retention labels targeting sensitive information types in Exchange will now support static include/exclude and adaptive policy scopes. Previously admins could only target all Exchange mailboxes.",
+      "pubDate": "Wed, 16 Aug 2023 23:21:08 -0700",
+      "updated": "2023-09-12T06:03:56+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/314355.json",
+    "CurrentVersion": {
+      "guid": "314355",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314355",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Calendar notifications in Teams",
+      "description": "Users can now triage the calendar notifications in their Activity Feed and will get notifications for meeting invites, updates, cancellations, and forwards (if the user is the meeting organizer). These notifications will show up as unread in the Activity Feed pane and will display the details when a user clicks on it.",
+      "pubDate": "Thu, 14 Dec 2023 00:15:26 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "314355",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314355",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Calendar notifications in Teams",
+      "description": "Users can now triage the calendar notifications in their Activity Feed and will get notifications for meeting invites, updates, cancellations, and forwards (if the user is the meeting organizer). These notifications will show up as unread in the Activity Feed pane and will display the details when a user clicks on it.",
+      "pubDate": "Thu, 14 Dec 2023 00:15:26 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375418.json",
+    "CurrentVersion": {
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/379980.json",
+    "CurrentVersion": {
+      "guid": "379980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379980",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app (Premium)",
+      "description": "The new Queues app is a solution for collaboratively handling customer calls natively in Teams. Starting with surfacing call queue calls, your team members can use the Queues app to handle inbound calls, be it PSTN or VOIP. They can make outbound calls on behalf of the call queues or auto attendant that they are assigned to. And they can review the call queue statistics and seamlessly collaborate with their lead and colleagues within the flow of work. Authorized users, with permissions from Teams admins, can monitor their call queues and auto attendants in realtime, generate reports on queue and agent performance, configure their call queues and auto attendants using Teams settings, and opt in or out their team members to optimize for business needs. This is a Teams Premium feature.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/380745.json",
+    "CurrentVersion": {
+      "guid": "380745",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380745",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams for Education: iOS/Android Parent link for School Connection",
+      "description": "Allows parents to connect to School Connection in Teams for Education by clicking the iOS/Android mobile link provided by their school’s administration.",
+      "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "380745",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380745",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams for Education: iOS/Android Parent link for School Connection",
+      "description": "Allows parents to connect to School Connection in Teams for Education by clicking the iOS/Android mobile link provided by their school’s administration.",
+      "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
+      "updated": "2024-03-12T06:30:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380852.json",
+    "CurrentVersion": {
+      "guid": "380852",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380852",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Change background while recording on phone",
+      "description": "You can record a video clip with your phone camera and switch your background to any picture you want or make it blurry. With this feature, you can record yourself anywhere and share it with coworkers in your Teams chat or channel.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "380852",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380852",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Change background while recording on phone",
+      "description": "You can record a video clip with your phone camera and switch your background to any picture you want or make it blurry. With this feature, you can record yourself anywhere and share it with coworkers in your Teams chat or channel.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-02-06T10:15:52+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381968.json",
+    "CurrentVersion": {
+      "guid": "381968",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381968",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Copy simulation action in Attack Simulation Training",
+      "description": "Using the copy simulation action button, Attack simulation administrators will be able to effortlessly duplicate existing simulations and make necessary edits to introduce fresh and tailored simulation scenarios.",
+      "pubDate": "Sat, 03 Feb 2024 00:00:26 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381968",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381968",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Defender for Office 365",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Copy simulation action in Attack Simulation Training",
+      "description": "Using the copy simulation action button, Attack simulation administrators will be able to effortlessly duplicate existing simulations and make necessary edits to introduce fresh and tailored simulation scenarios.",
+      "pubDate": "Sat, 03 Feb 2024 00:00:26 -0800",
+      "updated": "2024-03-08T08:45:34+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383137.json",
+    "CurrentVersion": {
+      "guid": "383137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: New feature for silence removal (pauses) in Clipchamp",
+      "description": ",We think editing your video could be a quick job but isn't necessarily so sometimes. Silence removal uses AI auto transcription to transcribe your audio. We infer pauses in your speech transcription and any gaps in the speech we detected for more than 3 seconds is considered a pause. We provide you with the option to remove all pauses at once with a single click or to review each pause where you can adjust and consider ones you want to keep.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "383137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: New feature for silence removal (pauses) in Clipchamp",
+      "description": "We think editing your video could be a quick job but isn't necessarily so sometimes. Silence removal uses AI auto transcription to transcribe your audio. We infer pauses in your speech transcription and any gaps in the speech we detected for more than 3 seconds is considered a pause. We provide you with the option to remove all pauses at once with a single click or to review each pause where you can adjust and consider ones you want to keep.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-02-17T08:30:40+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/384066.json",
+    "CurrentVersion": {
+      "guid": "384066",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384066",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Survivable Branch Appliance support for call controls, auto attendants, and call queues",
+      "description": "We continue to expand our Survivable Branch Appliance (SBA) capabilities. We are adding support for call transfer, forwarding, and the ability to manage call routing settings for calls to a call queue or auto attendant, in the event of an outage. If incoming calls to a call queue or auto attendant are received during an outage, organizations will have the option to choose to redirect these calls to an alternate call queue or auto attendant or to reach a specific user within the site, ensuring that important calls are not missed.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/387790.json",
+    "CurrentVersion": {
+      "guid": "387790",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387790",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Webinars in GCC-High",
+      "description": "Teams Webinars is available for GCC-High clouds. This includes similar functionality that is already available for worldwide multi-tenant, such as interactivity for up to 1,000 attendees, registration support,  co-organizer support, breakout rooms, attendee reporting, and Dynamics 365 marketing integration.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/388913.json",
+    "CurrentVersion": {
+      "guid": "388913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388913",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Add Shared Folders to Favorites in the new Outlook for Windows and web",
+      "description": ",Customers will have the ability to add shared folders to their favorites. This enhancement offers users increased flexibility and convenience, allowing easy and quick access to important shared content directly from their Favorites list. #newoutlookforwindows",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/81675.json",
+    "CurrentVersion": {
+      "guid": "81675",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81675",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals - Sequential Approvers Support",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Requestors will now be able to toggle on\nsequential approvals to designate the approval order of the request.</span> </div>",
+      "pubDate": "Thu, 16 Feb 2023 00:07:37 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "81675",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81675",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals - Sequential Approvers Support",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Requestors will now be able to toggle on\nsequential approvals to designate the approval order of the request.</span> </div>",
+      "pubDate": "Thu, 16 Feb 2023 00:07:37 -0800",
+      "updated": "2024-03-26T00:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/100692/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "100692",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100692",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: [Android] Customizable Compose Toolbar and Drawer",
+      "description": "Now while writing an email, you can reorder tools to customize your experience and make your most used actions even easier to reach.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:31 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/100696/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "100696",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100696",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: [iOS] Customizable Compose Toolbar and Drawer",
+      "description": "<div>Now while writing an email you can reordering the tools, customizing your experience and making your most used actions even easier to reach. </div>",
+      "pubDate": "Thu, 05 Jan 2023 00:26:28 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/123149/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "123149",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=123149",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Unique join links for external presenters in Webinars",
+      "description": "<div>When organizers set up events and add external\npresenters, these presenters will receive unique join links for the webinar.\nThis unique link allows the external presenter to automatically bypass the\nlobby and join a webinar directly as a presenter role. </div><div> </div><div> </div>",
+      "pubDate": "Mon, 14 Aug 2023 23:13:38 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124779/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "124779",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The cloud environments have been updated to show the current state.  We apologize for any incovenience this may cause.",
+      "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "June CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/164209/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "164209",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164209",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights delegate access for leaders",
+      "description": "New delegate access allows leaders to empower other individuals to view insights about their organization. Those with delegated access will be able to easily navigate to the leader's view of organizational insights.",
+      "pubDate": "Mon, 28 Aug 2023 23:40:37 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/164864/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "164864",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164864",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Support for static and adaptive policy scopes for auto-apply retention labels targeting SITs in Exchange",
+      "description": "Auto-apply retention labels targeting sensitive information types in Exchange will now support static include/exclude and adaptive policy scopes. Previously admins could only target all Exchange mailboxes.",
+      "pubDate": "Wed, 16 Aug 2023 23:21:08 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/314355/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "314355",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314355",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Calendar notifications in Teams",
+      "description": "Users can now triage the calendar notifications in their Activity Feed and will get notifications for meeting invites, updates, cancellations, and forwards (if the user is the meeting organizer). These notifications will show up as unread in the Activity Feed pane and will display the details when a user clicks on it.",
+      "pubDate": "Thu, 14 Dec 2023 00:15:26 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375418/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/379980/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "379980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379980",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app (Premium)",
+      "description": "The new Queues app is a solution for collaboratively handling customer calls natively in Teams. Starting with surfacing call queue calls, your team members can use the Queues app to handle inbound calls, be it PSTN or VOIP. They can make outbound calls on behalf of the call queues or auto attendant that they are assigned to. And they can review the call queue statistics and seamlessly collaborate with their lead and colleagues within the flow of work. Authorized users, with permissions from Teams admins, can monitor their call queues and auto attendants in realtime, generate reports on queue and agent performance, configure their call queues and auto attendants using Teams settings, and opt in or out their team members to optimize for business needs. This is a Teams Premium feature.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380745/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "380745",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380745",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams for Education: iOS/Android Parent link for School Connection",
+      "description": "Allows parents to connect to School Connection in Teams for Education by clicking the iOS/Android mobile link provided by their school’s administration.",
+      "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380852/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "380852",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380852",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Change background while recording on phone",
+      "description": "You can record a video clip with your phone camera and switch your background to any picture you want or make it blurry. With this feature, you can record yourself anywhere and share it with coworkers in your Teams chat or channel.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381968/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "381968",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381968",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Copy simulation action in Attack Simulation Training",
+      "description": "Using the copy simulation action button, Attack simulation administrators will be able to effortlessly duplicate existing simulations and make necessary edits to introduce fresh and tailored simulation scenarios.",
+      "pubDate": "Sat, 03 Feb 2024 00:00:26 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383137/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "383137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: New feature for silence removal (pauses) in Clipchamp",
+      "description": ",We think editing your video could be a quick job but isn't necessarily so sometimes. Silence removal uses AI auto transcription to transcribe your audio. We infer pauses in your speech transcription and any gaps in the speech we detected for more than 3 seconds is considered a pause. We provide you with the option to remove all pauses at once with a single click or to review each pause where you can adjust and consider ones you want to keep.",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384066/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "384066",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384066",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Survivable Branch Appliance support for call controls, auto attendants, and call queues",
+      "description": "We continue to expand our Survivable Branch Appliance (SBA) capabilities. We are adding support for call transfer, forwarding, and the ability to manage call routing settings for calls to a call queue or auto attendant, in the event of an outage. If incoming calls to a call queue or auto attendant are received during an outage, organizations will have the option to choose to redirect these calls to an alternate call queue or auto attendant or to reach a specific user within the site, ensuring that important calls are not missed.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/387790/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "387790",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387790",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Webinars in GCC-High",
+      "description": "Teams Webinars is available for GCC-High clouds. This includes similar functionality that is already available for worldwide multi-tenant, such as interactivity for up to 1,000 attendees, registration support,  co-organizer support, breakout rooms, attendee reporting, and Dynamics 365 marketing integration.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388913/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "388913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388913",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Add Shared Folders to Favorites in the new Outlook for Windows and web",
+      "description": ",Customers will have the ability to add shared folders to their favorites. This enhancement offers users increased flexibility and convenience, allowing easy and quick access to important shared content directly from their Favorites list. #newoutlookforwindows",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/81675/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-03-27T02:07:27.0559269+00:00",
+      "guid": "81675",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81675",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals - Sequential Approvers Support",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Requestors will now be able to toggle on\nsequential approvals to designate the approval order of the request.</span> </div>",
+      "pubDate": "Thu, 16 Feb 2023 00:07:37 -0800",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
