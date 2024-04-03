@@ -1,0 +1,1603 @@
+[
+  {
+    "Path": "data/124838.json",
+    "CurrentVersion": {
+      "guid": "124838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124838",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Centrally manage branding for your organization",
+      "description": ",We’re introducing new branding and management capabilities that you can use to improve consistency across your sites and pages.",
+      "pubDate": "Tue, 02 May 2023 23:25:13 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "124838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124838",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Centrally manage branding for your organization",
+      "description": "We’re introducing new branding and management capabilities that you can use to improve consistency across your sites and pages.",
+      "pubDate": "Tue, 02 May 2023 23:25:13 -0700",
+      "updated": "2023-12-12T08:30:24+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/139457.json",
+    "CurrentVersion": {
+      "guid": "139457",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=139457",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Just in time protection (JIT) on SharePoint",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black;\">Just-in-time\nprotection for SharePoint in Microsoft Purview DLP allows organizations to\nextend protection to unclassified files in SharePoint and apply restrictions\ndefined in DLP policies at the time of egress</span>. </div>",
+      "pubDate": "Tue, 19 Sep 2023 23:09:27 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "139457",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=139457",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Just in time protection (JIT) on SharePoint",
+      "description": ",Just-in-time\nprotection for SharePoint in Microsoft Purview DLP allows organizations to\nextend protection to unclassified files in SharePoint and apply restrictions\ndefined in DLP policies at the time of egress.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:27 -0700",
+      "updated": "2023-09-20T06:02:35+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/155837.json",
+    "CurrentVersion": {
+      "guid": "155837",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155837",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Rosters supporting container sensitivity labels",
+      "description": "<div>Organization admins will now be able to apply container labels to rosters in Microsoft Planner. This is enabled directly in Planner and by using Microsoft Graph APIs. Rosters are created automatically for task lists in Microsoft Loop. Tenant admins can make container labels for these rosters mandatory and set a default label, or not make them mandatory. The roster and the Planner plan contained by the Roster then follow container policy settings. For Graph API requests, if labels are mandatory as per tenant settings, roster creation fails if a label is not provided at the time of request. </div>",
+      "pubDate": "Mon, 07 Aug 2023 23:17:19 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "155837",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155837",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Rosters supporting container sensitivity labels",
+      "description": "<div>Organization admins will now be able to apply container labels to rosters in Microsoft Planner. This is enabled directly in Planner and by using Microsoft Graph APIs. Rosters are created automatically for task lists in Microsoft Loop. Tenant admins can make container labels for these rosters mandatory and set a default label, or not make them mandatory. The roster and the Planner plan contained by the Roster then follow container policy settings. For Graph API requests, if labels are mandatory as per tenant settings, roster creation fails if a label is not provided at the time of request. </div>",
+      "pubDate": "Mon, 07 Aug 2023 23:17:19 -0700",
+      "updated": "2024-01-13T07:30:16+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/160009.json",
+    "CurrentVersion": {
+      "guid": "160009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Estimating the Cost of Optical Character Recognition (OCR) for Exchange Online, Microsoft Teams, SharePoint, OneDrive and EndPoint",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">With OCR cost estimator, without incurring any bill\nand without providing azure subscription, admins will be able to estimate how\nmuch they will pay once they turn “ON” the OCR configuration for the selected\nlocations and scope.</span></span> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:09 -0800",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "160009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Estimating the Cost of Optical Character Recognition (OCR) for Exchange Online, Microsoft Teams, SharePoint, OneDrive and EndPoint",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">With OCR cost estimator, without incurring any bill\nand without providing azure subscription, admins will be able to estimate how\nmuch they will pay once they turn “ON” the OCR configuration for the selected\nlocations and scope.</span></span> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:09 -0800",
+      "updated": "2023-12-21T08:30:17+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/164191.json",
+    "CurrentVersion": {
+      "guid": "164191",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164191",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Collaborative notes in Teams meeting recordings",
+      "description": "This feature enables users to view and edit collaborative meeting notes while watching Teams meeting recordings in Stream. Collaborative notes allow meeting attendees to co-create and collaborate on their meeting agenda, notes, and action items. Since Collaborative notes are a Loop component, it is always in sync regardless of how many places they live in.  Assigned tasks in collaborative meeting notes automatically sync with To Do &amp; Planner.",
+      "pubDate": "Fri, 11 Aug 2023 22:28:05 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "164191",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164191",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Collaborative notes in Teams meeting recordings",
+      "description": "This feature enables users to view and edit collaborative meeting notes while watching Teams meeting recordings in Stream. Collaborative notes allow meeting attendees to co-create and collaborate on their meeting agenda, notes, and action items. Since Collaborative notes are a Loop component, it is always in sync regardless of how many places they live in.  Assigned tasks in collaborative meeting notes automatically sync with To Do &amp; Planner.",
+      "pubDate": "Fri, 11 Aug 2023 22:28:05 -0700",
+      "updated": "2024-03-09T07:15:19+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/178349.json",
+    "CurrentVersion": {
+      "guid": "178349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178349",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Organize folders in your sidebar",
+      "description": ",Users can arrange folders in any desired order effortlessly by dragging and dropping the folders in the position that they want.",
+      "pubDate": "Wed, 18 Oct 2023 00:09:05 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "178349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178349",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Organize folders in your sidebar",
+      "description": ",Users can arrange folders in any desired order effortlessly by dragging and dropping the folders in the position that they want.",
+      "pubDate": "Wed, 18 Oct 2023 00:09:05 -0700",
+      "updated": "2024-03-26T06:45:26+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/180795.json",
+    "CurrentVersion": {
+      "guid": "180795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180795",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Add a hyperlink or text callout to a video at specific times",
+      "description": "<div><span style=\"\">Make your video interactive\nand more engaging by adding annotations that can include hyperlinks and text.\nCall out important moments or share documents and other links to additional resources. You can\nadd text and links anywhere in the video timeline to help guide your viewers to\nthe right information.</span> </div>",
+      "pubDate": "Thu, 12 Oct 2023 23:07:11 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "180795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180795",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Add a hyperlink or text callout to a video at specific times",
+      "description": "<div><span style=\"\">Make your video interactive\nand more engaging by adding annotations that can include hyperlinks and text.\nCall out important moments or share documents and other links to additional resources. You can\nadd text and links anywhere in the video timeline to help guide your viewers to\nthe right information.</span> </div>",
+      "pubDate": "Thu, 12 Oct 2023 23:07:11 -0700",
+      "updated": "2024-01-26T08:45:52+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/183908.json",
+    "CurrentVersion": {
+      "guid": "183908",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=183908",
+      "category": [
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List",
+      "description": "<div>Tenant allow block list domains &amp; addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed. </div>",
+      "pubDate": "Wed, 25 Oct 2023 23:30:55 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "183908",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=183908",
+      "category": [
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List",
+      "description": "<div>Tenant allow block list domains &amp; addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed. </div>",
+      "pubDate": "Wed, 25 Oct 2023 23:30:55 -0700",
+      "updated": "2024-03-22T07:00:24+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186580.json",
+    "CurrentVersion": {
+      "guid": "186580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186580",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Recommended actions for finetuning policies",
+      "description": ",We are introducing additional recommended actions to provide guidance on fine-tuning your insider risk policies and implementing advanced configurations. These new tasks and journeys will be accessible through the Recommended Actions page. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: We have updated this Roadmap to reflect the current status.  We apologize for any inconveniences.",
+      "pubDate": "Fri, 10 Nov 2023 00:18:10 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "186580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186580",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Recommended actions for finetuning policies",
+      "description": ",We are introducing additional recommended actions to provide guidance on fine-tuning your insider risk policies and implementing advanced configurations.\nThese new tasks and journeys will be accessible through the Recommended Actions page. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 10 Nov 2023 00:18:10 -0800",
+      "updated": "2024-03-06T09:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/371568.json",
+    "CurrentVersion": {
+      "guid": "371568",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371568",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 3P eCDN support for town halls (Premium)",
+      "description": "Admins have the ability to disable Microsoft first party eCDN at a user level within a tenant for users licensed with Teams Premium and switch the users back to using a third-party eCDN as they prefer.",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "371568",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371568",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 3P eCDN support for town halls (Premium)",
+      "description": "Admins have the ability to disable Microsoft first party eCDN at a user level within a tenant for users licensed with Teams Premium and switch the users back to using a third-party eCDN as they prefer.",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-03-08T08:45:34+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/374861.json",
+    "CurrentVersion": {
+      "guid": "374861",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374861",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Connections - Manage your organization’s brand in the new brand center",
+      "description": ",We’re introducing new branding and management capabilities that you can use to improve consistency across your Viva Connections desktop, mobile, and tablet experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "374861",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374861",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Connections - Manage your organization’s brand in the new brand center",
+      "description": "We’re introducing new branding and management capabilities that you can use to improve consistency across your Viva Connections desktop, mobile, and tablet experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-01-04T08:15:15+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/374866.json",
+    "CurrentVersion": {
+      "guid": "374866",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374866",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Introducing custom fonts for SharePoint and Viva Connections Desktop",
+      "description": ",Fonts are more than just letters and symbols, and we've heard you. We're bringing font customization to your SharePoint and Viva Connections experiences with the brand center. Express your personality, style, and brand by adding custom fonts to your sites and related experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "374866",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374866",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Introducing custom fonts for SharePoint and Viva Connections Desktop",
+      "description": "Fonts are more than just letters and symbols, and we've heard you. We're bringing font customization to your SharePoint and Viva Connections experiences with the brand center. Express your personality, style, and brand by adding custom fonts to your sites and related experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-01-04T08:15:15+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375490.json",
+    "CurrentVersion": {
+      "guid": "375490",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375490",
+      "category": [
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Introducing custom fonts for SharePoint",
+      "description": ",Fonts are more than just letters and symbols, and we've heard you. We're bringing font customization to your SharePoint and Viva Connections experiences with the brand center. Express your personality, style, and brand by adding custom fonts to your sites and related experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "375490",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375490",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Introducing custom fonts for SharePoint",
+      "description": "Fonts are more than just letters and symbols, and we've heard you. We're bringing font customization to your SharePoint and Viva Connections experiences with the brand center. Express your personality, style, and brand by adding custom fonts to your sites and related experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-01-04T08:15:15+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/376999.json",
+    "CurrentVersion": {
+      "guid": "376999",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376999",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Outlook win32 DLP Policy tip and oversharing popup support for new DLP Predicates",
+      "description": ",Introducing two new DLP Exchange predicates support for DLP Policy tips and Oversharing popups for E5 users: \"Message contains\" and \"Attachment contains\" with a focus on client-side evaluation on specific email components like email body or attachments only. Unlike the broader \"Content contains\" predicate that evaluated entire email envelope, these enable targeted DLP evaluation on specific email components only and show DLP Policy tips and oversharing popups accordingly in Outlook win32.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "376999",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376999",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Outlook win32 DLP Policy tip and oversharing popup support for new DLP Predicates",
+      "description": ",Introducing two new DLP Exchange predicates support for DLP Policy tips and Oversharing popups for E5 users: \"Message contains\" and \"Attachment contains\" with a focus on client-side evaluation on specific email components like email body or attachments only. Unlike the broader \"Content contains\" predicate that evaluated entire email envelope, these enable targeted DLP evaluation on specific email components only and show DLP Policy tips and oversharing popups accordingly in Outlook win32.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-01-24T09:00:27+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/382607.json",
+    "CurrentVersion": {
+      "guid": "382607",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382607",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance-Ability to create custom tags in Communication Compliance policies",
+      "description": "Communication Compliance introduces the ability to create custom tags to give Investigators the flexibility of using tags that fit their team/ organization's requirements. Leverage custom tags to leave more meaningful information for each policy match and to help other investigators understand the status of a message. Default tags will continue to be available for use.",
+      "pubDate": "Wed, 07 Feb 2024 01:00:38 -0800",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "382607",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382607",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance-Ability to create custom tags in Communication Compliance policies",
+      "description": "Communication Compliance introduces the ability to create custom tags to give Investigators the flexibility of using tags that fit their team/ organization's requirements. Leverage custom tags to leave more meaningful information for each policy match and to help other investigators understand the status of a message. Default tags will continue to be available for use.",
+      "pubDate": "Wed, 07 Feb 2024 01:00:38 -0800",
+      "updated": "2024-03-12T06:30:08+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/382635.json",
+    "CurrentVersion": {
+      "guid": "382635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382635",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Extension requests and feedback",
+      "description": ",The Microsoft Edge management service will provide admins and end users with an enhanced extensions management experience. End users can request access to blocked extensions, and admins can view these requests in the Microsoft Edge management service. Admins can also optionally choose to receive email notifications for these requests to inform them promptly of any new feedback.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "382635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382635",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Extension requests and feedback",
+      "description": ",The Microsoft Edge management service will provide admins and end users with an enhanced extensions management experience. End users can request access to blocked extensions, and admins can view these requests in the Microsoft Edge management service. Admins can also optionally choose to receive email notifications for these requests to inform them promptly of any new feedback.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-02-08T09:00:23+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2024"
+    }
+  },
+  {
+    "Path": "data/382930.json",
+    "CurrentVersion": {
+      "guid": "382930",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382930",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Admins and delegates in Viva Engage con close conversations on behalf of others",
+      "description": "Admins and delegates in Viva Engage con close conversations on behalf of others. Delegates are only allowed to close conversations on behalf of the delegator.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383745.json",
+    "CurrentVersion": {
+      "guid": "383745",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383745",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced privacy control: Limiting PII data access to \"Data Classification Content Viewer\" role",
+      "description": ",With this change, an additional role will be introduced which will be required to \"View Source\" content and expand on \"Sensitive Info Type\" surrounding context within Activity Explorer. Only users with the specific role of \"Data Classification Content Viewers\" will be able to access this sensitive data.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "383745",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383745",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced privacy control: Limiting PII data access to \"Data Classification Content Viewer\" role",
+      "description": ",There will be an improvement in privacy measures. Access to PII data will be restricted. Only users with the specific role of \"Data Classification Content Viewers\" will be able to access this sensitive data.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-02-21T08:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/387770.json",
+    "CurrentVersion": {
+      "guid": "387770",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387770",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Teams chat from email messages in the new Outlook for Windows",
+      "description": "This will allow users to start a Teams chat directly from an email message with the sender or all of the recipients in the email, the Teams chat opens in Outlook - so users can chat and continue their workflow in Outlook. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Mar 2024 00:00:24 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "387770",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387770",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Teams chat from email messages in the new Outlook for Windows",
+      "description": "This will allow users to start a Teams chat directly from an email message with the sender or all of the recipients in the email, the Teams chat opens in Outlook - so users can chat and continue their workflow in Outlook. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Mar 2024 00:00:24 -0700",
+      "updated": "2024-03-22T07:00:24+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/389143.json",
+    "CurrentVersion": {
+      "guid": "389143",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389143",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Insider Risk Management - Microsoft Purview capabilities in Copilot for Security",
+      "description": "With Microsoft Purview capabilities in Copilot for Security, your security teams gain unprecedented visibility across the security data. Microsoft Purview brings user risk and data risk insights to help the SOC with comprehensive and enriched signals to understand the full attack story and impact of a security incident. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/389147.json",
+    "CurrentVersion": {
+      "guid": "389147",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389147",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Insider Risk Management - Gain comprehensive summary of Insider Risk Management alerts with Copilot for Security",
+      "description": ",Copilot for Security is embedded in Insider Risk Management to summarize alerts to help accelerate data security investigations. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/391671.json",
+    "CurrentVersion": {
+      "guid": "391671",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391671",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Forms: Pre-filled link in Microsoft Forms",
+      "description": "You can send respondents a form with some fields already filled in. This feature is designed to simplify respondent experience and improve data accuracy.",
+      "pubDate": "Tue, 02 Apr 2024 18:00:21 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/391672.json",
+    "CurrentVersion": {
+      "guid": "391672",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391672",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft To Do",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Microsoft To Do: Microsoft To Do availability in Outlook on the web",
+      "description": "Microsoft To Do will be available from the Outlook on the web app launcher. To Do will replace the tasks module currently available. After this change, you will see To Do in the app launcher instead of tasks.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/68688.json",
+    "CurrentVersion": {
+      "guid": "68688",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=68688",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Ability to set a retention period for a policy",
+      "description": "<div>Introducing the ability to define how long content captured by a Communication Compliance policy is retained. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. </div><br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Mon, 14 Sep 2020 23:15:34 -0700",
+      "updated": "2024-04-03T06:45:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "68688",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=68688",
+      "category": [
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Ability to set a retention period for a policy",
+      "description": ",<div>Introducing the ability to define how long content captured by a Communication Compliance policy is retained. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. </div><br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Mon, 14 Sep 2020 23:15:34 -0700",
+      "updated": "2024-02-14T08:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/88870.json",
+    "CurrentVersion": {
+      "guid": "88870",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88870",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "OneDrive",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Sync admin reports - bulk data export",
+      "description": ",<div>Support for bulk export of device status, including username, sync app version, known folders, last sync date, and sync errors. </div>",
+      "pubDate": "Fri, 21 Jan 2022 00:11:40 -0800",
+      "updated": "2024-04-03T05:30:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "88870",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88870",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "OneDrive",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Sync admin reports - bulk data export",
+      "description": ",Support for bulk export of device status, including username, sync app version, known folders, last sync date, and sync errors.",
+      "pubDate": "Fri, 21 Jan 2022 00:11:40 -0800",
+      "updated": "2023-09-21T06:05:24+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "December CY2023"
+    }
+  },
+  {
+    "Path": "data/94620.json",
+    "CurrentVersion": {
+      "guid": "94620",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=94620",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Mobile",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Join a meeting by digital code for GCC-High and DoD",
+      "description": "User can join a meeting by entering a digital code.",
+      "pubDate": "Wed, 04 May 2022 22:59:09 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "94620",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=94620",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Mobile",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Join a meeting by digital code for GCC-High and DoD",
+      "description": "User can join a meeting by entering a digital code.",
+      "pubDate": "Wed, 04 May 2022 22:59:09 -0700",
+      "updated": "2023-11-29T07:59:52+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/124838/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "124838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124838",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Centrally manage branding for your organization",
+      "description": ",We’re introducing new branding and management capabilities that you can use to improve consistency across your sites and pages.",
+      "pubDate": "Tue, 02 May 2023 23:25:13 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/139457/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "139457",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=139457",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Just in time protection (JIT) on SharePoint",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:black;\">Just-in-time\nprotection for SharePoint in Microsoft Purview DLP allows organizations to\nextend protection to unclassified files in SharePoint and apply restrictions\ndefined in DLP policies at the time of egress</span>. </div>",
+      "pubDate": "Tue, 19 Sep 2023 23:09:27 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/155837/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "155837",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155837",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Rosters supporting container sensitivity labels",
+      "description": "<div>Organization admins will now be able to apply container labels to rosters in Microsoft Planner. This is enabled directly in Planner and by using Microsoft Graph APIs. Rosters are created automatically for task lists in Microsoft Loop. Tenant admins can make container labels for these rosters mandatory and set a default label, or not make them mandatory. The roster and the Planner plan contained by the Roster then follow container policy settings. For Graph API requests, if labels are mandatory as per tenant settings, roster creation fails if a label is not provided at the time of request. </div>",
+      "pubDate": "Mon, 07 Aug 2023 23:17:19 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160009/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "160009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Estimating the Cost of Optical Character Recognition (OCR) for Exchange Online, Microsoft Teams, SharePoint, OneDrive and EndPoint",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">With OCR cost estimator, without incurring any bill\nand without providing azure subscription, admins will be able to estimate how\nmuch they will pay once they turn “ON” the OCR configuration for the selected\nlocations and scope.</span></span> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:09 -0800",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/164191/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "164191",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164191",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Collaborative notes in Teams meeting recordings",
+      "description": "This feature enables users to view and edit collaborative meeting notes while watching Teams meeting recordings in Stream. Collaborative notes allow meeting attendees to co-create and collaborate on their meeting agenda, notes, and action items. Since Collaborative notes are a Loop component, it is always in sync regardless of how many places they live in.  Assigned tasks in collaborative meeting notes automatically sync with To Do &amp; Planner.",
+      "pubDate": "Fri, 11 Aug 2023 22:28:05 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178349/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "178349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178349",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Organize folders in your sidebar",
+      "description": ",Users can arrange folders in any desired order effortlessly by dragging and dropping the folders in the position that they want.",
+      "pubDate": "Wed, 18 Oct 2023 00:09:05 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/180795/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "180795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180795",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Add a hyperlink or text callout to a video at specific times",
+      "description": "<div><span style=\"\">Make your video interactive\nand more engaging by adding annotations that can include hyperlinks and text.\nCall out important moments or share documents and other links to additional resources. You can\nadd text and links anywhere in the video timeline to help guide your viewers to\nthe right information.</span> </div>",
+      "pubDate": "Thu, 12 Oct 2023 23:07:11 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/183908/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "183908",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=183908",
+      "category": [
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Last used date inside Tenant Allow Block List",
+      "description": "<div>Tenant allow block list domains &amp; addresses, URL, and file entries will show last used date. This helps admins understand when an entry was last used (either at mailflow or time of click), helping them remove entries which are no longer needed. </div>",
+      "pubDate": "Wed, 25 Oct 2023 23:30:55 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186580/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "186580",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186580",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Recommended actions for finetuning policies",
+      "description": ",We are introducing additional recommended actions to provide guidance on fine-tuning your insider risk policies and implementing advanced configurations. These new tasks and journeys will be accessible through the Recommended Actions page. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: We have updated this Roadmap to reflect the current status.  We apologize for any inconveniences.",
+      "pubDate": "Fri, 10 Nov 2023 00:18:10 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/371568/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "371568",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371568",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: 3P eCDN support for town halls (Premium)",
+      "description": "Admins have the ability to disable Microsoft first party eCDN at a user level within a tenant for users licensed with Teams Premium and switch the users back to using a third-party eCDN as they prefer.",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374861/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "374861",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374861",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Connections - Manage your organization’s brand in the new brand center",
+      "description": ",We’re introducing new branding and management capabilities that you can use to improve consistency across your Viva Connections desktop, mobile, and tablet experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374866/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "374866",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374866",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Introducing custom fonts for SharePoint and Viva Connections Desktop",
+      "description": ",Fonts are more than just letters and symbols, and we've heard you. We're bringing font customization to your SharePoint and Viva Connections experiences with the brand center. Express your personality, style, and brand by adding custom fonts to your sites and related experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375490/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "375490",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375490",
+      "category": [
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Introducing custom fonts for SharePoint",
+      "description": ",Fonts are more than just letters and symbols, and we've heard you. We're bringing font customization to your SharePoint and Viva Connections experiences with the brand center. Express your personality, style, and brand by adding custom fonts to your sites and related experiences.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/376999/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "376999",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376999",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Outlook win32 DLP Policy tip and oversharing popup support for new DLP Predicates",
+      "description": ",Introducing two new DLP Exchange predicates support for DLP Policy tips and Oversharing popups for E5 users: \"Message contains\" and \"Attachment contains\" with a focus on client-side evaluation on specific email components like email body or attachments only. Unlike the broader \"Content contains\" predicate that evaluated entire email envelope, these enable targeted DLP evaluation on specific email components only and show DLP Policy tips and oversharing popups accordingly in Outlook win32.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382607/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "382607",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382607",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance-Ability to create custom tags in Communication Compliance policies",
+      "description": "Communication Compliance introduces the ability to create custom tags to give Investigators the flexibility of using tags that fit their team/ organization's requirements. Leverage custom tags to leave more meaningful information for each policy match and to help other investigators understand the status of a message. Default tags will continue to be available for use.",
+      "pubDate": "Wed, 07 Feb 2024 01:00:38 -0800",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382635/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "382635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382635",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Extension requests and feedback",
+      "description": ",The Microsoft Edge management service will provide admins and end users with an enhanced extensions management experience. End users can request access to blocked extensions, and admins can view these requests in the Microsoft Edge management service. Admins can also optionally choose to receive email notifications for these requests to inform them promptly of any new feedback.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382930/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "382930",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382930",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Admins and delegates in Viva Engage con close conversations on behalf of others",
+      "description": "Admins and delegates in Viva Engage con close conversations on behalf of others. Delegates are only allowed to close conversations on behalf of the delegator.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383745/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "383745",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383745",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced privacy control: Limiting PII data access to \"Data Classification Content Viewer\" role",
+      "description": ",With this change, an additional role will be introduced which will be required to \"View Source\" content and expand on \"Sensitive Info Type\" surrounding context within Activity Explorer. Only users with the specific role of \"Data Classification Content Viewers\" will be able to access this sensitive data.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/387770/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "387770",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387770",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Teams chat from email messages in the new Outlook for Windows",
+      "description": "This will allow users to start a Teams chat directly from an email message with the sender or all of the recipients in the email, the Teams chat opens in Outlook - so users can chat and continue their workflow in Outlook. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Mar 2024 00:00:24 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389143/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "389143",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389143",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Insider Risk Management - Microsoft Purview capabilities in Copilot for Security",
+      "description": "With Microsoft Purview capabilities in Copilot for Security, your security teams gain unprecedented visibility across the security data. Microsoft Purview brings user risk and data risk insights to help the SOC with comprehensive and enriched signals to understand the full attack story and impact of a security incident. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389147/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "389147",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389147",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Insider Risk Management - Gain comprehensive summary of Insider Risk Management alerts with Copilot for Security",
+      "description": ",Copilot for Security is embedded in Insider Risk Management to summarize alerts to help accelerate data security investigations. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/391671/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "391671",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391671",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Forms: Pre-filled link in Microsoft Forms",
+      "description": "You can send respondents a form with some fields already filled in. This feature is designed to simplify respondent experience and improve data accuracy.",
+      "pubDate": "Tue, 02 Apr 2024 18:00:21 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/391672/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "391672",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391672",
+      "category": [
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft To Do",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Microsoft To Do: Microsoft To Do availability in Outlook on the web",
+      "description": "Microsoft To Do will be available from the Outlook on the web app launcher. To Do will replace the tasks module currently available. After this change, you will see To Do in the app launcher instead of tasks.",
+      "pubDate": "Tue, 02 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-03T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/68688/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "68688",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=68688",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Ability to set a retention period for a policy",
+      "description": "<div>Introducing the ability to define how long content captured by a Communication Compliance policy is retained. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. </div><br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Mon, 14 Sep 2020 23:15:34 -0700",
+      "updated": "2024-04-03T06:45:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/88870/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "88870",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88870",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "OneDrive",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Sync admin reports - bulk data export",
+      "description": ",<div>Support for bulk export of device status, including username, sync app version, known folders, last sync date, and sync errors. </div>",
+      "pubDate": "Fri, 21 Jan 2022 00:11:40 -0800",
+      "updated": "2024-04-03T05:30:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/94620/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-03T02:08:30.5117198+00:00",
+      "guid": "94620",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=94620",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Mobile",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Join a meeting by digital code for GCC-High and DoD",
+      "description": "User can join a meeting by entering a digital code.",
+      "pubDate": "Wed, 04 May 2022 22:59:09 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
