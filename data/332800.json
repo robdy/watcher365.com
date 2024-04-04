@@ -1,0 +1,21 @@
+{
+  "guid": "332800",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332800",
+  "category": [
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Tenant-wide policy for permission to download meeting transcripts and user-level controls for who can view and edit meeting transcripts",
+  "description": "Introducing a new control for IT administrators to restrict permissions for the download of meeting transcript files (stored in OneDrive for Business) for any users within the tenant. This policy applies to new meeting transcripts across the entire organization. Administrators can exempt people who are members of specified security groups from the policy. This allows admins to specify governance or compliance specialists who should have download access to meeting transcripts. We are also updating the default permissions so that even when the policy is not applied only transcript owners (recording initiator or meeting organizer) will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition to the tenant-wide policy for download permission, the meeting organizer will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript in Stream.",
+  "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+  "updated": "2024-04-03T23:15:22-07:00",
+  "publicDisclosureAvailabilityDate": "May CY2024",
+  "publicPreviewDate": null
+}
