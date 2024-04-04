@@ -1,0 +1,1396 @@
+[
+  {
+    "Path": "data/145802.json",
+    "CurrentVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
+      "updated": "2024-02-27T08:30:56+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/162653.json",
+    "CurrentVersion": {
+      "guid": "162653",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162653",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook : Upload and share documents through OneDrive on large emails",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">When you try to attach a file to an email\nmessage that has hit the maximum size limit, or when an attachment will push\nthe email over that limit, you will be prompted to upload the file to the\nOneDrive account associated with the email&nbsp;so that you can still easily\nshare the document.</span> </div>",
+      "pubDate": "Tue, 22 Aug 2023 23:16:49 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "162653",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162653",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook : Upload and share documents through OneDrive on large emails",
+      "description": "When you try to attach a file to an email\nmessage that has hit the maximum size limit, or when an attachment will push\nthe email over that limit, you will be prompted to upload the file to the\nOneDrive account associated with the email so that you can still easily\nshare the document.",
+      "pubDate": "Tue, 22 Aug 2023 23:16:49 -0700",
+      "updated": "2023-11-01T06:22:49+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/167892.json",
+    "CurrentVersion": {
+      "guid": "167892",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167892",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pick a local folder for saving attachments",
+      "description": "Users are now able to pick a folder when saving an attachment in the new Outlook for Windows. This feature was rolled back to address some critical user feedback; we apologize for any inconvenience.",
+      "pubDate": "Tue, 10 Oct 2023 07:00:00 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167892",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167892",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pick a local folder for saving attachments",
+      "description": "<div>Users are now able to pick a folder when saving an attachment in the new Outlook for Windows. </div><div> </div>",
+      "pubDate": "Tue, 10 Oct 2023 07:00:00 -0700",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/168523.json",
+    "CurrentVersion": {
+      "guid": "168523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168523",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting Options Categorization",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">We\nare introducing grouping within Meeting Options to improve organizers’ and\nco-organizers’ ease of understanding selections.</span> </div>",
+      "pubDate": "Fri, 01 Dec 2023 00:11:23 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "168523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168523",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting Options Categorization",
+      "description": "We\nare introducing grouping within Meeting Options to improve organizers’ and\nco-organizers’ ease of understanding selections.",
+      "pubDate": "Fri, 01 Dec 2023 00:11:23 -0800",
+      "updated": "2023-12-06T08:38:12+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/169201.json",
+    "CurrentVersion": {
+      "guid": "169201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=169201",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: In-app Teams devices store experience",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos&quot;,sans-serif;color:black;\">With the Teams device store experience inside the\nTeams app, customers can easily discover and purchase certified Teams devices\nfor personal or shared use cases – headsets, web cameras, desk phones, Teams\nRooms, and more. Explore devices in categories, use search or filters to find\ndesired device, and purchase all through the familiar Microsoft Teams\ninterface. We are introducing a new experience for small businesses to purchase\ndevices directly within Teams, businesses in the US and Canada will now be able\nto complete their purchase without leaving the app</span>.</span> </div>",
+      "pubDate": "Tue, 21 Nov 2023 00:43:59 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "169201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=169201",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: In-app Teams devices store experience",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos&quot;,sans-serif;color:black;\">With the Teams device store experience inside the\nTeams app, customers can easily discover and purchase certified Teams devices\nfor personal or shared use cases – headsets, web cameras, desk phones, Teams\nRooms, and more. Explore devices in categories, use search or filters to find\ndesired device, and purchase all through the familiar Microsoft Teams\ninterface. We are introducing a new experience for small businesses to purchase\ndevices directly within Teams, businesses in the US and Canada will now be able\nto complete their purchase without leaving the app</span>.</span> </div>",
+      "pubDate": "Tue, 21 Nov 2023 00:43:59 -0800",
+      "updated": "2024-02-29T08:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/170738.json",
+    "CurrentVersion": {
+      "guid": "170738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Keyword highlight support for document trainable classifiers",
+      "description": "Highlight the keywords/phrases that are contributing significantly to the Trainable classifier results, so that users can easily understand the classification of the documents. This would build trust of the users of the OOB classifications and empower them to create DLP policies.",
+      "pubDate": "Fri, 08 Sep 2023 22:53:12 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "170738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Keyword highlight support for document trainable classifiers",
+      "description": "Highlight the keywords/phrases that are contributing significantly to the Trainable classifier results, so that users can easily understand the classification of the documents. This would build trust of the users of the OOB classifications and empower them to create DLP policies.",
+      "pubDate": "Fri, 08 Sep 2023 22:53:12 -0700",
+      "updated": "2024-02-24T07:15:56+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/180795.json",
+    "CurrentVersion": {
+      "guid": "180795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180795",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Add a hyperlink or text callout to a video at specific times",
+      "description": "Make your video interactive and more engaging by adding annotations that can include hyperlinks and text. Call out important moments or share documents and other links to additional resources. You can add text and links anywhere in the video timeline to help guide your viewers to the right information. Note: The release state now reflects the current status. We apologize for any inconveniences.",
+      "pubDate": "Thu, 12 Oct 2023 23:07:11 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "180795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180795",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Add a hyperlink or text callout to a video at specific times",
+      "description": "<div><span style=\"\">Make your video interactive\nand more engaging by adding annotations that can include hyperlinks and text.\nCall out important moments or share documents and other links to additional resources. You can\nadd text and links anywhere in the video timeline to help guide your viewers to\nthe right information.</span> </div>",
+      "pubDate": "Thu, 12 Oct 2023 23:07:11 -0700",
+      "updated": "2024-04-03T01:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186553.json",
+    "CurrentVersion": {
+      "guid": "186553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186553",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Azure protected voicemail on Teams App",
+      "description": "Teams users will now have link to their Azure protected voicemails from the Teams App. Users will get notification for the voicemail on the Teams App and can open the attached link to access the voicemail on the web browser.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:04 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186553",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Azure protected voicemail on Teams App",
+      "description": "Teams users will now have link to their Azure protected voicemails from the Teams App. Users will get notification for the voicemail on the Teams App and can open the attached link to access the voicemail on the web browser.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:04 -0800",
+      "updated": "2024-01-17T08:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/332800.json",
+    "CurrentVersion": {
+      "guid": "332800",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332800",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tenant-wide policy for permission to download meeting transcripts and user-level controls for who can view and edit meeting transcripts",
+      "description": "Introducing a new control for IT administrators to restrict permissions for the download of meeting transcript files (stored in OneDrive for Business) for any users within the tenant. This policy applies to new meeting transcripts across the entire organization. Administrators can exempt people who are members of specified security groups from the policy. This allows admins to specify governance or compliance specialists who should have download access to meeting transcripts. We are also updating the default permissions so that even when the policy is not applied only transcript owners (recording initiator or meeting organizer) will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition to the tenant-wide policy for download permission, the meeting organizer will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript in Stream.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/341083.json",
+    "CurrentVersion": {
+      "guid": "341083",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=341083",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Inactive teams and inactive domains report export capability",
+      "description": "Admins will be able to export the inactive teams and inactive domains reports to a csv file in Teams Admin Center.",
+      "pubDate": "Fri, 09 Feb 2024 23:00:37 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "341083",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=341083",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Inactive teams and inactive domains report export capability",
+      "description": "Admins will be able to export the inactive teams and inactive domains reports to a csv file in Teams Admin Center.",
+      "pubDate": "Fri, 09 Feb 2024 23:00:37 -0800",
+      "updated": "2024-03-14T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/367053.json",
+    "CurrentVersion": {
+      "guid": "367053",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=367053",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Oversharing Popups enhancements on Outlook win32 desktop",
+      "description": ",We are expanding the functionality of oversharing popups (Show policy tip as a dialog) in outlook win32 to support the following: 1) Additional scenarios powered with predicates such as Content is not labeled, Message/Attachment is not labeled, and File extension is, and 2) Customizable oversharing dialog with the ability to configure custom title, body, business justifications, and dynamic variables/tokens for matched recipients, attachment names, and labels.",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "367053",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=367053",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Oversharing Popups enhancements on Outlook win32 desktop",
+      "description": ",We are expanding the functionality of oversharing popups (Show policy tip as a dialog) in outlook win32 to support the following: 1) Additional scenarios powered with predicates such as Content is not labeled, Message/Attachment is not labeled, and File extension is, and 2) Customizable oversharing dialog with the ability to configure custom title, body, business justifications, and dynamic variables/tokens for matched recipients, attachment names, and labels.",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/372115.json",
+    "CurrentVersion": {
+      "guid": "372115",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=372115",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for delegates and delegators",
+      "description": "We're continuing to provide a more tailored call delegation experience. Call delegators and delegates will now be able to see shared call history records for the shared line.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "372115",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=372115",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for delegates and delegators",
+      "description": "We're continuing to provide a more tailored call delegation experience. Call delegators and delegates will now be able to see shared call history records for the shared line.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-03-08T08:45:34+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375485.json",
+    "CurrentVersion": {
+      "guid": "375485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375485",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Pay-as-you-go transcript translations",
+      "description": "Make your content more inclusive by creating videos that your coworkers can easily view and understand in their primary language. Transcript translations in Stream (on SharePoint) give you the option to translate the transcript and closed captions of your Stream videos into more than 100 supported languages. To enable translations Admins must first setup billing using an Azure subscription, then they must be enable the feature in the M365 Admin center. Once enabled translations are billed via pay-as-you-go meters.<br>More info: https://support.microsoft.com/en-us/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Pay-as-you-go transcript translations",
+      "description": "Make your content more inclusive by creating videos that your coworkers can easily view and understand in their primary language. Transcript translations in Stream (on SharePoint) give you the option to translate the transcript and closed captions of your Stream videos into more than 100 supported languages. To enable translations Admins must first setup billing using an Azure subscription, then they must be enable the feature in the M365 Admin center. Once enabled translations are billed via pay-as-you-go meters.<br>More info: https://support.microsoft.com/en-us/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/377303.json",
+    "CurrentVersion": {
+      "guid": "377303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377303",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat for organizers and presenters in town hall",
+      "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+      "pubDate": "Thu, 01 Feb 2024 00:45:41 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "377303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377303",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat for organizers and presenters in town hall",
+      "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+      "pubDate": "Thu, 01 Feb 2024 00:45:41 -0800",
+      "updated": "2024-02-14T08:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/377674.json",
+    "CurrentVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-01-23T08:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381734.json",
+    "CurrentVersion": {
+      "guid": "381734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated teams and channels onboarding flow",
+      "description": "When added to a new team, users can see which channels the team owner recommended, and select to show only the channels that are relevant to them.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/383734.json",
+    "CurrentVersion": {
+      "guid": "383734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "Launched",
+        "Microsoft Viva"
+      ],
+      "title": "Microsoft Viva: New landing experience for Viva Connections desktop",
+      "description": "Help people in your organization manage their daily flow of work using a customized landing experience in Teams that displays the most important tasks, tools, news, and resources in one central place. The new landing experience offers expanded navigational tools between Viva apps and acts as the home base for Viva experiences in Teams.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "In development",
+        "Microsoft Viva"
+      ],
+      "title": "Microsoft Viva: New landing experience for Viva Connections desktop",
+      "description": "Help people in your organization manage their daily flow of work using a customized landing experience in Teams that displays the most important tasks, tools, news, and resources in one central place. The new landing experience offers expanded navigational tools between Viva apps and acts as the home base for Viva experiences in Teams.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-02-21T08:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/388736.json",
+    "CurrentVersion": {
+      "guid": "388736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388736",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection - Enhancements to insider risk level settings",
+      "description": ",With this new feature, an admin can choose whether they want to expire the Adaptive Protection insider risk level. Today, this expiration happens automatically, but you can now choose to keep the Adaptive Protection insider risk level for a user, even if their alert is dismissed or case is closed. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/389841.json",
+    "CurrentVersion": {
+      "guid": "389841",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389841",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Improvements to “Deleting of SharePoint files/folders” indicators ",
+      "description": "Today “Deleting of SharePoint files” and “Deleting of SharePoint folders” indicators include permanent file or folder deletion event operations FileDeleted, FolderDeleted respectively. With this update, these indicators also capture files/folders moved to recycle bin which includes FileRecycled, FolderRecycled, so you will see more activities being captured by these indicators. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/389842.json",
+    "CurrentVersion": {
+      "guid": "389842",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389842",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": "Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g. outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/389854.json",
+    "CurrentVersion": {
+      "guid": "389854",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389854",
+      "category": [
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Tenant Allow Block list in GCC, GCCH, and DoD",
+      "description": "All the Tenant Allow/Block functionality as present in WW environment will be available to admins and security analyst of GCC, GCCH, and DoD.",
+      "pubDate": "Fri, 29 Mar 2024 22:15:32 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "389854",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389854",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web"
+      ],
+      "title": "Microsoft Defender for Office 365: Tenant Allow Block list in GCC, GCCH, and DoD",
+      "description": "All the Tenant Allow/Block functionality as present in WW environment will be available to admins and security analyst of GCC, GCCH, and DoD.",
+      "pubDate": "Fri, 29 Mar 2024 22:15:32 -0700",
+      "updated": "2024-03-30T05:15:32+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/391639.json",
+    "CurrentVersion": {
+      "guid": "391639",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391639",
+      "category": [
+        "Bookings",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Bookings: SMS Notifications for Staff scheduled appointments in Bookings (Premium)",
+      "description": "If you have a Microsoft Teams Premium license you can now set up SMS text notifications in Microsoft Bookings to be sent to the person booking an appointment. Currently, SMS notifications will be sent only when appointments are scheduled by an attendee via a published booking page. With this update, the capability is extended to include sending SMS confirmations and reminders to the attendee when appointments are booked through the calendar scheduling experience in Bookings by a scheduler or a staff member.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/391640.json",
+    "CurrentVersion": {
+      "guid": "391640",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391640",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Apps now supported in group chats with external users",
+      "description": "Users can now access applications in group chats with individuals outside their organization, fostering improved collaboration, interactivity, and productivity. The group chat’s host involving external participants can install, remove, or update applications for use by all members.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/145802/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": ",We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/162653/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "162653",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162653",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook : Upload and share documents through OneDrive on large emails",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">When you try to attach a file to an email\nmessage that has hit the maximum size limit, or when an attachment will push\nthe email over that limit, you will be prompted to upload the file to the\nOneDrive account associated with the email&nbsp;so that you can still easily\nshare the document.</span> </div>",
+      "pubDate": "Tue, 22 Aug 2023 23:16:49 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167892/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "167892",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167892",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pick a local folder for saving attachments",
+      "description": "Users are now able to pick a folder when saving an attachment in the new Outlook for Windows. This feature was rolled back to address some critical user feedback; we apologize for any inconvenience.",
+      "pubDate": "Tue, 10 Oct 2023 07:00:00 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/168523/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "168523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168523",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting Options Categorization",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">We\nare introducing grouping within Meeting Options to improve organizers’ and\nco-organizers’ ease of understanding selections.</span> </div>",
+      "pubDate": "Fri, 01 Dec 2023 00:11:23 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/169201/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "169201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=169201",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: In-app Teams devices store experience",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos&quot;,sans-serif;color:black;\">With the Teams device store experience inside the\nTeams app, customers can easily discover and purchase certified Teams devices\nfor personal or shared use cases – headsets, web cameras, desk phones, Teams\nRooms, and more. Explore devices in categories, use search or filters to find\ndesired device, and purchase all through the familiar Microsoft Teams\ninterface. We are introducing a new experience for small businesses to purchase\ndevices directly within Teams, businesses in the US and Canada will now be able\nto complete their purchase without leaving the app</span>.</span> </div>",
+      "pubDate": "Tue, 21 Nov 2023 00:43:59 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/170738/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "170738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Keyword highlight support for document trainable classifiers",
+      "description": "Highlight the keywords/phrases that are contributing significantly to the Trainable classifier results, so that users can easily understand the classification of the documents. This would build trust of the users of the OOB classifications and empower them to create DLP policies.",
+      "pubDate": "Fri, 08 Sep 2023 22:53:12 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/180795/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "180795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=180795",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Add a hyperlink or text callout to a video at specific times",
+      "description": "Make your video interactive and more engaging by adding annotations that can include hyperlinks and text. Call out important moments or share documents and other links to additional resources. You can add text and links anywhere in the video timeline to help guide your viewers to the right information. Note: The release state now reflects the current status. We apologize for any inconveniences.",
+      "pubDate": "Thu, 12 Oct 2023 23:07:11 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186553/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "186553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186553",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Azure protected voicemail on Teams App",
+      "description": "Teams users will now have link to their Azure protected voicemails from the Teams App. Users will get notification for the voicemail on the Teams App and can open the attached link to access the voicemail on the web browser.",
+      "pubDate": "Wed, 29 Nov 2023 00:04:04 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/332800/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "332800",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332800",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tenant-wide policy for permission to download meeting transcripts and user-level controls for who can view and edit meeting transcripts",
+      "description": "Introducing a new control for IT administrators to restrict permissions for the download of meeting transcript files (stored in OneDrive for Business) for any users within the tenant. This policy applies to new meeting transcripts across the entire organization. Administrators can exempt people who are members of specified security groups from the policy. This allows admins to specify governance or compliance specialists who should have download access to meeting transcripts. We are also updating the default permissions so that even when the policy is not applied only transcript owners (recording initiator or meeting organizer) will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition to the tenant-wide policy for download permission, the meeting organizer will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript in Stream.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/341083/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "341083",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=341083",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Inactive teams and inactive domains report export capability",
+      "description": "Admins will be able to export the inactive teams and inactive domains reports to a csv file in Teams Admin Center.",
+      "pubDate": "Fri, 09 Feb 2024 23:00:37 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/367053/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "367053",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=367053",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Oversharing Popups enhancements on Outlook win32 desktop",
+      "description": ",We are expanding the functionality of oversharing popups (Show policy tip as a dialog) in outlook win32 to support the following: 1) Additional scenarios powered with predicates such as Content is not labeled, Message/Attachment is not labeled, and File extension is, and 2) Customizable oversharing dialog with the ability to configure custom title, body, business justifications, and dynamic variables/tokens for matched recipients, attachment names, and labels.",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/372115/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "372115",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=372115",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for delegates and delegators",
+      "description": "We're continuing to provide a more tailored call delegation experience. Call delegators and delegates will now be able to see shared call history records for the shared line.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375485/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "375485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375485",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Pay-as-you-go transcript translations",
+      "description": "Make your content more inclusive by creating videos that your coworkers can easily view and understand in their primary language. Transcript translations in Stream (on SharePoint) give you the option to translate the transcript and closed captions of your Stream videos into more than 100 supported languages. To enable translations Admins must first setup billing using an Azure subscription, then they must be enable the feature in the M365 Admin center. Once enabled translations are billed via pay-as-you-go meters.<br>More info: https://support.microsoft.com/en-us/office/microsoft-syntex-pay-as-you-go-transcript-translations-in-stream-for-sharepoint-2e34ad1b-e213-47ed-a806-5cc0d88751de",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377303/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "377303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377303",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat for organizers and presenters in town hall",
+      "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+      "pubDate": "Thu, 01 Feb 2024 00:45:41 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377674/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381734/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "381734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated teams and channels onboarding flow",
+      "description": "When added to a new team, users can see which channels the team owner recommended, and select to show only the channels that are relevant to them.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383734/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "383734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "Launched",
+        "Microsoft Viva"
+      ],
+      "title": "Microsoft Viva: New landing experience for Viva Connections desktop",
+      "description": "Help people in your organization manage their daily flow of work using a customized landing experience in Teams that displays the most important tasks, tools, news, and resources in one central place. The new landing experience offers expanded navigational tools between Viva apps and acts as the home base for Viva experiences in Teams.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388736/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "388736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388736",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection - Enhancements to insider risk level settings",
+      "description": ",With this new feature, an admin can choose whether they want to expire the Adaptive Protection insider risk level. Today, this expiration happens automatically, but you can now choose to keep the Adaptive Protection insider risk level for a user, even if their alert is dismissed or case is closed. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389841/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "389841",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389841",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Improvements to “Deleting of SharePoint files/folders” indicators ",
+      "description": "Today “Deleting of SharePoint files” and “Deleting of SharePoint folders” indicators include permanent file or folder deletion event operations FileDeleted, FolderDeleted respectively. With this update, these indicators also capture files/folders moved to recycle bin which includes FileRecycled, FolderRecycled, so you will see more activities being captured by these indicators. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389842/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "389842",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389842",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": "Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g. outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389854/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "389854",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389854",
+      "category": [
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Tenant Allow Block list in GCC, GCCH, and DoD",
+      "description": "All the Tenant Allow/Block functionality as present in WW environment will be available to admins and security analyst of GCC, GCCH, and DoD.",
+      "pubDate": "Fri, 29 Mar 2024 22:15:32 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/391639/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "391639",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391639",
+      "category": [
+        "Bookings",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Bookings: SMS Notifications for Staff scheduled appointments in Bookings (Premium)",
+      "description": "If you have a Microsoft Teams Premium license you can now set up SMS text notifications in Microsoft Bookings to be sent to the person booking an appointment. Currently, SMS notifications will be sent only when appointments are scheduled by an attendee via a published booking page. With this update, the capability is extended to include sending SMS confirmations and reminders to the attendee when appointments are booked through the calendar scheduling experience in Bookings by a scheduler or a staff member.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/391640/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-04T02:08:53.0047378+00:00",
+      "guid": "391640",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391640",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Apps now supported in group chats with external users",
+      "description": "Users can now access applications in group chats with individuals outside their organization, fostering improved collaboration, interactivity, and productivity. The group chat’s host involving external participants can install, remove, or update applications for use by all members.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
