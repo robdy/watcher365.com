@@ -1,0 +1,1561 @@
+[
+  {
+    "Path": "data/117546.json",
+    "CurrentVersion": {
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security &amp; Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security &amp; Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2024-03-05T08:15:12+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "September CY2023"
+    }
+  },
+  {
+    "Path": "data/124779.json",
+    "CurrentVersion": {
+      "guid": "124779",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The cloud environments have been updated to show the current state.  We apologize for any incovenience this may cause.",
+      "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "June CY2023"
+    },
+    "OldVersion": {
+      "guid": "124779",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The cloud environments have been updated to show the current state.  We apologize for any incovenience this may cause.",
+      "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+      "updated": "2024-03-27T06:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "June CY2023"
+    }
+  },
+  {
+    "Path": "data/124954.json",
+    "CurrentVersion": {
+      "guid": "124954",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124954",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: New out-of-the-box templates",
+      "description": "<div>Quickly create a project from an assortment of new out-of-the box templates including a project retrospective template, a goals template and more. </div>",
+      "pubDate": "Thu, 25 May 2023 23:10:12 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124954",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124954",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: New out-of-the-box templates",
+      "description": "Quickly create a project from an assortment of new out-of-the box templates including a project retrospective template, a goals template and more.",
+      "pubDate": "Thu, 25 May 2023 23:10:12 -0700",
+      "updated": "2023-07-26T06:06:27+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/145118.json",
+    "CurrentVersion": {
+      "guid": "145118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145118",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management – New Microsoft Graph APIs for retention labels in SharePoint and OneDrive",
+      "description": ",<div><span>Organizations can use Microsoft Graph APIs to manage retention labels on items in SharePoint and OneDrive. This update includes the ability to apply and remove retention labels on items, get information about retention labels applied to items, and lock/unlock labels that classify content as records.</span> </div><div> </div><div> </div>",
+      "pubDate": "Thu, 29 Jun 2023 23:29:56 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {
+      "guid": "145118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145118",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management – New Microsoft Graph APIs for retention labels in SharePoint and OneDrive",
+      "description": ",Organizations can use Microsoft Graph APIs to manage retention labels on items in SharePoint and OneDrive. This update includes the ability to apply and remove retention labels on items, get information about retention labels applied to items, and lock/unlock labels that classify content as records.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:56 -0700",
+      "updated": "2023-08-30T06:17:48+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": "September CY2023"
+    }
+  },
+  {
+    "Path": "data/165278.json",
+    "CurrentVersion": {
+      "guid": "165278",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165278",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Flexible PKG install for macOS",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Agent-based advanced app deployment that unlocks\nthe ability to deploy complex PKG-type apps that are business-critical.</span> </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:53 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "July CY2023"
+    },
+    "OldVersion": {
+      "guid": "165278",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165278",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Flexible PKG install for macOS",
+      "description": ",Agent-based advanced app deployment that unlocks\nthe ability to deploy complex PKG-type apps that are business-critical.",
+      "pubDate": "Mon, 21 Aug 2023 23:11:53 -0700",
+      "updated": "2023-08-22T06:08:29+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "July CY2023"
+    }
+  },
+  {
+    "Path": "data/186964.json",
+    "CurrentVersion": {
+      "guid": "186964",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186964",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: New Microsoft Planner App for Teams",
+      "description": "<div><span style=\"\">The new\nMicrosoft Planner app in Teams is a single, unified work management experience.\nAssisted by AI, it brings together the simplicity of To Do, the collaboration\nof Planner and the power of Project into a single and simple solution, that\noffers individual task management, collaborative work management as well as\nenterprise work management.</span> </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:06 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186964",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186964",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: New Microsoft Planner App for Teams",
+      "description": "The new\nMicrosoft Planner app in Teams is a single, unified work management experience.\nAssisted by AI, it brings together the simplicity of To Do, the collaboration\nof Planner and the power of Project into a single and simple solution, that\noffers individual task management, collaborative work management as well as\nenterprise work management.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:06 -0800",
+      "updated": "2023-11-16T08:22:51+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186965.json",
+    "CurrentVersion": {
+      "guid": "186965",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186965",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Copilot in Planner",
+      "description": "Through simple, natural-language prompts, Copilot in the Planner Teams app will help you generate new plans, set goals, track status, and react to changes as projects evolve.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:09 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186965",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186965",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Copilot in Planner",
+      "description": "Through simple, natural-language prompts, Copilot in the Planner Teams app will help you generate new plans, set goals, track status, and react to changes as projects evolve.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:09 -0800",
+      "updated": "2024-04-02T02:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186966.json",
+    "CurrentVersion": {
+      "guid": "186966",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186966",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Open and Edit Projects in Planner",
+      "description": "Manage your projects along with plans and to-do lists in one simple, familiar experience within the Planner Teams app.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:10 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186966",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186966",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Open and Edit Projects in Planner",
+      "description": "Manage your projects along with plans and to-do lists in one simple, familiar experience within the Planner Teams app.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:10 -0800",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186970.json",
+    "CurrentVersion": {
+      "guid": "186970",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186970",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Create personal plans in Planner",
+      "description": "<div>Create personal plans in the new Planner app for Teams. For these types of plans, the creator of the plan is the only member and owner. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:14 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186970",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186970",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Create personal plans in Planner",
+      "description": "<div>Create personal plans in the new Planner app for Teams. For these types of plans, the creator of the plan is the only member and owner. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:14 -0800",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186971.json",
+    "CurrentVersion": {
+      "guid": "186971",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186971",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Auto population of due tasks in My Day",
+      "description": "In the Planner Teams app, your tasks will automatically appear in My Day on their due dates. This will help you stay on top of your priorities and stay organized throughout the day.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:16 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186971",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186971",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Auto population of due tasks in My Day",
+      "description": "In the Planner Teams app, your tasks will automatically appear in My Day on their due dates. This will help you stay on top of your priorities and stay organized throughout the day.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:16 -0800",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186972.json",
+    "CurrentVersion": {
+      "guid": "186972",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186972",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Manage all your tasks in My Tasks",
+      "description": "My Tasks within the Planner Teams app shows your tasks across plans, projects, to-do lists and flagged emails so you can quickly triage and track all the work on your plate.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:18 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186972",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186972",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Manage all your tasks in My Tasks",
+      "description": "My Tasks within the Planner Teams app shows your tasks across plans, projects, to-do lists and flagged emails so you can quickly triage and track all the work on your plate.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:18 -0800",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/186973.json",
+    "CurrentVersion": {
+      "guid": "186973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186973",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Access all your plans, projects and to do lists in My Plans",
+      "description": "<div>My Plans within the\nPlanner app in Teams brings together all of your plans, projects and to do\nlists to help you easily discover and find all your work. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:20 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186973",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Access all your plans, projects and to do lists in My Plans",
+      "description": "<div>My Plans within the\nPlanner app in Teams brings together all of your plans, projects and to do\nlists to help you easily discover and find all your work. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:20 -0800",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/187139.json",
+    "CurrentVersion": {
+      "guid": "187139",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187139",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: Baseline with Project level variance",
+      "description": "Record a snapshot of the project and view project level variance to know if the project is on track or delayed.",
+      "pubDate": "Tue, 14 Nov 2023 00:06:23 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "187139",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187139",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: Baseline with Project level variance",
+      "description": "Record a snapshot of the project and view project level variance to know if the project is on track or delayed.",
+      "pubDate": "Tue, 14 Nov 2023 00:06:23 -0800",
+      "updated": "2023-11-14T08:01:50+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/192834.json",
+    "CurrentVersion": {
+      "guid": "192834",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192834",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Search",
+        "Web"
+      ],
+      "title": "Microsoft Search: Customize default verticals, add verticals and filters",
+      "description": "<div>New support for Microsoft Search allows you to customize out of the box verticals for Microsoft Search and add new verticals and filters based on SharePoint content. </div><div> </div><div> </div>",
+      "pubDate": "Fri, 08 Dec 2023 00:16:48 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "192834",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192834",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Search",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Search: Customize default verticals, add verticals and filters",
+      "description": "<div>New support for Microsoft Search allows you to customize out of the box verticals for Microsoft Search and add new verticals and filters based on SharePoint content. </div><div> </div><div> </div>",
+      "pubDate": "Fri, 08 Dec 2023 00:16:48 -0800",
+      "updated": "2024-01-30T09:15:18+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/373735.json",
+    "CurrentVersion": {
+      "guid": "373735",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373735",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Copilot for Microsoft 365",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): File reference - PDF and Excel file type support",
+      "description": "This introduces the ability for users to reference PDF and Excel files when generating content.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/374708.json",
+    "CurrentVersion": {
+      "guid": "374708",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374708",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Room Remote on Desktop for GCC",
+      "description": "The Room Remote feature enables touchless meeting experiences by allowing users to control a nearby shared Teams Rooms device (Windows or Android) from their PC companion device with the Teams client.",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "374708",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374708",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out"
+      ],
+      "title": "Microsoft Teams: Room Remote on Desktop for GCC",
+      "description": "The Room Remote feature enables touchless meeting experiences by allowing users to control a nearby shared Teams Rooms device (Windows or Android) from their PC companion device with the Teams client.",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-03-28T07:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/376219.json",
+    "CurrentVersion": {
+      "guid": "376219",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376219",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin setting for uploading files using drag-drop",
+      "description": "Admin will be able to control the default content app for local files uploaded using drag-drop in chat and channels. OneDrive / SharePoint are the existing default locations for uploads using drag-drop.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "376219",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376219",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin setting for uploading files using drag-drop",
+      "description": "Admin will be able to control the default content app for local files uploaded using drag-drop in chat and channels. OneDrive / SharePoint are the existing default locations for uploads using drag-drop.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-02-21T08:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/377676.json",
+    "CurrentVersion": {
+      "guid": "377676",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377676",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Microsoft Copilot with commercial data protection",
+      "description": "A new product usage report will be added in the Microsoft 365 admin center providing insights into active usage of Microsoft Copilot with commercial data protection. The report will include total active users, average daily active users, and active users per platform (i.e. Bing, Edge, Windows, copilot.microsoft.com, and Copilot mobile app). Usage insights can be viewed as totals and trends for the past 7, 30, 90 or 180-day periods. The report will also show the last activity date per user, anonymized by default.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/379610.json",
+    "CurrentVersion": {
+      "guid": "379610",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379610",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Privacy statement customization in Meetings",
+      "description": "Admins can customize the privacy statement link shown to attendees joining a Teams Meeting. Admins can update the content for the privacy statement under the privacy profile in the Microsoft Admin Center.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "379610",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379610",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Privacy statement customization in Meetings",
+      "description": "Admins can customize the privacy statement link shown to attendees joining a Teams Meeting. Admins can update the content for the privacy statement under the privacy profile in the Microsoft Admin Center.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-03-09T07:15:19+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380185.json",
+    "CurrentVersion": {
+      "guid": "380185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380185",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Defender for Office 365",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Exchange: Microsoft Defender for Office 365 - Quarantine End User Allow and Block list management",
+      "description": "We are Updating the experience for end user allow and block list management of their emails. With one click, end users will block emails from unwanted senders and prevent those emails from showing up in their default quarantine view anymore as well as in their Quarantine notifications. End users will also be able to allow emails from trusted senders and prevent future emails from those senders from landing in quarantine given there are no Admin overrides in place. End users will also have visibility into Admin overrides that led to a Quarantined email message if there is one.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "380185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380185",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Exchange: Microsoft Defender for Office 365 - Quarantine End User Allow and Block list management",
+      "description": "We are Updating the experience for end user allow and block list management of their emails. With one click, end users will block emails from unwanted senders and prevent those emails from showing up in their default quarantine view anymore as well as in their Quarantine notifications. End users will also be able to allow emails from trusted senders and prevent future emails from those senders from landing in quarantine given there are no Admin overrides in place. End users will also have visibility into Admin overrides that led to a Quarantined email message if there is one.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-03-14T07:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380186.json",
+    "CurrentVersion": {
+      "guid": "380186",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380186",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Streamlined False positive submission for Quarantined files from OneDrive, Teams, and SharePoint",
+      "description": "We are providing an easy and robust way for Admins and security operators to submit and temporary mitigate False positive files that have been Quarantined from the OneDrive, Teams and SharePoint workload. Note: The rollout of this feature has been postponed indefinitely due to a shift in our strategic direction. We apologize for any inconvenience this may cause.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "380186",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380186",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Streamlined False positive submission for Quarantined files from OneDrive, Teams, and SharePoint",
+      "description": "We are providing an easy and robust way  for Admins and security operators to submit and temporary mitigate False positive files that have been Quarantined from the OneDrive, Teams and SharePoint workload.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-02-28T08:45:58+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380821.json",
+    "CurrentVersion": {
+      "guid": "380821",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380821",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Copilot for Microsoft 365",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Summary in Chat support for document text selection",
+      "description": "Summary requests in chat can be limited to operate only on the user-selected text in the document rather than operating on the entire document.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/381128.json",
+    "CurrentVersion": {
+      "guid": "381128",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381128",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: Auto-captioning in Clipchamp",
+      "description": "Clipchamp now enables making your videos accessible or easy to follow while muted. Easily generate real-time captions in just one click with the auto-captions feature. Using smart voice detection technology, our auto-captions generates captions and a downloadable SRT file for you, with no typing required. The transcript also creates an index of timestamps to help you navigate and edit your video faster. You can correct the captions if there are any mistakes using the captions panel easily.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381128",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381128",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: Auto-captioning in Clipchamp",
+      "description": "Clipchamp now enables making your videos accessible or easy to follow while muted. Easily generate real-time captions in just one click with the auto-captions feature. Using smart voice detection technology, our auto-captions generates captions and a downloadable SRT file for you, with no typing required. The transcript also creates an index of timestamps to help you navigate and edit your video faster. You can correct the captions if there are any mistakes using the captions panel easily.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-03-06T09:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381734.json",
+    "CurrentVersion": {
+      "guid": "381734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated teams and channels onboarding flow",
+      "description": "When added to a new team, users can see which channels the team owner recommended, and select to show only the channels that are relevant to them.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated teams and channels onboarding flow",
+      "description": "When added to a new team, users can see which channels the team owner recommended, and select to show only the channels that are relevant to them.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392455.json",
+    "CurrentVersion": {
+      "guid": "392455",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392455",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Teams and Surface Devices",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Whiteboard Copilot – First run experience ",
+      "description": "Copilot FRE will guide first-time users to discover and leverage the power of Whiteboard Copilot features. ?",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117546/v0015.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "117546",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117546",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer",
+      "description": ",The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security &amp; Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Thu, 09 Mar 2023 00:15:54 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124779/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "124779",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124779",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular exclusion",
+      "description": ",Granular exclusion allows admins to adjust and fine tune indicators according to organizational preferences to help tailor the detection of risks that may lead to a potential security incident. For example, admins can configure the indicator “sending email with attachments to recipients outside the organization” to only detect emails sent to personal domains (e.g., outlook.com). In that way, admins can reduce the number of false positives. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The cloud environments have been updated to show the current state.  We apologize for any incovenience this may cause.",
+      "pubDate": "Thu, 30 Mar 2023 23:04:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "June CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124954/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "124954",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124954",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: New out-of-the-box templates",
+      "description": "<div>Quickly create a project from an assortment of new out-of-the box templates including a project retrospective template, a goals template and more. </div>",
+      "pubDate": "Thu, 25 May 2023 23:10:12 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/145118/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "145118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145118",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management – New Microsoft Graph APIs for retention labels in SharePoint and OneDrive",
+      "description": ",<div><span>Organizations can use Microsoft Graph APIs to manage retention labels on items in SharePoint and OneDrive. This update includes the ability to apply and remove retention labels on items, get information about retention labels applied to items, and lock/unlock labels that classify content as records.</span> </div><div> </div><div> </div>",
+      "pubDate": "Thu, 29 Jun 2023 23:29:56 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/165278/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "165278",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165278",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Flexible PKG install for macOS",
+      "description": ",<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Agent-based advanced app deployment that unlocks\nthe ability to deploy complex PKG-type apps that are business-critical.</span> </div>",
+      "pubDate": "Mon, 21 Aug 2023 23:11:53 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "July CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186964/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186964",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186964",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: New Microsoft Planner App for Teams",
+      "description": "<div><span style=\"\">The new\nMicrosoft Planner app in Teams is a single, unified work management experience.\nAssisted by AI, it brings together the simplicity of To Do, the collaboration\nof Planner and the power of Project into a single and simple solution, that\noffers individual task management, collaborative work management as well as\nenterprise work management.</span> </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:06 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186965/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186965",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186965",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Copilot in Planner",
+      "description": "Through simple, natural-language prompts, Copilot in the Planner Teams app will help you generate new plans, set goals, track status, and react to changes as projects evolve.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:09 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186966/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186966",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186966",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Open and Edit Projects in Planner",
+      "description": "Manage your projects along with plans and to-do lists in one simple, familiar experience within the Planner Teams app.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:10 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186970/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186970",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186970",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Create personal plans in Planner",
+      "description": "<div>Create personal plans in the new Planner app for Teams. For these types of plans, the creator of the plan is the only member and owner. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:14 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186971/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186971",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186971",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Auto population of due tasks in My Day",
+      "description": "In the Planner Teams app, your tasks will automatically appear in My Day on their due dates. This will help you stay on top of your priorities and stay organized throughout the day.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:16 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186972/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186972",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186972",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Manage all your tasks in My Tasks",
+      "description": "My Tasks within the Planner Teams app shows your tasks across plans, projects, to-do lists and flagged emails so you can quickly triage and track all the work on your plate.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:18 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186973/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "186973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186973",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Access all your plans, projects and to do lists in My Plans",
+      "description": "<div>My Plans within the\nPlanner app in Teams brings together all of your plans, projects and to do\nlists to help you easily discover and find all your work. </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:20 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/187139/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "187139",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187139",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Project: Baseline with Project level variance",
+      "description": "Record a snapshot of the project and view project level variance to know if the project is on track or delayed.",
+      "pubDate": "Tue, 14 Nov 2023 00:06:23 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/192834/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "192834",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=192834",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Search",
+        "Web"
+      ],
+      "title": "Microsoft Search: Customize default verticals, add verticals and filters",
+      "description": "<div>New support for Microsoft Search allows you to customize out of the box verticals for Microsoft Search and add new verticals and filters based on SharePoint content. </div><div> </div><div> </div>",
+      "pubDate": "Fri, 08 Dec 2023 00:16:48 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/373735/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "373735",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373735",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Copilot for Microsoft 365",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): File reference - PDF and Excel file type support",
+      "description": "This introduces the ability for users to reference PDF and Excel files when generating content.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374708/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "374708",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374708",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Room Remote on Desktop for GCC",
+      "description": "The Room Remote feature enables touchless meeting experiences by allowing users to control a nearby shared Teams Rooms device (Windows or Android) from their PC companion device with the Teams client.",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/376219/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "376219",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=376219",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin setting for uploading files using drag-drop",
+      "description": "Admin will be able to control the default content app for local files uploaded using drag-drop in chat and channels. OneDrive / SharePoint are the existing default locations for uploads using drag-drop.",
+      "pubDate": "Fri, 05 Jan 2024 23:45:56 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377676/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "377676",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377676",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Microsoft Copilot with commercial data protection",
+      "description": "A new product usage report will be added in the Microsoft 365 admin center providing insights into active usage of Microsoft Copilot with commercial data protection. The report will include total active users, average daily active users, and active users per platform (i.e. Bing, Edge, Windows, copilot.microsoft.com, and Copilot mobile app). Usage insights can be viewed as totals and trends for the past 7, 30, 90 or 180-day periods. The report will also show the last activity date per user, anonymized by default.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/379610/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "379610",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379610",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Privacy statement customization in Meetings",
+      "description": "Admins can customize the privacy statement link shown to attendees joining a Teams Meeting. Admins can update the content for the privacy statement under the privacy profile in the Microsoft Admin Center.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380185/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "380185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380185",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Defender for Office 365",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Exchange: Microsoft Defender for Office 365 - Quarantine End User Allow and Block list management",
+      "description": "We are Updating the experience for end user allow and block list management of their emails. With one click, end users will block emails from unwanted senders and prevent those emails from showing up in their default quarantine view anymore as well as in their Quarantine notifications. End users will also be able to allow emails from trusted senders and prevent future emails from those senders from landing in quarantine given there are no Admin overrides in place. End users will also have visibility into Admin overrides that led to a Quarantined email message if there is one.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380186/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "380186",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380186",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Streamlined False positive submission for Quarantined files from OneDrive, Teams, and SharePoint",
+      "description": "We are providing an easy and robust way for Admins and security operators to submit and temporary mitigate False positive files that have been Quarantined from the OneDrive, Teams and SharePoint workload. Note: The rollout of this feature has been postponed indefinitely due to a shift in our strategic direction. We apologize for any inconvenience this may cause.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380821/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "380821",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380821",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Copilot for Microsoft 365",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Summary in Chat support for document text selection",
+      "description": "Summary requests in chat can be limited to operate only on the user-selected text in the document rather than operating on the entire document.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381128/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "381128",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381128",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: Auto-captioning in Clipchamp",
+      "description": "Clipchamp now enables making your videos accessible or easy to follow while muted. Easily generate real-time captions in just one click with the auto-captions feature. Using smart voice detection technology, our auto-captions generates captions and a downloadable SRT file for you, with no typing required. The transcript also creates an index of timestamps to help you navigate and edit your video faster. You can correct the captions if there are any mistakes using the captions panel easily.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381734/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "381734",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381734",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated teams and channels onboarding flow",
+      "description": "When added to a new team, users can see which channels the team owner recommended, and select to show only the channels that are relevant to them.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392455/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-04-05T02:08:12.8814458+00:00",
+      "guid": "392455",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392455",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Teams and Surface Devices",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Whiteboard Copilot – First run experience ",
+      "description": "Copilot FRE will guide first-time users to discover and leverage the power of Whiteboard Copilot features. ?",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 -0700",
+      "updated": "2024-04-05T06:15:16+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
