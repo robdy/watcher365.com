@@ -1,4 +1,5 @@
 {
+  "timestamp": "2024-04-19T02:10:47.0158270+00:00",
   "guid": "388366",
   "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388366",
   "category": [
@@ -11,7 +12,7 @@
   "title": "Microsoft Edge: v.124 - Updated Edge Profile account re-authentication popup when Browser to Web Single-Sign-On (SSO) fails. ",
   "description": "Edge provides a browser to Web single sign-on (SSO) capability that lets a user sign in to their Edge Profile with a web account first and then automatically sign them into Microsoft first party websites.\n\t\nThis is done by saving cached credentials. This approach works until there's an authentication challenge to the cached credentials. A typical scenario is when a user changes their password on a different device. The cached credentials on the current device become outdated and SSO fails. Edge detects this failure and shows a re-authentication popup that prompts the user to update their cached credentials on the current device.",
   "pubDate": "Thu, 14 Mar 2024 00:15:09 -0700",
-  "updated": "2024-04-18T23:15:11-07:00",
+  "updated": "2024-04-19T06:15:11+00:00",
   "publicDisclosureAvailabilityDate": "April CY2024",
   "publicPreviewDate": null
 }
