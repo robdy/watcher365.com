@@ -1,0 +1,794 @@
+[
+  {
+    "Path": "data/103621.json",
+    "CurrentVersion": {
+      "guid": "103621",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103621",
+      "category": [
+        "General Availability",
+        "iOS",
+        "Launched",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: iOS Home Tab",
+      "description": "Quickly view all of your notes in a new grid style format.",
+      "pubDate": "Wed, 07 Dec 2022 00:06:31 -0800",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "103621",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103621",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: iOS Home Tab",
+      "description": "Quickly view all of your notes in a new grid style format.",
+      "pubDate": "Wed, 07 Dec 2022 00:06:31 -0800",
+      "updated": "2023-03-17T07:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/108887.json",
+    "CurrentVersion": {
+      "guid": "108887",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=108887",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Managing document permissions in Outlook for iOS",
+      "description": "Now, when you add a OneDrive or SharePoint file to an email, Outlook will notify you if anyone doesn't yet have permissions so you can update those before sending your email.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/124840.json",
+    "CurrentVersion": {
+      "guid": "124840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124840",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Copilot in SharePoint",
+      "description": ",Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content.  Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise.",
+      "pubDate": "Tue, 02 May 2023 23:25:14 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "124840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124840",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Copilot in SharePoint",
+      "description": ",Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content.  Use a brief prompt to generate custom sites and pages with content hierarchy, design, and sample content that aligns with user needs. And all within our existing commitments to data security and privacy in the enterprise.",
+      "pubDate": "Tue, 02 May 2023 23:25:14 -0700",
+      "updated": "2024-04-02T02:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/124859.json",
+    "CurrentVersion": {
+      "guid": "124859",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124859",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Activity explorer export limit increase (U.S. Government clouds)",
+      "description": "The activity explorer's export limit will increase from 10K to 100K records. This update will benefit organizations that prefer exporting user activity insights to a CSV file, as they now can filter, sort, or pivot a bigger data set more conveniently. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 16 May 2023 23:14:23 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124859",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124859",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Activity explorer export limit increase (U.S. Government clouds)",
+      "description": "The activity explorer's export limit will increase from 10K to 100K records. This update will benefit organizations that prefer exporting user activity insights to a CSV file, as they now can filter, sort, or pivot a bigger data set more conveniently. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 16 May 2023 23:14:23 -0700",
+      "updated": "2023-10-20T06:08:50+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/124932.json",
+    "CurrentVersion": {
+      "guid": "124932",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124932",
+      "category": [
+        "Android",
+        "Desktop",
+        "Developer",
+        "DoD",
+        "Education",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Stream",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)",
+        "Yammer"
+      ],
+      "title": "Microsoft Stream: Automatic transcriptions for video files uploaded to SharePoint, Yammer, and Office.com",
+      "description": "Videos uploaded to SharePoint Online, Yammer, and Office.com will have transcriptions automatically generated shortly after upload.",
+      "pubDate": "Wed, 07 Jun 2023 23:15:52 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124932",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124932",
+      "category": [
+        "Android",
+        "Desktop",
+        "Developer",
+        "DoD",
+        "Education",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Stream",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)",
+        "Yammer"
+      ],
+      "title": "Microsoft Stream: Automatic transcriptions for video files uploaded to SharePoint, Yammer, and Office.com",
+      "description": "Videos uploaded to SharePoint Online, Yammer, and Office.com will have transcriptions automatically generated shortly after upload. This feature will not be available for A1 and trial tenancies.",
+      "pubDate": "Wed, 07 Jun 2023 23:15:52 -0700",
+      "updated": "2024-05-14T06:15:36+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/178921.json",
+    "CurrentVersion": {
+      "guid": "178921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178921",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Microsoft Tunnel - Gateway Scaling",
+      "description": "<div>Increase the number of clients supported per Tunnel gateway server from 5,000 to over 20,000 per server. </div>",
+      "pubDate": "Fri, 20 Oct 2023 22:29:20 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "178921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178921",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Microsoft Tunnel - Gateway Scaling",
+      "description": "<div>Increase the number of clients supported per Tunnel gateway server from 5,000 to over 20,000 per server. </div>",
+      "pubDate": "Fri, 20 Oct 2023 22:29:20 -0700",
+      "updated": "2024-04-12T06:15:26+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/179897.json",
+    "CurrentVersion": {
+      "guid": "179897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179897",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced Third Party app purchase experience in Teams and Teams Admin Center",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Shipping\nan enhanced purchase experience in a Teams look and feel for Teams 3 party\napplication in both Teams store and Teams Admin Center. This feature will\nslowly roll out, first to customers with a commerce billing account then to\ncustomer without a commerce billing account.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:33 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "179897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179897",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced Third Party app purchase experience in Teams and Teams Admin Center",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Shipping\nan enhanced purchase experience in a Teams look and feel for Teams 3 party\napplication in both Teams store and Teams Admin Center. This feature will\nslowly roll out, first to customers with a commerce billing account then to\ncustomer without a commerce billing account.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:33 -0700",
+      "updated": "2024-02-14T08:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/384363.json",
+    "CurrentVersion": {
+      "guid": "384363",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384363",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams meetings now available on mobile after the meeting",
+      "description": "In addition to accessing Copilot in Teams during a meeting on mobile devices (available now), you can now access Copilot in Teams and ask questions about eligible meetings after the meeting ends on mobile devices.",
+      "pubDate": "Tue, 05 Mar 2024 00:15:12 -0800",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "384363",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384363",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams meetings now available on mobile after the meeting",
+      "description": "In addition to accessing Copilot in Teams during a meeting on mobile devices (available now), you can now access Copilot in Teams and ask questions about eligible meetings after the meeting ends on mobile devices.",
+      "pubDate": "Tue, 05 Mar 2024 00:15:12 -0800",
+      "updated": "2024-05-03T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394668.json",
+    "CurrentVersion": {
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms",
+      "description": "Introducing speaker recognition for Teams Rooms on Windows. This feature provides live transcription with speaker identification, creating a unique \"voiceprint\" for each participant. With speaker recognition, Copilot in Teams can deliver meeting summaries, insights, and action items by attributing contributions to individual speakers. Participants can easily set up a voice profile using the Teams Desktop app. Users' individual voice signatures are stored securely in your organization's tenant in the Microsoft Cloud, ensuring accurate capture of every contribution in every meeting.",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms",
+      "description": "With Microsoft Teams Rooms, participants can be distinguished automatically regardless of what kind of device is capturing audio in a meeting, and their contributions are attributed in the transcript, making meetings more inclusive and productive. Speaker recognition will be enabled for any in-person meeting participant who has completed the simple face and voice enrollment process, and is included on the meeting invitation. They can also see auto-generated meeting action items assigned to them, important decisions, and meeting highlights by using Copilot.",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 -0700",
+      "updated": "2024-05-01T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395372.json",
+    "CurrentVersion": {
+      "guid": "395372",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395372",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices - Cancel scheduled device operations through Teams admin center",
+      "description": "If a device operation is no longer required, admins will be able to cancel scheduled device operations like, Software update and device restart, through Teams admin center.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395372",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395372",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices - Cancel scheduled device operations through Teams admin center",
+      "description": "If a device operation is no longer required, admins will be able to cancel scheduled device operations like, Software update and device restart, through Teams admin center.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 -0700",
+      "updated": "2024-05-07T06:45:36+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395787.json",
+    "CurrentVersion": {
+      "guid": "395787",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395787",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Copilot Chat on OneNote for iPad",
+      "description": "OneNote Copilot on iPad is your intelligent assistant, transforming the way you interact with your notes. With simple natural language commands, Copilot helps you understand, summarize, and rewrite notes for enhanced clarity and purpose. It’s designed to work seamlessly on the iPad, offering a contextual chat experience that allows you to accomplish tasks faster than ever. Whether you’re preparing for a meeting or organizing your thoughts, OneNote Copilot on iPad is the perfect partner for boosting productivity and creativity on the go.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/395789.json",
+    "CurrentVersion": {
+      "guid": "395789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395789",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multiple insights and notifications on profile cards",
+      "description": "Previously, users were only able to see one insight or notification on their own or on a colleague's profile card. Now they will be able to see multiple insights through a Show All button.  #newoutlookforwindows",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/396558.json",
+    "CurrentVersion": {
+      "guid": "396558",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396558",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Closed captioning support in Teams Walkie Talkie",
+      "description": "Walkie Talkie users can now view captions on the walkie talkie home screen, for transmissions being received.",
+      "pubDate": "Fri, 17 May 2024 16:30:48 -0700",
+      "updated": "2024-05-17T23:30:48+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/103621/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "103621",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=103621",
+      "category": [
+        "General Availability",
+        "iOS",
+        "Launched",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: iOS Home Tab",
+      "description": "Quickly view all of your notes in a new grid style format.",
+      "pubDate": "Wed, 07 Dec 2022 00:06:31 -0800",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/108887/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "108887",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=108887",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Managing document permissions in Outlook for iOS",
+      "description": "Now, when you add a OneDrive or SharePoint file to an email, Outlook will notify you if anyone doesn't yet have permissions so you can update those before sending your email.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124840/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "124840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124840",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Copilot in SharePoint",
+      "description": ",Copilot in SharePoint combines the power of Large Language Models (LLMs), your data in the Microsoft Graph, and best practices to create engaging web content.  Get assistance drafting your content when creating new pages. Adjust the tone, expand meeting bullets into structured text, or get help making your message more concise. All within our existing commitments to data security and privacy in the enterprise.",
+      "pubDate": "Tue, 02 May 2023 23:25:14 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124859/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "124859",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124859",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Activity explorer export limit increase (U.S. Government clouds)",
+      "description": "The activity explorer's export limit will increase from 10K to 100K records. This update will benefit organizations that prefer exporting user activity insights to a CSV file, as they now can filter, sort, or pivot a bigger data set more conveniently. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 16 May 2023 23:14:23 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124932/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "124932",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124932",
+      "category": [
+        "Android",
+        "Desktop",
+        "Developer",
+        "DoD",
+        "Education",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Stream",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)",
+        "Yammer"
+      ],
+      "title": "Microsoft Stream: Automatic transcriptions for video files uploaded to SharePoint, Yammer, and Office.com",
+      "description": "Videos uploaded to SharePoint Online, Yammer, and Office.com will have transcriptions automatically generated shortly after upload.",
+      "pubDate": "Wed, 07 Jun 2023 23:15:52 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178921/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "178921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178921",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Microsoft Tunnel - Gateway Scaling",
+      "description": "<div>Increase the number of clients supported per Tunnel gateway server from 5,000 to over 20,000 per server. </div>",
+      "pubDate": "Fri, 20 Oct 2023 22:29:20 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/179897/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "179897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179897",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced Third Party app purchase experience in Teams and Teams Admin Center",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Shipping\nan enhanced purchase experience in a Teams look and feel for Teams 3 party\napplication in both Teams store and Teams Admin Center. This feature will\nslowly roll out, first to customers with a commerce billing account then to\ncustomer without a commerce billing account.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:33 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384363/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "384363",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384363",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams meetings now available on mobile after the meeting",
+      "description": "In addition to accessing Copilot in Teams during a meeting on mobile devices (available now), you can now access Copilot in Teams and ask questions about eligible meetings after the meeting ends on mobile devices.",
+      "pubDate": "Tue, 05 Mar 2024 00:15:12 -0800",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394668/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms",
+      "description": "Introducing speaker recognition for Teams Rooms on Windows. This feature provides live transcription with speaker identification, creating a unique \"voiceprint\" for each participant. With speaker recognition, Copilot in Teams can deliver meeting summaries, insights, and action items by attributing contributions to individual speakers. Participants can easily set up a voice profile using the Teams Desktop app. Users' individual voice signatures are stored securely in your organization's tenant in the Microsoft Cloud, ensuring accurate capture of every contribution in every meeting.",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395372/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "395372",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395372",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices - Cancel scheduled device operations through Teams admin center",
+      "description": "If a device operation is no longer required, admins will be able to cancel scheduled device operations like, Software update and device restart, through Teams admin center.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395787/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "395787",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395787",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Copilot Chat on OneNote for iPad",
+      "description": "OneNote Copilot on iPad is your intelligent assistant, transforming the way you interact with your notes. With simple natural language commands, Copilot helps you understand, summarize, and rewrite notes for enhanced clarity and purpose. It’s designed to work seamlessly on the iPad, offering a contextual chat experience that allows you to accomplish tasks faster than ever. Whether you’re preparing for a meeting or organizing your thoughts, OneNote Copilot on iPad is the perfect partner for boosting productivity and creativity on the go.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395789/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "395789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395789",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multiple insights and notifications on profile cards",
+      "description": "Previously, users were only able to see one insight or notification on their own or on a colleague's profile card. Now they will be able to see multiple insights through a Show All button.  #newoutlookforwindows",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396558/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-18T02:12:13.166302+00:00",
+      "guid": "396558",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396558",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Closed captioning support in Teams Walkie Talkie",
+      "description": "Walkie Talkie users can now view captions on the walkie talkie home screen, for transmissions being received.",
+      "pubDate": "Fri, 17 May 2024 16:30:48 -0700",
+      "updated": "2024-05-17T23:30:48+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
