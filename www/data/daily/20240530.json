@@ -1,0 +1,764 @@
+[
+  {
+    "Path": "data/100500.json",
+    "CurrentVersion": {
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/124789.json",
+    "CurrentVersion": {
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": ",A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    },
+    "OldVersion": {
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": ",A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 -0700",
+      "updated": "2023-04-04T07:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2023",
+      "publicPreviewDate": "March CY2023"
+    }
+  },
+  {
+    "Path": "data/124827.json",
+    "CurrentVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "<div>The content pane surfaces relevant authoring tools that help authors quickly browse and add content to SharePoint pages. With this new feature, authors can easily drag and drop web parts, media, and section templates for creating rich and engaging pages. </div>",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "<div>The content pane surfaces relevant authoring tools that help authors quickly browse and add content to SharePoint pages. With this new feature, authors can easily drag and drop web parts, media, and section templates for creating rich and engaging pages. </div>",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-04-24T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/131169.json",
+    "CurrentVersion": {
+      "guid": "131169",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;\">Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center</span> </div>",
+      "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "131169",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;\">Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center</span> </div>",
+      "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+      "updated": "2024-04-24T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/178030.json",
+    "CurrentVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-05-01T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/323899.json",
+    "CurrentVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/392454.json",
+    "CurrentVersion": {
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-04-19T06:15:11+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393936.json",
+    "CurrentVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-01T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/395380.json",
+    "CurrentVersion": {
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396344.json",
+    "CurrentVersion": {
+      "guid": "396344",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396344",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerPoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "PowerPoint: Microsoft Copilot (Microsoft 365) – Copilot can create presentations from a PDF file",
+      "description": "Copilot in PowerPoint will now be able to support automatically generating a presentation based on a PDF file. This is in addition to the existing support for automatically generating a presentation based on a Word document.",
+      "pubDate": "Wed, 29 May 2024 23:15:03 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/396345.json",
+    "CurrentVersion": {
+      "guid": "396345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396345",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Viva –  Microsoft Copilot Dashboard in Viva Insights Product Updates",
+      "description": "Adding trendlines to show metric movements over past 6-month time periods, before vs after Copilot comparisons, and providing the option to view an estimated dollar value for the existing Copilot assisted hours metric.",
+      "pubDate": "Fri, 10 May 2024 22:15:43 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396345",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Viva –  Microsoft Copilot Dashboard in Viva Insights Product Updates",
+      "description": "Adding trendlines to show metric movements over past 6-month time periods, before vs after Copilot comparisons, and providing the option to view an estimated dollar value for the existing Copilot assisted hours metric.",
+      "pubDate": "Fri, 10 May 2024 22:15:43 -0700",
+      "updated": "2024-05-11T05:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396731.json",
+    "CurrentVersion": {
+      "guid": "396731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396731",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Suggested M365 content in Callouts",
+      "description": "This feature is an improvement on the Interactivity feature in Microsoft Stream, where users with edit access can add document and other links to Callouts at specific times in a video. The goal of the improvement is to make creating and editing of interactive videos easier and quicker for editors by suggesting resources to link based on their M365 user activity. If there are no relevant suggestions, this allows them to search for resources to make their videos interactive from within Microsoft Stream.",
+      "pubDate": "Mon, 20 May 2024 23:15:02 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396731",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Suggested M365 content in Callouts",
+      "description": "This feature is an improvement on the Interactivity feature in Microsoft Stream, where users with edit access can add document and other links to Callouts at specific times in a video. The goal of the improvement is to make creating and editing of interactive videos easier and quicker for editors by suggesting resources to link based on their M365 user activity. If there are no relevant suggestions, this allows them to search for resources to make their videos interactive from within Microsoft Stream.",
+      "pubDate": "Mon, 20 May 2024 23:15:02 -0700",
+      "updated": "2024-05-24T06:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/100500/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124789/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": ",A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124827/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "<div>The content pane surfaces relevant authoring tools that help authors quickly browse and add content to SharePoint pages. With this new feature, authors can easily drag and drop web parts, media, and section templates for creating rich and engaging pages. </div>",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/131169/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "131169",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;\">Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center</span> </div>",
+      "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178030/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/323899/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392454/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393936/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395380/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396344/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "396344",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396344",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerPoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "PowerPoint: Microsoft Copilot (Microsoft 365) – Copilot can create presentations from a PDF file",
+      "description": "Copilot in PowerPoint will now be able to support automatically generating a presentation based on a PDF file. This is in addition to the existing support for automatically generating a presentation based on a Word document.",
+      "pubDate": "Wed, 29 May 2024 23:15:03 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396345/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "396345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396345",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Viva –  Microsoft Copilot Dashboard in Viva Insights Product Updates",
+      "description": "Adding trendlines to show metric movements over past 6-month time periods, before vs after Copilot comparisons, and providing the option to view an estimated dollar value for the existing Copilot assisted hours metric.",
+      "pubDate": "Fri, 10 May 2024 22:15:43 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396731/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "396731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396731",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Suggested M365 content in Callouts",
+      "description": "This feature is an improvement on the Interactivity feature in Microsoft Stream, where users with edit access can add document and other links to Callouts at specific times in a video. The goal of the improvement is to make creating and editing of interactive videos easier and quicker for editors by suggesting resources to link based on their M365 user activity. If there are no relevant suggestions, this allows them to search for resources to make their videos interactive from within Microsoft Stream.",
+      "pubDate": "Mon, 20 May 2024 23:15:02 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
