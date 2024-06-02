@@ -1,0 +1,3253 @@
+[
+  {
+    "Path": "data/100500.json",
+    "CurrentVersion": {
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2023-10-17T06:15:33+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117391.json",
+    "CurrentVersion": {
+      "guid": "117391",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117391",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Teams and Surface Devices",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Whiteboard: Connectors (Line Anchoring)",
+      "description": "<div><span style=\"\">This feature will provide the ability to create more effective flowcharts and diagrams by allowing you to anchor lines between different shapes, making them move and reroute along with connected shapes.</span> </div>",
+      "pubDate": "Thu, 09 Feb 2023 00:16:09 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117391",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117391",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Whiteboard: Connectors (Line Anchoring)",
+      "description": "<div><span style=\"\">This feature will provide the ability to create more effective flowcharts and diagrams by allowing you to anchor lines between different shapes, making them move and reroute along with connected shapes.</span> </div>",
+      "pubDate": "Thu, 09 Feb 2023 00:16:09 -0800",
+      "updated": "2024-04-11T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/122238.json",
+    "CurrentVersion": {
+      "guid": "122238",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122238",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Actionable card based Loop components",
+      "description": "<div><span style=\"\">Add a Microsoft\n365 app that supports link unfurling with an actionable card-based Loop\ncomponent, and Outlook will show the component when inserting supported links\nin your email messages. You will be able to choose between the new embedded\ncard or a link when sending email.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:21 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "122238",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122238",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Actionable card based Loop components",
+      "description": "<div><span style=\"\">Add a Microsoft\n365 app that supports link unfurling with an actionable card-based Loop\ncomponent, and Outlook will show the component when inserting supported links\nin your email messages. You will be able to choose between the new embedded\ncard or a link when sending email.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:21 -0700",
+      "updated": "2024-04-11T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/124789.json",
+    "CurrentVersion": {
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": ",A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    },
+    "OldVersion": {
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": ",A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 -0700",
+      "updated": "2023-04-04T07:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2023",
+      "publicPreviewDate": "March CY2023"
+    }
+  },
+  {
+    "Path": "data/124827.json",
+    "CurrentVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "<div>The content pane surfaces relevant authoring tools that help authors quickly browse and add content to SharePoint pages. With this new feature, authors can easily drag and drop web parts, media, and section templates for creating rich and engaging pages. </div>",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-04-24T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/124865.json",
+    "CurrentVersion": {
+      "guid": "124865",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124865",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists- A new forms experience to collect information",
+      "description": "<div>We are making it easier to collect information with an updated forms experience for Microsoft Lists. Forms look clean, are easy to design, can be easily shared, and respondents are able to fill them out on any device. All form responses appear immediately in your list after recipient clicks the submit button. </div>",
+      "pubDate": "Thu, 27 Apr 2023 23:19:45 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124865",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124865",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists- A new forms experience to collect information",
+      "description": "<div>We are making it easier to collect information with an updated forms experience for Microsoft Lists. Forms look clean, are easy to design, can be easily shared, and respondents are able to fill them out on any device. All form responses appear immediately in your list after recipient clicks the submit button. </div>",
+      "pubDate": "Thu, 27 Apr 2023 23:19:45 -0700",
+      "updated": "2024-03-16T06:00:39+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/131169.json",
+    "CurrentVersion": {
+      "guid": "131169",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;\">Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center</span> </div>",
+      "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "131169",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;\">Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center</span> </div>",
+      "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+      "updated": "2024-04-24T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/141433.json",
+    "CurrentVersion": {
+      "guid": "141433",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141433",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Loop generates a workspace after your Teams meeting",
+      "description": "A workspace is jumpstarted and actively updated as new materials are shared in Teams to enable ongoing collaboration within Loop.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/155840.json",
+    "CurrentVersion": {
+      "guid": "155840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155840",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Advanced Analytics - Battery health",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Allows IT admins to make asset management decisions\nthat optimize hardware costs and improve the end-user experience/productivity\nwhile using their devices.</span> </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:26:39 -0800",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "155840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155840",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Advanced Analytics - Battery health",
+      "description": "Allows IT admins to make asset management decisions\nthat optimize hardware costs and improve the end-user experience/productivity\nwhile using their devices.",
+      "pubDate": "Thu, 16 Nov 2023 00:26:39 -0800",
+      "updated": "2023-11-16T08:22:51+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/161739.json",
+    "CurrentVersion": {
+      "guid": "161739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161739",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Integrate Chat notification with Meeting RSVP status",
+      "description": "Microsoft Teams users will be able to control how they get notified in meeting chats through RSVP to their meetings. When you decline a meeting, you will not receive notifications or see the chats in chat list; when you accept a meeting, you will receive notification for all new messages.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:17 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "161739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161739",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Integrate Chat notification with Meeting RSVP status",
+      "description": "Microsoft Teams users will be able to control how they get notified in meeting chats through RSVP to their meetings. When you decline a meeting, you will not receive notifications or see the chats in chat list; when you accept a meeting, you will receive notification for all new messages.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:17 -0700",
+      "updated": "2024-04-27T05:45:30+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/167976.json",
+    "CurrentVersion": {
+      "guid": "167976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167976",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Conditional Formatting in New Outlook for Windows and Web",
+      "description": "Conditional formatting is a feature to make messages that meet defined conditions stand out in the message list by using different font colors. The users can specify conditions that an incoming message should meet, such as a sender’s name or email address. #newoutlookforwindows",
+      "pubDate": "Wed, 08 Nov 2023 00:22:15 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167976",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Conditional Formatting in New Outlook for Windows and Web",
+      "description": "Conditional formatting is a feature to make messages that meet defined conditions stand out in the message list by using different font colors. The users can specify conditions that an incoming message should meet, such as a sender’s name or email address. #newoutlookforwindows",
+      "pubDate": "Wed, 08 Nov 2023 00:22:15 -0800",
+      "updated": "2024-03-29T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/171598.json",
+    "CurrentVersion": {
+      "guid": "171598",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171598",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this update,\nadmins with appropriate permissions can delete all associated alerts, cases,\nand users in scope when deleting a policy to help quickly reset and remove\ninactive policies. Microsoft Purview Insider Risk Management correlates various\nsignals to identify potential malicious or inadvertent insider risks, such as\nIP theft, data leakage, and security violations. Insider Risk Management\nenables customers to create policies based on their own internal policies,\ngovernance, and organizational requirements. Built with privacy by design,\nusers are pseudonymized by default, and role-based access controls and audit\nlogs are in place to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Wed, 11 Oct 2023 23:33:07 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "171598",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171598",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this update,\nadmins with appropriate permissions can delete all associated alerts, cases,\nand users in scope when deleting a policy to help quickly reset and remove\ninactive policies. Microsoft Purview Insider Risk Management correlates various\nsignals to identify potential malicious or inadvertent insider risks, such as\nIP theft, data leakage, and security violations. Insider Risk Management\nenables customers to create policies based on their own internal policies,\ngovernance, and organizational requirements. Built with privacy by design,\nusers are pseudonymized by default, and role-based access controls and audit\nlogs are in place to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Wed, 11 Oct 2023 23:33:07 -0700",
+      "updated": "2024-03-26T06:45:26+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/171601.json",
+    "CurrentVersion": {
+      "guid": "171601",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171601",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": "With this update, admins with appropriate permissions can delete all associated alerts, cases, and users in scope when deleting a policy to help quickly reset and remove inactive policies.  \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "171601",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171601",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": "With this update, admins with appropriate permissions can delete all associated alerts, cases, and users in scope when deleting a policy to help quickly reset and remove inactive policies.  \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:14 -0700",
+      "updated": "2024-03-22T07:00:24+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/178030.json",
+    "CurrentVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-05-01T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/181825.json",
+    "CurrentVersion": {
+      "guid": "181825",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181825",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Alert improvements",
+      "description": ",This feature is about improving the alerting capabilities and customization in Communication Compliance.",
+      "pubDate": "Mon, 16 Oct 2023 23:35:31 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "181825",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181825",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Alert improvements",
+      "description": ",This feature is about improving the alerting capabilities and customization in Communication Compliance.",
+      "pubDate": "Mon, 16 Oct 2023 23:35:31 -0700",
+      "updated": "2024-05-07T06:45:36+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/187118.json",
+    "CurrentVersion": {
+      "guid": "187118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187118",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: New version of the Windows hardware attestation report",
+      "description": ",<div>New organizational report that contains information on hardware-attested compliance settings, replacing the Windows health attestation monitor. </div><div> </div><div> </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:24 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {
+      "guid": "187118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187118",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: New version of the Windows hardware attestation report",
+      "description": ",New organizational report that contains information on hardware-attested compliance settings, replacing the Windows health attestation monitor.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:24 -0800",
+      "updated": "2023-11-16T08:22:51+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/323899.json",
+    "CurrentVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-03-01T09:45:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/325780.json",
+    "CurrentVersion": {
+      "guid": "325780",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=325780",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Hiding of inactive channels",
+      "description": "Easily keep your channels list relevant. Teams will automatically detect inactive channels you haven’t interacted with in a while, and automatically hide them for you. You have the option to review the list of channels and unhide some or all of them, opt out of automatic hiding from settings, or initiate this process on demand.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/329253.json",
+    "CurrentVersion": {
+      "guid": "329253",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=329253",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Safari and Firefox (for anonymous join only)",
+      "description": "The latest Teams meeting experiences will be available for Teams on the web in Safari and Firefox browsers - including performance improvements, refreshed pre-join, updated meeting stage, and the updated meeting toolbar. (for anonymous join only)",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "329253",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=329253",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Safari and Firefox (for anonymous join only)",
+      "description": "The latest Teams meeting experiences will be available for Teams on the web in Safari and Firefox browsers - including performance improvements, refreshed pre-join, updated meeting stage, and the updated meeting toolbar. (for anonymous join only)",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-04-26T06:45:32+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375418.json",
+    "CurrentVersion": {
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-04-30T06:45:13+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/378648.json",
+    "CurrentVersion": {
+      "guid": "378648",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378648",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Custom image as Section Background ",
+      "description": "SharePoint lets you customize the sections backgrounds with your own image. We've enhanced the focal point and introduced more settings like fill mode, overlay, opacity to help you adhere to accessibility best practices and make sure that your contents are clear and readable with customized background. This gives you more power over the image to make your page beautiful.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "378648",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378648",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Custom image as Section Background ",
+      "description": "SharePoint lets you customize the sections backgrounds with your own image. We've enhanced the focal point and introduced more settings like fill mode, overlay, opacity to help you adhere to accessibility best practices and make sure that your contents are clear and readable with customized background. This gives you more power over the image to make your page beautiful.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-05-09T06:45:39+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/382105.json",
+    "CurrentVersion": {
+      "guid": "382105",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382105",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Media node in OneDrive for Web",
+      "description": "We're adding a Media node to the left nav of OneDrive for Web which will allow commercial customers to easily find all the photo and video content stored in their OneDrive in a single view.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "382105",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382105",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "OneDrive",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Media node in OneDrive for Web",
+      "description": "We're adding a Media node to the left nav of OneDrive for Web which will allow commercial customers to easily find all the photo and video content stored in their OneDrive in a single view.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-04-25T06:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/385352.json",
+    "CurrentVersion": {
+      "guid": "385352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385352",
+      "category": [
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Restricted SharePoint Search",
+      "description": ",Restricted SharePoint Search (RSS) is a setting that will allow Global/Tenant and SharePoint Admins to disable organization-wide search and select a set of curated SharePoint sites. These selected sites, along with the users’ OneDrive files and content, will then become accessible in search and in the Copilot experiences. This means that whether you have Enterprise Search or Restricted SharePoint Search enabled, users in your organization will still be able to interact with their OneDrive information in Copilot.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "385352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385352",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Restricted SharePoint Search",
+      "description": ",Restricted SharePoint Search (RSS) is a setting that will allow Global/Tenant and SharePoint Admins to disable organization-wide search and select a set of curated SharePoint sites. These selected sites, along with the users’ OneDrive files and content, will then become accessible in search and in the Copilot experiences. This means that whether you have Enterprise Search or Restricted SharePoint Search enabled, users in your organization will still be able to interact with their OneDrive information in Copilot.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-04-02T00:15:53+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/387809.json",
+    "CurrentVersion": {
+      "guid": "387809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387809",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Share to Teams will be added to the ribbon in the new Outlook for Windows",
+      "description": "Users will now be able to find a \"Share to Teams\" button in the ribbon whenever they select an email in the reading pane. #newoutlookforwindows",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "387809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387809",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Share to Teams will be added to the ribbon in the new Outlook for Windows",
+      "description": "Users will now be able to find a \"Share to Teams\" button in the ribbon whenever they select an email in the reading pane. #newoutlookforwindows",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 -0700",
+      "updated": "2024-04-18T08:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/389844.json",
+    "CurrentVersion": {
+      "guid": "389844",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389844",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Programmatic Desktop Sharing",
+      "description": "With desktop sharing (made available OOB), meeting presenters can now screen-share all their meeting apps directly onto the stage for improved collaboration. We are introducing programmatic desktop sharing, which allows developers to enable screensharing specific pieces of app content. Unlike the currently existing share to stage functionality, meeting participants cannot interact with the shared app; they have a view-only mode of the presenter's app screen similar to screen sharing, but in one click. The shared content is also automatically captured in the meeting recording. This works great for co-consumption scenarios and requires little developer investment.",
+      "pubDate": "Thu, 28 Mar 2024 00:15:54 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "389844",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389844",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Programmatic Desktop Sharing",
+      "description": "With desktop sharing (made available OOB), meeting presenters can now screen-share all their meeting apps directly onto the stage for improved collaboration. We are introducing programmatic desktop sharing, which allows developers to enable screensharing specific pieces of app content. Unlike the currently existing share to stage functionality, meeting participants cannot interact with the shared app; they have a view-only mode of the presenter's app screen similar to screen sharing, but in one click. The shared content is also automatically captured in the meeting recording. This works great for co-consumption scenarios and requires little developer investment.",
+      "pubDate": "Thu, 28 Mar 2024 00:15:54 -0700",
+      "updated": "2024-03-28T07:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392327.json",
+    "CurrentVersion": {
+      "guid": "392327",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392327",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Highlight and rewrite for draft with Copilot in new Outlook for Windows and web",
+      "description": "Similar to Microsoft Word, highlight and rewrite capabilities will allow users to select specific sentences in their email draft and have them rewritten by Copilot. Using highlight and rewrite when drafting with Copilot in Outlook, users will be able to give detailed instructions on how to rewrite and be able to modify tone and length. This feature will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/392453.json",
+    "CurrentVersion": {
+      "guid": "392453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392453",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot deployment kits in Viva Amplify",
+      "description": "Prepare for and launch Copilot in your organization using our new deployment kit in Viva Amplify. This is a set of pre-written and formatted publications that will educate users on how to use Copilot, all of the M365 endpoints, and develop their AI skills. This is a tested set of communications that the Microsoft team used internally to ensure the right messages are reaching your end users and preparing them for Copilot.",
+      "pubDate": "Wed, 10 Apr 2024 23:30:14 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392453",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot deployment kits in Viva Amplify",
+      "description": ",Prepare for and launch Copilot in your organization using our new deployment kit in Viva Amplify. This is a set of pre-written and formatted publications that will educate users on how to use Copilot, all of the M365 endpoints, and develop their AI skills. This is a tested set of communications that the Microsoft team used internally to ensure the right messages are reaching your end users and preparing them for Copilot.",
+      "pubDate": "Wed, 10 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-11T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/392454.json",
+    "CurrentVersion": {
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-04-19T06:15:11+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393934.json",
+    "CurrentVersion": {
+      "guid": "393934",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393934",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Data Loss Prevention - Enhancements to the device onboarding page",
+      "description": ",This adds new enhancements to the device onboarding page, including these: search by IP address to look up devices, filter using the new \"Valid user\" filter, use a refined device list to only include devices that can be DLP supported (exclude Android devices from showing in the device onboarding list), and use new properties in the export report (valid user, first onboarded date, MDATP device ID, Defender engine version, Defender Mocamp version, Endpoint DLP status, last policy sync time, and Advanced Classification bandwidth usage exceeded).",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "393934",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393934",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Data Loss Prevention - Enhancements to the device onboarding page",
+      "description": ",This adds new enhancements to the device onboarding page, including these: search by IP address to look up devices, filter using the new \"Valid user\" filter, use a refined device list to only include devices that can be DLP supported (exclude Android devices from showing in the device onboarding list), and use new properties in the export report (valid user, first onboarded date, MDATP device ID, Defender engine version, Defender Mocamp version, Endpoint DLP status, last policy sync time, and Advanced Classification bandwidth usage exceeded).",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-04-20T05:15:35+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/393936.json",
+    "CurrentVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-01T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/394668.json",
+    "CurrentVersion": {
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms",
+      "description": "Introducing speaker recognition for Teams Rooms on Windows. This feature provides live transcription with speaker identification, creating a unique \"voiceprint\" for each participant. With speaker recognition, Copilot in Teams can deliver meeting summaries, insights, and action items by attributing contributions to individual speakers. Participants can easily set up a voice profile using the Teams Desktop app. Users' individual voice signatures are stored securely in your organization's tenant in the Microsoft Cloud, ensuring accurate capture of every contribution in every meeting.",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms",
+      "description": "Introducing speaker recognition for Teams Rooms on Windows. This feature provides live transcription with speaker identification, creating a unique \"voiceprint\" for each participant. With speaker recognition, Copilot in Teams can deliver meeting summaries, insights, and action items by attributing contributions to individual speakers. Participants can easily set up a voice profile using the Teams Desktop app. Users' individual voice signatures are stored securely in your organization's tenant in the Microsoft Cloud, ensuring accurate capture of every contribution in every meeting.",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395380.json",
+    "CurrentVersion": {
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/395789.json",
+    "CurrentVersion": {
+      "guid": "395789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395789",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multiple insights and notifications on profile cards",
+      "description": "Previously, users were only able to see one insight or notification on their own or on a colleague's profile card. Now they will be able to see multiple insights through a Show All button.  #newoutlookforwindows",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395789",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multiple insights and notifications on profile cards",
+      "description": "Previously, users were only able to see one insight or notification on their own or on a colleague's profile card. Now they will be able to see multiple insights through a Show All button.  #newoutlookforwindows",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396344.json",
+    "CurrentVersion": {
+      "guid": "396344",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396344",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerPoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "PowerPoint: Microsoft Copilot (Microsoft 365) – Copilot can create presentations from a PDF file",
+      "description": "Copilot in PowerPoint will now be able to support automatically generating a presentation based on a PDF file. This is in addition to the existing support for automatically generating a presentation based on a Word document.",
+      "pubDate": "Wed, 29 May 2024 23:15:03 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/396345.json",
+    "CurrentVersion": {
+      "guid": "396345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396345",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Viva –  Microsoft Copilot Dashboard in Viva Insights Product Updates",
+      "description": "Adding trendlines to show metric movements over past 6-month time periods, before vs after Copilot comparisons, and providing the option to view an estimated dollar value for the existing Copilot assisted hours metric.",
+      "pubDate": "Fri, 10 May 2024 22:15:43 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396345",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Viva –  Microsoft Copilot Dashboard in Viva Insights Product Updates",
+      "description": "Adding trendlines to show metric movements over past 6-month time periods, before vs after Copilot comparisons, and providing the option to view an estimated dollar value for the existing Copilot assisted hours metric.",
+      "pubDate": "Fri, 10 May 2024 22:15:43 -0700",
+      "updated": "2024-05-11T05:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396721.json",
+    "CurrentVersion": {
+      "guid": "396721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396721",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Settings page for Viva Engage Communities",
+      "description": "Viva Engage Communities Settings are migrating from a modal to a page. Feature-level settings to configure and activate community features will continue to be released on this settings page, allowing for more customization in communities.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/396731.json",
+    "CurrentVersion": {
+      "guid": "396731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396731",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Suggested M365 content in Callouts",
+      "description": "This feature is an improvement on the Interactivity feature in Microsoft Stream, where users with edit access can add document and other links to Callouts at specific times in a video. The goal of the improvement is to make creating and editing of interactive videos easier and quicker for editors by suggesting resources to link based on their M365 user activity. If there are no relevant suggestions, this allows them to search for resources to make their videos interactive from within Microsoft Stream.",
+      "pubDate": "Mon, 20 May 2024 23:15:02 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396731",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Suggested M365 content in Callouts",
+      "description": "This feature is an improvement on the Interactivity feature in Microsoft Stream, where users with edit access can add document and other links to Callouts at specific times in a video. The goal of the improvement is to make creating and editing of interactive videos easier and quicker for editors by suggesting resources to link based on their M365 user activity. If there are no relevant suggestions, this allows them to search for resources to make their videos interactive from within Microsoft Stream.",
+      "pubDate": "Mon, 20 May 2024 23:15:02 -0700",
+      "updated": "2024-05-24T06:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397752.json",
+    "CurrentVersion": {
+      "guid": "397752",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397752",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Device Action - Remove apps and configuration",
+      "description": "Intune will have the ability to temporarily remove apps and config from a single device, and then initiate a restore. This is intended to help solve customers' challenges external to Intune and quickly restore end user productivity.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/397768.json",
+    "CurrentVersion": {
+      "guid": "397768",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397768",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot (Microsoft 365) – Copilot in Microsoft Teams chat and channels to summarize content over a specified period of time",
+      "description": "You can now ask Copilot in chat and channels to respond to questions regarding a conversation in a specific time period, for example: last month.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/397770.json",
+    "CurrentVersion": {
+      "guid": "397770",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397770",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: Add or remove people from the response notification emails",
+      "description": "Now form owners can add or remove people from the response notification emails. Currently only the form owner or the group alias is notified when someone responds to a form.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398445.json",
+    "CurrentVersion": {
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398446.json",
+    "CurrentVersion": {
+      "guid": "398446",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398446",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Export Q&A Questions",
+      "description": "Event organizers can now export questions that attendees asked as a .CSV file, in order to better understand the questions asked and general sentiment in a meeting or event.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398448.json",
+    "CurrentVersion": {
+      "guid": "398448",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398448",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams Webinar Creation and Registration APIs",
+      "description": "Customers now have additional capabilities to manage Webinars, namely the ability to create, update, and delete Webinars, as well as register attendees to existing Webinars using a new set of APIs.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398458.json",
+    "CurrentVersion": {
+      "guid": "398458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398458",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398708.json",
+    "CurrentVersion": {
+      "guid": "398708",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398708",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)",
+        "Yammer"
+      ],
+      "title": "Microsoft Viva: Emoji picker in Viva Engage",
+      "description": "Enhance your posts in Viva Engage with the integrated emoji picker. No need to memorize shortcuts; just click the emoji icon in the command bar to express yourself with ease.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398711.json",
+    "CurrentVersion": {
+      "guid": "398711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398711",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Priva Privacy Management – Multicloud environments",
+      "description": ",Microsoft Priva Privacy Risk Management extends its overexposure policies into data contained in Azure SQL, Azure Data Lake Storage, and Amazon S3. Organizations can create privacy policies that specify which data sources, databases, or storage buckets are in scope and Priva will automatically notify data asset owners when matches are detected.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/398712.json",
+    "CurrentVersion": {
+      "guid": "398712",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398712",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: new role added for built-in Compliance Administrator, Organization Management, Purview Administrators role groups",
+      "description": "Microsoft Purview provides a unified solution for managing data security, governance, compliance, and privacy across your organization's landscape. Specific Microsoft Purview built-in role groups are being extended with a new role to prepare for upcoming features and capabilities relevant to those role groups: Compliance Administrator, Organization Management, and Purview Administrators role groups. This change will not disrupt the current capabilities for these role groups; it will enable admins in these built-in groups to manage Purview resources within Purview administrative unit scopes in the future.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/70705.json",
+    "CurrentVersion": {
+      "guid": "70705",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=70705",
+      "category": [
+        "Cancelled",
+        "Education",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists -  Commenting (iOS)",
+      "description": "Bringing web commenting experience to Lists iOS mobile app. Add/delete a comment on list items to collaborate and share better. Note: We will not be moving forward with this planned release.  We apologize for any inconvenience this may cause.",
+      "pubDate": "Thu, 11 Feb 2021 00:29:17 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "70705",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=70705",
+      "category": [
+        "Education",
+        "In development",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists -  Commenting (iOS)",
+      "description": "Bringing web commenting experience to Lists iOS mobile app. Add/delete a comment on list items to collaborate and share better.",
+      "pubDate": "Thu, 11 Feb 2021 00:29:17 -0800",
+      "updated": "2023-08-25T06:09:45+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/80659.json",
+    "CurrentVersion": {
+      "guid": "80659",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=80659",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom emojis and reactions",
+      "description": "User can upload their own custom emojis and reactions to personalize their communication. Emojis will be available within the user’s  tenant in chat and channels via the emoji and reaction menus.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "80659",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=80659",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom emojis and reactions",
+      "description": "User can upload their own custom emojis and reactions to personalize their communication. Emojis will be available within the user’s  tenant in chat and channels via the emoji and reaction menus.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 -0700",
+      "updated": "2024-05-22T06:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/91163.json",
+    "CurrentVersion": {
+      "guid": "91163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91163",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View attachments for Meetings in Teams Calendar",
+      "description": "File attachments added to a meeting invite in Outlook desktop or web app are now visible for invitees in Teams calendar.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/93487.json",
+    "CurrentVersion": {
+      "guid": "93487",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93487",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced sound notification controls",
+      "description": "You can change the sound of your notifications to help you stay focused, prioritize quickly and avoid distractions. You can as well make urgent notifications and priority contact notifications more prominent. You can also mute notification sounds when you are busy or in a meeting.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/98124.json",
+    "CurrentVersion": {
+      "guid": "98124",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98124",
+      "category": [
+        "In development",
+        "Outlook",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook for the Web: Contact Deduplication",
+      "description": "People are at the center of our lives, and we start every digital connection via contacts. Hence, a clean, up-to-date contact list is critical for better collaboration and productivity. We are happy to announce that cleaning up duplicate contacts just got a lot easier with the de-duplication feature in Outlook Web App (OWA).",
+      "pubDate": "Wed, 19 Oct 2022 23:45:51 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "98124",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98124",
+      "category": [
+        "In development",
+        "Outlook",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook for the Web: Contact Deduplication",
+      "description": "People are at the center of our lives, and we start every digital connection via contacts. Hence, a clean, up-to-date contact list is critical for better collaboration and productivity. We are happy to announce that cleaning up duplicate contacts just got a lot easier with the de-duplication feature in Outlook Web App (OWA).",
+      "pubDate": "Wed, 19 Oct 2022 23:45:51 -0700",
+      "updated": "2023-10-06T06:40:37+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/100500/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/100500/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "100500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=100500",
+      "category": [
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Rules packaged into custom List templates",
+      "description": "Expand your custom organizational templates by packaging rules into them - alongside the ability to pre-program the list schema (columns), formatting, and more.",
+      "pubDate": "Wed, 12 Oct 2022 16:46:36 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117391/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "117391",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117391",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Teams and Surface Devices",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Whiteboard: Connectors (Line Anchoring)",
+      "description": "<div><span style=\"\">This feature will provide the ability to create more effective flowcharts and diagrams by allowing you to anchor lines between different shapes, making them move and reroute along with connected shapes.</span> </div>",
+      "pubDate": "Thu, 09 Feb 2023 00:16:09 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/122238/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "122238",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122238",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Actionable card based Loop components",
+      "description": "<div><span style=\"\">Add a Microsoft\n365 app that supports link unfurling with an actionable card-based Loop\ncomponent, and Outlook will show the component when inserting supported links\nin your email messages. You will be able to choose between the new embedded\ncard or a link when sending email.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:21 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124789/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": ",A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124827/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "<div>The content pane surfaces relevant authoring tools that help authors quickly browse and add content to SharePoint pages. With this new feature, authors can easily drag and drop web parts, media, and section templates for creating rich and engaging pages. </div>",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124827/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124865/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "124865",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124865",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists- A new forms experience to collect information",
+      "description": "<div>We are making it easier to collect information with an updated forms experience for Microsoft Lists. Forms look clean, are easy to design, can be easily shared, and respondents are able to fill them out on any device. All form responses appear immediately in your list after recipient clicks the submit button. </div>",
+      "pubDate": "Thu, 27 Apr 2023 23:19:45 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/131169/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "131169",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=131169",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Pre-pin meeting apps via Admin Policy in the Teams admin center",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;\">Admins can now pre-pin meetings apps for users (much\nlike personal apps and messaging extensions) in the Teams admin center</span> </div>",
+      "pubDate": "Wed, 31 May 2023 23:25:55 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/141433/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "141433",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=141433",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Loop generates a workspace after your Teams meeting",
+      "description": "A workspace is jumpstarted and actively updated as new materials are shared in Teams to enable ongoing collaboration within Loop.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/155840/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "155840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155840",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Advanced Analytics - Battery health",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">Allows IT admins to make asset management decisions\nthat optimize hardware costs and improve the end-user experience/productivity\nwhile using their devices.</span> </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:26:39 -0800",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/161739/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "161739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161739",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Integrate Chat notification with Meeting RSVP status",
+      "description": "Microsoft Teams users will be able to control how they get notified in meeting chats through RSVP to their meetings. When you decline a meeting, you will not receive notifications or see the chats in chat list; when you accept a meeting, you will receive notification for all new messages.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:17 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167976/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "167976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167976",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Conditional Formatting in New Outlook for Windows and Web",
+      "description": "Conditional formatting is a feature to make messages that meet defined conditions stand out in the message list by using different font colors. The users can specify conditions that an incoming message should meet, such as a sender’s name or email address. #newoutlookforwindows",
+      "pubDate": "Wed, 08 Nov 2023 00:22:15 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171598/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "171598",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171598",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this update,\nadmins with appropriate permissions can delete all associated alerts, cases,\nand users in scope when deleting a policy to help quickly reset and remove\ninactive policies. Microsoft Purview Insider Risk Management correlates various\nsignals to identify potential malicious or inadvertent insider risks, such as\nIP theft, data leakage, and security violations. Insider Risk Management\nenables customers to create policies based on their own internal policies,\ngovernance, and organizational requirements. Built with privacy by design,\nusers are pseudonymized by default, and role-based access controls and audit\nlogs are in place to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Wed, 11 Oct 2023 23:33:07 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171601/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "171601",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171601",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": "With this update, admins with appropriate permissions can delete all associated alerts, cases, and users in scope when deleting a policy to help quickly reset and remove inactive policies.  \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 18 Oct 2023 23:19:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178030/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/181825/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "181825",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181825",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Alert improvements",
+      "description": ",This feature is about improving the alerting capabilities and customization in Communication Compliance.",
+      "pubDate": "Mon, 16 Oct 2023 23:35:31 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/187118/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "187118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187118",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: New version of the Windows hardware attestation report",
+      "description": ",<div>New organizational report that contains information on hardware-attested compliance settings, replacing the Windows health attestation monitor. </div><div> </div><div> </div>",
+      "pubDate": "Thu, 16 Nov 2023 00:27:24 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/323899/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "323899",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323899",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Optical character recognition (OCR) support for embedded images in Exchange Online",
+      "description": ",This release will extend OCR support in Exchange online from standalone images (JPEG, JPG, PNG, BMP, TIFF, PDF) to images embedded inside following files: 1. Office: Images embedded inside XLSX, DOCX, PPTX files. 2. PDF: Image-only PDF files are already supported. This release will support hybrid PDF files containing images and searchable text. 3. Container files such as ZIP, RAR, 7Z, BZ and more.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 -0800",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/325780/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "325780",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=325780",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Hiding of inactive channels",
+      "description": "Easily keep your channels list relevant. Teams will automatically detect inactive channels you haven’t interacted with in a while, and automatically hide them for you. You have the option to review the list of channels and unhide some or all of them, opt out of automatic hiding from settings, or initiate this process on demand.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/329253/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "329253",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=329253",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Safari and Firefox (for anonymous join only)",
+      "description": "The latest Teams meeting experiences will be available for Teams on the web in Safari and Firefox browsers - including performance improvements, refreshed pre-join, updated meeting stage, and the updated meeting toolbar. (for anonymous join only)",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375418/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "375418",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375418",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New VDI solution for Teams",
+      "description": "New VDI solution for Teams is a redesigned version of the existing VDI solution, providing enhanced performance, reliability, and security. It offers additional features such as advanced meeting capabilities and a simpler app update experience for users. This Roadmap entry applies to Windows endpoints connecting to Azure Virtual Desktops, Windows 365 and Citrix VDI environments only.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378648/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "378648",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378648",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Custom image as Section Background ",
+      "description": "SharePoint lets you customize the sections backgrounds with your own image. We've enhanced the focal point and introduced more settings like fill mode, overlay, opacity to help you adhere to accessibility best practices and make sure that your contents are clear and readable with customized background. This gives you more power over the image to make your page beautiful.",
+      "pubDate": "Wed, 17 Jan 2024 00:15:05 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382105/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "382105",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382105",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Media node in OneDrive for Web",
+      "description": "We're adding a Media node to the left nav of OneDrive for Web which will allow commercial customers to easily find all the photo and video content stored in their OneDrive in a single view.",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/385352/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "385352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385352",
+      "category": [
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Restricted SharePoint Search",
+      "description": ",Restricted SharePoint Search (RSS) is a setting that will allow Global/Tenant and SharePoint Admins to disable organization-wide search and select a set of curated SharePoint sites. These selected sites, along with the users’ OneDrive files and content, will then become accessible in search and in the Copilot experiences. This means that whether you have Enterprise Search or Restricted SharePoint Search enabled, users in your organization will still be able to interact with their OneDrive information in Copilot.",
+      "pubDate": "Sat, 02 Mar 2024 00:30:10 -0800",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/387809/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "387809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387809",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Share to Teams will be added to the ribbon in the new Outlook for Windows",
+      "description": "Users will now be able to find a \"Share to Teams\" button in the ribbon whenever they select an email in the reading pane. #newoutlookforwindows",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389844/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "389844",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389844",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Programmatic Desktop Sharing",
+      "description": "With desktop sharing (made available OOB), meeting presenters can now screen-share all their meeting apps directly onto the stage for improved collaboration. We are introducing programmatic desktop sharing, which allows developers to enable screensharing specific pieces of app content. Unlike the currently existing share to stage functionality, meeting participants cannot interact with the shared app; they have a view-only mode of the presenter's app screen similar to screen sharing, but in one click. The shared content is also automatically captured in the meeting recording. This works great for co-consumption scenarios and requires little developer investment.",
+      "pubDate": "Thu, 28 Mar 2024 00:15:54 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392327/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "392327",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392327",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Highlight and rewrite for draft with Copilot in new Outlook for Windows and web",
+      "description": "Similar to Microsoft Word, highlight and rewrite capabilities will allow users to select specific sentences in their email draft and have them rewritten by Copilot. Using highlight and rewrite when drafting with Copilot in Outlook, users will be able to give detailed instructions on how to rewrite and be able to modify tone and length. This feature will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392453/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "392453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392453",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot deployment kits in Viva Amplify",
+      "description": "Prepare for and launch Copilot in your organization using our new deployment kit in Viva Amplify. This is a set of pre-written and formatted publications that will educate users on how to use Copilot, all of the M365 endpoints, and develop their AI skills. This is a tested set of communications that the Microsoft team used internally to ensure the right messages are reaching your end users and preparing them for Copilot.",
+      "pubDate": "Wed, 10 Apr 2024 23:30:14 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392454/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393934/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "393934",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393934",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Data Loss Prevention - Enhancements to the device onboarding page",
+      "description": ",This adds new enhancements to the device onboarding page, including these: search by IP address to look up devices, filter using the new \"Valid user\" filter, use a refined device list to only include devices that can be DLP supported (exclude Android devices from showing in the device onboarding list), and use new properties in the export report (valid user, first onboarded date, MDATP device ID, Defender engine version, Defender Mocamp version, Endpoint DLP status, last policy sync time, and Advanced Classification bandwidth usage exceeded).",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393936/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394668/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms",
+      "description": "Introducing speaker recognition for Teams Rooms on Windows. This feature provides live transcription with speaker identification, creating a unique \"voiceprint\" for each participant. With speaker recognition, Copilot in Teams can deliver meeting summaries, insights, and action items by attributing contributions to individual speakers. Participants can easily set up a voice profile using the Teams Desktop app. Users' individual voice signatures are stored securely in your organization's tenant in the Microsoft Cloud, ensuring accurate capture of every contribution in every meeting.",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395380/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395380/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395789/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "395789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395789",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multiple insights and notifications on profile cards",
+      "description": "Previously, users were only able to see one insight or notification on their own or on a colleague's profile card. Now they will be able to see multiple insights through a Show All button.  #newoutlookforwindows",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396344/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "396344",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396344",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerPoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "PowerPoint: Microsoft Copilot (Microsoft 365) – Copilot can create presentations from a PDF file",
+      "description": "Copilot in PowerPoint will now be able to support automatically generating a presentation based on a PDF file. This is in addition to the existing support for automatically generating a presentation based on a Word document.",
+      "pubDate": "Wed, 29 May 2024 23:15:03 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396345/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "396345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396345",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Viva –  Microsoft Copilot Dashboard in Viva Insights Product Updates",
+      "description": "Adding trendlines to show metric movements over past 6-month time periods, before vs after Copilot comparisons, and providing the option to view an estimated dollar value for the existing Copilot assisted hours metric.",
+      "pubDate": "Fri, 10 May 2024 22:15:43 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396721/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "396721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396721",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Settings page for Viva Engage Communities",
+      "description": "Viva Engage Communities Settings are migrating from a modal to a page. Feature-level settings to configure and activate community features will continue to be released on this settings page, allowing for more customization in communities.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396731/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-30T02:13:38.8981014+00:00",
+      "guid": "396731",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396731",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Suggested M365 content in Callouts",
+      "description": "This feature is an improvement on the Interactivity feature in Microsoft Stream, where users with edit access can add document and other links to Callouts at specific times in a video. The goal of the improvement is to make creating and editing of interactive videos easier and quicker for editors by suggesting resources to link based on their M365 user activity. If there are no relevant suggestions, this allows them to search for resources to make their videos interactive from within Microsoft Stream.",
+      "pubDate": "Mon, 20 May 2024 23:15:02 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397752/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "397752",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397752",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Device Action - Remove apps and configuration",
+      "description": "Intune will have the ability to temporarily remove apps and config from a single device, and then initiate a restore. This is intended to help solve customers' challenges external to Intune and quickly restore end user productivity.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397768/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "397768",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397768",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot (Microsoft 365) – Copilot in Microsoft Teams chat and channels to summarize content over a specified period of time",
+      "description": "You can now ask Copilot in chat and channels to respond to questions regarding a conversation in a specific time period, for example: last month.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397768/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "397768",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397768",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot (Microsoft 365) – Copilot in Microsoft Teams chat and channels to summarize content over a specified period of time",
+      "description": "You can now ask Copilot in chat and channels to respond to questions regarding a conversation in a specific time period, for example: last month.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397770/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "397770",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397770",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: Add or remove people from the response notification emails",
+      "description": "Now form owners can add or remove people from the response notification emails. Currently only the form owner or the group alias is notified when someone responds to a form.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398445/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398446/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "398446",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398446",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Export Q&A Questions",
+      "description": "Event organizers can now export questions that attendees asked as a .CSV file, in order to better understand the questions asked and general sentiment in a meeting or event.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398448/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "398448",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398448",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams Webinar Creation and Registration APIs",
+      "description": "Customers now have additional capabilities to manage Webinars, namely the ability to create, update, and delete Webinars, as well as register attendees to existing Webinars using a new set of APIs.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398458/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "398458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398458",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398708/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "398708",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398708",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)",
+        "Yammer"
+      ],
+      "title": "Microsoft Viva: Emoji picker in Viva Engage",
+      "description": "Enhance your posts in Viva Engage with the integrated emoji picker. No need to memorize shortcuts; just click the emoji icon in the command bar to express yourself with ease.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398711/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "398711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398711",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Priva Privacy Management – Multicloud environments",
+      "description": ",Microsoft Priva Privacy Risk Management extends its overexposure policies into data contained in Azure SQL, Azure Data Lake Storage, and Amazon S3. Organizations can create privacy policies that specify which data sources, databases, or storage buckets are in scope and Priva will automatically notify data asset owners when matches are detected.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398712/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "398712",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398712",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: new role added for built-in Compliance Administrator, Organization Management, Purview Administrators role groups",
+      "description": "Microsoft Purview provides a unified solution for managing data security, governance, compliance, and privacy across your organization's landscape. Specific Microsoft Purview built-in role groups are being extended with a new role to prepare for upcoming features and capabilities relevant to those role groups: Compliance Administrator, Organization Management, and Purview Administrators role groups. This change will not disrupt the current capabilities for these role groups; it will enable admins in these built-in groups to manage Purview resources within Purview administrative unit scopes in the future.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/70705/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "70705",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=70705",
+      "category": [
+        "Cancelled",
+        "Education",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists -  Commenting (iOS)",
+      "description": "Bringing web commenting experience to Lists iOS mobile app. Add/delete a comment on list items to collaborate and share better. Note: We will not be moving forward with this planned release.  We apologize for any inconvenience this may cause.",
+      "pubDate": "Thu, 11 Feb 2021 00:29:17 -0800",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/80659/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "80659",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=80659",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom emojis and reactions",
+      "description": "User can upload their own custom emojis and reactions to personalize their communication. Emojis will be available within the user’s  tenant in chat and channels via the emoji and reaction menus.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/91163/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "91163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91163",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View attachments for Meetings in Teams Calendar",
+      "description": "File attachments added to a meeting invite in Outlook desktop or web app are now visible for invitees in Teams calendar.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/91163/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-01T02:14:27.0422426+00:00",
+      "guid": "91163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91163",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View attachments for Meetings in Teams Calendar",
+      "description": "File attachments added to a meeting invite in Outlook desktop or web app are now visible for invitees in Teams calendar.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/93487/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-29T02:14:11.3824434+00:00",
+      "guid": "93487",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93487",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced sound notification controls",
+      "description": "You can change the sound of your notifications to help you stay focused, prioritize quickly and avoid distractions. You can as well make urgent notifications and priority contact notifications more prominent. You can also mute notification sounds when you are busy or in a meeting.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-29T06:30:14+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/98124/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-05-31T02:13:33.4870423+00:00",
+      "guid": "98124",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98124",
+      "category": [
+        "In development",
+        "Outlook",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook for the Web: Contact Deduplication",
+      "description": "People are at the center of our lives, and we start every digital connection via contacts. Hence, a clean, up-to-date contact list is critical for better collaboration and productivity. We are happy to announce that cleaning up duplicate contacts just got a lot easier with the de-duplication feature in Outlook Web App (OWA).",
+      "pubDate": "Wed, 19 Oct 2022 23:45:51 -0700",
+      "updated": "2024-05-31T06:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
