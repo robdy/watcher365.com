@@ -1,0 +1,1580 @@
+[
+  {
+    "Path": "data/108887.json",
+    "CurrentVersion": {
+      "guid": "108887",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=108887",
+      "category": [
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Managing document permissions in Outlook for iOS",
+      "description": "Now, when you add a OneDrive or SharePoint file to an email, Outlook will notify you if anyone doesn't yet have permissions so you can update those before sending your email.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "108887",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=108887",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Managing document permissions in Outlook for iOS",
+      "description": "Now, when you add a OneDrive or SharePoint file to an email, Outlook will notify you if anyone doesn't yet have permissions so you can update those before sending your email.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/116819.json",
+    "CurrentVersion": {
+      "guid": "116819",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116819",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting organizers can manage who can record and transcribe meetings (Premium)",
+      "description": "We are expanding the existing ‘Who can record’ control for meeting organizers to include transcription. With this change, meeting organizers with eligible licenses will see a control called ‘Who can record and transcribe’ in the meeting options, which allows meeting organizers to select from three options: (1) organizers and co-organizers, (2) organizers, co-organizers, and presenters, or (3) No one. This way meeting organizers will be able to manage which roles can initiate recording and transcription for a meeting. This functionality will be available to Teams Premium and Copilot for M365 licensed users.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "116819",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116819",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting organizers can manage who can record and transcribe meetings (Premium)",
+      "description": "We are expanding the existing ‘Who can record’ control for meeting organizers to include transcription. With this change, meeting organizers with eligible licenses will see a control called ‘Who can record and transcribe’ in the meeting options, which allows meeting organizers to select from three options: (1) organizers and co-organizers, (2) organizers, co-organizers, and presenters, or (3) No one. This way meeting organizers will be able to manage which roles can initiate recording and transcription for a meeting. This functionality will be available to Teams Premium and Copilot for M365 licensed users.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-05-23T06:30:29+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117352.json",
+    "CurrentVersion": {
+      "guid": "117352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117352",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Adaptive Protection",
+      "description": ",Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 07 Feb 2023 00:16:15 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2023"
+    },
+    "OldVersion": {
+      "guid": "117352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117352",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Adaptive Protection",
+      "description": ",Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 07 Feb 2023 00:16:15 -0800",
+      "updated": "2023-10-21T05:25:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2023"
+    }
+  },
+  {
+    "Path": "data/170789.json",
+    "CurrentVersion": {
+      "guid": "170789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170789",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: Spain datacenter region and Advanced Data Residency availability",
+      "description": "Microsoft 365 will launch a new local cloud region in Spain. The Advanced Data Residency add-on (&quot;ADR&quot;) will be available in Spain and provide eligible customers with committed data residency in the Spain local cloud region, prioritized tenant migration services, and expanded coverage of Microsoft 365 workloads and Customer Data.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:31 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "170789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170789",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: Spain datacenter region and Advanced Data Residency availability",
+      "description": "Microsoft 365 will launch a new local cloud region in Spain. The Advanced Data Residency add-on (\"ADR\") will be available in Spain and provide eligible customers with committed data residency in the Spain local cloud region, prioritized tenant migration services, and expanded coverage of Microsoft 365 workloads and Customer Data.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:31 -0700",
+      "updated": "2023-09-13T06:02:25+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/314430.json",
+    "CurrentVersion": {
+      "guid": "314430",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314430",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Bookable desks",
+      "description": "With the bookable desks feature in Teams, users can reserve desks upon arrival by plugging in to shared desks. IT admins can discover bookable desks in shared spaces in the Microsoft Teams Rooms Pro Management portal and collect utilization data from these desks for proactive management and planning.",
+      "pubDate": "Fri, 05 Apr 2024 22:30:22 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "314430",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314430",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Bookable desks",
+      "description": "With the bookable desks feature in Teams, users can reserve desks upon arrival by plugging in to shared desks. IT admins can discover bookable desks in shared spaces in the Microsoft Teams Rooms Pro Management portal and collect utilization data from these desks for proactive management and planning.",
+      "pubDate": "Fri, 05 Apr 2024 22:30:22 -0700",
+      "updated": "2024-04-30T06:45:13+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/332800.json",
+    "CurrentVersion": {
+      "guid": "332800",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332800",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tenant-wide policy for permission to download meeting transcripts and user-level controls for who can view and edit meeting transcripts",
+      "description": "Introducing a new control for IT administrators to restrict permissions for the download of meeting transcript files (stored in OneDrive for Business) for any users within the tenant. This policy applies to new meeting transcripts across the entire organization. Administrators can exempt people who are members of specified security groups from the policy. This allows admins to specify governance or compliance specialists who should have download access to meeting transcripts. Note: We have updated the description to provide greater clarity.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "332800",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332800",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tenant-wide policy for permission to download meeting transcripts and user-level controls for who can view and edit meeting transcripts",
+      "description": "Introducing a new control for IT administrators to restrict permissions for the download of meeting transcript files (stored in OneDrive for Business) for any users within the tenant. This policy applies to new meeting transcripts across the entire organization. Administrators can exempt people who are members of specified security groups from the policy. This allows admins to specify governance or compliance specialists who should have download access to meeting transcripts. Note: We have updated the description to provide greater clarity.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-06-07T06:30:13+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/365720.json",
+    "CurrentVersion": {
+      "guid": "365720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the view, download, and delete experience of Teams meeting transcript files",
+      "description": "We are streamlining the storage of meeting transcript files. Starting with this feature, all meeting transcript entry points in Teams app will point to the OneDrive for Business copy only. The rollout of this feature also improves the delete experience of the transcript for meeting organizers. Now, when a meeting organizer or co-organizer deletes the transcript in Microsoft Teams app, this will delete both copies of the transcript (from OneDrive for Business and Exchange Online) at the same time. If the meeting organizer deletes the transcript from Stream, only the copy in OneDrive for Business will be deleted. We also update the default permissions so that meeting organizer and co-organizers will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition, the recording/transcript file owner will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript. At the same time, meeting transcripts will stop saving in Exchange Online altogether and all transcript storage will be standardized on OneDrive for Business.  Note: We have updated the description to provide greater clarity.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "365720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the view, download, and delete experience of Teams meeting transcript files",
+      "description": "We are streamlining the storage of meeting transcript files. Starting with this feature, all meeting transcript entry points in Teams app will point to the OneDrive for Business copy only. The rollout of this feature also improves the delete experience of the transcript for meeting organizers. Now, when a meeting organizer or co-organizer deletes the transcript in Microsoft Teams app, this will delete both copies of the transcript (from OneDrive for Business and Exchange Online) at the same time. If the meeting organizer deletes the transcript from Stream, only the copy in OneDrive for Business will be deleted. We also update the default permissions so that meeting organizer and co-organizers will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition, the recording/transcript file owner will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript. At the same time, meeting transcripts will stop saving in Exchange Online altogether and all transcript storage will be standardized on OneDrive for Business.  Note: We have updated the description to provide greater clarity.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-06-07T06:30:13+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/373310.json",
+    "CurrentVersion": {
+      "guid": "373310",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373310",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced Incident Communication with DLP Email Templates",
+      "description": ",<div>You can now elevate your DLP incident management with the power of customizable email templates designed to send email messages to your stakeholders when an event is generated for DLP Policy match. With dynamic variables and tokens at your disposal, you can effortlessly create and maintain email templates, ensuring consistency and efficiency in your communications, along with a documented audit trail.\nYou can utilize these email templates to: inform end users about incidents, their severity, or the analyst's recommendations; stay on top of remediation efforts by sending follow-up notifications to end users with due dates; keep analysts informed about incident updates and assignments; trigger escalation notifications to managers or other custom targets; notify approvers of pending items with ease; and many more similar scenarios. </div>",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "373310",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373310",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced Incident Communication with DLP Email Templates",
+      "description": ",<div>You can now elevate your DLP incident management with the power of customizable email templates designed to send email messages to your stakeholders when an event is generated for DLP Policy match. With dynamic variables and tokens at your disposal, you can effortlessly create and maintain email templates, ensuring consistency and efficiency in your communications, along with a documented audit trail.\nYou can utilize these email templates to: inform end users about incidents, their severity, or the analyst's recommendations; stay on top of remediation efforts by sending follow-up notifications to end users with due dates; keep analysts informed about incident updates and assignments; trigger escalation notifications to managers or other custom targets; notify approvers of pending items with ease; and many more similar scenarios. </div>",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-05-01T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/389368.json",
+    "CurrentVersion": {
+      "guid": "389368",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389368",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Explicit consent for transcription in Teams meetings",
+      "description": "The meeting policy that requires explicit consent to be recorded is expanding to include transcription. When the policy is applied, a notification will pop-up when the recording or transcription is initiated requesting consent of all participants to be transcribed and recorded. Before a user gives consent, the user cannot unmute, turn on camera or share content in the meeting.",
+      "pubDate": "Mon, 25 Mar 2024 23:45:26 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "389368",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389368",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Explicit consent for transcription in Teams meetings",
+      "description": "The meeting policy that requires explicit consent to be recorded is expanding to include transcription. When the policy is applied, a notification will pop-up when the recording or transcription is initiated requesting consent of all participants to be transcribed and recorded. Before a user gives consent, the user cannot unmute, turn on camera or share content in the meeting.",
+      "pubDate": "Mon, 25 Mar 2024 23:45:26 -0700",
+      "updated": "2024-04-27T05:45:30+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392822.json",
+    "CurrentVersion": {
+      "guid": "392822",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392822",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join Zoom meetings with an ID and passcode from a Teams room on Android",
+      "description": "Teams Rooms on Android can now join Zoom meetings with an ID and a passcode, provided the IT admin has enabled Direct Guest Join meetings for the room. Learn about how to enable Teams Rooms devices to join third-party meetings at the link below.<br>More info: https://learn.microsoft.com/en-us/microsoftteams/rooms/third-party-join",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392822",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392822",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join Zoom meetings with an ID and passcode from a Teams room on Android",
+      "description": "Teams Rooms on Android can now join Zoom meetings with an ID and a passcode. This feature is only available with the Teams Rooms Pro license and your room must be configured to enable Direct Guest Join meetings. Learn about how to enable Teams Rooms devices to join third-party meetings at the link below.<br>More info: https://learn.microsoft.com/en-us/microsoftteams/rooms/third-party-join",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 -0700",
+      "updated": "2024-04-26T06:45:32+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392839.json",
+    "CurrentVersion": {
+      "guid": "392839",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392839",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Automatic data preservation for high-risk users",
+      "description": ",Adaptive Protection in Microsoft Purview helps you protect your organization’s data by integrating dynamic insider risk levels, determined by data related activities, with various policy engines to automatically moving users in and out of policies as their risk levels change over time. The integration with Data Lifecycle Management will automatically apply retention labels to preserve deleted emails and files based on a user’s insider risk level.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {
+      "guid": "392839",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392839",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Automatic data preservation for high-risk users",
+      "description": ",Adaptive Protection in Microsoft Purview helps you protect your organization’s data by integrating dynamic insider risk levels, determined by data related activities, with various policy engines to automatically moving users in and out of policies as their risk levels change over time. The integration with Data Lifecycle Management will automatically apply retention labels to preserve deleted emails and files based on a user’s insider risk level.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 -0700",
+      "updated": "2024-05-16T06:30:02+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/392847.json",
+    "CurrentVersion": {
+      "guid": "392847",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392847",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Organizational messages",
+      "description": ",Organizational messages allows enterprises to connect with their organization through customized messages, enabling them to engage directly within the Microsoft product experiences they use every day, like Windows Spotlight.  Starting Spring 2024, Organizational messages will be found under the “Reports” section within the Microsoft 365 admin center and will include features for admins to centrally manage their tenant’s messages, create new messages, and review delivery reports.",
+      "pubDate": "Thu, 11 Apr 2024 23:15:26 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "392847",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392847",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Organizational messages",
+      "description": ",Organizational messages allows enterprises to connect with their organization through customized messages, enabling them to engage directly within the Microsoft product experiences they use every day, like Windows Spotlight.  Starting Spring 2024, Organizational messages will be found under the “Reports” section within the Microsoft 365 admin center and will include features for admins to centrally manage their tenant’s messages, create new messages, and review delivery reports.",
+      "pubDate": "Thu, 11 Apr 2024 23:15:26 -0700",
+      "updated": "2024-04-12T06:15:26+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/393225.json",
+    "CurrentVersion": {
+      "guid": "393225",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393225",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Webinar - Disable social share for attendees",
+      "description": "Disable the ability for attendees to share the webinar event page to social networking sites for public events post-registration.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393225",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393225",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Webinar - Disable social share for attendees",
+      "description": "Disable the ability for attendees to share the webinar event page to social networking sites for public events post-registration.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-04-19T06:15:11+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394277.json",
+    "CurrentVersion": {
+      "guid": "394277",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394277",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394277",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394277",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Proactive document summarization",
+      "description": "Automatically see a Copilot-generated summary of a document you open.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-05-25T05:00:42+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395788.json",
+    "CurrentVersion": {
+      "guid": "395788",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395788",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Microsoft Copilot available in Outlook for Mac",
+      "description": ",The same Microsoft Copilot experience you can get in the Microsoft Teams app, at copilot.microsoft.com (work mode) and in other places is now available from within Microsoft Outlook for Mac. You can find the Copilot app in the left app bar.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/395936.json",
+    "CurrentVersion": {
+      "guid": "395936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: File Image preview in chats and channels",
+      "description": "When you share documents (Word, Excel, PowerPoint and PDF) in chat or channel conversation, you can see a thumbnail image of the file in the thread. This lets you preview the file’s content without opening it and find the file you need quickly.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: File Image preview in chats and channels",
+      "description": "When you share documents (Word, Excel, PowerPoint and PDF) in chat or channel conversation, you can see a thumbnail image of the file in the thread. This lets you preview the file’s content without opening it and find the file you need quickly.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-05-11T05:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396727.json",
+    "CurrentVersion": {
+      "guid": "396727",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396727",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar split view when surface is set to month view",
+      "description": "When viewing multiple calendars in month view, users will be able to select \"split view\" to see those calendars displayed side by side. This feature will be available in new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396727",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396727",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar split view when surface is set to month view",
+      "description": "When viewing multiple calendars in month view, users will be able to select \"split view\" to see those calendars displayed side by side. This feature will be available in new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 -0700",
+      "updated": "2024-05-17T06:15:55+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397096.json",
+    "CurrentVersion": {
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Proactive document summarization",
+      "description": "Automatically see a Copilot-generated summary of a document you open.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 -0700",
+      "updated": "2024-06-06T06:15:07+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397755.json",
+    "CurrentVersion": {
+      "guid": "397755",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397755",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Retention Labels are available for Loop pages and components",
+      "description": "Organizations that rely on Microsoft's records management capabilities in Purview can now include Loop content in their workflows with Retention Labels on Loop pages and components. There's an in-app experience when a label is applied or a record is locked.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/397769.json",
+    "CurrentVersion": {
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 -0700",
+      "updated": "2024-05-24T06:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398016.json",
+    "CurrentVersion": {
+      "guid": "398016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Edit questions associated to live surveys ",
+      "description": "Allow Glint Admins to edit select fields of a question that is associated to live surveys.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Edit questions associated to live surveys ",
+      "description": "Allow Glint Admins to edit select fields of a question that is associated to live surveys.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 -0700",
+      "updated": "2024-06-07T06:30:13+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398955.json",
+    "CurrentVersion": {
+      "guid": "398955",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398955",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Message result suggestions when typing to search",
+      "description": "You will now see message result suggestions when formulating a query. You can also narrow down search results to \"messages\" helping you quickly find Teams message content most relevant for you.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/399553.json",
+    "CurrentVersion": {
+      "guid": "399553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399553",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Avatar interaction improvements in Immersive space view",
+      "description": "Introducing more avatar reactions and personal boundary on avatars.",
+      "pubDate": "Fri, 07 Jun 2024 22:15:31 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399553",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Avatar interaction improvements in Immersive space view",
+      "description": "Introducing more avatar reactions, personal boundary on avatars, and improved active speaker indication on avatar name tags.",
+      "pubDate": "Fri, 07 Jun 2024 22:15:31 -0700",
+      "updated": "2024-06-08T05:15:31+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399923.json",
+    "CurrentVersion": {
+      "guid": "399923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399923",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Receive coaching on your writing in Copilot in Word",
+      "description": "The Copilot context menu will include an option for getting AI-generated coaching. Copilot will review the writing and offer suggestions for high-impact areas, such as logical structure, flow, and tone.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/399926.json",
+    "CurrentVersion": {
+      "guid": "399926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399926",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Remote Help for macOS (GCC)",
+      "description": "GCC customers can now use Remote Help on macOS devices.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/399939.json",
+    "CurrentVersion": {
+      "guid": "399939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399939",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Copilot summarization notification",
+      "description": "The feature displays an Omnibox notification when users enter into a reading mode eligible page in Edge and offers them the option to open Copilot in the sidebar to generate a summary of the content.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/108887/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "108887",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=108887",
+      "category": [
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Managing document permissions in Outlook for iOS",
+      "description": "Now, when you add a OneDrive or SharePoint file to an email, Outlook will notify you if anyone doesn't yet have permissions so you can update those before sending your email.",
+      "pubDate": "Fri, 17 May 2024 22:45:21 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/116819/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "116819",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116819",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting organizers can manage who can record and transcribe meetings (Premium)",
+      "description": "We are expanding the existing ‘Who can record’ control for meeting organizers to include transcription. With this change, meeting organizers with eligible licenses will see a control called ‘Who can record and transcribe’ in the meeting options, which allows meeting organizers to select from three options: (1) organizers and co-organizers, (2) organizers, co-organizers, and presenters, or (3) No one. This way meeting organizers will be able to manage which roles can initiate recording and transcription for a meeting. This functionality will be available to Teams Premium and Copilot for M365 licensed users.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117352/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "117352",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117352",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Adaptive Protection",
+      "description": ",Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 07 Feb 2023 00:16:15 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": "February CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/170789/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "170789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170789",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: Spain datacenter region and Advanced Data Residency availability",
+      "description": "Microsoft 365 will launch a new local cloud region in Spain. The Advanced Data Residency add-on (&quot;ADR&quot;) will be available in Spain and provide eligible customers with committed data residency in the Spain local cloud region, prioritized tenant migration services, and expanded coverage of Microsoft 365 workloads and Customer Data.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:31 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/314430/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "314430",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=314430",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Bookable desks",
+      "description": "With the bookable desks feature in Teams, users can reserve desks upon arrival by plugging in to shared desks. IT admins can discover bookable desks in shared spaces in the Microsoft Teams Rooms Pro Management portal and collect utilization data from these desks for proactive management and planning.",
+      "pubDate": "Fri, 05 Apr 2024 22:30:22 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/332800/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "332800",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=332800",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Tenant-wide policy for permission to download meeting transcripts and user-level controls for who can view and edit meeting transcripts",
+      "description": "Introducing a new control for IT administrators to restrict permissions for the download of meeting transcript files (stored in OneDrive for Business) for any users within the tenant. This policy applies to new meeting transcripts across the entire organization. Administrators can exempt people who are members of specified security groups from the policy. This allows admins to specify governance or compliance specialists who should have download access to meeting transcripts. Note: We have updated the description to provide greater clarity.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/365720/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "365720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the view, download, and delete experience of Teams meeting transcript files",
+      "description": "We are streamlining the storage of meeting transcript files. Starting with this feature, all meeting transcript entry points in Teams app will point to the OneDrive for Business copy only. The rollout of this feature also improves the delete experience of the transcript for meeting organizers. Now, when a meeting organizer or co-organizer deletes the transcript in Microsoft Teams app, this will delete both copies of the transcript (from OneDrive for Business and Exchange Online) at the same time. If the meeting organizer deletes the transcript from Stream, only the copy in OneDrive for Business will be deleted. We also update the default permissions so that meeting organizer and co-organizers will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition, the recording/transcript file owner will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript. At the same time, meeting transcripts will stop saving in Exchange Online altogether and all transcript storage will be standardized on OneDrive for Business.  Note: We have updated the description to provide greater clarity.",
+      "pubDate": "Wed, 24 Jan 2024 01:00:27 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/373310/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "373310",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=373310",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced Incident Communication with DLP Email Templates",
+      "description": ",<div>You can now elevate your DLP incident management with the power of customizable email templates designed to send email messages to your stakeholders when an event is generated for DLP Policy match. With dynamic variables and tokens at your disposal, you can effortlessly create and maintain email templates, ensuring consistency and efficiency in your communications, along with a documented audit trail.\nYou can utilize these email templates to: inform end users about incidents, their severity, or the analyst's recommendations; stay on top of remediation efforts by sending follow-up notifications to end users with due dates; keep analysts informed about incident updates and assignments; trigger escalation notifications to managers or other custom targets; notify approvers of pending items with ease; and many more similar scenarios. </div>",
+      "pubDate": "Thu, 11 Jan 2024 00:30:11 -0800",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389368/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "389368",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389368",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Explicit consent for transcription in Teams meetings",
+      "description": "The meeting policy that requires explicit consent to be recorded is expanding to include transcription. When the policy is applied, a notification will pop-up when the recording or transcription is initiated requesting consent of all participants to be transcribed and recorded. Before a user gives consent, the user cannot unmute, turn on camera or share content in the meeting.",
+      "pubDate": "Mon, 25 Mar 2024 23:45:26 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392822/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "392822",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392822",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Join Zoom meetings with an ID and passcode from a Teams room on Android",
+      "description": "Teams Rooms on Android can now join Zoom meetings with an ID and a passcode, provided the IT admin has enabled Direct Guest Join meetings for the room. Learn about how to enable Teams Rooms devices to join third-party meetings at the link below.<br>More info: https://learn.microsoft.com/en-us/microsoftteams/rooms/third-party-join",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392839/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "392839",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392839",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Automatic data preservation for high-risk users",
+      "description": ",Adaptive Protection in Microsoft Purview helps you protect your organization’s data by integrating dynamic insider risk levels, determined by data related activities, with various policy engines to automatically moving users in and out of policies as their risk levels change over time. The integration with Data Lifecycle Management will automatically apply retention labels to preserve deleted emails and files based on a user’s insider risk level.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392847/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "392847",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392847",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Organizational messages",
+      "description": ",Organizational messages allows enterprises to connect with their organization through customized messages, enabling them to engage directly within the Microsoft product experiences they use every day, like Windows Spotlight.  Starting Spring 2024, Organizational messages will be found under the “Reports” section within the Microsoft 365 admin center and will include features for admins to centrally manage their tenant’s messages, create new messages, and review delivery reports.",
+      "pubDate": "Thu, 11 Apr 2024 23:15:26 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393225/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "393225",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393225",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Webinar - Disable social share for attendees",
+      "description": "Disable the ability for attendees to share the webinar event page to social networking sites for public events post-registration.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394277/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "394277",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394277",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395788/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "395788",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395788",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Microsoft Copilot available in Outlook for Mac",
+      "description": ",The same Microsoft Copilot experience you can get in the Microsoft Teams app, at copilot.microsoft.com (work mode) and in other places is now available from within Microsoft Outlook for Mac. You can find the Copilot app in the left app bar.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395936/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "395936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: File Image preview in chats and channels",
+      "description": "When you share documents (Word, Excel, PowerPoint and PDF) in chat or channel conversation, you can see a thumbnail image of the file in the thread. This lets you preview the file’s content without opening it and find the file you need quickly.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396727/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "396727",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396727",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar split view when surface is set to month view",
+      "description": "When viewing multiple calendars in month view, users will be able to select \"split view\" to see those calendars displayed side by side. This feature will be available in new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397096/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397755/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "397755",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397755",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Retention Labels are available for Loop pages and components",
+      "description": "Organizations that rely on Microsoft's records management capabilities in Purview can now include Loop content in their workflows with Retention Labels on Loop pages and components. There's an in-app experience when a label is applied or a record is locked.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397769/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398016/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "398016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Edit questions associated to live surveys ",
+      "description": "Allow Glint Admins to edit select fields of a question that is associated to live surveys.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398955/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "398955",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398955",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Message result suggestions when typing to search",
+      "description": "You will now see message result suggestions when formulating a query. You can also narrow down search results to \"messages\" helping you quickly find Teams message content most relevant for you.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399553/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "399553",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399553",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Avatar interaction improvements in Immersive space view",
+      "description": "Introducing more avatar reactions and personal boundary on avatars.",
+      "pubDate": "Fri, 07 Jun 2024 22:15:31 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399923/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "399923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399923",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Receive coaching on your writing in Copilot in Word",
+      "description": "The Copilot context menu will include an option for getting AI-generated coaching. Copilot will review the writing and offer suggestions for high-impact areas, such as logical structure, flow, and tone.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399926/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "399926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399926",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Remote Help for macOS (GCC)",
+      "description": "GCC customers can now use Remote Help on macOS devices.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399939/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-12T02:14:40.258749+00:00",
+      "guid": "399939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399939",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Copilot summarization notification",
+      "description": "The feature displays an Omnibox notification when users enter into a reading mode eligible page in Edge and offers them the option to open Copilot in the sidebar to generate a summary of the content.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
