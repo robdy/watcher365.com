@@ -1,0 +1,1599 @@
+[
+  {
+    "Path": "data/109571.json",
+    "CurrentVersion": {
+      "guid": "109571",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109571",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Surface existing non-Microsoft DLP policies with the migration assistant",
+      "description": "<div>Microsoft Purview Data Loss Prevention migration assistant helps you transfer your non-Microsoft existing DLP policies to the Microsoft Purview DLP with minimal effort. This tool will automatically detect your policy configurations and create equivalent policies in the Microsoft Purview DLP environment. The v1 of the tool supports conversion of Symantec DLP policies only. </div>",
+      "pubDate": "Tue, 24 Jan 2023 00:19:08 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "109571",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109571",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Surface existing non-Microsoft DLP policies with the migration assistant",
+      "description": "Microsoft Purview Data Loss Prevention migration assistant helps you transfer your non-Microsoft existing DLP policies to the Microsoft Purview DLP with minimal effort. This tool will automatically detect your policy configurations and create equivalent policies in the Microsoft Purview DLP environment. The v1 of the tool supports conversion of Symantec DLP policies only.",
+      "pubDate": "Tue, 24 Jan 2023 00:19:08 -0800",
+      "updated": "2023-07-18T06:10:28+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117353.json",
+    "CurrentVersion": {
+      "guid": "117353",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117353",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies (U.S. government clouds)",
+      "description": "Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:17 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117353",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117353",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies (U.S. government clouds)",
+      "description": "Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:17 -0800",
+      "updated": "2024-03-02T08:30:10+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117575.json",
+    "CurrentVersion": {
+      "guid": "117575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117575",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention – Incident management in Microsoft Defender portal (U.S. Government clouds)",
+      "description": "This feature provides a singular view for incident management by making the Microsoft Purview Data Loss Prevention incident management experience available in the Microsoft Defender portal. Customers can import all DLP incidents into Microsoft Sentinel to extend correlation, detection and investigation across additional Microsoft and non-Microsoft data sources, and extend automated orchestration flows using Sentinel’s native SOAR capabilities.",
+      "pubDate": "Mon, 17 Apr 2023 23:24:21 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117575",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention – Incident management in Microsoft Defender portal (U.S. Government clouds)",
+      "description": "This feature provides a singular view for incident management by making the Microsoft Purview Data Loss Prevention incident management experience available in the Microsoft Defender portal. Customers can import all DLP incidents into Microsoft Sentinel to extend correlation, detection and investigation across additional Microsoft and non-Microsoft data sources, and extend automated orchestration flows using Sentinel’s native SOAR capabilities.",
+      "pubDate": "Mon, 17 Apr 2023 23:24:21 -0700",
+      "updated": "2023-04-17T07:00:00+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/155926.json",
+    "CurrentVersion": {
+      "guid": "155926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155926",
+      "category": [
+        "Cancelled",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Support for static and adaptive policy scopes for auto-apply retention labels targeting SITs in Exchange",
+      "description": "Auto-apply retention labels targeting sensitive information types in Exchange will now support static include/exclude and adaptive policy scopes. Previously, admins could only target all Exchange mailboxes. This is being cancelled because it's a duplicate of\nRMID 164864.",
+      "pubDate": "Wed, 26 Jul 2023 23:13:10 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "155926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155926",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Support for static and adaptive policy scopes for auto-apply retention labels targeting SITs in Exchange",
+      "description": "Auto-apply retention labels targeting sensitive information types in Exchange will now support static include/exclude and adaptive policy scopes. Previously admins could only target all Exchange mailboxes.",
+      "pubDate": "Wed, 26 Jul 2023 23:13:10 -0700",
+      "updated": "2023-07-27T06:09:23+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/164865.json",
+    "CurrentVersion": {
+      "guid": "164865",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164865",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Ability to change retention period on labels set to start retention based on “When items were labeled”",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Previously, admins could not change the\nretention period set on existing labels configured to start retention from when\nitems were labeled. This feature will remove this restriction, and the\nresulting behavior will be consistent with other retention label types.</span> </div>",
+      "pubDate": "Wed, 16 Aug 2023 23:21:10 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "164865",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164865",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Ability to change retention period on labels set to start retention based on “When items were labeled”",
+      "description": "Previously, admins could not change the\nretention period set on existing labels configured to start retention from when\nitems were labeled. This feature will remove this restriction, and the\nresulting behavior will be consistent with other retention label types.",
+      "pubDate": "Wed, 16 Aug 2023 23:21:10 -0700",
+      "updated": "2023-10-26T06:26:48+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/171161.json",
+    "CurrentVersion": {
+      "guid": "171161",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171161",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New default retention for Audit (Standard)",
+      "description": "The default retention period for Microsoft Purview Audit (Standard) will change from 90 days to 180 days.  The default retention period for Audit (Premium) remains at 1 year.",
+      "pubDate": "Wed, 13 Sep 2023 23:17:14 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "171161",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171161",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New default retention for Audit (Standard)",
+      "description": "The default retention period for Microsoft Purview Audit (Standard) will change from 90 days to 180 days.  The default retention period for Audit (Premium) remains at 1 year.",
+      "pubDate": "Wed, 13 Sep 2023 23:17:14 -0700",
+      "updated": "2023-09-14T06:12:47+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/176165.json",
+    "CurrentVersion": {
+      "guid": "176165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=176165",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Customized Retention Policies: Long-Term Retention",
+      "description": "Releasing several new long-term retention policies as part of the 10-year Audit Log Retention add-on SKU. These include 3 years, 5 years, and 7 years. These are available for customers with the 10-Year retention license.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "176165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=176165",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Customized Retention Policies: Long-Term Retention",
+      "description": "Releasing several new long-term retention policies as part of the 10-year Audit Log Retention add-on SKU. These include 3 years, 5 years, and 7 years. These are available for customers with the 10-Year retention license.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2023-10-10T06:12:55+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/179897.json",
+    "CurrentVersion": {
+      "guid": "179897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179897",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced Third Party app purchase experience in Teams and Teams Admin Center",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Shipping\nan enhanced purchase experience in a Teams look and feel for Teams 3 party\napplication in both Teams store and Teams Admin Center. This feature will\nslowly roll out, first to customers with a commerce billing account then to\ncustomer without a commerce billing account.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:33 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "179897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179897",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced Third Party app purchase experience in Teams and Teams Admin Center",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Shipping\nan enhanced purchase experience in a Teams look and feel for Teams 3 party\napplication in both Teams store and Teams Admin Center. This feature will\nslowly roll out, first to customers with a commerce billing account then to\ncustomer without a commerce billing account.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:33 -0700",
+      "updated": "2024-05-18T05:45:21+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375635.json",
+    "CurrentVersion": {
+      "guid": "375635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375635",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Shared Mailboxes as Accounts",
+      "description": "Shared Mailboxes can be added as Accounts in the new Outlook for Windows. The Shared Mailbox will appear at the Account Level in the Folder list. Access to the Shared Mailbox requires the user's credentials and associated permissions. #newoutlookforwindows",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375635",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Shared Mailboxes as Accounts",
+      "description": ",Shared Mailboxes can be added as Accounts in the new Outlook for Windows. The Shared Mailbox will appear at the Account Level in the Folder list. Access to the Shared Mailbox requires the user's credentials and associated permissions. #newoutlookforwindows",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 -0800",
+      "updated": "2024-06-04T06:15:46+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/378775.json",
+    "CurrentVersion": {
+      "guid": "378775",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378775",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Organize and reorder folders in the new Outlook for Windows and web",
+      "description": "Users can arrange folders in any desired order effortlessly by dragging and dropping the folders in the position that they want. #newoutlookforwindows",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "378775",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378775",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Organize and reorder folders in the new Outlook for Windows and web",
+      "description": ",Users can arrange folders in any desired order effortlessly by dragging and dropping the folders in the position that they want. #newoutlookforwindows",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 -0800",
+      "updated": "2024-05-16T06:30:02+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/393923.json",
+    "CurrentVersion": {
+      "guid": "393923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393923",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Workflows – Easier discoverability of Workflows templates",
+      "description": "Users will be able to discover which Workflows template was used when they receive a Workflows card in chats and channels. Teams Workflow cards posted from a template will now include a link to the template used. Users will be able to open the workflow template and create their own automated Teams workflows to save them time when completing routine tasks.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393923",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Workflows – Easier discoverability of Workflows templates",
+      "description": "Users will be able to discover which Workflows template was used when they receive a Workflows card in chats and channels. Teams Workflow cards posted from a template will now include a link to the template used. Users will be able to open the workflow template and create their own automated Teams workflows to save them time when completing routine tasks.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 -0700",
+      "updated": "2024-05-03T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393936.json",
+    "CurrentVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": "The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": ",The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/393962.json",
+    "CurrentVersion": {
+      "guid": "393962",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393962",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Enable associated SharePoint sites to be excluded from retention policies after deletion of Modern Group",
+      "description": "If a modern M365 group is deleted, the associated SharePoint has a retention policy, a file with a retention label, or a legal hold, it remains active but orphaned. These sites cannot be excluded from the retention policy after the deletion of the group because of designed modern group scope. The site-level holds are applied when a group is added to a retention policy and the Tenant-level holds are applied when the complete modern group workload is added to a retention policy. Currently, to remove such a hold, the customer has to raise an escalation. With the rollout of this feature, users will be able to exclude the orphaned SPO site from both site-level holds and tenant-level holds as a self-service.",
+      "pubDate": "Mon, 22 Apr 2024 23:15:43 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393962",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393962",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Enable associated SharePoint sites to be excluded from retention policies after deletion of Modern Group",
+      "description": "If a modern M365 group is deleted, the associated SharePoint has a retention policy, a file with a retention label, or a legal hold, it remains active but orphaned. These sites cannot be excluded from the retention policy after the deletion of the group because of designed modern group scope. The site-level holds are applied when a group is added to a retention policy and the Tenant-level holds are applied when the complete modern group workload is added to a retention policy. Currently, to remove such a hold, the customer has to raise an escalation. With the rollout of this feature, users will be able to exclude the orphaned SPO site from both site-level holds and tenant-level holds as a self-service.",
+      "pubDate": "Mon, 22 Apr 2024 23:15:43 -0700",
+      "updated": "2024-04-23T06:15:43+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396560.json",
+    "CurrentVersion": {
+      "guid": "396560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396560",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Copilot works on any selection",
+      "description": "Copilot will enable the edit box on any worksheet regardless of selection. Copilot will reason over the nearest table or data range to the customer’s selected grid area on the same worksheet.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396560",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Copilot works on any selection",
+      "description": "Copilot will enable the edit box on any worksheet regardless of selection. Copilot will reason over the nearest table or data range to the customer’s selected grid area on the same worksheet.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-05-25T05:00:42+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397891.json",
+    "CurrentVersion": {
+      "guid": "397891",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397891",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Support S/MIME in the new Outlook for Windows",
+      "description": "New Outlook for Windows will support S/MIME (Secure/Multipurpose Internet Mail extensions) signing and encryption. All new and existing S/MIME configurations will work without any explicit action from admins. The feature was already available for Web and now we are extending its availability to New Outlook. #newoutlookforwindows",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397891",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397891",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Support S/MIME in the new Outlook for Windows",
+      "description": ",New Outlook for Windows will support S/MIME (Secure/Multipurpose Internet Mail extensions) signing and encryption. All new and existing S/MIME configurations will work without any explicit action from admins. The feature was already available for Web and now we are extending its availability to New Outlook. #newoutlookforwindows",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-05-25T05:00:42+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/398445.json",
+    "CurrentVersion": {
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398446.json",
+    "CurrentVersion": {
+      "guid": "398446",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398446",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Export Q&A Questions",
+      "description": "Event organizers can now export questions that attendees asked as a .CSV file, in order to better understand the questions asked and general sentiment in a meeting or event.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398446",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398446",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Export Q&A Questions",
+      "description": "Event organizers can now export questions that attendees asked as a .CSV file, in order to better understand the questions asked and general sentiment in a meeting or event.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398447.json",
+    "CurrentVersion": {
+      "guid": "398447",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398447",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: School Connection –  Providing access to parents via their phone number",
+      "description": "The School Connection app in Microsoft Teams (mobile) empowers parents and guardians to engage, support, and monitor their student's learning at school. This release enables a parent/guardian to get access to their child’s profile in School Connection if they login to Teams (mobile) with their phone number and the school has registered that phone number as a parent/guardian contact. Additionally, a parent/guardian will easily get access to their child’s profile if the phone number or email address that is registered by the school is saved as a login information in their Microsoft account. Learn more about School Connection at the link below.<br>More info: https://parent.microsoft.com/",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398447",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398447",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: School Connection –  Providing access to parents via their phone number",
+      "description": "The School Connection app in Microsoft Teams (mobile) empowers parents and guardians to engage, support, and monitor their student's learning at school. This release enables a parent/guardian to get access to their child’s profile in School Connection if they login to Teams (mobile) with their phone number and the school has registered that phone number as a parent/guardian contact. Additionally, a parent/guardian will easily get access to their child’s profile if the phone number or email address that is registered by the school is saved as a contact information in their Microsoft account. Learn more about School Connection at the link below. <br>More info: https://parent.microsoft.com/",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 -0700",
+      "updated": "2024-06-05T06:15:18+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398983.json",
+    "CurrentVersion": {
+      "guid": "398983",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398983",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updating Conversation Actions on Outlook for iOS",
+      "description": "Currently, when viewing a message, you can access the available actions in the top-right corner. We are updating these actions to be at the bottom of the screen with the ability to customize the order and placement of the actions to suit your needs. With this update, you will also be able to access all conversation actions from the inbox view by long-pressing a message.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398983",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398983",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updating Conversation Actions on Outlook for iOS",
+      "description": "Currently, when viewing a message, you can access the available actions in the top-right corner. We are updating these actions to be at the bottom of the screen with the ability to customize the order and placement of the actions to suit your needs. With this update, you will also be able to access all conversation actions from the inbox view by long-pressing a message.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 -0700",
+      "updated": "2024-06-05T06:15:18+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/400702.json",
+    "CurrentVersion": {
+      "guid": "400702",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400702",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Roster grouping for in-room participants through proximity join for Teams Rooms on Windows",
+      "description": "When joining a meeting in a Microsoft Teams Room on Windows with a companion device, in-room participants will be grouped under the room node. Participants must join through Proximity Join with Microsoft Teams Rooms.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/400703.json",
+    "CurrentVersion": {
+      "guid": "400703",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400703",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced cross-platform meetings via SIP join for Teams Rooms",
+      "description": "Joining SIP-based conferencing services like Google Meet, Zoom, Cisco Webex, and others via Teams Rooms offers a seamless collaboration experience, mirroring the native Teams interface. This integration supports features such as 1080p video, dual screen, various layout options, HDMI input, and others contingent on the third-party platform's in-meeting controls. A SIP calling plan from a CVI partner, currently Pexip, is necessary. This is available for Teams Rooms customers with a Pro license.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/400706.json",
+    "CurrentVersion": {
+      "guid": "400706",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400706",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Room video tile re-sizing based on people count for Teams Rooms on Windows",
+      "description": "Using people count information, the room video tile is dynamically re-sized in Gallery view. If there is only one user in the room, the video tile will be the same size as the remote participant tile. If there is more than one user in the room, the room video tile will be 4x the size of the remote participant tile. Admins will be available to turn on/off the people count capability.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/400716.json",
+    "CurrentVersion": {
+      "guid": "400716",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400716",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Use sensitivity labels in Microsoft 365 apps when connected experiences are disabled",
+      "description": ",Your organization can now disable connected experiences for privacy concerns without impacting data security policies such as sensitivity labels. Services associated with Microsoft Purview (e.g. sensitivity labels and rights management) are no longer controlled by policy settings to manage privacy controls for Microsoft 365 Apps. Instead, these services will rely on their existing security admin controls in Purview portals.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/400717.json",
+    "CurrentVersion": {
+      "guid": "400717",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400717",
+      "category": [
+        "Android",
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Dynamic watermarking for files protected with sensitivity labels ",
+      "description": ",Dynamic watermarking is a new sensitivity label setting that overlays watermark text containing the consuming user’s information on content in Word, Excel, and PowerPoint.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/68688.json",
+    "CurrentVersion": {
+      "guid": "68688",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=68688",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Ability to set a retention period for a policy",
+      "description": "<div>Introducing the ability to define how long content captured by a Communication Compliance policy is retained. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. </div><br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Mon, 14 Sep 2020 23:15:34 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "68688",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=68688",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Ability to set a retention period for a policy",
+      "description": "<div>Introducing the ability to define how long content captured by a Communication Compliance policy is retained. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. </div><br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Mon, 14 Sep 2020 23:15:34 -0700",
+      "updated": "2024-04-03T06:45:03+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/88847.json",
+    "CurrentVersion": {
+      "guid": "88847",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88847",
+      "category": [
+        "Cancelled",
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview | Communication Compliance: Integration with Power Automate (GCC)",
+      "description": "Currently in public preview, Communication Compliance integration with Power Automate allows organizations to configure Power Automate flows to automate tasks for Communication Compliance cases and users. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. This is cancelled because it's a duplicate of RMID 93307.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Wed, 12 Jan 2022 00:26:06 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "88847",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88847",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview | Communication Compliance: Integration with Power Automate (GCC)",
+      "description": "Currently in public preview, Communication Compliance integration with Power Automate allows organizations to configure Power Automate flows to automate tasks for Communication Compliance cases and users. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Wed, 12 Jan 2022 00:26:06 -0800",
+      "updated": "2023-06-28T06:26:28+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/109571/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "109571",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=109571",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Surface existing non-Microsoft DLP policies with the migration assistant",
+      "description": "<div>Microsoft Purview Data Loss Prevention migration assistant helps you transfer your non-Microsoft existing DLP policies to the Microsoft Purview DLP with minimal effort. This tool will automatically detect your policy configurations and create equivalent policies in the Microsoft Purview DLP environment. The v1 of the tool supports conversion of Symantec DLP policies only. </div>",
+      "pubDate": "Tue, 24 Jan 2023 00:19:08 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117353/v0014.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "117353",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117353",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Scope the administration of retention and retention label policies (U.S. government clouds)",
+      "description": "Organizations can leverage Administrative Units in Azure Active Directory to define who can configure and manage policies in Microsoft Purview. This update will include the ability to set a Records Management admin for a specific geography, department, or other unit, who can manage retention and retention label policies for their unit.",
+      "pubDate": "Thu, 02 Mar 2023 00:22:17 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117575/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "117575",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117575",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention – Incident management in Microsoft Defender portal (U.S. Government clouds)",
+      "description": "This feature provides a singular view for incident management by making the Microsoft Purview Data Loss Prevention incident management experience available in the Microsoft Defender portal. Customers can import all DLP incidents into Microsoft Sentinel to extend correlation, detection and investigation across additional Microsoft and non-Microsoft data sources, and extend automated orchestration flows using Sentinel’s native SOAR capabilities.",
+      "pubDate": "Mon, 17 Apr 2023 23:24:21 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/155926/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "155926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=155926",
+      "category": [
+        "Cancelled",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Support for static and adaptive policy scopes for auto-apply retention labels targeting SITs in Exchange",
+      "description": "Auto-apply retention labels targeting sensitive information types in Exchange will now support static include/exclude and adaptive policy scopes. Previously, admins could only target all Exchange mailboxes. This is being cancelled because it's a duplicate of\nRMID 164864.",
+      "pubDate": "Wed, 26 Jul 2023 23:13:10 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/164865/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "164865",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164865",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Ability to change retention period on labels set to start retention based on “When items were labeled”",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Previously, admins could not change the\nretention period set on existing labels configured to start retention from when\nitems were labeled. This feature will remove this restriction, and the\nresulting behavior will be consistent with other retention label types.</span> </div>",
+      "pubDate": "Wed, 16 Aug 2023 23:21:10 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171161/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "171161",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171161",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New default retention for Audit (Standard)",
+      "description": "The default retention period for Microsoft Purview Audit (Standard) will change from 90 days to 180 days.  The default retention period for Audit (Premium) remains at 1 year.",
+      "pubDate": "Wed, 13 Sep 2023 23:17:14 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/176165/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "176165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=176165",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Customized Retention Policies: Long-Term Retention",
+      "description": "Releasing several new long-term retention policies as part of the 10-year Audit Log Retention add-on SKU. These include 3 years, 5 years, and 7 years. These are available for customers with the 10-Year retention license.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/179897/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "179897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179897",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced Third Party app purchase experience in Teams and Teams Admin Center",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black;\">Shipping\nan enhanced purchase experience in a Teams look and feel for Teams 3 party\napplication in both Teams store and Teams Admin Center. This feature will\nslowly roll out, first to customers with a commerce billing account then to\ncustomer without a commerce billing account.</span> </div>",
+      "pubDate": "Thu, 19 Oct 2023 23:13:33 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375635/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "375635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375635",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Shared Mailboxes as Accounts",
+      "description": "Shared Mailboxes can be added as Accounts in the new Outlook for Windows. The Shared Mailbox will appear at the Account Level in the Folder list. Access to the Shared Mailbox requires the user's credentials and associated permissions. #newoutlookforwindows",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378775/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "378775",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378775",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Organize and reorder folders in the new Outlook for Windows and web",
+      "description": "Users can arrange folders in any desired order effortlessly by dragging and dropping the folders in the position that they want. #newoutlookforwindows",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393923/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "393923",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393923",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Workflows – Easier discoverability of Workflows templates",
+      "description": "Users will be able to discover which Workflows template was used when they receive a Workflows card in chats and channels. Teams Workflow cards posted from a template will now include a link to the template used. Users will be able to open the workflow template and create their own automated Teams workflows to save them time when completing routine tasks.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393936/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": "The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393962/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "393962",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393962",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Enable associated SharePoint sites to be excluded from retention policies after deletion of Modern Group",
+      "description": "If a modern M365 group is deleted, the associated SharePoint has a retention policy, a file with a retention label, or a legal hold, it remains active but orphaned. These sites cannot be excluded from the retention policy after the deletion of the group because of designed modern group scope. The site-level holds are applied when a group is added to a retention policy and the Tenant-level holds are applied when the complete modern group workload is added to a retention policy. Currently, to remove such a hold, the customer has to raise an escalation. With the rollout of this feature, users will be able to exclude the orphaned SPO site from both site-level holds and tenant-level holds as a self-service.",
+      "pubDate": "Mon, 22 Apr 2024 23:15:43 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396560/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "396560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396560",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Copilot works on any selection",
+      "description": "Copilot will enable the edit box on any worksheet regardless of selection. Copilot will reason over the nearest table or data range to the customer’s selected grid area on the same worksheet.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397891/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "397891",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397891",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Support S/MIME in the new Outlook for Windows",
+      "description": "New Outlook for Windows will support S/MIME (Secure/Multipurpose Internet Mail extensions) signing and encryption. All new and existing S/MIME configurations will work without any explicit action from admins. The feature was already available for Web and now we are extending its availability to New Outlook. #newoutlookforwindows",
+      "pubDate": "Fri, 24 May 2024 22:00:42 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398445/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398446/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "398446",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398446",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Export Q&A Questions",
+      "description": "Event organizers can now export questions that attendees asked as a .CSV file, in order to better understand the questions asked and general sentiment in a meeting or event.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398447/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "398447",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398447",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: School Connection –  Providing access to parents via their phone number",
+      "description": "The School Connection app in Microsoft Teams (mobile) empowers parents and guardians to engage, support, and monitor their student's learning at school. This release enables a parent/guardian to get access to their child’s profile in School Connection if they login to Teams (mobile) with their phone number and the school has registered that phone number as a parent/guardian contact. Additionally, a parent/guardian will easily get access to their child’s profile if the phone number or email address that is registered by the school is saved as a login information in their Microsoft account. Learn more about School Connection at the link below.<br>More info: https://parent.microsoft.com/",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398983/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "398983",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398983",
+      "category": [
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updating Conversation Actions on Outlook for iOS",
+      "description": "Currently, when viewing a message, you can access the available actions in the top-right corner. We are updating these actions to be at the bottom of the screen with the ability to customize the order and placement of the actions to suit your needs. With this update, you will also be able to access all conversation actions from the inbox view by long-pressing a message.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400702/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "400702",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400702",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Roster grouping for in-room participants through proximity join for Teams Rooms on Windows",
+      "description": "When joining a meeting in a Microsoft Teams Room on Windows with a companion device, in-room participants will be grouped under the room node. Participants must join through Proximity Join with Microsoft Teams Rooms.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400703/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "400703",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400703",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced cross-platform meetings via SIP join for Teams Rooms",
+      "description": "Joining SIP-based conferencing services like Google Meet, Zoom, Cisco Webex, and others via Teams Rooms offers a seamless collaboration experience, mirroring the native Teams interface. This integration supports features such as 1080p video, dual screen, various layout options, HDMI input, and others contingent on the third-party platform's in-meeting controls. A SIP calling plan from a CVI partner, currently Pexip, is necessary. This is available for Teams Rooms customers with a Pro license.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400706/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "400706",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400706",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Room video tile re-sizing based on people count for Teams Rooms on Windows",
+      "description": "Using people count information, the room video tile is dynamically re-sized in Gallery view. If there is only one user in the room, the video tile will be the same size as the remote participant tile. If there is more than one user in the room, the room video tile will be 4x the size of the remote participant tile. Admins will be available to turn on/off the people count capability.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400716/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "400716",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400716",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Use sensitivity labels in Microsoft 365 apps when connected experiences are disabled",
+      "description": ",Your organization can now disable connected experiences for privacy concerns without impacting data security policies such as sensitivity labels. Services associated with Microsoft Purview (e.g. sensitivity labels and rights management) are no longer controlled by policy settings to manage privacy controls for Microsoft 365 Apps. Instead, these services will rely on their existing security admin controls in Purview portals.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400717/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "400717",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400717",
+      "category": [
+        "Android",
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Dynamic watermarking for files protected with sensitivity labels ",
+      "description": ",Dynamic watermarking is a new sensitivity label setting that overlays watermark text containing the consuming user’s information on content in Word, Excel, and PowerPoint.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/68688/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "68688",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=68688",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Ability to set a retention period for a policy",
+      "description": "<div>Introducing the ability to define how long content captured by a Communication Compliance policy is retained. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. </div><br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Mon, 14 Sep 2020 23:15:34 -0700",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/88847/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-19T02:14:45.4570903+00:00",
+      "guid": "88847",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=88847",
+      "category": [
+        "Cancelled",
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview | Communication Compliance: Integration with Power Automate (GCC)",
+      "description": "Currently in public preview, Communication Compliance integration with Power Automate allows organizations to configure Power Automate flows to automate tasks for Communication Compliance cases and users. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy. This is cancelled because it's a duplicate of RMID 93307.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance?view=o365-worldwide",
+      "pubDate": "Wed, 12 Jan 2022 00:26:06 -0800",
+      "updated": "2024-06-19T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
