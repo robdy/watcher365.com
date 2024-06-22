@@ -1,0 +1,847 @@
+[
+  {
+    "Path": "data/124827.json",
+    "CurrentVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-06-01T05:30:03+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/164208.json",
+    "CurrentVersion": {
+      "guid": "164208",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164208",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview Information Protection Tracking and Revocation - File Registration",
+      "description": "When a sensitivity label is used to encrypt an Office file, it is automatically registered for tracking, and previously label-protected Office files are registered the next time they are opened in an updated client. This only applies to local files. Compliance administrators can track and revoke access to registered Office files.",
+      "pubDate": "Thu, 17 Aug 2023 23:22:52 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "164208",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164208",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview Information Protection Tracking and Revocation - File Registration",
+      "description": "When a sensitivity label is used to encrypt an Office file, it is automatically registered for tracking, and previously label-protected Office files are registered the next time they are opened in an updated client. This only applies to local files. Compliance administrators can track and revoke access to registered Office files.",
+      "pubDate": "Thu, 17 Aug 2023 23:22:52 -0700",
+      "updated": "2023-10-12T06:29:13+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/335856.json",
+    "CurrentVersion": {
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-06-15T05:45:31+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381121.json",
+    "CurrentVersion": {
+      "guid": "381121",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381121",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting recap and meeting artifacts automatically shared in chat after meeting",
+      "description": "Shortly after a meeting ends, meeting participants will automatically get a set of all the artifacts from the meeting in the meeting chat. Included in this set is a quick entry point to the meeting recap page, the transcript, the recording, Collaborative notes, any files that were shared, a link to any Whiteboard that was used, and the meeting details like date and time of the meeting event. For users with access to intelligent recap, in addition to the entry point to intelligent recap, users will also see highlights like number of speakers, number of name mentions, and suggested tasks.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381121",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381121",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting recap and meeting artifacts automatically shared in chat after meeting",
+      "description": "Shortly after a meeting ends, meeting participants will automatically get a set of all the artifacts from the meeting in the meeting chat. Included in this set is a quick entry point to the meeting recap page, the transcript, the recording, Collaborative notes, any files that were shared, a link to any Whiteboard that was used, and the meeting details like date and time of the meeting event. For users with access to intelligent recap, in addition to the entry point to intelligent recap, users will also see highlights like number of speakers, number of name mentions, and suggested tasks.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-04-18T08:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/384068.json",
+    "CurrentVersion": {
+      "guid": "384068",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384068",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - New enhancements in Workday integration",
+      "description": "Admins can now use advance mapping options to link AAD and Workday.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 -0800",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "384068",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384068",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - New enhancements in Workday integration",
+      "description": "Admins can now use advance mapping options to link AAD and Workday.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 -0800",
+      "updated": "2024-02-28T08:45:58+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/388369.json",
+    "CurrentVersion": {
+      "guid": "388369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388369",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Revamped Resources on mobile and tablet",
+      "description": "The Resources section on Viva Connections mobile and tablet will show content from the recently revamped Resources section on Viva Connections desktop.",
+      "pubDate": "Thu, 14 Mar 2024 00:15:09 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "388369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388369",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Revamped Resources on mobile and tablet",
+      "description": "The Resources section on Viva Connections mobile and tablet will show content from the recently revamped Resources section on Viva Connections desktop.",
+      "pubDate": "Thu, 14 Mar 2024 00:15:09 -0700",
+      "updated": "2024-03-14T07:15:09+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392840.json",
+    "CurrentVersion": {
+      "guid": "392840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392840",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical Character Recognition (OCR) on Mac Endpoints",
+      "description": ",In Purview policies like Data loss prevention (DLP), auto labelling can scan for sensitive content in most of the textual files, but images are not supported for content scanning today on Mac endpoint devices. We are adding OCR support on Mac endpoints to detect sensitive content in images and apply policies to protect these images.",
+      "pubDate": "Wed, 10 Apr 2024 23:30:14 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "392840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392840",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical Character Recognition (OCR) on Mac Endpoints",
+      "description": ",In Purview policies like Data loss prevention (DLP), auto labelling can scan for sensitive content in most of the textual files, but images are not supported for content scanning today on Mac endpoint devices. We are adding OCR support on Mac endpoints to detect sensitive content in images and apply policies to protect these images.",
+      "pubDate": "Wed, 10 Apr 2024 23:30:14 -0700",
+      "updated": "2024-04-16T06:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/392845.json",
+    "CurrentVersion": {
+      "guid": "392845",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392845",
+      "category": [
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms Smart Reminder to gain higher engagement from audience",
+      "description": "Copilot smart reminder will monitor and proactively share engagement and submission status to a form's owner in order to suggest follow-up actions. For example, if engagement is low, forms owners can leverage Copilot to send reminders for forms or quizzes quickly. Also, Copilot smart reminder can remind owners to check the insights when there are sufficient responses to make decisions.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392845",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392845",
+      "category": [
+        "Forms",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms Smart Reminder to gain higher engagement from audience",
+      "description": "Copilot smart reminder will monitor and proactively share engagement and submission status to a form's owner in order to suggest follow-up actions. For example, if engagement is low, forms owners can leverage Copilot to send reminders for forms or quizzes quickly. Also, Copilot smart reminder can remind owners to check the insights when there are sufficient responses to make decisions.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 -0700",
+      "updated": "2024-06-20T06:30:51+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394281.json",
+    "CurrentVersion": {
+      "guid": "394281",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394281",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Risky AI usage",
+      "description": ",With this update, Insider risk management will help admins identify risky AI usage. We are adding new detections of intentional and unintentional insider risk activity on generative AI apps that can pose a risk to an organization. Activities will include risky prompts containing sensitive info or risky intent and sensitive responses containing sensitive info or is generated from sensitive files or sites.  Coverage will span across Microsoft Copilots and 3P generative AI apps. These detections will also contribute to Adaptive Protection insider risk levels.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 22 Apr 2024 23:15:43 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "394281",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394281",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Risky AI usage",
+      "description": ",With this update, Insider risk management will help admins identify risky AI usage. We are adding new detections of intentional and unintentional insider risk activity on generative AI apps that can pose a risk to an organization. Activities will include risky prompts containing sensitive info or risky intent and sensitive responses containing sensitive info or is generated from sensitive files or sites.  Coverage will span across Microsoft Copilots and 3P generative AI apps. These detections will also contribute to Adaptive Protection insider risk levels.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 22 Apr 2024 23:15:43 -0700",
+      "updated": "2024-06-15T05:45:31+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/395378.json",
+    "CurrentVersion": {
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-05-08T06:30:56+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396722.json",
+    "CurrentVersion": {
+      "guid": "396722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396722",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Official Communities Discovery",
+      "description": "Official Communities are discoverable in the Communities Discovery page. Under Recommended Communities, there is an Official Communities section which highlights the communities that have been verified by the network admins.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396722",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Official Communities Discovery",
+      "description": "Official Communities are discoverable in the Communities Discovery page. Under Recommended Communities, there is an Official Communities section which highlights the communities that have been verified by the network admins.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 -0700",
+      "updated": "2024-05-22T06:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/400700.json",
+    "CurrentVersion": {
+      "guid": "400700",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400700",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Digital signage on Teams Rooms on Windows",
+      "description": "Users can view dynamic, engaging, and relevant content on the Teams Rooms front-of-room display when the device is not in use. Admins can remotely configure tenant-wide and room-specific digital signage settings at scale from Teams Rooms Pro Management. Integrations with selected third-party digital signage providers and content management systems are supported, initial partners are Appspace and XOGO. This feature is available for Teams Rooms Pro license customers.",
+      "pubDate": "Thu, 20 Jun 2024 23:15:19 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "400700",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400700",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Preview",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Digital signage on Teams Rooms on Windows",
+      "description": "Users can view dynamic, engaging, and relevant content on the Teams Rooms front-of-room display when the device is not in use. Admins can remotely configure tenant-wide and room-specific digital signage settings at scale from Teams Rooms Pro Management. Integrations with selected third-party digital signage providers and content management systems are supported, initial partners are Appspace and XOGO. This feature is available for Teams Rooms Pro license customers.",
+      "pubDate": "Thu, 20 Jun 2024 23:15:19 -0700",
+      "updated": "2024-06-21T06:15:19+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/401341.json",
+    "CurrentVersion": {
+      "guid": "401341",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401341",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pin favorites at the top in the New Outlook for Windows and Web",
+      "description": ",Easily access your most-used folders by pinning them at the top of your Left Nav Bar in the New Outlook for Windows and Web. This feature streamlines navigation, ensuring your important folders are always within reach. #newoutlookforwindows",
+      "pubDate": "Fri, 21 Jun 2024 22:15:08 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124827/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/164208/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "164208",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=164208",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview Information Protection Tracking and Revocation - File Registration",
+      "description": "When a sensitivity label is used to encrypt an Office file, it is automatically registered for tracking, and previously label-protected Office files are registered the next time they are opened in an updated client. This only applies to local files. Compliance administrators can track and revoke access to registered Office files.",
+      "pubDate": "Thu, 17 Aug 2023 23:22:52 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/335856/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 -0800",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381121/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "381121",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381121",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting recap and meeting artifacts automatically shared in chat after meeting",
+      "description": "Shortly after a meeting ends, meeting participants will automatically get a set of all the artifacts from the meeting in the meeting chat. Included in this set is a quick entry point to the meeting recap page, the transcript, the recording, Collaborative notes, any files that were shared, a link to any Whiteboard that was used, and the meeting details like date and time of the meeting event. For users with access to intelligent recap, in addition to the entry point to intelligent recap, users will also see highlights like number of speakers, number of name mentions, and suggested tasks.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384068/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "384068",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384068",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - New enhancements in Workday integration",
+      "description": "Admins can now use advance mapping options to link AAD and Workday.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 -0800",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388369/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "388369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388369",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Revamped Resources on mobile and tablet",
+      "description": "The Resources section on Viva Connections mobile and tablet will show content from the recently revamped Resources section on Viva Connections desktop.",
+      "pubDate": "Thu, 14 Mar 2024 00:15:09 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392840/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "392840",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392840",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical Character Recognition (OCR) on Mac Endpoints",
+      "description": ",In Purview policies like Data loss prevention (DLP), auto labelling can scan for sensitive content in most of the textual files, but images are not supported for content scanning today on Mac endpoint devices. We are adding OCR support on Mac endpoints to detect sensitive content in images and apply policies to protect these images.",
+      "pubDate": "Wed, 10 Apr 2024 23:30:14 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392845/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "392845",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392845",
+      "category": [
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms Smart Reminder to gain higher engagement from audience",
+      "description": "Copilot smart reminder will monitor and proactively share engagement and submission status to a form's owner in order to suggest follow-up actions. For example, if engagement is low, forms owners can leverage Copilot to send reminders for forms or quizzes quickly. Also, Copilot smart reminder can remind owners to check the insights when there are sufficient responses to make decisions.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394281/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "394281",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394281",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Risky AI usage",
+      "description": ",With this update, Insider risk management will help admins identify risky AI usage. We are adding new detections of intentional and unintentional insider risk activity on generative AI apps that can pose a risk to an organization. Activities will include risky prompts containing sensitive info or risky intent and sensitive responses containing sensitive info or is generated from sensitive files or sites.  Coverage will span across Microsoft Copilots and 3P generative AI apps. These detections will also contribute to Adaptive Protection insider risk levels.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 22 Apr 2024 23:15:43 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395378/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396722/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "396722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396722",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Official Communities Discovery",
+      "description": "Official Communities are discoverable in the Communities Discovery page. Under Recommended Communities, there is an Official Communities section which highlights the communities that have been verified by the network admins.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400700/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "400700",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400700",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Digital signage on Teams Rooms on Windows",
+      "description": "Users can view dynamic, engaging, and relevant content on the Teams Rooms front-of-room display when the device is not in use. Admins can remotely configure tenant-wide and room-specific digital signage settings at scale from Teams Rooms Pro Management. Integrations with selected third-party digital signage providers and content management systems are supported, initial partners are Appspace and XOGO. This feature is available for Teams Rooms Pro license customers.",
+      "pubDate": "Thu, 20 Jun 2024 23:15:19 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/401341/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-22T02:13:14.5274814+00:00",
+      "guid": "401341",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401341",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pin favorites at the top in the New Outlook for Windows and Web",
+      "description": ",Easily access your most-used folders by pinning them at the top of your Left Nav Bar in the New Outlook for Windows and Web. This feature streamlines navigation, ensuring your important folders are always within reach. #newoutlookforwindows",
+      "pubDate": "Fri, 21 Jun 2024 22:15:08 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  }
+]
