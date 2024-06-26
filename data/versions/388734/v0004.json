@@ -1,4 +1,5 @@
 {
+  "timestamp": "2024-06-26T02:14:09.8178105+00:00",
   "guid": "388734",
   "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388734",
   "category": [
@@ -12,7 +13,7 @@
   "title": "Microsoft Purview compliance portal: Insider Risk Management - Improvements to “Deleting of SharePoint files/folders” indicators",
   "description": ",Today “Deleting of SharePoint files” and “Deleting of SharePoint folders” indicators include permanent file or folder deletion event operations FileDeleted and FolderDeleted respectively. With this update, these indicators also capture files/folders moved to recycle bin which includes FileRecycled, FolderRecycled. You will see more activities being captured by these indicators. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
   "pubDate": "Tue, 19 Mar 2024 23:15:49 -0700",
-  "updated": "2024-06-25T23:30:01-07:00",
+  "updated": "2024-06-26T06:30:01+00:00",
   "publicDisclosureAvailabilityDate": "June CY2024",
   "publicPreviewDate": "May CY2024"
 }
