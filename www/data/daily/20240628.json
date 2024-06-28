@@ -1,0 +1,1198 @@
+[
+  {
+    "Path": "data/116992.json",
+    "CurrentVersion": {
+      "guid": "116992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116992",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Office app",
+        "Preview",
+        "Web"
+      ],
+      "title": "Office App: Idle Session Timeout for Microsoft 365 Web Apps - Government Cloud",
+      "description": "<div><span style=\"display:inline !important;\">Idle session timeout feature allows IT admins to configure a tenant-wide timeout value based on which users get automatically signed out after a period of inactivity on Microsoft 365 web apps. This feature is an improvement over, and will eventually replace, current idle timeout settings in Outlook Web App (OWA) and SharePoint Online (SPO).</span> </div><div> </div>",
+      "pubDate": "Thu, 26 Jan 2023 00:14:24 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "116992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116992",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Office app",
+        "Preview",
+        "Web"
+      ],
+      "title": "Office App: Idle Session Timeout for Microsoft 365 Web Apps - Government Cloud",
+      "description": ",Idle session timeout feature allows IT admins to configure a tenant-wide timeout value based on which users get automatically signed out after a period of inactivity on Microsoft 365 web apps. This feature is an improvement over, and will eventually replace, current idle timeout settings in Outlook Web App (OWA) and SharePoint Online (SPO).",
+      "pubDate": "Thu, 26 Jan 2023 00:14:24 -0800",
+      "updated": "2023-11-02T06:16:05+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "December CY2023"
+    }
+  },
+  {
+    "Path": "data/161829.json",
+    "CurrentVersion": {
+      "guid": "161829",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161829",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions",
+      "description": ",<div>Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals. </div>",
+      "pubDate": "Tue, 08 Aug 2023 23:14:13 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "161829",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161829",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions",
+      "description": ",<div>Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals. </div>",
+      "pubDate": "Tue, 08 Aug 2023 23:14:13 -0700",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/170738.json",
+    "CurrentVersion": {
+      "guid": "170738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Keyword highlight support for document trainable classifiers",
+      "description": "Highlight the keywords/phrases that are contributing significantly to the Trainable classifier results, so that users can easily understand the classification of the documents. This would build trust of the users of the OOB classifications and empower them to create DLP policies.",
+      "pubDate": "Fri, 08 Sep 2023 22:53:12 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "170738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Keyword highlight support for document trainable classifiers",
+      "description": "Highlight the keywords/phrases that are contributing significantly to the Trainable classifier results, so that users can easily understand the classification of the documents. This would build trust of the users of the OOB classifications and empower them to create DLP policies.",
+      "pubDate": "Fri, 08 Sep 2023 22:53:12 -0700",
+      "updated": "2024-04-04T06:15:22+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/179883.json",
+    "CurrentVersion": {
+      "guid": "179883",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179883",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Progressive alert scoring",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this new\nfeature, user activities that could potentially result in data security\nincidents will be assessed more frequently within a 24-hour period compared\nwith the current practice of once every 24 hours. Alert insights will now be\nupdated every few hours with this increased frequency, providing designated\nanalysts with timely alerts and continuously evolving insights. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies based on their own internal policies, governance, and\norganizational requirements. Built with privacy by design, users are\npseudonymized by default, and role-based access controls and audit logs are in\nplace to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Tue, 10 Oct 2023 23:12:05 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "179883",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179883",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Progressive alert scoring",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this new\nfeature, user activities that could potentially result in data security\nincidents will be assessed more frequently within a 24-hour period compared\nwith the current practice of once every 24 hours. Alert insights will now be\nupdated every few hours with this increased frequency, providing designated\nanalysts with timely alerts and continuously evolving insights. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies based on their own internal policies, governance, and\norganizational requirements. Built with privacy by design, users are\npseudonymized by default, and role-based access controls and audit logs are in\nplace to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Tue, 10 Oct 2023 23:12:05 -0700",
+      "updated": "2024-05-16T06:30:02+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/336046.json",
+    "CurrentVersion": {
+      "guid": "336046",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=336046",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enhanced Policy Conditions",
+      "description": "Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals.",
+      "pubDate": "Thu, 14 Dec 2023 23:30:55 -0800",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "336046",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=336046",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enhanced Policy Conditions",
+      "description": "Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals.",
+      "pubDate": "Thu, 14 Dec 2023 23:30:55 -0800",
+      "updated": "2024-05-02T06:15:54+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/371388.json",
+    "CurrentVersion": {
+      "guid": "371388",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371388",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Junk/Phishing reporting actions integrated with Microsoft Defender in classic Outlook for Windows",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in classic Outlook for Windows can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 -0700",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "371388",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371388",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Junk/Phishing reporting actions integrated with Microsoft Defender in classic Outlook for Windows",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in classic Outlook for Windows can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 -0700",
+      "updated": "2024-06-20T06:30:51+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/378776.json",
+    "CurrentVersion": {
+      "guid": "378776",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378776",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New options to copy email items in the new Outlook for Windows and web",
+      "description": "We're thrilled to introduce a new way to copy email items in the new Outlook for web and Windows that will make your email management even more seamless and efficient. Ctrl + Drag and Drop: Simply hold down the Ctrl key while dragging and dropping your email items to effortlessly duplicate them. It's a quick and intuitive way to manage your emails with precision. #newoutlookforwindows",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 -0800",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "378776",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378776",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New options to copy email items in the new Outlook for Windows and web",
+      "description": "We're thrilled to introduce a new way to copy email items in the new Outlook for web and Windows that will make your email management even more seamless and efficient. Ctrl + Drag and Drop: Simply hold down the Ctrl key while dragging and dropping your email items to effortlessly duplicate them. It's a quick and intuitive way to manage your emails with precision. #newoutlookforwindows",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 -0800",
+      "updated": "2024-04-02T06:15:47+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381464.json",
+    "CurrentVersion": {
+      "guid": "381464",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381464",
+      "category": [
+        "Cancelled",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ultrasound proximity join admin controls for Teams Rooms on Windows",
+      "description": "This roadmap item is cancelled and replaced by 380681. We are sorry for any inconvenience. IT admins can use XML files to enable two proximity join settings for Teams Rooms on Windows: enabling ultrasound signals for a user to accurately find and choose a room to join a meeting from, and whether the Teams Rooms automatically accepts the ring from the user's laptop to join the meeting.\n\n",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381464",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381464",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ultrasound proximity join admin controls for Teams Rooms on Windows",
+      "description": "IT admins can use XML files to enable two proximity join settings for Teams Rooms on Windows: enabling ultrasound signals for a user to accurately find and choose a room to join a meeting from, and whether the Teams Rooms automatically accepts the ring from the user's laptop to join the meeting.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-05-23T06:30:29+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381757.json",
+    "CurrentVersion": {
+      "guid": "381757",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381757",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Collaborative notes in GCC",
+      "description": "Collaborative notes allow meeting attendees to co-create and collaborate on their meeting agenda, notes, and action items.  Since Collaborative notes are a Loop component, it is always in sync regardless of how many places they live in.  Assigned Tasks in Collaborative notes automatically sync with ToDo & Planner.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381757",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381757",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Collaborative notes in GCC",
+      "description": "Collaborative notes allow meeting attendees to co-create and collaborate on their meeting agenda, notes, and action items.  Since Collaborative notes are a Loop component, it is always in sync regardless of how many places they live in.  Assigned Tasks in Collaborative notes automatically sync with ToDo & Planner.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-14T06:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/382107.json",
+    "CurrentVersion": {
+      "guid": "382107",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382107",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Enriching Insider risk management with Communication compliance as an indicator",
+      "description": ",Enhance Insider Risk Management by incorporating communication compliance policy matches as a new indicator for detecting various communication risks, including inappropriate text. Additionally, our system now extends its capabilities to identify potential financial regulatory compliance breaches and violations of any custom communication compliance policy on Teams, Exchange, Yammer, Copilot for Microsoft 365, or third-party channels. This expansion ensures a comprehensive approach to risk detection in diverse communication scenarios.",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "382107",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382107",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Enriching Insider risk management with Communication compliance as an indicator",
+      "description": ",Enhance Insider Risk Management by incorporating communication compliance policy matches as a new indicator for detecting various communication risks, including inappropriate text. Additionally, our system now extends its capabilities to identify potential financial regulatory compliance breaches and violations of any custom communication compliance policy on Teams, Exchange, Yammer, Copilot, or third-party channels. This expansion ensures a comprehensive approach to risk detection in diverse communication scenarios.",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 -0700",
+      "updated": "2024-04-16T06:15:00+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/383747.json",
+    "CurrentVersion": {
+      "guid": "383747",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383747",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - DLP Analytics and Recommendations to understand risks, improve existing policies and improve posture",
+      "description": "Microsoft Purview DLP overview page will have two new cards:  for DLP with 2 Cards that show Analytics with 1-click recommendations: Highlighting the key risk and the option to create a one-click policy to mitigate the risk, and Recommendation to fine tune existing DLP policies to make them effective and reduce alerts.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383747",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383747",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - DLP Analytics and Recommendations to understand risks, improve existing policies and improve posture",
+      "description": "Microsoft Purview DLP overview page will have two new cards:  for DLP with 2 Cards that show Analytics with 1-click recommendations: Highlighting the key risk and the option to create a one-click policy to mitigate the risk, and Recommendation to fine tune existing DLP policies to make them effective and reduce alerts.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-06-11T04:30:24+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/384872.json",
+    "CurrentVersion": {
+      "guid": "384872",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384872",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to Copy Rule ",
+      "description": ",With this feature, admins will have capability to reuse existing rules and make slight edits instead of creating new rules from scratch every time. This will reduce a lot of manual re-work and boost their productivity.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "384872",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384872",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to Copy Rule ",
+      "description": ",With this feature, admins will have capability to reuse existing rules and make slight edits instead of creating new rules from scratch every time. This will reduce a lot of manual re-work and boost their productivity.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-05-22T06:15:05+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/394681.json",
+    "CurrentVersion": {
+      "guid": "394681",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394681",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New RSVP settings in the new Outlook for Windows and web",
+      "description": "Two new settings to improve the user experience when responding to meeting invitations: (1) do not delete invitation email after RSVPing and (2) auto-decline if the attendee's calendar shows as busy. These features will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 02 May 2024 23:15:25 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394681",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394681",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New RSVP settings in the new Outlook for Windows and web",
+      "description": "Two new settings to improve the user experience when responding to meeting invitations: (1) do not delete invitation email after RSVPing and (2) auto-decline if the attendee's calendar shows as busy. These features will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 02 May 2024 23:15:25 -0700",
+      "updated": "2024-05-03T06:15:25+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394682.json",
+    "CurrentVersion": {
+      "guid": "394682",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394682",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook themes generated by Microsoft Copilot",
+      "description": "Make Outlook yours with themes generated by Copilot. You will be able to find these themes in Settings.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 -0700",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394682",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394682",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook themes generated by Microsoft Copilot",
+      "description": "Make Outlook yours with themes generated by Copilot. You will be able to find these themes in Settings.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 -0700",
+      "updated": "2024-05-15T06:30:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395931.json",
+    "CurrentVersion": {
+      "guid": "395931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395931",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Rename general channel",
+      "description": "In our efforts to bridge the gaps between general and other channels, introducing the ability to rename the general channel in your team. General channel in a team can be renamed by the team owner, or member (if they have permissions), to show up in the teams and channels list in alphabetical order.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395931",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Rename general channel",
+      "description": "In our efforts to bridge the gaps between general and other channels, introducing the ability to rename the general channel in your team. General channel in a team can be renamed by the team owner, or member (if they have permissions), to show up in the teams and channels list in alphabetical order.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-20T06:30:51+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397768.json",
+    "CurrentVersion": {
+      "guid": "397768",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397768",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot (Microsoft 365) – Copilot in Microsoft Teams chat and channels to summarize content over a specified period of time",
+      "description": "You can now ask Copilot in chat and channels to respond to questions regarding a conversation in a specific time period, for example: last month.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397768",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397768",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot (Microsoft 365) – Copilot in Microsoft Teams chat and channels to summarize content over a specified period of time",
+      "description": "You can now ask Copilot in chat and channels to respond to questions regarding a conversation in a specific time period, for example: last month.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-11T06:30:43+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398449.json",
+    "CurrentVersion": {
+      "guid": "398449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398449",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New expanded gallery view option for minimized meeting window",
+      "description": "When meeting window is minimized, participants can enlarge the small view of Teams meeting to a new bigger gallery view, making it easier to multitask on screen and stay aware of meeting events. Users can choose the size of the minimized gallery view window from the following options: one participant visible in the minimized window, 4 participants visible in the minimized window, fully minimized, or fully expanded.",
+      "pubDate": "Mon, 03 Jun 2024 23:15:46 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398449",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New expanded gallery view option for minimized meeting window",
+      "description": "When meeting window is minimized, participants can enlarge the small view of Teams meeting to a new bigger gallery view, making it easier to multitask on screen and stay aware of meeting events. Users can choose the size of the minimized gallery view window from the following options: one participant visible in the minimized window, 4 participants visible in the minimized window, fully minimized, or fully expanded.",
+      "pubDate": "Mon, 03 Jun 2024 23:15:46 -0700",
+      "updated": "2024-06-08T05:15:31+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402540.json",
+    "CurrentVersion": {
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 -0700",
+      "updated": "2024-06-28T00:45:59+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/116992/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "116992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116992",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Office app",
+        "Preview",
+        "Web"
+      ],
+      "title": "Office App: Idle Session Timeout for Microsoft 365 Web Apps - Government Cloud",
+      "description": "<div><span style=\"display:inline !important;\">Idle session timeout feature allows IT admins to configure a tenant-wide timeout value based on which users get automatically signed out after a period of inactivity on Microsoft 365 web apps. This feature is an improvement over, and will eventually replace, current idle timeout settings in Outlook Web App (OWA) and SharePoint Online (SPO).</span> </div><div> </div>",
+      "pubDate": "Thu, 26 Jan 2023 00:14:24 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/161829/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "161829",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161829",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions",
+      "description": ",<div>Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals. </div>",
+      "pubDate": "Tue, 08 Aug 2023 23:14:13 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/170738/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "170738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=170738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Keyword highlight support for document trainable classifiers",
+      "description": "Highlight the keywords/phrases that are contributing significantly to the Trainable classifier results, so that users can easily understand the classification of the documents. This would build trust of the users of the OOB classifications and empower them to create DLP policies.",
+      "pubDate": "Fri, 08 Sep 2023 22:53:12 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/179883/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "179883",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=179883",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Progressive alert scoring",
+      "description": ",<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this new\nfeature, user activities that could potentially result in data security\nincidents will be assessed more frequently within a 24-hour period compared\nwith the current practice of once every 24 hours. Alert insights will now be\nupdated every few hours with this increased frequency, providing designated\nanalysts with timely alerts and continuously evolving insights. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies based on their own internal policies, governance, and\norganizational requirements. Built with privacy by design, users are\npseudonymized by default, and role-based access controls and audit logs are in\nplace to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Tue, 10 Oct 2023 23:12:05 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/336046/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "336046",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=336046",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enhanced Policy Conditions",
+      "description": "Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals.",
+      "pubDate": "Thu, 14 Dec 2023 23:30:55 -0800",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/371388/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "371388",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371388",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Junk/Phishing reporting actions integrated with Microsoft Defender in classic Outlook for Windows",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in classic Outlook for Windows can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 -0700",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/378776/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "378776",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378776",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New options to copy email items in the new Outlook for Windows and web",
+      "description": "We're thrilled to introduce a new way to copy email items in the new Outlook for web and Windows that will make your email management even more seamless and efficient. Ctrl + Drag and Drop: Simply hold down the Ctrl key while dragging and dropping your email items to effortlessly duplicate them. It's a quick and intuitive way to manage your emails with precision. #newoutlookforwindows",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 -0800",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381464/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "381464",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381464",
+      "category": [
+        "Cancelled",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ultrasound proximity join admin controls for Teams Rooms on Windows",
+      "description": "This roadmap item is cancelled and replaced by 380681. We are sorry for any inconvenience. IT admins can use XML files to enable two proximity join settings for Teams Rooms on Windows: enabling ultrasound signals for a user to accurately find and choose a room to join a meeting from, and whether the Teams Rooms automatically accepts the ring from the user's laptop to join the meeting.\n\n",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381757/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "381757",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381757",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Collaborative notes in GCC",
+      "description": "Collaborative notes allow meeting attendees to co-create and collaborate on their meeting agenda, notes, and action items.  Since Collaborative notes are a Loop component, it is always in sync regardless of how many places they live in.  Assigned Tasks in Collaborative notes automatically sync with ToDo & Planner.",
+      "pubDate": "Fri, 02 Feb 2024 00:45:19 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382107/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "382107",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382107",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Enriching Insider risk management with Communication compliance as an indicator",
+      "description": ",Enhance Insider Risk Management by incorporating communication compliance policy matches as a new indicator for detecting various communication risks, including inappropriate text. Additionally, our system now extends its capabilities to identify potential financial regulatory compliance breaches and violations of any custom communication compliance policy on Teams, Exchange, Yammer, Copilot for Microsoft 365, or third-party channels. This expansion ensures a comprehensive approach to risk detection in diverse communication scenarios.",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383747/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "383747",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383747",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - DLP Analytics and Recommendations to understand risks, improve existing policies and improve posture",
+      "description": "Microsoft Purview DLP overview page will have two new cards:  for DLP with 2 Cards that show Analytics with 1-click recommendations: Highlighting the key risk and the option to create a one-click policy to mitigate the risk, and Recommendation to fine tune existing DLP policies to make them effective and reduce alerts.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384872/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "384872",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384872",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to Copy Rule ",
+      "description": ",With this feature, admins will have capability to reuse existing rules and make slight edits instead of creating new rules from scratch every time. This will reduce a lot of manual re-work and boost their productivity.",
+      "pubDate": "Fri, 01 Mar 2024 01:45:14 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394681/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "394681",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394681",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New RSVP settings in the new Outlook for Windows and web",
+      "description": "Two new settings to improve the user experience when responding to meeting invitations: (1) do not delete invitation email after RSVPing and (2) auto-decline if the attendee's calendar shows as busy. These features will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 02 May 2024 23:15:25 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394682/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "394682",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394682",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook themes generated by Microsoft Copilot",
+      "description": "Make Outlook yours with themes generated by Copilot. You will be able to find these themes in Settings.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 -0700",
+      "updated": "2024-06-28T04:00:16+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395931/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "395931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395931",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Rename general channel",
+      "description": "In our efforts to bridge the gaps between general and other channels, introducing the ability to rename the general channel in your team. General channel in a team can be renamed by the team owner, or member (if they have permissions), to show up in the teams and channels list in alphabetical order.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397768/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "397768",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397768",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Copilot (Microsoft 365) – Copilot in Microsoft Teams chat and channels to summarize content over a specified period of time",
+      "description": "You can now ask Copilot in chat and channels to respond to questions regarding a conversation in a specific time period, for example: last month.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398449/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "398449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398449",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New expanded gallery view option for minimized meeting window",
+      "description": "When meeting window is minimized, participants can enlarge the small view of Teams meeting to a new bigger gallery view, making it easier to multitask on screen and stay aware of meeting events. Users can choose the size of the minimized gallery view window from the following options: one participant visible in the minimized window, 4 participants visible in the minimized window, fully minimized, or fully expanded.",
+      "pubDate": "Mon, 03 Jun 2024 23:15:46 -0700",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402540/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-28T02:14:50.0389632+00:00",
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 -0700",
+      "updated": "2024-06-28T00:45:59+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
