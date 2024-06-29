@@ -1,0 +1,985 @@
+[
+  {
+    "Path": "data/116992.json",
+    "CurrentVersion": {
+      "guid": "116992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116992",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Office app",
+        "Web"
+      ],
+      "title": "Office App: Idle Session Timeout for Microsoft 365 Web Apps - Government Cloud",
+      "description": "<div><span style=\"display:inline !important;\">Idle session timeout feature allows IT admins to configure a tenant-wide timeout value based on which users get automatically signed out after a period of inactivity on Microsoft 365 web apps. This feature is an improvement over, and will eventually replace, current idle timeout settings in Outlook Web App (OWA) and SharePoint Online (SPO).</span> </div><div> </div>",
+      "pubDate": "Thu, 26 Jan 2023 00:14:24 -0800",
+      "updated": "2024-06-29T05:00:47+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "116992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116992",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Office app",
+        "Preview",
+        "Web"
+      ],
+      "title": "Office App: Idle Session Timeout for Microsoft 365 Web Apps - Government Cloud",
+      "description": "<div><span style=\"display:inline !important;\">Idle session timeout feature allows IT admins to configure a tenant-wide timeout value based on which users get automatically signed out after a period of inactivity on Microsoft 365 web apps. This feature is an improvement over, and will eventually replace, current idle timeout settings in Outlook Web App (OWA) and SharePoint Online (SPO).</span> </div><div> </div>",
+      "pubDate": "Thu, 26 Jan 2023 00:14:24 -0800",
+      "updated": "2024-06-28T01:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/160733.json",
+    "CurrentVersion": {
+      "guid": "160733",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160733",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Viva App Bar integration in Viva Learning Webapp",
+      "description": "Viva Learning Webapp will have an easy way to switch across other Viva Webapp modules.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-06-29T01:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "160733",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160733",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Viva App Bar integration in Viva Learning Webapp",
+      "description": "Viva Learning Webapp will have an easy way to switch across other Viva Webapp modules.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-02-09T09:00:53+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/161828.json",
+    "CurrentVersion": {
+      "guid": "161828",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161828",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Syntex: Translation",
+      "description": "A new service that enables users to translate documents quickly and accurately among dozens of languages based on specific metadata or on-demand. Note: We will not be rolling out to Government Clouds at this time.  We apologize for any inconvenience this may cause.",
+      "pubDate": "Tue, 08 Aug 2023 23:14:11 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "161828",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161828",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Syntex",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Syntex: Translation",
+      "description": "A new service that enables users to translate documents quickly and accurately among dozens of languages based on specific metadata or on-demand. Note: We will not be rolling out to Government Clouds at this time.  We apologize for any inconvenience this may cause.",
+      "pubDate": "Tue, 08 Aug 2023 23:14:11 -0700",
+      "updated": "2024-06-25T06:30:08+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/172017.json",
+    "CurrentVersion": {
+      "guid": "172017",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=172017",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reporting improvements (Leverage policy insights)",
+      "description": "Communication Compliance message details report will support additional user filter to create and download the report for specific users in the policy. The items per policy report will provide item counts and actions on the items matched in the specified date range.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:41 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "172017",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=172017",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reporting improvements (Leverage policy insights)",
+      "description": "Communication Compliance message details report will support additional user filter to create and download the report for specific users in the policy. The items per policy report will provide item counts and actions on the items matched in the specified date range.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:41 -0700",
+      "updated": "2023-09-13T06:02:25+00:00",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/334050.json",
+    "CurrentVersion": {
+      "guid": "334050",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=334050",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Bulk export of learner completion records",
+      "description": "Learner Completion Record bulk export is an extension of an existing feature to download Learner record by username. Bulk export empowers enterprises to download learner records of multiple users in one go using the M365 groups.",
+      "pubDate": "Wed, 26 Jun 2024 19:00:21 -0700",
+      "updated": "2024-06-29T01:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "334050",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=334050",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Bulk export Learner Completion record",
+      "description": "Learner Completion Record bulk export is an extension of an existing feature to download Learner record by username. Bulk export empowers enterprises to download learner records of multiple users in one go using the M365 groups.",
+      "pubDate": "Wed, 26 Jun 2024 19:00:21 -0700",
+      "updated": "2024-06-27T02:00:21+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/382106.json",
+    "CurrentVersion": {
+      "guid": "382106",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382106",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enriching Insider risk management with Communication compliance as an indicator",
+      "description": ",Enhance Insider Risk Management by incorporating communication compliance policy matches as a new indicator for detecting various communication risks, including inappropriate text. Additionally, our system now extends its capabilities to identify potential financial regulatory compliance breaches and violations of any custom communication compliance policy on Teams, Exchange, Yammer, Copilot for Microsoft 365, or third-party channels. This expansion ensures a comprehensive approach to risk detection in diverse communication scenarios.",
+      "pubDate": "Tue, 27 Feb 2024 00:45:00 -0800",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "382106",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382106",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enriching Insider risk management with Communication compliance as an indicator",
+      "description": ",Enhance Insider Risk Management by incorporating communication compliance policy matches as a new indicator for detecting various communication risks, including inappropriate text. Additionally, our system now extends its capabilities to identify potential financial regulatory compliance breaches and violations of any custom communication compliance policy on Teams, Exchange, Yammer, Copilot, or third-party channels. This expansion ensures a comprehensive approach to risk detection in diverse communication scenarios.",
+      "pubDate": "Tue, 27 Feb 2024 00:45:00 -0800",
+      "updated": "2024-06-21T06:15:19+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/394351.json",
+    "CurrentVersion": {
+      "guid": "394351",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394351",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Cross location Shifts",
+      "description": "Cross-Location Shifts empowers organizations by enabling their Frontline workers to access and select open shifts from multiple locations within a region. Managers benefit from a larger labor pool by opening shift availability across multiple locations: a worker from one store location may select a shift in any other store across their region. This feature is accessible both via desktop and mobile.",
+      "pubDate": "Thu, 09 May 2024 23:00:20 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394351",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394351",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Cross location Shifts",
+      "description": "Cross-Location Shifts empowers organizations by enabling their Frontline workers to access and select open shifts from multiple locations within a region. Managers benefit from a larger labor pool by opening shift availability across multiple locations: a worker from one store location may select a shift in any other store across their region. This feature is accessible both via desktop and mobile.",
+      "pubDate": "Thu, 09 May 2024 23:00:20 -0700",
+      "updated": "2024-06-11T06:30:43+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395378.json",
+    "CurrentVersion": {
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-29T01:30:42+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-22T05:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397096.json",
+    "CurrentVersion": {
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 -0700",
+      "updated": "2024-06-29T05:00:47+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 -0700",
+      "updated": "2024-06-12T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399413.json",
+    "CurrentVersion": {
+      "guid": "399413",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399413",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Longer documents can be summarized in chat",
+      "description": "Copilot in Word will be able to completely summarize documents that it could only partially summarize before. The upper limit is increasing to about four times more words.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-29T05:15:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399413",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399413",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Longer documents can be summarized in chat",
+      "description": "Copilot in Word will be able to completely summarize documents that it could only partially summarize before. The upper limit is increasing to about four times more words.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-13T06:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399918.json",
+    "CurrentVersion": {
+      "guid": "399918",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399918",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-29T07:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399918",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399918",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-13T06:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399921.json",
+    "CurrentVersion": {
+      "guid": "399921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399921",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-29T05:00:47+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399921",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-13T06:15:10+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399927.json",
+    "CurrentVersion": {
+      "guid": "399927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399927",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Create EPM rules based on a support approve requests and reporting entries",
+      "description": "Admins can now create rules directly from support approval requests and from entries in the elevation report. Previously rules had to be created by hand by entering in all the information about the elevation and how it should be managed.",
+      "pubDate": "Fri, 28 Jun 2024 18:15:49 -0700",
+      "updated": "2024-06-29T01:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/399933.json",
+    "CurrentVersion": {
+      "guid": "399933",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399933",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Improved elevation detection",
+      "description": ",This improvement expands the types of elevation actions in Windows that EPM can detect and control elevation for.",
+      "pubDate": "Fri, 28 Jun 2024 16:45:01 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/402889.json",
+    "CurrentVersion": {
+      "guid": "402889",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402889",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web"
+      ],
+      "title": "Planner: New Microsoft Planner App for Teams in GCC",
+      "description": "The new Microsoft Planner app in Teams is a single, unified work management experience. It brings together the simplicity of To Do, the collaboration of Planner and the power of Project for the web into a single and simple solution, that offers individual task management, collaborative work management as well as enterprise work management.",
+      "pubDate": "Fri, 28 Jun 2024 22:45:20 -0700",
+      "updated": "2024-06-29T05:45:20+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/98137.json",
+    "CurrentVersion": {
+      "guid": "98137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Reset People Suggestions in Search",
+      "description": "<div>Allow users to reset, export, and/or opt out of people suggestions in search through Outlook on the web settings. If a reset is done in web, this will affect the account across Outlook. </div>",
+      "pubDate": "Tue, 20 Sep 2022 23:13:00 -0700",
+      "updated": "2024-06-29T07:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "98137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98137",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Reset People Suggestions in Search",
+      "description": "Allow users to reset, export, and/or opt out of people suggestions in search through Outlook on the web settings. If a reset is done in web, this will affect the account across Outlook.",
+      "pubDate": "Tue, 20 Sep 2022 23:13:00 -0700",
+      "updated": "2023-06-30T06:25:56+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/116992/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "116992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=116992",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Office app",
+        "Web"
+      ],
+      "title": "Office App: Idle Session Timeout for Microsoft 365 Web Apps - Government Cloud",
+      "description": "<div><span style=\"display:inline !important;\">Idle session timeout feature allows IT admins to configure a tenant-wide timeout value based on which users get automatically signed out after a period of inactivity on Microsoft 365 web apps. This feature is an improvement over, and will eventually replace, current idle timeout settings in Outlook Web App (OWA) and SharePoint Online (SPO).</span> </div><div> </div>",
+      "pubDate": "Thu, 26 Jan 2023 00:14:24 -0800",
+      "updated": "2024-06-29T05:00:47+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160733/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "160733",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160733",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Viva App Bar integration in Viva Learning Webapp",
+      "description": "Viva Learning Webapp will have an easy way to switch across other Viva Webapp modules.",
+      "pubDate": "Wed, 20 Sep 2023 07:00:00 -0700",
+      "updated": "2024-06-29T01:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/161828/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "161828",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161828",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Syntex: Translation",
+      "description": "A new service that enables users to translate documents quickly and accurately among dozens of languages based on specific metadata or on-demand. Note: We will not be rolling out to Government Clouds at this time.  We apologize for any inconvenience this may cause.",
+      "pubDate": "Tue, 08 Aug 2023 23:14:11 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/172017/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "172017",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=172017",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reporting improvements (Leverage policy insights)",
+      "description": "Communication Compliance message details report will support additional user filter to create and download the report for specific users in the policy. The items per policy report will provide item counts and actions on the items matched in the specified date range.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:41 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/334050/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "334050",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=334050",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Bulk export of learner completion records",
+      "description": "Learner Completion Record bulk export is an extension of an existing feature to download Learner record by username. Bulk export empowers enterprises to download learner records of multiple users in one go using the M365 groups.",
+      "pubDate": "Wed, 26 Jun 2024 19:00:21 -0700",
+      "updated": "2024-06-29T01:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382106/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "382106",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382106",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enriching Insider risk management with Communication compliance as an indicator",
+      "description": ",Enhance Insider Risk Management by incorporating communication compliance policy matches as a new indicator for detecting various communication risks, including inappropriate text. Additionally, our system now extends its capabilities to identify potential financial regulatory compliance breaches and violations of any custom communication compliance policy on Teams, Exchange, Yammer, Copilot for Microsoft 365, or third-party channels. This expansion ensures a comprehensive approach to risk detection in diverse communication scenarios.",
+      "pubDate": "Tue, 27 Feb 2024 00:45:00 -0800",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394351/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "394351",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394351",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Cross location Shifts",
+      "description": "Cross-Location Shifts empowers organizations by enabling their Frontline workers to access and select open shifts from multiple locations within a region. Managers benefit from a larger labor pool by opening shift availability across multiple locations: a worker from one store location may select a shift in any other store across their region. This feature is accessible both via desktop and mobile.",
+      "pubDate": "Thu, 09 May 2024 23:00:20 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395378/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 -0700",
+      "updated": "2024-06-29T01:30:42+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397096/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 -0700",
+      "updated": "2024-06-29T05:00:47+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399413/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "399413",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399413",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Longer documents can be summarized in chat",
+      "description": "Copilot in Word will be able to completely summarize documents that it could only partially summarize before. The upper limit is increasing to about four times more words.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-29T05:15:01+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399918/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "399918",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399918",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-29T07:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399921/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "399921",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399921",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 -0700",
+      "updated": "2024-06-29T05:00:47+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399927/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "399927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399927",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Create EPM rules based on a support approve requests and reporting entries",
+      "description": "Admins can now create rules directly from support approval requests and from entries in the elevation report. Previously rules had to be created by hand by entering in all the information about the elevation and how it should be managed.",
+      "pubDate": "Fri, 28 Jun 2024 18:15:49 -0700",
+      "updated": "2024-06-29T01:15:49+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399933/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "399933",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399933",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Improved elevation detection",
+      "description": ",This improvement expands the types of elevation actions in Windows that EPM can detect and control elevation for.",
+      "pubDate": "Fri, 28 Jun 2024 16:45:01 -0700",
+      "updated": "2024-06-28T23:45:01+00:00",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402889/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "402889",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402889",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web"
+      ],
+      "title": "Planner: New Microsoft Planner App for Teams in GCC",
+      "description": "The new Microsoft Planner app in Teams is a single, unified work management experience. It brings together the simplicity of To Do, the collaboration of Planner and the power of Project for the web into a single and simple solution, that offers individual task management, collaborative work management as well as enterprise work management.",
+      "pubDate": "Fri, 28 Jun 2024 22:45:20 -0700",
+      "updated": "2024-06-29T05:45:20+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/98137/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-06-29T02:13:47.4975507+00:00",
+      "guid": "98137",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=98137",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Reset People Suggestions in Search",
+      "description": "<div>Allow users to reset, export, and/or opt out of people suggestions in search through Outlook on the web settings. If a reset is done in web, this will affect the account across Outlook. </div>",
+      "pubDate": "Tue, 20 Sep 2022 23:13:00 -0700",
+      "updated": "2024-06-29T07:00:04+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
