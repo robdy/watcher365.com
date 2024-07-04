@@ -6,7 +6,7 @@
     "GCC",
     "GCC High",
     "General Availability",
-    "In development",
+    "Launched",
     "Microsoft Purview compliance portal",
     "Preview",
     "Web"
@@ -14,7 +14,7 @@
   "title": "Microsoft Purview compliance portal: Audit - New Exchange and SharePoint Logs for Microsoft Purview Audit Standard Users",
   "description": ",Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Exchange and SharePoint. As part of the changes, standard users of Purview Audit will begin to generate four new Microsoft Exchange and SharePoint events that were previously generated only for Audit Premium licensed users: MailItemsAccessed, Send, SearchQueryInitiatedExchange, and SearchQueryInitiatedSharepoint. The following logs will differ based on the user’s license and additional metadata will be added to Exchange logs when the user is assigned an Audit Premium license: SensitivityLabel for MailItemsAccessed.",
   "pubDate": "Tue, 30 Jan 2024 01:15:18 -0800",
-  "updated": "2024-03-02T00:30:10-08:00",
+  "updated": "2024-07-03T22:15:21-07:00",
   "publicDisclosureAvailabilityDate": "June CY2024",
   "publicPreviewDate": "March CY2024"
 }
