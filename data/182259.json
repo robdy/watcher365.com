@@ -3,7 +3,7 @@
   "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182259",
   "category": [
     "General Availability",
-    "In development",
+    "Launched",
     "Microsoft Purview compliance portal",
     "Preview",
     "Web",
@@ -12,7 +12,7 @@
   "title": "Microsoft Purview compliance portal: Audit - New Exchange and SharePoint Logs for Microsoft Purview Audit Standard Users",
   "description": ",<div><span>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Exchange and SharePoint. As part of the changes, standard users of Purview Audit will begin to generate 4 new Microsoft Exchange and SharePoint events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MailItemsAccessed; 2. Send; 3. SearchQueryInitiatedExchange; 4. SearchQueryInitiatedSharepoint;</span><span>&nbsp;</span><span style=\"\">The following logs will differ based upon the user’s license. This following additional metadata is added to Exchange logs when the user is assigned an Audit Premium license: Premium Insight 1: SensitivityLabel for MailItemsAccessed</span> </div>",
   "pubDate": "Wed, 18 Oct 2023 00:09:11 -0700",
-  "updated": "2024-02-02T00:45:19-08:00",
+  "updated": "2024-07-16T23:15:43-07:00",
   "publicDisclosureAvailabilityDate": "June CY2024",
   "publicPreviewDate": "March CY2024"
 }
