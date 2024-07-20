@@ -1,0 +1,350 @@
+[
+  {
+    "Path": "data/328282.json",
+    "CurrentVersion": {
+      "guid": "328282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=328282",
+      "category": [
+        "Desktop",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Newsletters",
+      "description": ",Newsletters in Outlook enable customers to create, distribute, and track success for their internal email newsletters. This feature will be available in the new Outlook for Windows and the web. #newoutlookforwindows",
+      "pubDate": "Thu, 25 Jan 2024 01:00:51 -0800",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {
+      "guid": "328282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=328282",
+      "category": [
+        "Desktop",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Newsletters",
+      "description": ",Newsletters in Outlook enable customers to create, distribute, and track success for their internal email newsletters. This feature will be available in the new Outlook for Windows and the web. #newoutlookforwindows",
+      "pubDate": "Thu, 25 Jan 2024 01:00:51 -0800",
+      "updated": "2024-05-24T06:15:08+00:00",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "August CY2024"
+    }
+  },
+  {
+    "Path": "data/389855.json",
+    "CurrentVersion": {
+      "guid": "389855",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389855",
+      "category": [
+        "General Availability",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: SharePoint Premium content AI Graph API in Beta (formerly known as Syntex)",
+      "description": ",We are releasing new Graph APIs for SharePoint Premium content AI capabilities in Beta (formerly known as Syntex models). You will be able to build applications using these new Graph API calls: get a Syntex model by its name, get a Syntex model by its ID, apply a Syntex model to document libraries, un-apply a Syntex model from document libraries, list all the applied document libraries of a Syntex model, create a document processing job, and get a document processing job.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "389855",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389855",
+      "category": [
+        "General Availability",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: SharePoint Premium content AI Graph API in Beta (formerly known as Syntex)",
+      "description": ",We are releasing new Graph APIs for SharePoint Premium content AI capabilities in Beta (formerly known as Syntex models). You will be able to build applications using these new Graph API calls: get a Syntex model by its name, get a Syntex model by its ID, apply a Syntex model to document libraries, un-apply a Syntex model from document libraries, list all the applied document libraries of a Syntex model, create a document processing job, and get a document processing job.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-06-26T06:30:01+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/395380.json",
+    "CurrentVersion": {
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. Soon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. Note: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. \n \nSoon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. \n \nNote: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-05-30T06:15:03+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/400707.json",
+    "CurrentVersion": {
+      "guid": "400707",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400707",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Text and UI resizing for Teams Rooms on Windows",
+      "description": "IT admins can adjust the size of the text and all other UI elements on the front-of-room display by changing the display scaling settings. Text and UI elements are resized and adjusted for all supported display resolution and scaling combinations (1080p resolution at 100-150% scaling, 4K resolution at 100-300% scaling). This capability is extended to support touch boards.",
+      "pubDate": "Tue, 25 Jun 2024 23:30:01 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "400707",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400707",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Text and UI resizing for Teams Rooms on Windows",
+      "description": "IT admins can adjust the size of the text and all other UI elements on the front-of-room display by changing the display scaling settings, providing greater accessibility options. The UI is polished in all supported display resolution and scaling combinations (1080p resolution at 100-150% scaling, 4K resolution at 100-300% scaling). This capability is extended to support touch boards.",
+      "pubDate": "Tue, 25 Jun 2024 23:30:01 -0700",
+      "updated": "2024-07-19T06:30:49+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/407379.json",
+    "CurrentVersion": {
+      "guid": "407379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407379",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Email Auto-advance setting",
+      "description": "The Email Auto-advance option is available in Mail settings. This will allow users to choose whether they return to the message list after taking certain actions or if they move to the next message.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/408171.json",
+    "CurrentVersion": {
+      "guid": "408171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408171",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Ability to add apps to meetings",
+      "description": "With this update, customers will be able to add apps to their meetings, similar to how they can do that in classic Outlook for Windows. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/328282/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-20T02:14:06.2551776+00:00",
+      "guid": "328282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=328282",
+      "category": [
+        "Desktop",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Newsletters",
+      "description": ",Newsletters in Outlook enable customers to create, distribute, and track success for their internal email newsletters. This feature will be available in the new Outlook for Windows and the web. #newoutlookforwindows",
+      "pubDate": "Thu, 25 Jan 2024 01:00:51 -0800",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389855/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-20T02:14:06.2551776+00:00",
+      "guid": "389855",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389855",
+      "category": [
+        "General Availability",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: SharePoint Premium content AI Graph API in Beta (formerly known as Syntex)",
+      "description": ",We are releasing new Graph APIs for SharePoint Premium content AI capabilities in Beta (formerly known as Syntex models). You will be able to build applications using these new Graph API calls: get a Syntex model by its name, get a Syntex model by its ID, apply a Syntex model to document libraries, un-apply a Syntex model from document libraries, list all the applied document libraries of a Syntex model, create a document processing job, and get a document processing job.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395380/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-20T02:14:06.2551776+00:00",
+      "guid": "395380",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395380",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Changes to version history for Stream videos",
+      "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. Soon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. Note: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
+      "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400707/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-20T02:14:06.2551776+00:00",
+      "guid": "400707",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400707",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Text and UI resizing for Teams Rooms on Windows",
+      "description": "IT admins can adjust the size of the text and all other UI elements on the front-of-room display by changing the display scaling settings. Text and UI elements are resized and adjusted for all supported display resolution and scaling combinations (1080p resolution at 100-150% scaling, 4K resolution at 100-300% scaling). This capability is extended to support touch boards.",
+      "pubDate": "Tue, 25 Jun 2024 23:30:01 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407379/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-20T02:14:06.2551776+00:00",
+      "guid": "407379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407379",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Email Auto-advance setting",
+      "description": "The Email Auto-advance option is available in Mail settings. This will allow users to choose whether they return to the message list after taking certain actions or if they move to the next message.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408171/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-20T02:14:06.2551776+00:00",
+      "guid": "408171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408171",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Ability to add apps to meetings",
+      "description": "With this update, customers will be able to add apps to their meetings, similar to how they can do that in classic Outlook for Windows. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 -0700",
+      "updated": "2024-07-20T05:30:23+00:00",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
