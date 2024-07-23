@@ -1,0 +1,25 @@
+{
+  "timestamp": "2024-07-23T02:15:32.1341849+00:00",
+  "guid": "365720",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=365720",
+  "category": [
+    "Android",
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Rolling out",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Improvements to the view, download, and delete experience of Teams meeting transcript files",
+  "description": "We are streamlining the storage of meeting transcript files. Starting with this feature, all meeting transcript entry points in Teams app will point to the OneDrive for Business copy only. The rollout of this feature also improves the delete experience of the transcript for meeting organizers. Now, when a meeting organizer or co-organizer deletes the transcript in Microsoft Teams app, this will delete both copies of the transcript (from OneDrive for Business and Exchange Online) at the same time. If the meeting organizer deletes the transcript from Stream, only the copy in OneDrive for Business will be deleted. We also update the default permissions so that meeting organizer and co-organizers will have permission to download or delete the transcript file, while meeting participants can only view the transcript in Teams app or Stream. In addition, the recording/transcript file owner will be able to select in Stream which participants are restricted from downloading, viewing, and editing the transcript. At the same time, meeting transcripts will stop saving in Exchange Online altogether and all transcript storage will be standardized on OneDrive for Business.  Note: We have updated the description to provide greater clarity.",
+  "pubDate": "Wed, 24 Jan 2024 01:00:27 Z",
+  "updated": "2024-06-11T23:30:01Z",
+  "publicDisclosureAvailabilityDate": "June CY2024",
+  "publicPreviewDate": null
+}

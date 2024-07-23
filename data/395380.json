@@ -10,8 +10,8 @@
   ],
   "title": "Microsoft Stream: Changes to version history for Stream videos",
   "description": "Stream (on SharePoint) video files tend to be large and consume considerable space against your OneDrive and SharePoint storage quotas. Currently, when you make changes to video metadata, such as adjustments to the video title, description, transcript, chapters, interactivity, thumbnails, or media settings, those changes trigger a new version (that includes both the video and metadata) to be created and stored in the version history for that file. Each of these versions consumes storage that counts towards your storage quota. To reduce the storage footprint driven by small changes, we are adjusting how Stream (on SharePoint) handles versions. Soon we will release an update to Stream version history. Once released, any changes made to the metadata of Stream files will no longer trigger an entirely new version in the file's version history. Instead, it will update the metadata of the most current version of the video in version history. If you edit the video itself, then a new version that includes both the video and metadata will be created and stored in the version history. Note: The update to Stream version history applies to Stream videos stored in OneDrive and SharePoint. SharePoint is also introducing new version history limits and controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. These new version history limits and controls will only apply to Stream videos if changes to the video are made from within a SharePoint document library without opening the video in Stream (e.g. a file name change from within a SharePoint doc library). See Microsoft 365 Roadmap ID 145802 for more information on version history limits and controls.",
-  "pubDate": "Tue, 28 May 2024 23:30:14 -0700",
-  "updated": "2024-07-19T22:30:23-07:00",
+  "pubDate": "Tue, 28 May 2024 23:30:14 Z",
+  "updated": "2024-07-19T22:30:23Z",
   "publicDisclosureAvailabilityDate": "August CY2024",
   "publicPreviewDate": null
 }
