@@ -1,0 +1,2073 @@
+[
+  {
+    "Path": "data/117425.json",
+    "CurrentVersion": {
+      "guid": "117425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+      "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+      "pubDate": "Wed, 01 Mar 2023 00:09:20 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+      "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+      "pubDate": "Wed, 01 Mar 2023 00:09:20 Z",
+      "updated": "2024-01-10T00:15:42Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117523.json",
+    "CurrentVersion": {
+      "guid": "117523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+      "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:48 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+      "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:48 Z",
+      "updated": "2024-01-10T00:15:42Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/117606.json",
+    "CurrentVersion": {
+      "guid": "117606",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117606",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - OCR support in Insider Risk Management",
+      "description": "<div><span><span>With this update, Insider Risk Management will support the scanning technique of Optical Character Recognition (OCR) to detect potentially risky activities that may lead to data security incidents related to images in SharePoint, Teams messages, and endpoints. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The launch dates were incorrect and have now been changed to reflect the correct state. We apologize for any inconvenience this may have caused. Note: The launch state was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused.</span></span> </div><div><span><span></span></span> </div><div><span></span> </div>",
+      "pubDate": "Mon, 03 Apr 2023 23:19:22 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "July CY2023"
+    },
+    "OldVersion": {
+      "guid": "117606",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117606",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - OCR support in Insider Risk Management",
+      "description": "<div><span><span>With this update, Insider Risk Management will support the scanning technique of Optical Character Recognition (OCR) to detect potentially risky activities that may lead to data security incidents related to images in SharePoint, Teams messages, and endpoints. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The launch dates were incorrect and have now been changed to reflect the correct state. We apologize for any inconvenience this may have caused. Note: The launch state was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused.</span></span> </div><div><span><span></span></span> </div><div><span></span> </div>",
+      "pubDate": "Mon, 03 Apr 2023 23:19:22 Z",
+      "updated": "2024-02-14T00:45:01Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "July CY2023"
+    }
+  },
+  {
+    "Path": "data/122280.json",
+    "CurrentVersion": {
+      "guid": "122280",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122280",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal : Insider Risk Management – Real-time policy tuning analysis",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Policy tuning analysis provides admins with a\nreal-time prediction based on the number of users that could match a given set\nof policy conditions. It helps organizations efficiently adjust the selection\nof indicators and thresholds of activity occurrence, so they don<span lang=ZH-CN>’</span>t have too few or too many alerts from a policy. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy.</span> </div><br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+      "pubDate": "Fri, 10 Mar 2023 00:09:55 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "April CY2023"
+    },
+    "OldVersion": {
+      "guid": "122280",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122280",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal : Insider Risk Management – Real-time policy tuning analysis",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Policy tuning analysis provides admins with a\nreal-time prediction based on the number of users that could match a given set\nof policy conditions. It helps organizations efficiently adjust the selection\nof indicators and thresholds of activity occurrence, so they don<span lang=ZH-CN>’</span>t have too few or too many alerts from a policy. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy.</span> </div><br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+      "pubDate": "Fri, 10 Mar 2023 00:09:55 Z",
+      "updated": "2024-07-24T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "April CY2023"
+    }
+  },
+  {
+    "Path": "data/146742.json",
+    "CurrentVersion": {
+      "guid": "146742",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=146742",
+      "category": [
+        "Cancelled",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Detect managerial harassment",
+      "description": "By combining Communication Compliance classifiers with Microsoft Entra ID organizational hierarchy data, customers will be able to monitor offensive/inappropriate communications are occurring in a hierarchical imbalance, where customers may wish to explore potential root causes of conflict in their respective organizations.  This feature is currently in back under review and not being scheduled at this time.",
+      "pubDate": "Mon, 10 Jul 2023 21:02:33 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "146742",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=146742",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Detect managerial harassment",
+      "description": "By combining Communication Compliance classifiers with Azure Active Directory organizational hierarchy data, we are able to detect if offensive/inappropriate communications are occurring in a hierarchical imbalance.   Timing: Rollout to public preview will begin in the middle of September and end in October.  What you need to do to prepare: No action needed at this time.   Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 10 Jul 2023 21:02:33 Z",
+      "updated": "2023-12-05T00:19:53Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/156016.json",
+    "CurrentVersion": {
+      "guid": "156016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Potential high impact user experience enhancements",
+      "description": "<div>We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.&nbsp;Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:49 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {
+      "guid": "156016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 27 Jul 2023 23:39:49 Z",
+      "updated": "2023-09-12T23:02:25Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "August CY2023"
+    }
+  },
+  {
+    "Path": "data/171185.json",
+    "CurrentVersion": {
+      "guid": "171185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171185",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- OCR support in Insider Risk Management",
+      "description": "<div>With this update, Insider Risk Management will support the scanning technique of Optical Character Recognition (OCR) to detect potentially risky activities that may lead to data security incidents related to images in SharePoint, Teams messages, and endpoints. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 25 Sep 2023 23:04:25 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "171185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171185",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- OCR support in Insider Risk Management",
+      "description": "With this update, Insider Risk Management will support the scanning technique of Optical Character Recognition (OCR) to detect potentially risky activities that may lead to data security incidents related to images in SharePoint, Teams messages, and endpoints. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 25 Sep 2023 23:04:25 Z",
+      "updated": "2023-09-25T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/171720.json",
+    "CurrentVersion": {
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2023-09-12T23:02:25Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/323766.json",
+    "CurrentVersion": {
+      "guid": "323766",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323766",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Skin tone setting and reactions",
+      "description": "In Teams settings, users have the option to select their preferred skin tone. This preference will be applied to all emojis and reactions in chats, channels, and meetings, allowing users to express themselves more authentically in conversations.",
+      "pubDate": "Wed, 14 Feb 2024 00:45:01 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "323766",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323766",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Skin tone setting and reactions",
+      "description": "In Teams settings, users have the option to select their preferred skin tone. This preference will be applied to all emojis and reactions in chats, channels, and meetings, allowing users to express themselves more authentically in conversations.",
+      "pubDate": "Wed, 14 Feb 2024 00:45:01 Z",
+      "updated": "2024-06-20T23:15:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/329253.json",
+    "CurrentVersion": {
+      "guid": "329253",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=329253",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Safari and Firefox (for anonymous join only)",
+      "description": "The latest Teams meeting experiences will be available for Teams on the web in Safari and Firefox browsers - including performance improvements, refreshed pre-join, updated meeting stage, and the updated meeting toolbar. (for anonymous join only)",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "329253",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=329253",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Safari and Firefox (for anonymous join only)",
+      "description": "The latest Teams meeting experiences will be available for Teams on the web in Safari and Firefox browsers - including performance improvements, refreshed pre-join, updated meeting stage, and the updated meeting toolbar. (for anonymous join only)",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 Z",
+      "updated": "2024-06-25T23:30:01Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/369520.json",
+    "CurrentVersion": {
+      "guid": "369520",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369520",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Outlook",
+        "Preview",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: OneDrive for Business Opens in-app for Outlook on the web",
+      "description": "<div>Quickly access your OneDrive without having to leave Outlook! Previously, the OneDrive button in Outlook opened a new tab for OneDrive; with this change, you will see OneDrive inline for a consistent and fast experience. </div>",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {
+      "guid": "369520",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369520",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "OneDrive",
+        "Outlook",
+        "Preview",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: OneDrive for Business Opens in-app for Outlook on the web",
+      "description": "<div>Quickly access your OneDrive without having to leave Outlook! Previously, the OneDrive button in Outlook opened a new tab for OneDrive; with this change, you will see OneDrive inline for a consistent and fast experience. </div>",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 Z",
+      "updated": "2024-02-06T02:15:52Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/374290.json",
+    "CurrentVersion": {
+      "guid": "374290",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374290",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "In development",
+        "Microsoft 365 app",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Use sensitivity labels in Microsoft 365 apps when connected experiences are disabled",
+      "description": "Your organization can now disable connected experiences for privacy concerns without impacting data security policies, such as sensitivity labels. Services associated with Microsoft Purview (e.g. sensitivity labels and rights management) are no longer controlled by policy settings to manage privacy controls for Microsoft 365 Apps. Instead, these services will rely on their existing security admin controls in Purview portals.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/374909.json",
+    "CurrentVersion": {
+      "guid": "374909",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374909",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: Supports live data sync to Excel ",
+      "description": "Microsoft Forms supports quickly and easily syncing form responses to an Excel file. Now you’ll always have the latest information, updated automatically, so you can leverage the full range of Excel functions to analyze your data and collab with your peers.",
+      "pubDate": "Tue, 09 Jan 2024 00:15:10 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {
+      "guid": "374909",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374909",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: Supports live data sync to Excel ",
+      "description": "Microsoft Forms supports quickly and easily syncing form responses to an Excel file. Now you’ll always have the latest information, updated automatically, so you can leverage the full range of Excel functions to analyze your data and collab with your peers.",
+      "pubDate": "Tue, 09 Jan 2024 00:15:10 Z",
+      "updated": "2024-01-09T00:15:10Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/377674.json",
+    "CurrentVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 Z",
+      "updated": "2024-05-10T22:15:43Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/379980.json",
+    "CurrentVersion": {
+      "guid": "379980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379980",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app (Premium)",
+      "description": "The new Queues app is a solution for collaboratively handling customer calls natively in Teams. Starting with surfacing call queue calls, your team members can use the Queues app to handle inbound calls, be it PSTN or VOIP. They can make outbound calls on behalf of the call queues or auto attendant that they are assigned to. And they can review the call queue statistics and seamlessly collaborate with their lead and colleagues within the flow of work. Authorized users, with permissions from Teams admins, can monitor their call queues and auto attendants in realtime, generate reports on queue and agent performance, configure their call queues and auto attendants using Teams settings, and opt in or out their team members to optimize for business needs. This is a Teams Premium feature.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "379980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379980",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app (Premium)",
+      "description": "The new Queues app is a solution for collaboratively handling customer calls natively in Teams. Starting with surfacing call queue calls, your team members can use the Queues app to handle inbound calls, be it PSTN or VOIP. They can make outbound calls on behalf of the call queues or auto attendant that they are assigned to. And they can review the call queue statistics and seamlessly collaborate with their lead and colleagues within the flow of work. Authorized users, with permissions from Teams admins, can monitor their call queues and auto attendants in realtime, generate reports on queue and agent performance, configure their call queues and auto attendants using Teams settings, and opt in or out their team members to optimize for business needs. This is a Teams Premium feature.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-07-11T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383738.json",
+    "CurrentVersion": {
+      "guid": "383738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Cloud egress groups (macOS)",
+      "description": "Restrict sensitive files that match your policies from being shared with unrestricted cloud service domains. Restrict the use of specified web browsers, identified by their executable names. The specified browsers are blocked from accessing files that match the conditions of an enforced a DLP policy where the upload-to-cloud services restriction is set to block or block override.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "383738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Cloud egress groups (macOS)",
+      "description": "Restrict sensitive files that match your policies from being shared with unrestricted cloud service domains. Restrict the use of specified web browsers, identified by their executable names. The specified browsers are blocked from accessing files that match the conditions of an enforced a DLP policy where the upload-to-cloud services restriction is set to block or block override.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 Z",
+      "updated": "2024-04-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/388369.json",
+    "CurrentVersion": {
+      "guid": "388369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388369",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Revamped Resources on mobile and tablet",
+      "description": "The Resources section on Viva Connections mobile and tablet will show content from the recently revamped Resources section on Viva Connections desktop.",
+      "pubDate": "Thu, 14 Mar 2024 00:15:09 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "388369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388369",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Revamped Resources on mobile and tablet",
+      "description": "The Resources section on Viva Connections mobile and tablet will show content from the recently revamped Resources section on Viva Connections desktop.",
+      "pubDate": "Thu, 14 Mar 2024 00:15:09 Z",
+      "updated": "2024-06-21T22:15:08Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/389148.json",
+    "CurrentVersion": {
+      "guid": "389148",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389148",
+      "category": [
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can help you create draft quizzes",
+      "description": "To help teachers, staff, and information workers save time, Copilot in Forms can now generate ice breakers, fun trivia, quizzes, and assessments with correct answers, which helps users focus more on engagement and interaction with their audience.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "389148",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389148",
+      "category": [
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can help you create draft quizzes",
+      "description": "To help teachers, staff, and information workers save time, Copilot in Forms can now generate ice breakers, fun trivia, quizzes, and assessments with correct answers, which helps users focus more on engagement and interaction with their audience.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-07-17T23:30:54Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/389149.json",
+    "CurrentVersion": {
+      "guid": "389149",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389149",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can generate quizzes from provided materials",
+      "description": "Generating quizzes from provided materials is one of the most commonly requested features in the education industry, and it is now available in Forms. To save time, users can create quizzes from documents, textbooks, or notes using Copilot. Copilot can create draft quizzes based on the provided materials and users' prompts.",
+      "pubDate": "Wed, 24 Apr 2024 23:45:21 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "389149",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389149",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can generate quizzes from provided materials",
+      "description": "Generating quizzes from provided materials is one of the most commonly requested features in the education industry, and it is now available in Forms. To save time, users can create quizzes from documents, textbooks, or notes using Copilot. Copilot can create draft quizzes based on the provided materials and users' prompts.",
+      "pubDate": "Wed, 24 Apr 2024 23:45:21 Z",
+      "updated": "2024-04-24T23:45:21Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393926.json",
+    "CurrentVersion": {
+      "guid": "393926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393926",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals Graph API's",
+      "description": "The Approvals Graph APIs allows developers to create and manage Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393926",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals Graph API's",
+      "description": "The Approvals Graph APIs allows developers to create and manage Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-05-20T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395690.json",
+    "CurrentVersion": {
+      "guid": "395690",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395690",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: View only mode in Viva Engage",
+      "description": "Engage admins will have the ability to change users' access to view only mode. In view only mode, users can access and view content in Engage, but cannot comment, react, or create new posts.",
+      "pubDate": "Wed, 01 May 2024 23:15:54 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "395690",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395690",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Viva",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: View only mode in Viva Engage",
+      "description": "Engage admins will have the ability to change users' access to view only mode. In view only mode, users can access and view content in Engage, but cannot comment, react, or create new posts.",
+      "pubDate": "Wed, 01 May 2024 23:15:54 Z",
+      "updated": "2024-07-15T23:15:04Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/395935.json",
+    "CurrentVersion": {
+      "guid": "395935",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395935",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Use Teams Q&A to collect attendee questions in GCC",
+      "description": "Teams Q&A enhances meeting and webinar participation for attendees by allowing participants to submit questions and engage in discussions. Organizers can moderate the Q&A feed, highlight important questions, and provide live answers. This feature is ideal for structured meetings and events, promoting an interactive and inclusive environment.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395935",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395935",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Use Teams Q&A to collect attendee questions in GCC",
+      "description": "Teams Q&A enhances meeting and webinar participation for attendees by allowing participants to submit questions and engage in discussions. Organizers can moderate the Q&A feed, highlight important questions, and provide live answers. This feature is ideal for structured meetings and events, promoting an interactive and inclusive environment.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-06-06T23:30:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396726.json",
+    "CurrentVersion": {
+      "guid": "396726",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396726",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage change log for leaders and audiences identified",
+      "description": "Admins and corporate communicators will be able to see any leaders who were added or removed in Viva Engage, as well as any audiences and removed from a leader in Viva Engage.",
+      "pubDate": "Wed, 15 May 2024 23:30:02 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396726",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396726",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage change log for leaders and audiences identified",
+      "description": "Admins and corporate communicators will be able to see any leaders who were added or removed in Viva Engage, as well as any audiences and removed from a leader in Viva Engage.",
+      "pubDate": "Wed, 15 May 2024 23:30:02 Z",
+      "updated": "2024-05-15T23:30:02Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397091.json",
+    "CurrentVersion": {
+      "guid": "397091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397091",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397091",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-05-21T23:15:05Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398445.json",
+    "CurrentVersion": {
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 Z",
+      "updated": "2024-06-18T23:15:54Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398709.json",
+    "CurrentVersion": {
+      "guid": "398709",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398709",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams premium feature usage report for administrators in Teams admin center (Premium)",
+      "description": "Teams Premium feature usage report in the Microsoft Teams admin center (TAC) will help administrators understand the usage of various Teams Premium features across users in their organization.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398709",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398709",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams premium feature usage report for administrators in Teams admin center (Premium)",
+      "description": "Teams Premium feature usage report in the Microsoft Teams admin center (TAC) will help administrators understand the usage of various Teams Premium features across users in their organization.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-06-17T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398976.json",
+    "CurrentVersion": {
+      "guid": "398976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398976",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights Copilot Dashboard delegation",
+      "description": "Users can delegate access to the Copilot Dashboard to others within their company. Admins can set policies to manage access to the delegation feature.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398976",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights Copilot Dashboard delegation",
+      "description": "Users can delegate access to the Copilot Dashboard to others within their company. Admins can set policies to manage access to the delegation feature.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-06-25T23:30:01Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399782.json",
+    "CurrentVersion": {
+      "guid": "399782",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399782",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Turn On/Off notifications for a post",
+      "description": "Users will now be able to opt in/opt-out from receiving notifications for a post in a channel.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399782",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399782",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Turn On/Off notifications for a post",
+      "description": "Users will now be able to opt in/opt-out from receiving notifications for a post in a channel.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-07-01T23:15:53Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409226.json",
+    "CurrentVersion": {
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/409228.json",
+    "CurrentVersion": {
+      "guid": "409228",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409228",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: External presenters can join on mobile",
+      "description": "This update allows presenters who were invited using the external presenter feature to join via their Android and iOS Teams client.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/409540.json",
+    "CurrentVersion": {
+      "guid": "409540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409540",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Bulk upload for Priority User Groups",
+      "description": "Insider Risk Management Priority user groups will now support bulk upload capabilities.  An IRM administrator will be able to upload a CSV of UPNs that they would like to add to a new or existing priority user group. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/93324.json",
+    "CurrentVersion": {
+      "guid": "93324",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93324",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reduce detection to investigation time from 24 hours to 1 hour (U.S. Government clouds)",
+      "description": "This feature will reduce the detection to investigation time to under an hour, allowing your organization to respond promptly to policy violations. The alert will be reviewed by a policy investigator, who is explicitly granted permission to review policy alerts by the Communication Compliance admin role. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-investigate-remediate?view=o365-worldwide",
+      "pubDate": "Fri, 20 May 2022 22:03:33 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "93324",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93324",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reduce detection to investigation time from 24 hours to 1 hour (U.S. Government clouds)",
+      "description": "This feature will reduce the detection to investigation time to under an hour, allowing your organization to respond promptly to policy violations. The alert will be reviewed by a policy investigator, who is explicitly granted permission to review policy alerts by the Communication Compliance admin role. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-investigate-remediate?view=o365-worldwide",
+      "pubDate": "Fri, 20 May 2022 22:03:33 Z",
+      "updated": "2024-01-05T00:15:03Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/117425/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "117425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117425",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management: New retention actions in Power Automate integration (U.S. Government clouds)",
+      "description": "We will release additional retention actions as part of the Power Automate integration with Microsoft Purview Records Management. You can now relabel a file or an email at the end of its retention period or apply a retention label to a file in SharePoint. You can also delete items in SharePoint, OneDrive, or Exchange with all executed retention actions recorded in the Microsoft Purview Audit log.",
+      "pubDate": "Wed, 01 Mar 2023 00:09:20 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117523/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "117523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117523",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Power Automate integration (U.S. Government clouds)",
+      "description": "Initiate a Power Automate workflow when the item reaches the end of its retention period. For example, execute a complex disposition approval process or move the file to an archive.",
+      "pubDate": "Fri, 17 Feb 2023 00:31:48 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117606/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "117606",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117606",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - OCR support in Insider Risk Management",
+      "description": "<div><span><span>With this update, Insider Risk Management will support the scanning technique of Optical Character Recognition (OCR) to detect potentially risky activities that may lead to data security incidents related to images in SharePoint, Teams messages, and endpoints. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. Note: The launch dates were incorrect and have now been changed to reflect the correct state. We apologize for any inconvenience this may have caused. Note: The launch state was incorrect and has now been changed to reflect the correct state. We apologize for any inconvenience this may have caused.</span></span> </div><div><span><span></span></span> </div><div><span></span> </div>",
+      "pubDate": "Mon, 03 Apr 2023 23:19:22 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "July CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/122280/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "122280",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=122280",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal : Insider Risk Management – Real-time policy tuning analysis",
+      "description": "<div><span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">Policy tuning analysis provides admins with a\nreal-time prediction based on the number of users that could match a given set\nof policy conditions. It helps organizations efficiently adjust the selection\nof indicators and thresholds of activity occurrence, so they don<span lang=ZH-CN>’</span>t have too few or too many alerts from a policy. Microsoft\nPurview Insider Risk Management correlates various signals to identify\npotential malicious or inadvertent insider risks, such as IP theft, data\nleakage, and security violations. Insider Risk Management enables customers to\ncreate policies to manage security and compliance. Built with privacy by\ndesign, users are pseudonymized by default, and role-based access controls and\naudit logs are in place to help ensure user-level privacy.</span> </div><br>More info: https://learn.microsoft.com/microsoft-365/compliance/insider-risk-management?view=o365-worldwide",
+      "pubDate": "Fri, 10 Mar 2023 00:09:55 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "April CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/146742/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "146742",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=146742",
+      "category": [
+        "Cancelled",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Detect managerial harassment",
+      "description": "By combining Communication Compliance classifiers with Microsoft Entra ID organizational hierarchy data, customers will be able to monitor offensive/inappropriate communications are occurring in a hierarchical imbalance, where customers may wish to explore potential root causes of conflict in their respective organizations.  This feature is currently in back under review and not being scheduled at this time.",
+      "pubDate": "Mon, 10 Jul 2023 21:02:33 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156016/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "156016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Potential high impact user experience enhancements",
+      "description": "<div>We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.&nbsp;Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:49 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171185/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "171185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171185",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- OCR support in Insider Risk Management",
+      "description": "<div>With this update, Insider Risk Management will support the scanning technique of Optical Character Recognition (OCR) to detect potentially risky activities that may lead to data security incidents related to images in SharePoint, Teams messages, and endpoints. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 25 Sep 2023 23:04:25 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171720/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/323766/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "323766",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=323766",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Skin tone setting and reactions",
+      "description": "In Teams settings, users have the option to select their preferred skin tone. This preference will be applied to all emojis and reactions in chats, channels, and meetings, allowing users to express themselves more authentically in conversations.",
+      "pubDate": "Wed, 14 Feb 2024 00:45:01 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/329253/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "329253",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=329253",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Safari and Firefox (for anonymous join only)",
+      "description": "The latest Teams meeting experiences will be available for Teams on the web in Safari and Firefox browsers - including performance improvements, refreshed pre-join, updated meeting stage, and the updated meeting toolbar. (for anonymous join only)",
+      "pubDate": "Fri, 15 Dec 2023 23:30:25 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/369520/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "369520",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369520",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Outlook",
+        "Preview",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: OneDrive for Business Opens in-app for Outlook on the web",
+      "description": "<div>Quickly access your OneDrive without having to leave Outlook! Previously, the OneDrive button in Outlook opened a new tab for OneDrive; with this change, you will see OneDrive inline for a consistent and fast experience. </div>",
+      "pubDate": "Thu, 18 Jan 2024 00:30:38 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374290/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "374290",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374290",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "In development",
+        "Microsoft 365 app",
+        "Outlook",
+        "PowerPoint",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Use sensitivity labels in Microsoft 365 apps when connected experiences are disabled",
+      "description": "Your organization can now disable connected experiences for privacy concerns without impacting data security policies, such as sensitivity labels. Services associated with Microsoft Purview (e.g. sensitivity labels and rights management) are no longer controlled by policy settings to manage privacy controls for Microsoft 365 Apps. Instead, these services will rely on their existing security admin controls in Purview portals.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374909/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "374909",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374909",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: Supports live data sync to Excel ",
+      "description": "Microsoft Forms supports quickly and easily syncing form responses to an Excel file. Now you’ll always have the latest information, updated automatically, so you can leverage the full range of Excel functions to analyze your data and collab with your peers.",
+      "pubDate": "Tue, 09 Jan 2024 00:15:10 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377674/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/379980/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "379980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=379980",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app (Premium)",
+      "description": "The new Queues app is a solution for collaboratively handling customer calls natively in Teams. Starting with surfacing call queue calls, your team members can use the Queues app to handle inbound calls, be it PSTN or VOIP. They can make outbound calls on behalf of the call queues or auto attendant that they are assigned to. And they can review the call queue statistics and seamlessly collaborate with their lead and colleagues within the flow of work. Authorized users, with permissions from Teams admins, can monitor their call queues and auto attendants in realtime, generate reports on queue and agent performance, configure their call queues and auto attendants using Teams settings, and opt in or out their team members to optimize for business needs. This is a Teams Premium feature.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383738/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "383738",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383738",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Cloud egress groups (macOS)",
+      "description": "Restrict sensitive files that match your policies from being shared with unrestricted cloud service domains. Restrict the use of specified web browsers, identified by their executable names. The specified browsers are blocked from accessing files that match the conditions of an enforced a DLP policy where the upload-to-cloud services restriction is set to block or block override.",
+      "pubDate": "Wed, 21 Feb 2024 00:00:00 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388369/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "388369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388369",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Revamped Resources on mobile and tablet",
+      "description": "The Resources section on Viva Connections mobile and tablet will show content from the recently revamped Resources section on Viva Connections desktop.",
+      "pubDate": "Thu, 14 Mar 2024 00:15:09 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389148/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "389148",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389148",
+      "category": [
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can help you create draft quizzes",
+      "description": "To help teachers, staff, and information workers save time, Copilot in Forms can now generate ice breakers, fun trivia, quizzes, and assessments with correct answers, which helps users focus more on engagement and interaction with their audience.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389149/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "389149",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389149",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can generate quizzes from provided materials",
+      "description": "Generating quizzes from provided materials is one of the most commonly requested features in the education industry, and it is now available in Forms. To save time, users can create quizzes from documents, textbooks, or notes using Copilot. Copilot can create draft quizzes based on the provided materials and users' prompts.",
+      "pubDate": "Wed, 24 Apr 2024 23:45:21 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393926/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "393926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393926",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals Graph API's",
+      "description": "The Approvals Graph APIs allows developers to create and manage Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395690/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "395690",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395690",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: View only mode in Viva Engage",
+      "description": "Engage admins will have the ability to change users' access to view only mode. In view only mode, users can access and view content in Engage, but cannot comment, react, or create new posts.",
+      "pubDate": "Wed, 01 May 2024 23:15:54 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395935/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "395935",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395935",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Use Teams Q&A to collect attendee questions in GCC",
+      "description": "Teams Q&A enhances meeting and webinar participation for attendees by allowing participants to submit questions and engage in discussions. Organizers can moderate the Q&A feed, highlight important questions, and provide live answers. This feature is ideal for structured meetings and events, promoting an interactive and inclusive environment.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396726/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "396726",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396726",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage change log for leaders and audiences identified",
+      "description": "Admins and corporate communicators will be able to see any leaders who were added or removed in Viva Engage, as well as any audiences and removed from a leader in Viva Engage.",
+      "pubDate": "Wed, 15 May 2024 23:30:02 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397091/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "397091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397091",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398445/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "398445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398445",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voting, Filtering, Sorting, and Archiving Questions now available in the Q&A App on Teams",
+      "description": "Take your Q&A to the next level with this new update that lets attendees vote on the questions they want presenters to answer. Organizers can sort questions by most voted, filter, and archive questions to keep the discussion focused in meetings and events.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398709/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "398709",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398709",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams premium feature usage report for administrators in Teams admin center (Premium)",
+      "description": "Teams Premium feature usage report in the Microsoft Teams admin center (TAC) will help administrators understand the usage of various Teams Premium features across users in their organization.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398976/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "398976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398976",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights Copilot Dashboard delegation",
+      "description": "Users can delegate access to the Copilot Dashboard to others within their company. Admins can set policies to manage access to the delegation feature.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399782/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "399782",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399782",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Turn On/Off notifications for a post",
+      "description": "Users will now be able to opt in/opt-out from receiving notifications for a post in a channel.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409226/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409228/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "409228",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409228",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: External presenters can join on mobile",
+      "description": "This update allows presenters who were invited using the external presenter feature to join via their Android and iOS Teams client.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409540/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "409540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409540",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Bulk upload for Priority User Groups",
+      "description": "Insider Risk Management Priority user groups will now support bulk upload capabilities.  An IRM administrator will be able to upload a CSV of UPNs that they would like to add to a new or existing priority user group. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/93324/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-26T02:15:18.8441136+00:00",
+      "guid": "93324",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93324",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reduce detection to investigation time from 24 hours to 1 hour (U.S. Government clouds)",
+      "description": "This feature will reduce the detection to investigation time to under an hour, allowing your organization to respond promptly to policy violations. The alert will be reviewed by a policy investigator, who is explicitly granted permission to review policy alerts by the Communication Compliance admin role. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-investigate-remediate?view=o365-worldwide",
+      "pubDate": "Fri, 20 May 2022 22:03:33 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
