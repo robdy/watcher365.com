@@ -1,0 +1,1822 @@
+[
+  {
+    "Path": "data/171717.json",
+    "CurrentVersion": {
+      "guid": "171717",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171717",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Administrative units support",
+      "description": "Administrative units allow admins with appropriate permissions to subdivide the organization into smaller units, and then assign specific admins or role groups that can manage only the members of those units. For example, German administrators can only create/manage policies for only German users, and German investigators can only investigate alerts and activities from only German users.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:33 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "171717",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171717",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Administrative units support",
+      "description": "Administrative units allow admins with appropriate permissions to subdivide the organization into smaller units, and then assign specific admins or role groups that can manage only the members of those units. For example, German administrators can only create/manage policies for only German users, and German investigators can only investigate alerts and activities from only German users.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:33 Z",
+      "updated": "2024-01-25T01:00:51Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/171720.json",
+    "CurrentVersion": {
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/182242.json",
+    "CurrentVersion": {
+      "guid": "182242",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182242",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Teams Logs for Microsoft Purview Audit Standard Users",
+      "description": "<div>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Teams. As part of the changes, standard users of Purview Audit will begin to generate 15 new Microsoft Teams events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MeetingParticipantDetail; 2. MessageSent; 3. MessagesListed; 4. MeetingDetail; 5. MessageUpdated; 6. ChatRetrieved; 7. MessageRead; 8. MessageHostedContentRead; 9. ChatCreated; 10. ChatUpdated; 11. MessageCreatedNotification; 12. MessageDeletedNotification; 13. MessageUpdatedNotification; 14. SubscribedToMessages; 15. MessageHostedContentsListed </div>",
+      "pubDate": "Mon, 16 Oct 2023 23:35:33 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {
+      "guid": "182242",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182242",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Teams Logs for Microsoft Purview Audit Standard Users",
+      "description": "<div>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Teams. As part of the changes, standard users of Purview Audit will begin to generate 15 new Microsoft Teams events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MeetingParticipantDetail; 2. MessageSent; 3. MessagesListed; 4. MeetingDetail; 5. MessageUpdated; 6. ChatRetrieved; 7. MessageRead; 8. MessageHostedContentRead; 9. ChatCreated; 10. ChatUpdated; 11. MessageCreatedNotification; 12. MessageDeletedNotification; 13. MessageUpdatedNotification; 14. SubscribedToMessages; 15. MessageHostedContentsListed </div>",
+      "pubDate": "Mon, 16 Oct 2023 23:35:33 Z",
+      "updated": "2024-01-24T01:15:12Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    }
+  },
+  {
+    "Path": "data/371383.json",
+    "CurrentVersion": {
+      "guid": "371383",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371383",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Defender for Office 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook Mobile - Junk/Phishing Reporting Actions Integrated with Microsoft Defender",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in Outlook for iOS and Outlook for Android can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Fri, 22 Mar 2024 00:00:24 Z",
+      "updated": "2024-07-26T22:45:53Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "371383",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371383",
+      "category": [
+        "Android",
+        "Current Channel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook Mobile - Junk/Phishing Reporting Actions Integrated with Microsoft Defender",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in Outlook for iOS and Outlook for Android can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Fri, 22 Mar 2024 00:00:24 Z",
+      "updated": "2024-06-19T23:30:51Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/371388.json",
+    "CurrentVersion": {
+      "guid": "371388",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371388",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Junk/Phishing reporting actions integrated with Microsoft Defender in classic Outlook for Windows",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in classic Outlook for Windows can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "371388",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371388",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Junk/Phishing reporting actions integrated with Microsoft Defender in classic Outlook for Windows",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in classic Outlook for Windows can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 Z",
+      "updated": "2024-06-27T21:00:16Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/371393.json",
+    "CurrentVersion": {
+      "guid": "371393",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371393",
+      "category": [
+        "Current Channel",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Defender for Office 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook for Mac - Junk/Phishing Reporting Actions Integrated with Microsoft Defender",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in Outlook for Mac can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 Z",
+      "updated": "2024-07-26T22:45:53Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "371393",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371393",
+      "category": [
+        "Current Channel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook for Mac - Junk/Phishing Reporting Actions Integrated with Microsoft Defender",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in Outlook for Mac can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 Z",
+      "updated": "2024-05-15T23:30:02Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380720.json",
+    "CurrentVersion": {
+      "guid": "380720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380720",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Drag and drop to download attachments and emails in the new Outlook for Windows",
+      "description": "Users can drag and drop attachments and emails from the new Outlook for Windows to their desktops or local folders to download them directly to that location. #newoutlookforwindows",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "380720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380720",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Drag and drop to download attachments and emails in the new Outlook for Windows",
+      "description": "Users can drag and drop attachments and emails from the new Outlook for Windows to their desktops or local folders to download them directly to that location. #newoutlookforwindows",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-03-28T00:15:54Z",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392326.json",
+    "CurrentVersion": {
+      "guid": "392326",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392326",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Apply coaching suggestions for Coaching by Copilot",
+      "description": "Apply coaching suggestions will allow users to request a complete rewrite of their email based on feedback from Coaching by Copilot and in one click, accept and rewrite their email with those suggestions.",
+      "pubDate": "Wed, 19 Jun 2024 23:30:51 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {
+      "guid": "392326",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392326",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Updated coaching by Copilot experience in the new Outlook for Windows and web",
+      "description": "The new coaching by Copilot experience allows you to apply the coaching suggestions given by Copilot by requesting to rewrite the email message based on the feedback received when using coaching by Copilot. With this update, you can accept and make Copilot rewrite the email in one click based on those coaching suggestions. This feature will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Wed, 19 Jun 2024 23:30:51 Z",
+      "updated": "2024-06-19T23:30:51Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392454.json",
+    "CurrentVersion": {
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 Z",
+      "updated": "2024-06-17T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394275.json",
+    "CurrentVersion": {
+      "guid": "394275",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394275",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel chat helper",
+      "description": "Customers can get more conversational answers to a broader range of Excel-related questions and prompts from Copilot. For example, the customer can ask how to accomplish a task and Copilot will respond with helpful steps that may include formulas to copy and use. In some cases, Copilot may explain a formula error and supply the corrected formula plus additional guidance to ensure the formula works properly.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394275",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394275",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel chat helper",
+      "description": "Customers can get more conversational answers to a broader range of Excel-related questions and prompts from Copilot. For example, the customer can ask how to accomplish a task and Copilot will respond with helpful steps that may include formulas to copy and use. In some cases, Copilot may explain a formula error and supply the corrected formula plus additional guidance to ensure the formula works properly.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-06-17T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394668.json",
+    "CurrentVersion": {
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms on Windows",
+      "description": "Intelligent speaker recognition is being enabled for all Teams Rooms on Windows environments, with intelligent speakers or on existing speakers via the cloud. This feature identifies and attributes people in live transcripts, utilizing a unique \"voiceprint\" for each participant. Copilot in Teams can deliver meeting summaries, insights, and action items attributing contributions to individual speakers.\n\nUsers can enroll voices in the Teams Desktop. Learn more at the link below.<br>More info: https://aka.ms/voiceprofile",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms on Windows",
+      "description": "Intelligent speaker recognition is being enabled for all Teams Rooms on Windows environments, with intelligent speakers or on existing speakers via the cloud. This feature identifies and attributes people in live transcripts, utilizing a unique \"voiceprint\" for each participant. Copilot in Teams can deliver meeting summaries, insights, and action items attributing contributions to individual speakers.\n\nUsers can enroll voices in the Teams Desktop. Learn more at the link below.<br>More info: https://aka.ms/voiceprofile",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 Z",
+      "updated": "2024-07-09T18:30:38Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395373.json",
+    "CurrentVersion": {
+      "guid": "395373",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395373",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in Government Community Cloud (GCC)",
+      "description": "Set up and host large scale events across a GCC organization with the familiar Teams app you use for webinars and meetings using Town hall. Town hall capabilities include a new meeting template, capacity for up to 10k attendees, third-party eCDN support, green room, manage what attendees see, RTMP-in, live translated captions and more.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395373",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395373",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in Government Community Cloud (GCC)",
+      "description": "Set up and host large scale events across a GCC organization with the familiar Teams app you use for webinars and meetings using Town hall. Town hall capabilities include a new meeting template, capacity for up to 10k attendees, third-party eCDN support, green room, manage what attendees see, moderated Q&A, RTMP-in, live translated captions and more.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-07-17T23:30:54Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395374.json",
+    "CurrentVersion": {
+      "guid": "395374",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395374",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in Government Community Cloud (GCC) (Premium)",
+      "description": "Set up and host large scale events across a GCC organization with the familiar Teams app you use for webinars and meetings using Town hall. Town hall capabilities include a new meeting template, capacity for up to 20k attendees, third-party eCDN support, green room, manage what attendees see, RTMP-in, live translated captions and more.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395374",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395374",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in Government Community Cloud (GCC) (Premium)",
+      "description": "Set up and host large scale events across a GCC organization with the familiar Teams app you use for webinars and meetings using Town hall. Town hall capabilities include a new meeting template, capacity for up to 20k attendees, third-party eCDN support, green room, manage what attendees see, moderated Q&A, RTMP-in, live translated captions and more.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-07-17T23:30:54Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396560.json",
+    "CurrentVersion": {
+      "guid": "396560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396560",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Copilot works on any selection",
+      "description": "Copilot will enable the edit box on any worksheet regardless of selection. Copilot will reason over the nearest table or data range to the customer’s selected grid area on the same worksheet.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396560",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Copilot works on any selection",
+      "description": "Copilot will enable the edit box on any worksheet regardless of selection. Copilot will reason over the nearest table or data range to the customer’s selected grid area on the same worksheet.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 Z",
+      "updated": "2024-06-18T23:15:54Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396561.json",
+    "CurrentVersion": {
+      "guid": "396561",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396561",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Support for Data Ranges Resembling Tables",
+      "description": "Copilot can now reason over data ranges with a single row of headers on top, even when they’re not Excel tables.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396561",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396561",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Support for Data Ranges Resembling Tables",
+      "description": "Copilot can now reason over data ranges with a single row of headers on top, even when they’re not Excel tables.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 Z",
+      "updated": "2024-06-19T23:30:51Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397092.json",
+    "CurrentVersion": {
+      "guid": "397092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397092",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Copilot Compose experience",
+      "description": "Major improvements to our Copilot Compose experience include a polished, lightweight UI.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "397092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397092",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Copilot Compose experience",
+      "description": "Major improvements to our Copilot Compose experience include a polished, lightweight UI.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-05-23T23:15:08Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/398458.json",
+    "CurrentVersion": {
+      "guid": "398458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398458",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398458",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 Z",
+      "updated": "2024-05-31T22:30:03Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398989.json",
+    "CurrentVersion": {
+      "guid": "398989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398989",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel support for formula data summaries in rows and cells",
+      "description": "Add a single formula to summarize column data into one cell. Today, full column calculations produce a unique result in each row, but this new feature gives you the option to calculate all data in a column together to return one result. You can also create a row with formulas that apply for relevant columns; for example, an \"add total sales row\" will add a SUM formula underneath every column that has sales data.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398989",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel support for formula data summaries in rows and cells",
+      "description": "Add a single formula to summarize column data into one cell. Today, full column calculations produce a unique result in each row, but this new feature gives you the option to calculate all data in a column together to return one result. You can also create a row with formulas that apply for relevant columns; for example, an \"add total sales row\" will add a SUM formula underneath every column that has sales data.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-06-19T23:30:51Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398992.json",
+    "CurrentVersion": {
+      "guid": "398992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398992",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Clipchamp",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: Brand kit - Extended elements and tenant-wide rollout",
+      "description": "Brand kit enables anyone to create and share brand asset collections including colors, fonts, and logos to easily apply brand elements while creating. This release adds support for images, backgrounds, stickers, video, and audio asset types. An organization's official assets can now be rolled out tenant-wide via SharePoint Organization Asset Libraries (OAL). Brand kit creation, sharing, and manual usage is being made generally available to all Clipchamp for work accounts for users with standard access.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-07-26T19:45:31Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398992",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: Brand kit - Extended elements and tenant-wide rollout",
+      "description": "Brand kit enables anyone to create and share brand asset collections including colors, fonts, and logos to easily apply brand elements while creating. This release adds support for images, backgrounds, stickers, video, and audio asset types. An organization's official assets can now be rolled out tenant-wide via SharePoint Organization Asset Libraries (OAL). Brand kit creation, sharing, and manual usage is being made generally available to all Clipchamp for work accounts for users with standard access.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-06-10T23:30:43Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399423.json",
+    "CurrentVersion": {
+      "guid": "399423",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399423",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel - Custom chart and PivotTable creation",
+      "description": "You can now ask for more specific charts and PivotTables, including specifying the x and y axis of charts.",
+      "pubDate": "Mon, 17 Jun 2024 23:15:25 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399423",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399423",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel - Custom chart and PivotTable creation",
+      "description": "You can now ask for more specific charts and PivotTables, including specifying the x and y axis of charts.",
+      "pubDate": "Mon, 17 Jun 2024 23:15:25 Z",
+      "updated": "2024-06-17T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399425.json",
+    "CurrentVersion": {
+      "guid": "399425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399425",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel - Summarize text columns",
+      "description": "Copilot can analyze columns of text to give you summaries of the information. For example, Copilot will find the main themes in survey responses from open-ended questions.",
+      "pubDate": "Mon, 17 Jun 2024 23:15:25 Z",
+      "updated": "2024-07-26T19:45:31Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399425",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel - Summarize text columns",
+      "description": "Copilot can analyze columns of text to give you summaries of the information. For example, Copilot will find the main themes in survey responses from open-ended questions.",
+      "pubDate": "Mon, 17 Jun 2024 23:15:25 Z",
+      "updated": "2024-06-17T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402191.json",
+    "CurrentVersion": {
+      "guid": "402191",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402191",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Preview and \"Apply\" changes suggested by Copilot",
+      "description": "Previously, when a user asked Copilot to make changes to their table data, Copilot would make the changes directly. Now, Copilot will respond with a description of the planned changes, along with a button to \"Apply\". Users can choose to refine before applying. This provides more user awareness and control over Copilot's changes.",
+      "pubDate": "Tue, 09 Jul 2024 18:30:38 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402191",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402191",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Preview and \"Apply\" changes suggested by Copilot",
+      "description": "Previously, when a user asked Copilot to make changes to their table data, Copilot would make the changes directly. Now, Copilot will respond with a description of the planned changes, along with a button to \"Apply\". Users can choose to refine before applying. This provides more user awareness and control over Copilot's changes.",
+      "pubDate": "Tue, 09 Jul 2024 18:30:38 Z",
+      "updated": "2024-07-09T18:30:38Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408527.json",
+    "CurrentVersion": {
+      "guid": "408527",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408527",
+      "category": [
+        "Android",
+        "Desktop",
+        "Education",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams admins in education will now be able to create and publish custom team templates",
+      "description": "Education IT admins can now create team templates from Microsoft Teams admin center. As an admin, you can use templates to easily deploy consistent teams across your organization. With templates, your users can quickly create rich collaboration spaces with predefined settings, channels, and apps.",
+      "pubDate": "Fri, 26 Jul 2024 19:30:36 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/408529.json",
+    "CurrentVersion": {
+      "guid": "408529",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408529",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Notification in Activity feed and banner when intelligent meeting recap is ready",
+      "description": "Intelligent meeting recap users will receive a notification in Teams Activity feed and banner when intelligent meeting recap is ready. Clicking on the notification in Activity feed will take users right to the intelligent meeting recap experience, which will be visible to the right of the Activity feed. Users can configure their notification settings in Teams settings > Notifications and activity > Apps > Meeting Recap to control where the notification is surfaced (Activity and banner, Activity only, Off) as well as which meetings have notifications enabled (for only meetings with RSVP selection of “Follow,” or all other meetings, or both).",
+      "pubDate": "Fri, 26 Jul 2024 19:30:36 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/408545.json",
+    "CurrentVersion": {
+      "guid": "408545",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408545",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview AI Hub - Prompts and responses",
+      "description": "Within Microsoft Purview AI Hub, prompts and responses will appear for AI interaction events.",
+      "pubDate": "Fri, 26 Jul 2024 19:30:36 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/409226.json",
+    "CurrentVersion": {
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409529.json",
+    "CurrentVersion": {
+      "guid": "409529",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409529",
+      "category": [
+        "Android",
+        "Azure Active Directory",
+        "General Availability",
+        "In development",
+        "Microsoft Entra",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Entra: Passkey authentication in brokered Microsoft apps on Android",
+      "description": "Microsoft Entra ID users can now use a passkey to sign into Microsoft apps on Android devices where an authentication broker like Microsoft Authenticator or Microsoft Intune Company Portal is installed.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/409534.json",
+    "CurrentVersion": {
+      "guid": "409534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409534",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "\tMicrosoft Teams: Local PTZ for Microsoft Teams Rooms on Windows",
+      "description": "Microsoft Teams Rooms on Windows will provide native Pan-Tilt-Zoom (PTZ) controls for connected cameras that support this capability. The feature will initially contain limited support for cameras with mechanical/optical PTZ, with digital PTZ to come in the future.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/409537.json",
+    "CurrentVersion": {
+      "guid": "409537",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409537",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Native controls for Group Framing, Active Speaker and Edge Composed IntelliFrame",
+      "description": "Users will be able to toggle certain camera capabilities provided by the camera OEMs natively on Teams Rooms on Windows. Capabilities covered with this feature includes group framing, active speaker framing, and edge composed IntelliFrame.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171717/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "171717",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171717",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Administrative units support",
+      "description": "Administrative units allow admins with appropriate permissions to subdivide the organization into smaller units, and then assign specific admins or role groups that can manage only the members of those units. For example, German administrators can only create/manage policies for only German users, and German investigators can only investigate alerts and activities from only German users.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:33 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171720/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/182242/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "182242",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=182242",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New Teams Logs for Microsoft Purview Audit Standard Users",
+      "description": "<div>Microsoft Purview is expanding access to wider cloud security activity events for Microsoft Teams. As part of the changes, standard users of Purview Audit will begin to generate 15 new Microsoft Teams events that were previously generated only for Audit Premium licensed users. The following events will now be provided for all Audit Standard users: 1. MeetingParticipantDetail; 2. MessageSent; 3. MessagesListed; 4. MeetingDetail; 5. MessageUpdated; 6. ChatRetrieved; 7. MessageRead; 8. MessageHostedContentRead; 9. ChatCreated; 10. ChatUpdated; 11. MessageCreatedNotification; 12. MessageDeletedNotification; 13. MessageUpdatedNotification; 14. SubscribedToMessages; 15. MessageHostedContentsListed </div>",
+      "pubDate": "Mon, 16 Oct 2023 23:35:33 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "March CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/371383/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "371383",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371383",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Defender for Office 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook Mobile - Junk/Phishing Reporting Actions Integrated with Microsoft Defender",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in Outlook for iOS and Outlook for Android can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Fri, 22 Mar 2024 00:00:24 Z",
+      "updated": "2024-07-26T22:45:53Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/371388/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "371388",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371388",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Junk/Phishing reporting actions integrated with Microsoft Defender in classic Outlook for Windows",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in classic Outlook for Windows can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/371393/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "371393",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371393",
+      "category": [
+        "Current Channel",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Defender for Office 365",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook for Mac - Junk/Phishing Reporting Actions Integrated with Microsoft Defender",
+      "description": "The appearance and behavior of Report Phishing/Report Junk actions in Outlook for Mac can be controlled by admins using User Reported Settings in security.microsoft.com. Admins will be able to control whether these Report actions appear in Outlook, where these messages get reported to, and whether the user is prompted when they report phishing or junk. Admins will also be able to customize text and other aspects of the dialogs that appear before and after users' report phishing or junk.",
+      "pubDate": "Wed, 20 Mar 2024 23:15:20 Z",
+      "updated": "2024-07-26T22:45:53Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380720/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "380720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380720",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Drag and drop to download attachments and emails in the new Outlook for Windows",
+      "description": "Users can drag and drop attachments and emails from the new Outlook for Windows to their desktops or local folders to download them directly to that location. #newoutlookforwindows",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392326/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "392326",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392326",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Apply coaching suggestions for Coaching by Copilot",
+      "description": "Apply coaching suggestions will allow users to request a complete rewrite of their email based on feedback from Coaching by Copilot and in one click, accept and rewrite their email with those suggestions.",
+      "pubDate": "Wed, 19 Jun 2024 23:30:51 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392454/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "392454",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392454",
+      "category": [
+        "Excel",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Formula Conditional Formatting",
+      "description": "Additional support for complex conditional formats beyond the basic top and bottom or conditional operators. For example, Copilot analyzes two factors when highlighting all rows where the product is bikes and sales is greater than 100.",
+      "pubDate": "Thu, 18 Apr 2024 23:15:11 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394275/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "394275",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394275",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel chat helper",
+      "description": "Customers can get more conversational answers to a broader range of Excel-related questions and prompts from Copilot. For example, the customer can ask how to accomplish a task and Copilot will respond with helpful steps that may include formulas to copy and use. In some cases, Copilot may explain a formula error and supply the corrected formula plus additional guidance to ensure the formula works properly.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394668/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "394668",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394668",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution for all Teams Rooms on Windows",
+      "description": "Intelligent speaker recognition is being enabled for all Teams Rooms on Windows environments, with intelligent speakers or on existing speakers via the cloud. This feature identifies and attributes people in live transcripts, utilizing a unique \"voiceprint\" for each participant. Copilot in Teams can deliver meeting summaries, insights, and action items attributing contributions to individual speakers.\n\nUsers can enroll voices in the Teams Desktop. Learn more at the link below.<br>More info: https://aka.ms/voiceprofile",
+      "pubDate": "Tue, 30 Apr 2024 23:30:01 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395373/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "395373",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395373",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in Government Community Cloud (GCC)",
+      "description": "Set up and host large scale events across a GCC organization with the familiar Teams app you use for webinars and meetings using Town hall. Town hall capabilities include a new meeting template, capacity for up to 10k attendees, third-party eCDN support, green room, manage what attendees see, RTMP-in, live translated captions and more.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395374/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "395374",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395374",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in Government Community Cloud (GCC) (Premium)",
+      "description": "Set up and host large scale events across a GCC organization with the familiar Teams app you use for webinars and meetings using Town hall. Town hall capabilities include a new meeting template, capacity for up to 20k attendees, third-party eCDN support, green room, manage what attendees see, RTMP-in, live translated captions and more.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396560/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "396560",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396560",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Copilot works on any selection",
+      "description": "Copilot will enable the edit box on any worksheet regardless of selection. Copilot will reason over the nearest table or data range to the customer’s selected grid area on the same worksheet.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396561/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "396561",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396561",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Support for Data Ranges Resembling Tables",
+      "description": "Copilot can now reason over data ranges with a single row of headers on top, even when they’re not Excel tables.",
+      "pubDate": "Fri, 24 May 2024 22:00:42 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397092/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "397092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397092",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Copilot Compose experience",
+      "description": "Major improvements to our Copilot Compose experience include a polished, lightweight UI.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398458/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "398458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398458",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Fri, 31 May 2024 22:30:03 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398989/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "398989",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398989",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel support for formula data summaries in rows and cells",
+      "description": "Add a single formula to summarize column data into one cell. Today, full column calculations produce a unique result in each row, but this new feature gives you the option to calculate all data in a column together to return one result. You can also create a row with formulas that apply for relevant columns; for example, an \"add total sales row\" will add a SUM formula underneath every column that has sales data.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398992/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "398992",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398992",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Clipchamp",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Clipchamp: Brand kit - Extended elements and tenant-wide rollout",
+      "description": "Brand kit enables anyone to create and share brand asset collections including colors, fonts, and logos to easily apply brand elements while creating. This release adds support for images, backgrounds, stickers, video, and audio asset types. An organization's official assets can now be rolled out tenant-wide via SharePoint Organization Asset Libraries (OAL). Brand kit creation, sharing, and manual usage is being made generally available to all Clipchamp for work accounts for users with standard access.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-07-26T19:45:31Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399423/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "399423",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399423",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel - Custom chart and PivotTable creation",
+      "description": "You can now ask for more specific charts and PivotTables, including specifying the x and y axis of charts.",
+      "pubDate": "Mon, 17 Jun 2024 23:15:25 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399425/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "399425",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399425",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel - Summarize text columns",
+      "description": "Copilot can analyze columns of text to give you summaries of the information. For example, Copilot will find the main themes in survey responses from open-ended questions.",
+      "pubDate": "Mon, 17 Jun 2024 23:15:25 Z",
+      "updated": "2024-07-26T19:45:31Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402191/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "402191",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402191",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Excel – Preview and \"Apply\" changes suggested by Copilot",
+      "description": "Previously, when a user asked Copilot to make changes to their table data, Copilot would make the changes directly. Now, Copilot will respond with a description of the planned changes, along with a button to \"Apply\". Users can choose to refine before applying. This provides more user awareness and control over Copilot's changes.",
+      "pubDate": "Tue, 09 Jul 2024 18:30:38 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408527/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "408527",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408527",
+      "category": [
+        "Android",
+        "Desktop",
+        "Education",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams admins in education will now be able to create and publish custom team templates",
+      "description": "Education IT admins can now create team templates from Microsoft Teams admin center. As an admin, you can use templates to easily deploy consistent teams across your organization. With templates, your users can quickly create rich collaboration spaces with predefined settings, channels, and apps.",
+      "pubDate": "Fri, 26 Jul 2024 19:30:36 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408529/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "408529",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408529",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Notification in Activity feed and banner when intelligent meeting recap is ready",
+      "description": "Intelligent meeting recap users will receive a notification in Teams Activity feed and banner when intelligent meeting recap is ready. Clicking on the notification in Activity feed will take users right to the intelligent meeting recap experience, which will be visible to the right of the Activity feed. Users can configure their notification settings in Teams settings > Notifications and activity > Apps > Meeting Recap to control where the notification is surfaced (Activity and banner, Activity only, Off) as well as which meetings have notifications enabled (for only meetings with RSVP selection of “Follow,” or all other meetings, or both).",
+      "pubDate": "Fri, 26 Jul 2024 19:30:36 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408545/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "408545",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408545",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview AI Hub - Prompts and responses",
+      "description": "Within Microsoft Purview AI Hub, prompts and responses will appear for AI interaction events.",
+      "pubDate": "Fri, 26 Jul 2024 19:30:36 Z",
+      "updated": "2024-07-26T19:30:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409226/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409529/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "409529",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409529",
+      "category": [
+        "Android",
+        "Azure Active Directory",
+        "General Availability",
+        "In development",
+        "Microsoft Entra",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Entra: Passkey authentication in brokered Microsoft apps on Android",
+      "description": "Microsoft Entra ID users can now use a passkey to sign into Microsoft apps on Android devices where an authentication broker like Microsoft Authenticator or Microsoft Intune Company Portal is installed.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409534/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "409534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409534",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "\tMicrosoft Teams: Local PTZ for Microsoft Teams Rooms on Windows",
+      "description": "Microsoft Teams Rooms on Windows will provide native Pan-Tilt-Zoom (PTZ) controls for connected cameras that support this capability. The feature will initially contain limited support for cameras with mechanical/optical PTZ, with digital PTZ to come in the future.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409537/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-07-27T02:14:34.3105863+00:00",
+      "guid": "409537",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409537",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Native controls for Group Framing, Active Speaker and Edge Composed IntelliFrame",
+      "description": "Users will be able to toggle certain camera capabilities provided by the camera OEMs natively on Teams Rooms on Windows. Capabilities covered with this feature includes group framing, active speaker framing, and edge composed IntelliFrame.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
