@@ -1,0 +1,1012 @@
+[
+  {
+    "Path": "data/117587.json",
+    "CurrentVersion": {
+      "guid": "117587",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117587",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Mon, 03 Apr 2023 23:19:09 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {
+      "guid": "117587",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117587",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Mon, 03 Apr 2023 23:19:09 Z",
+      "updated": "2024-07-11T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/160008.json",
+    "CurrentVersion": {
+      "guid": "160008",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160008",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div>",
+      "pubDate": "Fri, 04 Aug 2023 22:05:23 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "160008",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160008",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div>",
+      "pubDate": "Fri, 04 Aug 2023 22:05:23 Z",
+      "updated": "2024-03-01T01:45:14Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/167531.json",
+    "CurrentVersion": {
+      "guid": "167531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:18 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:18 Z",
+      "updated": "2024-07-08T23:15:04Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/171586.json",
+    "CurrentVersion": {
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-07-16T23:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/178030.json",
+    "CurrentVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 Z",
+      "updated": "2024-07-03T22:15:21Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/374375.json",
+    "CurrentVersion": {
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2024-07-23T23:30:44Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/381750.json",
+    "CurrentVersion": {
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-05-20T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/385349.json",
+    "CurrentVersion": {
+      "guid": "385349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385349",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Transfer Teams calls to mobile calls",
+      "description": "When using Teams on mobile phones, users can now transfer their ongoing Teams calls to the phone's native dialer, without any disruption or loss of context.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "385349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385349",
+      "category": [
+        "Android",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Transfer Teams calls to mobile calls",
+      "description": "When using Teams on mobile phones, users can now transfer their ongoing Teams calls to the phone's native dialer, without any disruption or loss of context.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 Z",
+      "updated": "2024-07-10T23:15:44Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/388744.json",
+    "CurrentVersion": {
+      "guid": "388744",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388744",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Copilot (Microsoft 365): Copilot for Microsoft 365 now available in the Microsoft Start app",
+      "description": "Users with a Copilot for Microsoft 365 license will be able to receive answers grounded in their organizational Graph data with the Microsoft Start app. The app is available for iOS and Android.",
+      "pubDate": "Thu, 28 Mar 2024 23:15:03 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "388744",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388744",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Copilot (Microsoft 365): Copilot for Microsoft 365 now available in the Microsoft Start app",
+      "description": "Users with a Copilot for Microsoft 365 license will be able to receive answers grounded in their organizational Graph data with the Microsoft Start app. The app is available for iOS and Android.",
+      "pubDate": "Thu, 28 Mar 2024 23:15:03 Z",
+      "updated": "2024-03-28T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393926.json",
+    "CurrentVersion": {
+      "guid": "393926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393926",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals Graph API's",
+      "description": "The Approvals Graph APIs allows developers to create and manage Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393926",
+      "category": [
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals Graph API's",
+      "description": "The Approvals Graph APIs allows developers to create and manage Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-08-06T23:45:25Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397771.json",
+    "CurrentVersion": {
+      "guid": "397771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "This adds the ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "This adds the ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-07-23T23:30:44Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398967.json",
+    "CurrentVersion": {
+      "guid": "398967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398967",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerPoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot for PowerPoint will help you build your story's narrative",
+      "description": "Steer your narrative with Copilot when creating a PowerPoint presentation.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/399938.json",
+    "CurrentVersion": {
+      "guid": "399938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399938",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Intelligent meeting recap with AI-generated notes and tasks for GCC environments",
+      "description": "Enabling AI-generated notes and tasks within the intelligent meeting recap experience for GCC customers, expanding on the features within intelligent recap that are already available to GCC customers today (personalized timeline markers, speaker timeline markers, chapters, and topics).",
+      "pubDate": "Thu, 13 Jun 2024 23:15:08 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399938",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Intelligent meeting recap with AI-generated notes and tasks for GCC environments",
+      "description": "Enabling AI-generated notes and tasks within the intelligent meeting recap experience for GCC customers, expanding on the features within intelligent recap that are already available to GCC customers today (personalized timeline markers, speaker timeline markers, chapters, and topics).",
+      "pubDate": "Thu, 13 Jun 2024 23:15:08 Z",
+      "updated": "2024-06-13T23:15:08Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/405118.json",
+    "CurrentVersion": {
+      "guid": "405118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=405118",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New workload for Copilot in Content Explorer",
+      "description": "With this change, customers will start seeing a new Copilot location within the Content Explorer. This will have all the sensitive information which is present in Copilot conversations",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "405118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=405118",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New workload for Copilot in Content Explorer",
+      "description": "With this change, customers will start seeing a new Copilot location within the Content Explorer. This will have all the sensitive information which is present in Copilot conversations",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-07-03T00:00:28Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2024"
+    }
+  },
+  {
+    "Path": "data/407636.json",
+    "CurrentVersion": {
+      "guid": "407636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407636",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Viva: Viva Pulse - Pulse administrators can export Pulse data",
+      "description": "Viva Pulse administrators can now search for and export a user's Pulse report, user level, and tenant-level data to a .xlsx file.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-07T19:30:38Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "407636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407636",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Pulse administrators can export Pulse data?",
+      "description": "Viva Pulse administrators can now search for and export a user's Pulse report, user level, and tenant-level data to a .xlsx file.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-06T00:00:26Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409961.json",
+    "CurrentVersion": {
+      "guid": "409961",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409961",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot dashboard access can be granted using Entra groups",
+      "description": "In the coming months, the Microsoft Copilot Dashboard access can be granted by Global admins using Microsoft Entra ID (AAD) Groups. This will reduce the manual effort of the admins.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/410988.json",
+    "CurrentVersion": {
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117587/v0014.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "117587",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117587",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Mon, 03 Apr 2023 23:19:09 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160008/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "160008",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160008",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Optical character recognition (OCR) support for endpoint",
+      "description": "<div>Optical character recognition (OCR) support will detect sensitive content in images and subsequently apply data loss prevention (DLP) policies to prevent exfiltration of that sensitive data on your Windows endpoint devices. This release supports key file types like JPG, JPEG, PNG, TIFF, BMP and PDF (image only PDF). </div>",
+      "pubDate": "Fri, 04 Aug 2023 22:05:23 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167531/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "167531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:18 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171586/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/178030/v0013.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "178030",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=178030",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: The new Outlook for Windows - Offline support for mail actions and compose",
+      "description": "The first set of offline capabilities in the new Outlook for Windows. Mail, calendar events, and contacts will be stored on your device, so you can view them even when you're not connected to the internet. Additionally, you can perform key actions on your mail, including flag, move, and delete, and compose messages, to stay productive even when you're not connected to the internet. #newoutlookforwindows",
+      "pubDate": "Mon, 25 Sep 2023 23:04:33 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374375/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381750/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/385349/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "385349",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385349",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Transfer Teams calls to mobile calls",
+      "description": "When using Teams on mobile phones, users can now transfer their ongoing Teams calls to the phone's native dialer, without any disruption or loss of context.",
+      "pubDate": "Fri, 08 Mar 2024 00:45:34 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388744/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "388744",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388744",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Copilot (Microsoft 365): Copilot for Microsoft 365 now available in the Microsoft Start app",
+      "description": "Users with a Copilot for Microsoft 365 license will be able to receive answers grounded in their organizational Graph data with the Microsoft Start app. The app is available for iOS and Android.",
+      "pubDate": "Thu, 28 Mar 2024 23:15:03 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393926/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "393926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393926",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Approvals Graph API's",
+      "description": "The Approvals Graph APIs allows developers to create and manage Approvals from any application. This set of APIs allows users to integrate Approvals with line of business application and automate creation and updates of approvals.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397771/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "397771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "This adds the ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398967/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "398967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398967",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerPoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot for PowerPoint will help you build your story's narrative",
+      "description": "Steer your narrative with Copilot when creating a PowerPoint presentation.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399938/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "399938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399938",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Intelligent meeting recap with AI-generated notes and tasks for GCC environments",
+      "description": "Enabling AI-generated notes and tasks within the intelligent meeting recap experience for GCC customers, expanding on the features within intelligent recap that are already available to GCC customers today (personalized timeline markers, speaker timeline markers, chapters, and topics).",
+      "pubDate": "Thu, 13 Jun 2024 23:15:08 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/405118/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "405118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=405118",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New workload for Copilot in Content Explorer",
+      "description": "With this change, customers will start seeing a new Copilot location within the Content Explorer. This will have all the sensitive information which is present in Copilot conversations",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407636/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "407636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407636",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Viva: Viva Pulse - Pulse administrators can export Pulse data",
+      "description": "Viva Pulse administrators can now search for and export a user's Pulse report, user level, and tenant-level data to a .xlsx file.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-07T19:30:38Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409961/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "409961",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409961",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot dashboard access can be granted using Entra groups",
+      "description": "In the coming months, the Microsoft Copilot Dashboard access can be granted by Global admins using Microsoft Entra ID (AAD) Groups. This will reduce the manual effort of the admins.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410988/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-08T02:16:25.9431748+00:00",
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
