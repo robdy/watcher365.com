@@ -1,0 +1,877 @@
+[
+  {
+    "Path": "data/117531.json",
+    "CurrentVersion": {
+      "guid": "117531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer (U.S. Government clouds)",
+      "description": "We apologize for the inconvenience, but this item was updated to Rolling out incorrectly. Thank you for your patience. The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Fri, 24 Feb 2023 23:13:54 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "117531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer (U.S. Government clouds)",
+      "description": "The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Fri, 24 Feb 2023 23:13:54 Z",
+      "updated": "2023-11-28T00:04:24Z",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/145802.json",
+    "CurrentVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-04-03T23:15:22Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/165301.json",
+    "CurrentVersion": {
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-06T23:00:44Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/168871.json",
+    "CurrentVersion": {
+      "guid": "168871",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168871",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Automatically turn on auto-labeling policy",
+      "description": "Admins can configure their auto-labeling policies to be automatically turned on if there aren't any changes to the policy within a set number of days from simulation completion. This configuration option will be available in the auto-labeling policy setup in the Microsoft Purview compliance portal and via cmdlet.",
+      "pubDate": "Thu, 14 Sep 2023 22:50:18 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "168871",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168871",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Automatically turn on auto-labeling policy",
+      "description": "Admins can configure their auto-labeling policies to be automatically turned on if there aren't any changes to the policy within a set number of days from simulation completion. This configuration option will be available in the auto-labeling policy setup in the Microsoft Purview compliance portal and via cmdlet.",
+      "pubDate": "Thu, 14 Sep 2023 22:50:18 Z",
+      "updated": "2023-10-18T00:02:58Z",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396173.json",
+    "CurrentVersion": {
+      "guid": "396173",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396173",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Auto-labeling policies support Fingerprinting SITs",
+      "description": "Admins can now automatically label files and emails with Fingerprinting SITs via auto-labeling policies.",
+      "pubDate": "Wed, 08 May 2024 23:45:39 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {
+      "guid": "396173",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396173",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Auto-labeling policies support Fingerprinting SITs",
+      "description": "Admins can now automatically label files and emails with Fingerprinting SITs via auto-labeling policies.",
+      "pubDate": "Wed, 08 May 2024 23:45:39 Z",
+      "updated": "2024-07-16T23:15:43Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/397091.json",
+    "CurrentVersion": {
+      "guid": "397091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397091",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397091",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398449.json",
+    "CurrentVersion": {
+      "guid": "398449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398449",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New expanded gallery view option for minimized meeting window",
+      "description": "When meeting window is minimized, participants can enlarge the small view of Teams meeting to a new bigger gallery view, making it easier to multitask on screen and stay aware of meeting events. Users can choose the size of the minimized gallery view window from the following options: one participant visible in the minimized window, 4 participants visible in the minimized window, fully minimized, or fully expanded.",
+      "pubDate": "Mon, 03 Jun 2024 23:15:46 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398449",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New expanded gallery view option for minimized meeting window",
+      "description": "When meeting window is minimized, participants can enlarge the small view of Teams meeting to a new bigger gallery view, making it easier to multitask on screen and stay aware of meeting events. Users can choose the size of the minimized gallery view window from the following options: one participant visible in the minimized window, 4 participants visible in the minimized window, fully minimized, or fully expanded.",
+      "pubDate": "Mon, 03 Jun 2024 23:15:46 Z",
+      "updated": "2024-06-27T18:00:04Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398451.json",
+    "CurrentVersion": {
+      "guid": "398451",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398451",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398451",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398451",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-07-30T23:30:34Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402517.json",
+    "CurrentVersion": {
+      "guid": "402517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Multiple camera view for Teams Room on Windows",
+      "description": "Teams Room on Windows will support up to four single stream cameras that will be shown to remote meeting attendees. With multiple camera view, remote meeting attendees will have the ability to follow all the action in the room and manually toggle between views from the room that they want to see.",
+      "pubDate": "Wed, 26 Jun 2024 22:00:28 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Multiple camera view for Teams Room on Windows",
+      "description": "Teams Room on Windows will support up to four single stream cameras that will be shown to remote meeting attendees. With multiple camera view, remote meeting attendees will have the ability to follow all the action in the room and manually toggle between views from the room that they want to see.",
+      "pubDate": "Wed, 26 Jun 2024 22:00:28 Z",
+      "updated": "2024-07-12T22:30:02Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/407386.json",
+    "CurrentVersion": {
+      "guid": "407386",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407386",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "OneDrive",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: View PDFs with Purview Information Protection sensitivity labels on OneDrive Mobile",
+      "description": "With this capability, OneDrive users can open PDF files that are protected with Microsoft Purview Information Protection sensitivity labels and read them using OneDrive mobile apps in read-only mode. Only authorized users will be able to access these PDF files.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {
+      "guid": "407386",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407386",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "OneDrive",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: View PDFs with Purview Information Protection sensitivity labels on OneDrive Mobile",
+      "description": "With this capability, OneDrive users can open PDF files that are protected with Microsoft Purview Information Protection sensitivity labels and read them using OneDrive mobile apps in read-only mode. Only authorized users will be able to access these PDF files.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-06T00:00:26Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "August CY2024"
+    }
+  },
+  {
+    "Path": "data/409534.json",
+    "CurrentVersion": {
+      "guid": "409534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409534",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "\tMicrosoft Teams: Local PTZ for Microsoft Teams Rooms on Windows",
+      "description": "Microsoft Teams Rooms on Windows will provide native Pan-Tilt-Zoom (PTZ) controls for connected cameras that support this capability. The feature will initially contain limited support for cameras with mechanical/optical PTZ, with digital PTZ to come in the future.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "409534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409534",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "\tMicrosoft Teams: Local PTZ for Microsoft Teams Rooms on Windows",
+      "description": "Microsoft Teams Rooms on Windows will provide native Pan-Tilt-Zoom (PTZ) controls for connected cameras that support this capability. The feature will initially contain limited support for cameras with mechanical/optical PTZ, with digital PTZ to come in the future.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409957.json",
+    "CurrentVersion": {
+      "guid": "409957",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409957",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move menu improvements",
+      "description": "Two improvements are coming to the move menu on Outlook for iOS and Android. Users will now be able to expand and collapse folders within the move menu and see folder hierarchy when searching in the move menu.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/410774.json",
+    "CurrentVersion": {
+      "guid": "410774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410774",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Deploy frontline teams with flexible membership",
+      "description": "With our Deploy Teams at Scale tool on the Teams Admin Center, you can deploy location-based frontline teams where team membership is automatically managed alongside any manual changes made by your team owners.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/410985.json",
+    "CurrentVersion": {
+      "guid": "410985",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410985",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Intelligent Recap for GCC-H environments",
+      "description": "Intelligent meeting recap uses AI to provide a quick summary of your meeting, highlighting key discussion points, identifying follow-up actions, and offering quick access to significant points such as name mentions, when a screen was shared, individualized speaker markers, topics, and chapters.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117531/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "117531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - New cmdlet for Content Explorer (U.S. Government clouds)",
+      "description": "We apologize for the inconvenience, but this item was updated to Rolling out incorrectly. Thank you for your patience. The Content Explorer Export feature has a limitation of exporting data only after drill down to specific location. This update will allow admins to use a new cmdlet within Security & Compliance PowerShell, Export-ContentExplorerData, to export all rows of data for the content that are scanned and shown on the Content Explorer.",
+      "pubDate": "Fri, 24 Feb 2023 23:13:54 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/145802/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/165301/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/168871/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "168871",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168871",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Automatically turn on auto-labeling policy",
+      "description": "Admins can configure their auto-labeling policies to be automatically turned on if there aren't any changes to the policy within a set number of days from simulation completion. This configuration option will be available in the auto-labeling policy setup in the Microsoft Purview compliance portal and via cmdlet.",
+      "pubDate": "Thu, 14 Sep 2023 22:50:18 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396173/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "396173",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396173",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Auto-labeling policies support Fingerprinting SITs",
+      "description": "Admins can now automatically label files and emails with Fingerprinting SITs via auto-labeling policies.",
+      "pubDate": "Wed, 08 May 2024 23:45:39 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397091/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "397091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397091",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398449/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "398449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398449",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New expanded gallery view option for minimized meeting window",
+      "description": "When meeting window is minimized, participants can enlarge the small view of Teams meeting to a new bigger gallery view, making it easier to multitask on screen and stay aware of meeting events. Users can choose the size of the minimized gallery view window from the following options: one participant visible in the minimized window, 4 participants visible in the minimized window, fully minimized, or fully expanded.",
+      "pubDate": "Mon, 03 Jun 2024 23:15:46 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398451/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "398451",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398451",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Compliance boundary cmdlet tool for managing compliance boundary property",
+      "description": "This cmdlet allows users to verify the compliance boundary property of a specific OneDrive site, ensuring that the value is correctly configured. If the property is not set or if the site is in arbitration, users can use this cmdlet to assign the property value for the site for compliance boundary to take effect.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402517/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "402517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Multiple camera view for Teams Room on Windows",
+      "description": "Teams Room on Windows will support up to four single stream cameras that will be shown to remote meeting attendees. With multiple camera view, remote meeting attendees will have the ability to follow all the action in the room and manually toggle between views from the room that they want to see.",
+      "pubDate": "Wed, 26 Jun 2024 22:00:28 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407386/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "407386",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407386",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "OneDrive",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: View PDFs with Purview Information Protection sensitivity labels on OneDrive Mobile",
+      "description": "With this capability, OneDrive users can open PDF files that are protected with Microsoft Purview Information Protection sensitivity labels and read them using OneDrive mobile apps in read-only mode. Only authorized users will be able to access these PDF files.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409534/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "409534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409534",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "\tMicrosoft Teams: Local PTZ for Microsoft Teams Rooms on Windows",
+      "description": "Microsoft Teams Rooms on Windows will provide native Pan-Tilt-Zoom (PTZ) controls for connected cameras that support this capability. The feature will initially contain limited support for cameras with mechanical/optical PTZ, with digital PTZ to come in the future.",
+      "pubDate": "Fri, 26 Jul 2024 22:30:19 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409957/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "409957",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409957",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move menu improvements",
+      "description": "Two improvements are coming to the move menu on Outlook for iOS and Android. Users will now be able to expand and collapse folders within the move menu and see folder hierarchy when searching in the move menu.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410774/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "410774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410774",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Deploy frontline teams with flexible membership",
+      "description": "With our Deploy Teams at Scale tool on the Teams Admin Center, you can deploy location-based frontline teams where team membership is automatically managed alongside any manual changes made by your team owners.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410985/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-09T02:16:44.700546+00:00",
+      "guid": "410985",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410985",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Intelligent Recap for GCC-H environments",
+      "description": "Intelligent meeting recap uses AI to provide a quick summary of your meeting, highlighting key discussion points, identifying follow-up actions, and offering quick access to significant points such as name mentions, when a screen was shared, individualized speaker markers, topics, and chapters.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
