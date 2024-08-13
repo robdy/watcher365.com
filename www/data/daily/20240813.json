@@ -1,0 +1,758 @@
+[
+  {
+    "Path": "data/165301.json",
+    "CurrentVersion": {
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/168843.json",
+    "CurrentVersion": {
+      "guid": "168843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Purview compliance portal"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Recommended policy scope",
+      "description": "Leverage policy scope insights to understand the aggregated volume of policy violations that are missed from users that are not currently scoped into the policy. Communication Compliance provides the tools to help organizations detect code of conduct and regulatory compliance violations, such as harassing or threatening language, sharing of adult content, and inappropriate sharing of sensitive information. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:20 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "168843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Purview compliance portal"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Recommended policy scope",
+      "description": "Leverage policy scope insights to understand the aggregated volume of policy violations that are missed from users that are not currently scoped into the policy. Communication Compliance provides the tools to help organizations detect code of conduct and regulatory compliance violations, such as harassing or threatening language, sharing of adult content, and inappropriate sharing of sensitive information. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:20 Z",
+      "updated": "2023-09-07T23:58:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/172028.json",
+    "CurrentVersion": {
+      "guid": "172028",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=172028",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Contextual evidence match for endpoint DLP",
+      "description": "With this update you will be able to see the matched sensitive information type and the context surrounding it (300 characters) as a result of a DLP policy match on your endpoint devices.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:42 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "172028",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=172028",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Contextual evidence match for endpoint DLP",
+      "description": "With this update you will be able to see the matched sensitive information type and the context surrounding it (300 characters) as a result of a DLP policy match on your endpoint devices.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:42 Z",
+      "updated": "2023-12-06T00:38:12Z",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/181617.json",
+    "CurrentVersion": {
+      "guid": "181617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181617",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery Premium-Enhancements to eDiscovery experience for Microsoft Forms content",
+      "description": "<div>Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities. </div><div> </div>",
+      "pubDate": "Mon, 30 Oct 2023 23:08:55 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "December CY2023"
+    },
+    "OldVersion": {
+      "guid": "181617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181617",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery Premium-Enhancements to eDiscovery experience for Microsoft Forms content",
+      "description": "<div>Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities. </div><div> </div>",
+      "pubDate": "Mon, 30 Oct 2023 23:08:55 Z",
+      "updated": "2024-08-09T22:00:51Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "December CY2023"
+    }
+  },
+  {
+    "Path": "data/383748.json",
+    "CurrentVersion": {
+      "guid": "383748",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383748",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - eDiscovery premium: Enhancements to eDiscovery experience for Microsoft Forms content ",
+      "description": "Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities.",
+      "pubDate": "Tue, 27 Feb 2024 00:30:56 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383748",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383748",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - eDiscovery premium: Enhancements to eDiscovery experience for Microsoft Forms content ",
+      "description": "Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities.",
+      "pubDate": "Tue, 27 Feb 2024 00:30:56 Z",
+      "updated": "2024-08-09T22:00:51Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409226.json",
+    "CurrentVersion": {
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars (Premium)",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409962.json",
+    "CurrentVersion": {
+      "guid": "409962",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409962",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Prompt suggestions in Copilot chat",
+      "description": "Get started in Copilot chat quickly with automatic prompt suggestions that enhance your productivity by providing relevant and context-aware prompts based on your previous interactions.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/409967.json",
+    "CurrentVersion": {
+      "guid": "409967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409967",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Alert Spotlighting",
+      "description": "On the alert list page, high priority alerts will be spotlighted to help analysts prioritize the most important alerts first. Alerts are spotlighted based on predefined rules which are common across all tenants across all industries. Alert Spotlighting feature was developed to assist admins in prioritizing alerts to be triaged.  Every generated alert has a risk score, a list of activities performed, tags, and triggers. The Alert Spotlighting feature uses this information to decide whether an alert can be spotlighted. Based on a detailed study of alert triage patterns across tenants, we have developed a rule-based algorithm to spotlight alerts that would be of importance to admins, based on historical volume analysis. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/410774.json",
+    "CurrentVersion": {
+      "guid": "410774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410774",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Deploy frontline teams with flexible membership",
+      "description": "With our Deploy Teams at Scale tool on the Teams Admin Center, you can deploy location-based frontline teams where team membership is automatically managed alongside any manual changes made by your team owners.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410774",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Deploy frontline teams with flexible membership",
+      "description": "With our Deploy Teams at Scale tool on the Teams Admin Center, you can deploy location-based frontline teams where team membership is automatically managed alongside any manual changes made by your team owners.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410986.json",
+    "CurrentVersion": {
+      "guid": "410986",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410986",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pinned ability to always see who is in the office based on Work Hours and Location",
+      "description": "This introduces an \"always on\" ability to see who is in the office based on Work Hours and Location. This information will be pinned (available) on the top-right corner of the Calendar surface in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/411138.json",
+    "CurrentVersion": {
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/411300.json",
+    "CurrentVersion": {
+      "guid": "411300",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411300",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot in Viva Amplify editor",
+      "description": "The superpowers of Copilot will be directly available to you in the Amplify editing experience to revolutionize the way you create and enhance content. Auto-rewrite will create suggestions based on the text you've written. Additionally, you can expand or condense what you have written. Copilot in Amplify will also help you adjust the tone of your content to ensure consistency across your communications and to best suit your audience, whether you need a casual tone for social messages, an engaging tone to compel and draw in your audience, or a professional tone for business communications.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/93324.json",
+    "CurrentVersion": {
+      "guid": "93324",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93324",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reduce detection to investigation time from 24 hours to 1 hour (U.S. Government clouds)",
+      "description": "This feature will reduce the detection to investigation time to under an hour, allowing your organization to respond promptly to policy violations. The alert will be reviewed by a policy investigator, who is explicitly granted permission to review policy alerts by the Communication Compliance admin role. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-investigate-remediate?view=o365-worldwide",
+      "pubDate": "Fri, 20 May 2022 22:03:33 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "93324",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93324",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reduce detection to investigation time from 24 hours to 1 hour (U.S. Government clouds)",
+      "description": "This feature will reduce the detection to investigation time to under an hour, allowing your organization to respond promptly to policy violations. The alert will be reviewed by a policy investigator, who is explicitly granted permission to review policy alerts by the Communication Compliance admin role. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-investigate-remediate?view=o365-worldwide",
+      "pubDate": "Fri, 20 May 2022 22:03:33 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/165301/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/168843/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "168843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=168843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Purview compliance portal"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Recommended policy scope",
+      "description": "Leverage policy scope insights to understand the aggregated volume of policy violations that are missed from users that are not currently scoped into the policy. Communication Compliance provides the tools to help organizations detect code of conduct and regulatory compliance violations, such as harassing or threatening language, sharing of adult content, and inappropriate sharing of sensitive information. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:20 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/172028/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "172028",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=172028",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Contextual evidence match for endpoint DLP",
+      "description": "With this update you will be able to see the matched sensitive information type and the context surrounding it (300 characters) as a result of a DLP policy match on your endpoint devices.",
+      "pubDate": "Tue, 19 Sep 2023 23:09:42 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/181617/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "181617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181617",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery Premium-Enhancements to eDiscovery experience for Microsoft Forms content",
+      "description": "<div>Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities. </div><div> </div>",
+      "pubDate": "Mon, 30 Oct 2023 23:08:55 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "December CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383748/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "383748",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383748",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - eDiscovery premium: Enhancements to eDiscovery experience for Microsoft Forms content ",
+      "description": "Now admins can search for Microsoft Forms content specifically within their collections, see the full metadata associated to those items including the Form title, and review both the original Form and responses to the Form as related items within both review and export. Simplification and ease of use for managing Forms content via eDiscovery will help reduce the pain points of challenging discovery process and improve the confidence of organizations using Forms for critical tasks that may require eDiscovery capabilities.",
+      "pubDate": "Tue, 27 Feb 2024 00:30:56 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409226/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "409226",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409226",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Sensitivity label support for town hall and webinars (Premium)",
+      "description": "This feature will now allow event organizers to set sensitivity labels for town halls and webinars. These labels are visible to organizers when creating an event instance once selected, and notify organizers if the details of the event being created are not valid for the selected sensitivity.",
+      "pubDate": "Thu, 25 Jul 2024 23:45:19 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409962/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "409962",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409962",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Prompt suggestions in Copilot chat",
+      "description": "Get started in Copilot chat quickly with automatic prompt suggestions that enhance your productivity by providing relevant and context-aware prompts based on your previous interactions.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409967/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "409967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409967",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management- Alert Spotlighting",
+      "description": "On the alert list page, high priority alerts will be spotlighted to help analysts prioritize the most important alerts first. Alerts are spotlighted based on predefined rules which are common across all tenants across all industries. Alert Spotlighting feature was developed to assist admins in prioritizing alerts to be triaged.  Every generated alert has a risk score, a list of activities performed, tags, and triggers. The Alert Spotlighting feature uses this information to decide whether an alert can be spotlighted. Based on a detailed study of alert triage patterns across tenants, we have developed a rule-based algorithm to spotlight alerts that would be of importance to admins, based on historical volume analysis. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410774/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "410774",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410774",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Deploy frontline teams with flexible membership",
+      "description": "With our Deploy Teams at Scale tool on the Teams Admin Center, you can deploy location-based frontline teams where team membership is automatically managed alongside any manual changes made by your team owners.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410986/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "410986",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410986",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pinned ability to always see who is in the office based on Work Hours and Location",
+      "description": "This introduces an \"always on\" ability to see who is in the office based on Work Hours and Location. This information will be pinned (available) on the top-right corner of the Calendar surface in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/411138/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/411300/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "411300",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411300",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot in Viva Amplify editor",
+      "description": "The superpowers of Copilot will be directly available to you in the Amplify editing experience to revolutionize the way you create and enhance content. Auto-rewrite will create suggestions based on the text you've written. Additionally, you can expand or condense what you have written. Copilot in Amplify will also help you adjust the tone of your content to ensure consistency across your communications and to best suit your audience, whether you need a casual tone for social messages, an engaging tone to compel and draw in your audience, or a professional tone for business communications.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/93324/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-08-13T02:17:06.5031924+00:00",
+      "guid": "93324",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93324",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Reduce detection to investigation time from 24 hours to 1 hour (U.S. Government clouds)",
+      "description": "This feature will reduce the detection to investigation time to under an hour, allowing your organization to respond promptly to policy violations. The alert will be reviewed by a policy investigator, who is explicitly granted permission to review policy alerts by the Communication Compliance admin role. Microsoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.<br>More info: https://docs.microsoft.com/en-us/microsoft-365/compliance/communication-compliance-investigate-remediate?view=o365-worldwide",
+      "pubDate": "Fri, 20 May 2022 22:03:33 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
