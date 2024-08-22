@@ -1,0 +1,20 @@
+{
+  "timestamp": "2024-08-22T02:17:00.8546578+00:00",
+  "guid": "401127",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401127",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention - Microsoft 365 Groups scoping in Teams DLP policy extend protection to 1:1/n chats",
+  "description": "When scoping policies to Microsoft 365 Groups in Teams DLP policies, members of Teams standard and shared channel chats associated with the groups are currently protected by the policies. This change will automatically extend the protection to standard/shared channels chats in other Microsfot 365 Groups and 1:1/n (non-channel) chats. There is no longer a need to add users, security groups or other Microsoft 365 groups to protect these chats, except for customers that have enabled optical character recognition (OCR) in Teams chat.",
+  "pubDate": "Thu, 20 Jun 2024 23:15:19 Z",
+  "updated": "2024-08-21T23:45:23Z",
+  "publicDisclosureAvailabilityDate": "February CY2025",
+  "publicPreviewDate": null
+}
