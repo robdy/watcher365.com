@@ -1,0 +1,22 @@
+{
+  "timestamp": "2024-09-06T02:20:21.1249360+00:00",
+  "guid": "382130",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382130",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular trigger throttling",
+  "description": "With this update, we are introducing more granular trigger throttling limits to isolate the impact of a surge in noisy trigger volumes and prevent other policies from being affected. This ensures that organizations can receive critical alerts without being throttled by these limits. By default, the throttling limits will be applied as follows: All sensitive triggers, including HR signals, Azure AD leavers, and custom triggers, will be limited to 15,000 per day per trigger. All other triggers will be limited to 5,000 per day per trigger. Additionally, the policy health warning messages will be enhanced to assist admins with appropriate permissions in identifying and addressing noisy triggers effectively. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+  "updated": "2024-09-05T23:30:49Z",
+  "publicDisclosureAvailabilityDate": "January CY2025",
+  "publicPreviewDate": "October CY2024"
+}
