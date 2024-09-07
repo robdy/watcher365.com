@@ -1,0 +1,675 @@
+[
+  {
+    "Path": "data/124973.json",
+    "CurrentVersion": {
+      "guid": "124973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124973",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management | Adaptive Protection - Multi-policy selection",
+      "description": "Admins can now select multiple Insider Risk Management policies in the &quot;Risk levels for Adaptive Protection&quot; settings to assign risk levels in Adaptive Protection. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 06 Jun 2023 23:21:46 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "124973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124973",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management | Adaptive Protection - Multi-policy selection",
+      "description": "Admins can now select multiple Insider Risk Management policies in the \"Risk levels for Adaptive Protection\" settings to assign risk levels in Adaptive Protection. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 06 Jun 2023 23:21:46 Z",
+      "updated": "2023-07-14T22:04:05Z",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/392456.json",
+    "CurrentVersion": {
+      "guid": "392456",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392456",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Bulk replacement or removal of a retention label",
+      "description": "Admins can perform a bulk replacement or removal of a retention label using the Purview compliance portal. They can perform the action across the entire tenant or targeted to specific content using KQL and static or adaptive scopes.",
+      "pubDate": "Fri, 12 Apr 2024 22:15:37 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2025",
+      "publicPreviewDate": "July CY2025"
+    },
+    "OldVersion": {
+      "guid": "392456",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392456",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Bulk replacement or removal of a retention label",
+      "description": "Admins can perform a bulk replacement or removal of a retention label using the Purview compliance portal. They can perform the action across the entire tenant or targeted to specific content using KQL and static or adaptive scopes.",
+      "pubDate": "Fri, 12 Apr 2024 22:15:37 Z",
+      "updated": "2024-05-02T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/392838.json",
+    "CurrentVersion": {
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-06-06T23:30:13Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/395935.json",
+    "CurrentVersion": {
+      "guid": "395935",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395935",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Use Teams Q&A to collect attendee questions in GCC",
+      "description": "Teams Q&A enhances meeting and webinar participation for attendees by allowing participants to submit questions and engage in discussions. Organizers can moderate the Q&A feed, highlight important questions, and provide live answers. This feature is ideal for structured meetings and events, promoting an interactive and inclusive environment.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395935",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395935",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Use Teams Q&A to collect attendee questions in GCC",
+      "description": "Teams Q&A enhances meeting and webinar participation for attendees by allowing participants to submit questions and engage in discussions. Organizers can moderate the Q&A feed, highlight important questions, and provide live answers. This feature is ideal for structured meetings and events, promoting an interactive and inclusive environment.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-07-25T23:45:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397769.json",
+    "CurrentVersion": {
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-06-11T23:30:01Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408543.json",
+    "CurrentVersion": {
+      "guid": "408543",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408543",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Dynamic internal benchmarks for Advanced Insights",
+      "description": "Collaboration norms vary by roles and geographies, and comparing behavioral metrics across groups can draw misleading conclusions if those groups are comprised of different roles. Dynamic internal benchmarks allow the analyst to understand the expected behaviors of a group based on similar employees within the company.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/408544.json",
+    "CurrentVersion": {
+      "guid": "408544",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408544",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Introduction to metrics and benchmarks in Advanced Insights",
+      "description": "This report template for analysts in Advanced Insights provides an introduction to some of the most frequently used Viva Insights metrics, grounding both new and veteran analysts in their definitions, applications, and how their group's results compare to typical ranges using both internal and external benchmarks.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/414515.json",
+    "CurrentVersion": {
+      "guid": "414515",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414515",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot Dashboard - Non-Copilot cohort and exclusion list using AAD Groups (Entra ID) ",
+      "description": "For the Copilot dashboard, the non-Copilot user cohort list and exclusion list can be managed by Global Administrators using AAD (Azure Active Directory) Groups.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/414524.json",
+    "CurrentVersion": {
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/414530.json",
+    "CurrentVersion": {
+      "guid": "414530",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414530",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Baseline with Task level variance",
+      "description": "Capture a Baseline of your plan and view plan and task-level variances to know if the plan is on track or delayed.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/415250.json",
+    "CurrentVersion": {
+      "guid": "415250",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415250",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: IntelliFrame video feed on Teams mobile ",
+      "description": "Cloud IntelliFrame, the video framing feature that enhances the visibility of people in the room for online meeting attendees, is now available for Teams mobile users when they join a meeting that has participants in a Teams Rooms on Windows.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/95680.json",
+    "CurrentVersion": {
+      "guid": "95680",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=95680",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Breakout rooms support for Microsoft Teams Rooms on Windows",
+      "description": "<span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">With breakout room support, Teams Rooms on\nWindows can be added to a breakout room and moved in and out of the main room\nmaking it easy for breakout session coordination.</span>",
+      "pubDate": "Mon, 17 Apr 2023 23:24:07 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "95680",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=95680",
+      "category": [
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Breakout rooms support for Microsoft Teams Rooms on Windows",
+      "description": "<span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">With breakout room support, Teams Rooms on\nWindows can be added to a breakout room and moved in and out of the main room\nmaking it easy for breakout session coordination.</span>",
+      "pubDate": "Mon, 17 Apr 2023 23:24:07 Z",
+      "updated": "2024-07-23T23:30:44Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/124973/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "124973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124973",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management | Adaptive Protection - Multi-policy selection",
+      "description": "Admins can now select multiple Insider Risk Management policies in the &quot;Risk levels for Adaptive Protection&quot; settings to assign risk levels in Adaptive Protection. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 06 Jun 2023 23:21:46 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392456/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "392456",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392456",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Bulk replacement or removal of a retention label",
+      "description": "Admins can perform a bulk replacement or removal of a retention label using the Purview compliance portal. They can perform the action across the entire tenant or targeted to specific content using KQL and static or adaptive scopes.",
+      "pubDate": "Fri, 12 Apr 2024 22:15:37 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2025",
+      "publicPreviewDate": "July CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392838/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395935/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "395935",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395935",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Use Teams Q&A to collect attendee questions in GCC",
+      "description": "Teams Q&A enhances meeting and webinar participation for attendees by allowing participants to submit questions and engage in discussions. Organizers can moderate the Q&A feed, highlight important questions, and provide live answers. This feature is ideal for structured meetings and events, promoting an interactive and inclusive environment.",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397769/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408543/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "408543",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408543",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Dynamic internal benchmarks for Advanced Insights",
+      "description": "Collaboration norms vary by roles and geographies, and comparing behavioral metrics across groups can draw misleading conclusions if those groups are comprised of different roles. Dynamic internal benchmarks allow the analyst to understand the expected behaviors of a group based on similar employees within the company.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408544/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "408544",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408544",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Introduction to metrics and benchmarks in Advanced Insights",
+      "description": "This report template for analysts in Advanced Insights provides an introduction to some of the most frequently used Viva Insights metrics, grounding both new and veteran analysts in their definitions, applications, and how their group's results compare to typical ranges using both internal and external benchmarks.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414515/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "414515",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414515",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot Dashboard - Non-Copilot cohort and exclusion list using AAD Groups (Entra ID) ",
+      "description": "For the Copilot dashboard, the non-Copilot user cohort list and exclusion list can be managed by Global Administrators using AAD (Azure Active Directory) Groups.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414524/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414530/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "414530",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414530",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Baseline with Task level variance",
+      "description": "Capture a Baseline of your plan and view plan and task-level variances to know if the plan is on track or delayed.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415250/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "415250",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415250",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: IntelliFrame video feed on Teams mobile ",
+      "description": "Cloud IntelliFrame, the video framing feature that enhances the visibility of people in the room for online meeting attendees, is now available for Teams mobile users when they join a meeting that has participants in a Teams Rooms on Windows.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/95680/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-07T02:18:33.2294989+00:00",
+      "guid": "95680",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=95680",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Breakout rooms support for Microsoft Teams Rooms on Windows",
+      "description": "<span style=\"font-size:12.0pt;font-family:DengXian;color:black;\">With breakout room support, Teams Rooms on\nWindows can be added to a breakout room and moved in and out of the main room\nmaking it easy for breakout session coordination.</span>",
+      "pubDate": "Mon, 17 Apr 2023 23:24:07 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
