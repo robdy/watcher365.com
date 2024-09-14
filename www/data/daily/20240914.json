@@ -1,0 +1,1175 @@
+[
+  {
+    "Path": "data/378649.json",
+    "CurrentVersion": {
+      "guid": "378649",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378649",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Windows enrollment attestation ",
+      "description": "Physical Windows devices will be attested at enrollment that enrollment credentials are stored in the hardware of the device. Administrators can view device attestations in the new Device attestation status report and manually force attestation from that report.",
+      "pubDate": "Fri, 19 Jan 2024 00:15:45 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "378649",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378649",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Windows enrollment attestation ",
+      "description": "Physical Windows devices will be attested at enrollment that enrollment credentials are stored in the hardware of the device. Administrators can view device attestations in the new Device attestation status report and manually force attestation from that report.",
+      "pubDate": "Fri, 19 Jan 2024 00:15:45 Z",
+      "updated": "2024-07-18T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/389857.json",
+    "CurrentVersion": {
+      "guid": "389857",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389857",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Managed device attestation for iOS/iPadOS and macOS device enrollment and ADE",
+      "description": "Intune is bringing ACME and managed device attestation support for eligible Apple devices to GA. This includes device enrollment and ADE enrollments, including AC2. This applies to new enrollments with device enrollment (BYOD) and new enrollments with ADE or Apple Configurator tool.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "389857",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389857",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Managed device attestation for iOS/iPadOS and macOS device enrollment and ADE",
+      "description": "Intune is bringing ACME and managed device attestation support for eligible Apple devices to GA. This includes device enrollment and ADE enrollments, including AC2. This applies to new enrollments with device enrollment (BYOD) and new enrollments with ADE or Apple Configurator tool.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 Z",
+      "updated": "2024-05-06T23:45:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392848.json",
+    "CurrentVersion": {
+      "guid": "392848",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392848",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Auto-discarding Sleeping Tabs",
+      "description": "Tabs that have been sleeping for a long time will be discarded to save memory. When a user navigates back to a discarded tab, the tab will need to be reloaded. This can be managed through the AutoDiscardSleepingTabsEnabled policy. This policy will be enabled if the SleepingTabsEnabled policy is enabled.",
+      "pubDate": "Wed, 10 Apr 2024 17:15:17 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392848",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392848",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Auto-discarding Sleeping Tabs",
+      "description": "Tabs that have been sleeping for a long time will be discarded to save memory. When a user navigates back to a discarded tab, the tab will need to be reloaded. This can be managed through the AutoDiscardSleepingTabsEnabled policy. This policy will be enabled if the SleepingTabsEnabled policy is enabled.",
+      "pubDate": "Wed, 10 Apr 2024 17:15:17 Z",
+      "updated": "2024-07-18T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393933.json",
+    "CurrentVersion": {
+      "guid": "393933",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393933",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Deploy DMG and unmanaged PKG apps enhancement for macOS",
+      "description": "Admins will be able to use \"available\" assignment type for DMG and unmanaged PKG app types for macOS. This enables end users to browse and install these apps in the Mac Company Portal.",
+      "pubDate": "Thu, 02 May 2024 23:15:25 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393933",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393933",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Deploy DMG and unmanaged PKG apps enhancement for macOS",
+      "description": "Admins will be able to use \"available\" assignment type for DMG and unmanaged PKG app types for macOS. This enables end users to browse and install these apps in the Mac Company Portal.",
+      "pubDate": "Thu, 02 May 2024 23:15:25 Z",
+      "updated": "2024-07-18T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393936.json",
+    "CurrentVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": "The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": "The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 Z",
+      "updated": "2024-07-10T23:15:44Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    }
+  },
+  {
+    "Path": "data/395215.json",
+    "CurrentVersion": {
+      "guid": "395215",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395215",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Blanket custom retention policies which apply to all Audit recordTypes",
+      "description": "Microsoft Purview is enhancing the Audit custom retention policy experience. With this change, customers can now create blanket custom retention policies which will apply to all Audit recordTypes. This capability will become available in addition to the existing support of manually selecting specific recordTypes in the custom policy.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "395215",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395215",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Blanket custom retention policies which apply to all Audit recordTypes",
+      "description": "Microsoft Purview is enhancing the Audit custom retention policy experience. With this change, customers can now create blanket custom retention policies which will apply to all Audit recordTypes. This capability will become available in addition to the existing support of manually selecting specific recordTypes in the custom policy.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-07-11T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/396171.json",
+    "CurrentVersion": {
+      "guid": "396171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396171",
+      "category": [
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app"
+      ],
+      "title": "Microsoft Excel: Extending support for Insights Services to GCC sovereign cloud",
+      "description": "GCC sovereign cloud customers will be able to use features in Excel run by Insights Services, including Analyze Data found on the Home tab.",
+      "pubDate": "Wed, 08 May 2024 23:45:39 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396171",
+      "category": [
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app"
+      ],
+      "title": "Microsoft Excel: Extending support for Insights Services to GCC sovereign cloud",
+      "description": "GCC sovereign cloud customers will be able to use features in Excel run by Insights Services, including Analyze Data found on the Home tab.",
+      "pubDate": "Wed, 08 May 2024 23:45:39 Z",
+      "updated": "2024-09-09T23:30:38Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397096.json",
+    "CurrentVersion": {
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-08-06T00:00:26Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398980.json",
+    "CurrentVersion": {
+      "guid": "398980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398980",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Amplify - Improved authoring experience",
+      "description": "This updates the Viva Amplify editors for both Outlook and Teams distribution channels to improve previewing and editing. These updates will provide improvements to load time and create a coherent audience selection experience across the channels.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398980",
+      "category": [
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Amplify - Improved authoring experience",
+      "description": "This updates the Viva Amplify editors for both Outlook and Teams distribution channels to improve previewing and editing. These updates will provide improvements to load time and create a coherent audience selection experience across the channels.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-08-21T23:45:23Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399926.json",
+    "CurrentVersion": {
+      "guid": "399926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399926",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Remote Help for macOS (GCC)",
+      "description": "GCC customers can now use Remote Help on macOS devices.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399926",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Remote Help for macOS (GCC)",
+      "description": "GCC customers can now use Remote Help on macOS devices.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-06-11T23:30:01Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399930.json",
+    "CurrentVersion": {
+      "guid": "399930",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399930",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Revoke and Delete Cloud PKI Certification Authorities",
+      "description": "You can now revoke and delete Cloud PKI certification authorities.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399930",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399930",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Revoke and Delete Cloud PKI Certification Authorities",
+      "description": "You can now revoke and delete Cloud PKI certification authorities.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-07-16T23:15:43Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399939.json",
+    "CurrentVersion": {
+      "guid": "399939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399939",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Copilot summarization notification",
+      "description": "The feature displays an Omnibox notification when users enter into a reading mode eligible page in Edge and offers them the option to open Copilot in the sidebar to generate a summary of the content.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399939",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Copilot summarization notification",
+      "description": "The feature displays an Omnibox notification when users enter into a reading mode eligible page in Edge and offers them the option to open Copilot in the sidebar to generate a summary of the content.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-07-23T23:30:44Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/401116.json",
+    "CurrentVersion": {
+      "guid": "401116",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401116",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Chrome (for anonymous join only)",
+      "description": "The latest Teams meetings experience with performance improvements will be available for anonymous users who join Teams meetings on web in Chrome browser.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "401116",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401116",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Chrome (for anonymous join only)",
+      "description": "The latest Teams meetings experience with performance improvements will be available for anonymous users who join Teams meetings on web in Chrome browser.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-08-23T22:15:47Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/401117.json",
+    "CurrentVersion": {
+      "guid": "401117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401117",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Performance improvements for anonymous users who join meetings in Edge",
+      "description": "The latest Teams meetings experience with performance improvements will be available for anonymous users who join Teams meetings on web in Edge browser.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "401117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401117",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Performance improvements for anonymous users who join meetings in Edge",
+      "description": "The latest Teams meetings experience with performance improvements will be available for anonymous users who join Teams meetings on web in Edge browser.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-08-23T22:15:47Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408185.json",
+    "CurrentVersion": {
+      "guid": "408185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408185",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Intune",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Resource performance report for Windows physical PCs",
+      "description": "The resource performance scores and insights for physical devices help IT admins make CPU/RAM asset management and purchase decisions that improve user experience while balancing hardware costs.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "408185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408185",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Resource performance report for Windows physical PCs",
+      "description": "The resource performance scores and insights for physical devices help IT admins make CPU/RAM asset management and purchase decisions that improve user experience while balancing hardware costs.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-07-23T23:30:44Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410988.json",
+    "CurrentVersion": {
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416078.json",
+    "CurrentVersion": {
+      "guid": "416078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416078",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Outlook win32 DLP Policy tip & oversharing popup support for new DLP Predicates",
+      "description": "Introducing two new DLP Exchange predicates support for DLP Policy tips and Oversharing popups for E5 users: \"Message contains\" and \"Attachment contains\" with a focus on client-side evaluation on specific email components (like email body or attachments) only. Unlike the broader \"Content contains\" predicate that evaluated entire email envelope, these enable targeted DLP evaluation on specific email components only and show DLP Policy tips and oversharing popups accordingly in Outlook win32.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/416481.json",
+    "CurrentVersion": {
+      "guid": "416481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416481",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/91163.json",
+    "CurrentVersion": {
+      "guid": "91163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91163",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View attachments for Meetings in Teams Calendar",
+      "description": "File attachments added to a meeting invite in Outlook desktop or web app are now visible for invitees in Teams calendar.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "91163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91163",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View attachments for Meetings in Teams Calendar",
+      "description": "File attachments added to a meeting invite in Outlook desktop or web app are now visible for invitees in Teams calendar.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 Z",
+      "updated": "2024-07-05T22:15:57Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/378649/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "378649",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=378649",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Intune",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Windows enrollment attestation ",
+      "description": "Physical Windows devices will be attested at enrollment that enrollment credentials are stored in the hardware of the device. Administrators can view device attestations in the new Device attestation status report and manually force attestation from that report.",
+      "pubDate": "Fri, 19 Jan 2024 00:15:45 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/389857/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "389857",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=389857",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Managed device attestation for iOS/iPadOS and macOS device enrollment and ADE",
+      "description": "Intune is bringing ACME and managed device attestation support for eligible Apple devices to GA. This includes device enrollment and ADE enrollments, including AC2. This applies to new enrollments with device enrollment (BYOD) and new enrollments with ADE or Apple Configurator tool.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392848/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "392848",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392848",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Auto-discarding Sleeping Tabs",
+      "description": "Tabs that have been sleeping for a long time will be discarded to save memory. When a user navigates back to a discarded tab, the tab will need to be reloaded. This can be managed through the AutoDiscardSleepingTabsEnabled policy. This policy will be enabled if the SleepingTabsEnabled policy is enabled.",
+      "pubDate": "Wed, 10 Apr 2024 17:15:17 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393933/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "393933",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393933",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Deploy DMG and unmanaged PKG apps enhancement for macOS",
+      "description": "Admins will be able to use \"available\" assignment type for DMG and unmanaged PKG app types for macOS. This enables end users to browse and install these apps in the Mac Company Portal.",
+      "pubDate": "Thu, 02 May 2024 23:15:25 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393936/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "393936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Entry point change - apps when reading emails moved to the ribbon",
+      "description": "The Apps flyout and entry point for pinned apps will be moved to the Home tab in the Ribbon in the New Outlook and Outlook for Web. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395215/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "395215",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395215",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Blanket custom retention policies which apply to all Audit recordTypes",
+      "description": "Microsoft Purview is enhancing the Audit custom retention policy experience. With this change, customers can now create blanket custom retention policies which will apply to all Audit recordTypes. This capability will become available in addition to the existing support of manually selecting specific recordTypes in the custom policy.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396171/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "396171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396171",
+      "category": [
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app"
+      ],
+      "title": "Microsoft Excel: Extending support for Insights Services to GCC sovereign cloud",
+      "description": "GCC sovereign cloud customers will be able to use features in Excel run by Insights Services, including Analyze Data found on the Home tab.",
+      "pubDate": "Wed, 08 May 2024 23:45:39 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397096/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "397096",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397096",
+      "category": [
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Automatic summary of documents on file-open in Word",
+      "description": "When you open a document, Copilot will generate a summary in the Word window. You can hide the summary or open the Copilot chat pane to ask specific questions about the document.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398980/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "398980",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398980",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Amplify - Improved authoring experience",
+      "description": "This updates the Viva Amplify editors for both Outlook and Teams distribution channels to improve previewing and editing. These updates will provide improvements to load time and create a coherent audience selection experience across the channels.",
+      "pubDate": "Wed, 05 Jun 2024 23:15:07 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399926/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "399926",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399926",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Remote Help for macOS (GCC)",
+      "description": "GCC customers can now use Remote Help on macOS devices.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399930/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "399930",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399930",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Revoke and Delete Cloud PKI Certification Authorities",
+      "description": "You can now revoke and delete Cloud PKI certification authorities.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399939/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "399939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399939",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Copilot summarization notification",
+      "description": "The feature displays an Omnibox notification when users enter into a reading mode eligible page in Edge and offers them the option to open Copilot in the sidebar to generate a summary of the content.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/401116/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "401116",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401116",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Latest meeting experiences with performance improvements on web for Chrome (for anonymous join only)",
+      "description": "The latest Teams meetings experience with performance improvements will be available for anonymous users who join Teams meetings on web in Chrome browser.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/401117/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "401117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401117",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Performance improvements for anonymous users who join meetings in Edge",
+      "description": "The latest Teams meetings experience with performance improvements will be available for anonymous users who join Teams meetings on web in Edge browser.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408185/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "408185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408185",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Intune",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Resource performance report for Windows physical PCs",
+      "description": "The resource performance scores and insights for physical devices help IT admins make CPU/RAM asset management and purchase decisions that improve user experience while balancing hardware costs.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410988/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416078/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "416078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416078",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Outlook win32 DLP Policy tip & oversharing popup support for new DLP Predicates",
+      "description": "Introducing two new DLP Exchange predicates support for DLP Policy tips and Oversharing popups for E5 users: \"Message contains\" and \"Attachment contains\" with a focus on client-side evaluation on specific email components (like email body or attachments) only. Unlike the broader \"Content contains\" predicate that evaluated entire email envelope, these enable targeted DLP evaluation on specific email components only and show DLP Policy tips and oversharing popups accordingly in Outlook win32.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416481/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "416481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416481",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/91163/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-14T02:19:41.9909033+00:00",
+      "guid": "91163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=91163",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: View attachments for Meetings in Teams Calendar",
+      "description": "File attachments added to a meeting invite in Outlook desktop or web app are now visible for invitees in Teams calendar.",
+      "pubDate": "Thu, 30 May 2024 23:30:03 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
