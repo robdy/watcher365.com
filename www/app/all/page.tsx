@@ -17,7 +17,6 @@ const AllPage = async () => {
 	const entriesArr = await Promise.all(entriesPromisesArr)
 	return (
 		<section className="container max-w-5xl mx-auto ">
-			<Search />
 			<div className="my-10">
 				{entriesArr.map((item, index) => (
 					<ul className="my-3 divide-y-2 text-sm md:text-base" key={`list-${item}`}>
