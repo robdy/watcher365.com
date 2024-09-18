@@ -1,0 +1,1077 @@
+[
+  {
+    "Path": "data/124915.json",
+    "CurrentVersion": {
+      "guid": "124915",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124915",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Scope service side auto-labeling for OneDrive workloads to users or groups (U.S. Government clouds)",
+      "description": "<div><span>To scope service side auto-labeling for OneDrive locations, you must specify users or groups. Previously, you had to specify sites by URLs. Any existing OneDrive URL sites in auto-labeling policies will continue to work but before you can specify new OneDrive locations, or for restricted admins, you must first delete any existing site URLs. Groups supported: distribution groups, Microsoft 365 groups, mail-enabled security groups, and security groups.</span> </div><div><span></span> </div>",
+      "pubDate": "Fri, 12 May 2023 22:23:48 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124915",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124915",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Scope service side auto-labeling for OneDrive workloads to users or groups (U.S. Government clouds)",
+      "description": "To scope service side auto-labeling for OneDrive locations, you must specify users or groups. Previously, you had to specify sites by URLs. Any existing OneDrive URL sites in auto-labeling policies will continue to work but before you can specify new OneDrive locations, or for restricted admins, you must first delete any existing site URLs. Groups supported: distribution groups, Microsoft 365 groups, mail-enabled security groups, and security groups.",
+      "pubDate": "Fri, 12 May 2023 22:23:48 Z",
+      "updated": "2023-11-02T23:00:42Z",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/156016.json",
+    "CurrentVersion": {
+      "guid": "156016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156016",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Potential high impact user experience enhancements",
+      "description": "<div>We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.&nbsp;Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:49 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {
+      "guid": "156016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156016",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Potential high impact user experience enhancements",
+      "description": "<div>We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.&nbsp;Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:49 Z",
+      "updated": "2024-08-22T23:30:29Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2023"
+    }
+  },
+  {
+    "Path": "data/171598.json",
+    "CurrentVersion": {
+      "guid": "171598",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171598",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this update,\nadmins with appropriate permissions can delete all associated alerts, cases,\nand users in scope when deleting a policy to help quickly reset and remove\ninactive policies. Microsoft Purview Insider Risk Management correlates various\nsignals to identify potential malicious or inadvertent insider risks, such as\nIP theft, data leakage, and security violations. Insider Risk Management\nenables customers to create policies based on their own internal policies,\ngovernance, and organizational requirements. Built with privacy by design,\nusers are pseudonymized by default, and role-based access controls and audit\nlogs are in place to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Wed, 11 Oct 2023 23:33:07 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "171598",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171598",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this update,\nadmins with appropriate permissions can delete all associated alerts, cases,\nand users in scope when deleting a policy to help quickly reset and remove\ninactive policies. Microsoft Purview Insider Risk Management correlates various\nsignals to identify potential malicious or inadvertent insider risks, such as\nIP theft, data leakage, and security violations. Insider Risk Management\nenables customers to create policies based on their own internal policies,\ngovernance, and organizational requirements. Built with privacy by design,\nusers are pseudonymized by default, and role-based access controls and audit\nlogs are in place to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Wed, 11 Oct 2023 23:33:07 Z",
+      "updated": "2024-05-28T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/171720.json",
+    "CurrentVersion": {
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-08-22T23:30:29Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381750.json",
+    "CurrentVersion": {
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/381953.json",
+    "CurrentVersion": {
+      "guid": "381953",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381953",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Short meeting URL",
+      "description": "We are making meeting URL shorter and removing unnecessary symbols/info from there to make it more convenient for sharing",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381953",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381953",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Short meeting URL",
+      "description": "We are making meeting URL shorter and removing unnecessary symbols/info from there to make it more convenient for sharing",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 Z",
+      "updated": "2024-07-03T22:15:21Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/385345.json",
+    "CurrentVersion": {
+      "guid": "385345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385345",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Shared mailbox support security group assignments on encrypted mail access in Outlook for Windows",
+      "description": "Members in mail-enabled security group that are assigned to a shared mailbox can access encrypted mail directly using Outlook for Windows. Users can access encrypted mail with Do Not Forward or Encrypt-only protection.",
+      "pubDate": "Thu, 14 Mar 2024 23:30:49 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "385345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385345",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Shared mailbox support security group assignments on encrypted mail access in Outlook for Windows",
+      "description": "Members in mail-enabled security group that are assigned to a shared mailbox can access encrypted mail directly using Outlook for Windows. Users can access encrypted mail with Do Not Forward or Encrypt-only protection.",
+      "pubDate": "Thu, 14 Mar 2024 23:30:49 Z",
+      "updated": "2024-09-04T00:30:35Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/396571.json",
+    "CurrentVersion": {
+      "guid": "396571",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396571",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview portal now supports user search functionality",
+      "description": "Our global search feature now enables you to search for users within your organization. You’ll find basic information such as names and email addresses. Additionally, if you have role management privileges, you can view assigned role groups and admin units. This means now you can search for navigational results, data, learning resources, and also for users within your organization.\n",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396571",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396571",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview portal now supports user search functionality",
+      "description": "Our global search feature now enables you to search for users within your organization. You’ll find basic information such as names and email addresses. Additionally, if you have role management privileges, you can view assigned role groups and admin units. This means now you can search for navigational results, data, learning resources, and also for users within your organization.\n",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-08-01T17:30:27Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402516.json",
+    "CurrentVersion": {
+      "guid": "402516",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402516",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Barriers v2 support for all new onboarding customers",
+      "description": "Microsoft Purview Information Barriers v2 (IB v2) is now available for all new onboarding customers. IB v2 has enhanced architecture which enables the following new features:\n\nLarge-scale segment support: The segment limit in organizations has increased to 5,000.\nMulti-segment support: Users can be assigned to up to 10 segments.\nFlexible user discoverability: Organizations can now choose to allow IB-protected users to discover each other while adhering to IB communication and collaboration policies.",
+      "pubDate": "Wed, 26 Jun 2024 19:00:21 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402516",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402516",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Barriers v2 support for all new onboarding customers",
+      "description": "Microsoft Purview Information Barriers v2 (IB v2) is now available for all new onboarding customers. IB v2 has enhanced architecture which enables the following new features:\n\nLarge-scale segment support: The segment limit in organizations has increased to 5,000.\nMulti-segment support: Users can be assigned to up to 10 segments.\nFlexible user discoverability: Organizations can now choose to allow IB-protected users to discover each other while adhering to IB communication and collaboration policies.",
+      "pubDate": "Wed, 26 Jun 2024 19:00:21 Z",
+      "updated": "2024-08-21T23:45:23Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/407638.json",
+    "CurrentVersion": {
+      "guid": "407638",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407638",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Notifications management for administrators to configure where Pulse notifications are delivered",
+      "description": "Administrators can choose where Pulse notifications are delivered to users from among the three notification delivery methods: email, Teams Chat, and Teams Activity feed. We are cancelling this Roadmap item because it duplicates Roadmap item 408163.",
+      "pubDate": "Wed, 17 Jul 2024 23:30:54 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "407638",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407638",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Notifications management for administrators to configure where Pulse notifications are delivered",
+      "description": "Administrators can choose where Pulse notifications are delivered to users from among the three notification delivery methods: email, Teams Chat, and Teams Activity feed.",
+      "pubDate": "Wed, 17 Jul 2024 23:30:54 Z",
+      "updated": "2024-07-17T23:30:54Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408163.json",
+    "CurrentVersion": {
+      "guid": "408163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408163",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Notifications management for administrators to configure where Pulse notifications are delivered",
+      "description": "Pulse administrators can configure where Pulse notifications are delivered. This applies to Viva Pulse on the web and in the Viva app in Microsoft Teams.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "408163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408163",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Notifications management for administrators to configure where Pulse notifications are delivered",
+      "description": "Pulse administrators can configure where Pulse notifications are delivered.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-06T00:00:26Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/413709.json",
+    "CurrentVersion": {
+      "guid": "413709",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413709",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voice and face data export controls",
+      "description": "This new feature provides controls for voice and face profile data export for users. To ensure security and protection of user privacy, individuals can export their own profile data limiting risk of download or sharing by tenant administrators.",
+      "pubDate": "Thu, 29 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "413709",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413709",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voice and Face biometric data export controls",
+      "description": "This new feature provides controls for biometric data export for users. To ensure security and protection of user privacy, individuals can export their own biometric data, limiting risk of download or sharing by tenant administrators.",
+      "pubDate": "Thu, 29 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-03T23:45:05Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414515.json",
+    "CurrentVersion": {
+      "guid": "414515",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414515",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot Dashboard - Non-Copilot cohort and exclusion list using AAD Groups (Entra ID) ",
+      "description": "For the Copilot dashboard, the non-Copilot user cohort list and exclusion list can be managed by Global Administrators using AAD (Azure Active Directory) Groups.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "414515",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414515",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot Dashboard - Non-Copilot cohort and exclusion list using AAD Groups (Entra ID) ",
+      "description": "For the Copilot dashboard, the non-Copilot user cohort list and exclusion list can be managed by Global Administrators using AAD (Azure Active Directory) Groups.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/415467.json",
+    "CurrentVersion": {
+      "guid": "415467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updates to mail sharing functionality with Cloud Policy Service when setting \"Turn off sharing recommendation\"",
+      "description": "Updates to the office Cloud Policy Service setting \"Turn off sharing recommendation\" will disable the ability for users to share folders with individual users. Currently, the policy blocked users' ability to update default and anonymous permission levels for shared folders. This functionality will remain and will not be changed. The current policy and how it works with calendar sharing will not be impacted by this change and will remain as implemented. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "415467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updates to mail sharing functionality with Cloud Policy Service when setting \"Turn off sharing recommendation\"",
+      "description": "Updates to the office Cloud Policy Service setting \"Turn off sharing recommendation\" will disable the ability for users to share folders with individual users. Currently, the policy blocked users' ability to update default and anonymous permission levels for shared folders. This functionality will remain and will not be changed. The current policy and how it works with calendar sharing will not be impacted by this change and will remain as implemented. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-12T00:00:50Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416072.json",
+    "CurrentVersion": {
+      "guid": "416072",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416072",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting organizers can turn off copying or forwarding of live captions, transcript, and recap for meetings (Premium)",
+      "description": "We are expanding the existing ‘Turn off copying or forwarding of meeting chat’ control for meeting organizers to include live captions, transcription, and meeting recap. With this change, meeting organizers with eligible licenses will see a control called ‘Turn off copying and forwarding of meeting chat, live captions, and transcript’ in the meeting options. When this control is enabled, meeting participants won’t be able to copy the meeting chat, live captions, live transcript, or any insights generated from intelligent meeting recap.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/416292.json",
+    "CurrentVersion": {
+      "guid": "416292",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416292",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for call delegation on Teams phone devices",
+      "description": "Call delegators and their delegates can now view shared call history records for the shared line directly on their Teams phone devices. This enhancement promotes greater transparency and collaboration. All delegates associated with a user will be able to monitor incoming and outgoing calls for the shared line, irrespective of their participation in the call.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/417153.json",
+    "CurrentVersion": {
+      "guid": "417153",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417153",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom name for Teams panels",
+      "description": "Admins can use the Teams Rooms Pro Management portal to assign a custom name to their Teams Rooms Pro or Teams Shared Device licensed panels. This new name displays on the panel's home screen, replacing the global address book name that appears in Outlook or Teams.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124915/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "124915",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124915",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Scope service side auto-labeling for OneDrive workloads to users or groups (U.S. Government clouds)",
+      "description": "<div><span>To scope service side auto-labeling for OneDrive locations, you must specify users or groups. Previously, you had to specify sites by URLs. Any existing OneDrive URL sites in auto-labeling policies will continue to work but before you can specify new OneDrive locations, or for restricted admins, you must first delete any existing site URLs. Groups supported: distribution groups, Microsoft 365 groups, mail-enabled security groups, and security groups.</span> </div><div><span></span> </div>",
+      "pubDate": "Fri, 12 May 2023 22:23:48 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156016/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "156016",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156016",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Potential high impact user experience enhancements",
+      "description": "<div>We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.&nbsp;Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:49 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171598/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "171598",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171598",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Policy deletion enhancement",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">With this update,\nadmins with appropriate permissions can delete all associated alerts, cases,\nand users in scope when deleting a policy to help quickly reset and remove\ninactive policies. Microsoft Purview Insider Risk Management correlates various\nsignals to identify potential malicious or inadvertent insider risks, such as\nIP theft, data leakage, and security violations. Insider Risk Management\nenables customers to create policies based on their own internal policies,\ngovernance, and organizational requirements. Built with privacy by design,\nusers are pseudonymized by default, and role-based access controls and audit\nlogs are in place to help ensure user-level privacy.</span> </div>",
+      "pubDate": "Wed, 11 Oct 2023 23:33:07 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171720/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "171720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Potential high impact user experience enhancements",
+      "description": "We will make some minor experience changes for when a user has been detected as a potential high impact user whose activities may lead to potential data security incidents. These changes will include improving accessibility and providing more prominent highlighting of the reasons for being detected as a potential high impact user. Additionally, we will provide additional descriptors regarding how the risk score booster is applied to the user.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 12 Sep 2023 23:06:34 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381750/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381953/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "381953",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381953",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Short meeting URL",
+      "description": "We are making meeting URL shorter and removing unnecessary symbols/info from there to make it more convenient for sharing",
+      "pubDate": "Tue, 06 Feb 2024 02:15:52 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/385345/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "385345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=385345",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview Information Protection: Shared mailbox support security group assignments on encrypted mail access in Outlook for Windows",
+      "description": "Members in mail-enabled security group that are assigned to a shared mailbox can access encrypted mail directly using Outlook for Windows. Users can access encrypted mail with Do Not Forward or Encrypt-only protection.",
+      "pubDate": "Thu, 14 Mar 2024 23:30:49 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396571/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "396571",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396571",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview portal now supports user search functionality",
+      "description": "Our global search feature now enables you to search for users within your organization. You’ll find basic information such as names and email addresses. Additionally, if you have role management privileges, you can view assigned role groups and admin units. This means now you can search for navigational results, data, learning resources, and also for users within your organization.\n",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402516/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "402516",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402516",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Barriers v2 support for all new onboarding customers",
+      "description": "Microsoft Purview Information Barriers v2 (IB v2) is now available for all new onboarding customers. IB v2 has enhanced architecture which enables the following new features:\n\nLarge-scale segment support: The segment limit in organizations has increased to 5,000.\nMulti-segment support: Users can be assigned to up to 10 segments.\nFlexible user discoverability: Organizations can now choose to allow IB-protected users to discover each other while adhering to IB communication and collaboration policies.",
+      "pubDate": "Wed, 26 Jun 2024 19:00:21 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407638/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "407638",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407638",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Notifications management for administrators to configure where Pulse notifications are delivered",
+      "description": "Administrators can choose where Pulse notifications are delivered to users from among the three notification delivery methods: email, Teams Chat, and Teams Activity feed. We are cancelling this Roadmap item because it duplicates Roadmap item 408163.",
+      "pubDate": "Wed, 17 Jul 2024 23:30:54 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408163/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "408163",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408163",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Pulse - Notifications management for administrators to configure where Pulse notifications are delivered",
+      "description": "Pulse administrators can configure where Pulse notifications are delivered. This applies to Viva Pulse on the web and in the Viva app in Microsoft Teams.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/413709/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "413709",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413709",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voice and face data export controls",
+      "description": "This new feature provides controls for voice and face profile data export for users. To ensure security and protection of user privacy, individuals can export their own profile data limiting risk of download or sharing by tenant administrators.",
+      "pubDate": "Thu, 29 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414515/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "414515",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414515",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot Dashboard - Non-Copilot cohort and exclusion list using AAD Groups (Entra ID) ",
+      "description": "For the Copilot dashboard, the non-Copilot user cohort list and exclusion list can be managed by Global Administrators using AAD (Azure Active Directory) Groups.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415467/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "415467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updates to mail sharing functionality with Cloud Policy Service when setting \"Turn off sharing recommendation\"",
+      "description": "Updates to the office Cloud Policy Service setting \"Turn off sharing recommendation\" will disable the ability for users to share folders with individual users. Currently, the policy blocked users' ability to update default and anonymous permission levels for shared folders. This functionality will remain and will not be changed. The current policy and how it works with calendar sharing will not be impacted by this change and will remain as implemented. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416072/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "416072",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416072",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Meeting organizers can turn off copying or forwarding of live captions, transcript, and recap for meetings (Premium)",
+      "description": "We are expanding the existing ‘Turn off copying or forwarding of meeting chat’ control for meeting organizers to include live captions, transcription, and meeting recap. With this change, meeting organizers with eligible licenses will see a control called ‘Turn off copying and forwarding of meeting chat, live captions, and transcript’ in the meeting options. When this control is enabled, meeting participants won’t be able to copy the meeting chat, live captions, live transcript, or any insights generated from intelligent meeting recap.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416292/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "416292",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416292",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for call delegation on Teams phone devices",
+      "description": "Call delegators and their delegates can now view shared call history records for the shared line directly on their Teams phone devices. This enhancement promotes greater transparency and collaboration. All delegates associated with a user will be able to monitor incoming and outgoing calls for the shared line, irrespective of their participation in the call.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417153/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-18T02:21:32.7485932+00:00",
+      "guid": "417153",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417153",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom name for Teams panels",
+      "description": "Admins can use the Teams Rooms Pro Management portal to assign a custom name to their Teams Rooms Pro or Teams Shared Device licensed panels. This new name displays on the panel's home screen, replacing the global address book name that appears in Outlook or Teams.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
