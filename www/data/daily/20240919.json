@@ -1,0 +1,1083 @@
+[
+  {
+    "Path": "data/117587.json",
+    "CurrentVersion": {
+      "guid": "117587",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117587",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Mon, 03 Apr 2023 23:19:09 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {
+      "guid": "117587",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117587",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Mon, 03 Apr 2023 23:19:09 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/124843.json",
+    "CurrentVersion": {
+      "guid": "124843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
+      "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions.",
+      "pubDate": "Tue, 02 May 2023 23:25:18 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
+      "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions.",
+      "pubDate": "Tue, 02 May 2023 23:25:18 Z",
+      "updated": "2023-11-30T00:01:23Z",
+      "publicDisclosureAvailabilityDate": "March CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/167531.json",
+    "CurrentVersion": {
+      "guid": "167531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:18 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:18 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/189826.json",
+    "CurrentVersion": {
+      "guid": "189826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189826",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Modernized user-defined permissions experience",
+      "description": "A modernized experience for selecting which users should have which permissions when a sensitivity label configured for user-defined permissions is applied to a file in M365 apps or when a user applies protection using standalone Information Rights Management.",
+      "pubDate": "Thu, 07 Dec 2023 00:05:31 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "189826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189826",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Modernized user-defined permissions experience",
+      "description": "A modernized experience for selecting which users should have which permissions when a sensitivity label configured for user-defined permissions is applied to a file in M365 apps or when a user applies protection using standalone Information Rights Management.",
+      "pubDate": "Thu, 07 Dec 2023 00:05:31 Z",
+      "updated": "2024-06-14T22:45:31Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/375500.json",
+    "CurrentVersion": {
+      "guid": "375500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375500",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Customize your individual sites and experiences with fonts and themes",
+      "description": "Site owners will now be able to create branded fonts and themes for their sites and experiences in the brand center by combining the branding assets that the organization provides or by creating their own.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375500",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Customize your individual sites and experiences with fonts and themes",
+      "description": "Site owners will now be able to create branded fonts and themes for their sites and experiences in the brand center by combining the branding assets that the organization provides or by creating their own.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 Z",
+      "updated": "2024-04-23T23:15:25Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381750.json",
+    "CurrentVersion": {
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2025",
+      "publicPreviewDate": "August CY2025"
+    },
+    "OldVersion": {
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/383726.json",
+    "CurrentVersion": {
+      "guid": "383726",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383726",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint -Update UI/UX admin experience ",
+      "description": "Update UI/UX admin experience for advanced configuration settings.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383726",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383726",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint -Update UI/UX admin experience ",
+      "description": "Update UI/UX admin experience for advanced configuration settings.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-08-16T22:30:02Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395788.json",
+    "CurrentVersion": {
+      "guid": "395788",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395788",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Chat with Copilot in Outlook for Mac",
+      "description": "The same Microsoft Copilot experience you can get in the Microsoft Teams app, at copilot.microsoft.com (work mode) and in other places is now available from within Microsoft Outlook for Mac. You can find the Copilot app in the left app bar.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "395788",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395788",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Chat with Copilot in Outlook for Mac",
+      "description": "The same Microsoft Copilot experience you can get in the Microsoft Teams app, at copilot.microsoft.com (work mode) and in other places is now available from within Microsoft Outlook for Mac. You can find the Copilot app in the left app bar.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-10T23:15:45Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/397092.json",
+    "CurrentVersion": {
+      "guid": "397092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397092",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Copilot Compose experience",
+      "description": "Major improvements to our Copilot Compose experience include a polished, lightweight UI.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "397092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397092",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Copilot Compose experience",
+      "description": "Major improvements to our Copilot Compose experience include a polished, lightweight UI.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-07-26T22:30:19Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/406165.json",
+    "CurrentVersion": {
+      "guid": "406165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406165",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Create allow directly in Tenant Allow/Block List",
+      "description": "Admins can create an allow inside the Tenant Allow/Block List to override bulk, spam, and regular confidence phish verdicts directly.",
+      "pubDate": "Fri, 12 Jul 2024 22:30:02 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "406165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406165",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Create allow directly in Tenant Allow/Block List",
+      "description": "Admins can create an allow inside the Tenant Allow/Block List to override bulk, spam, and regular confidence phish verdicts directly.",
+      "pubDate": "Fri, 12 Jul 2024 22:30:02 Z",
+      "updated": "2024-08-13T23:15:23Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/406913.json",
+    "CurrentVersion": {
+      "guid": "406913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406913",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Viva",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Org Explorer in Outlook for Mac",
+      "description": "Org Explorer for Outlook helps you to visualize and explore your company’s internal structure, work teams, and individual roles. This feature will now also be available in Outlook for Mac.",
+      "pubDate": "Fri, 12 Jul 2024 22:30:02 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "406913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406913",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Viva",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Org Explorer in Outlook for Mac",
+      "description": "Org Explorer for Outlook helps you to visualize and explore your company’s internal structure, work teams, and individual roles. This feature will now also be available in Outlook for Mac.",
+      "pubDate": "Fri, 12 Jul 2024 22:30:02 Z",
+      "updated": "2024-09-03T23:45:05Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/407386.json",
+    "CurrentVersion": {
+      "guid": "407386",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407386",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "OneDrive",
+        "Preview",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: View PDFs with Purview Information Protection sensitivity labels on OneDrive Mobile",
+      "description": "With this capability, OneDrive users can open PDF files that are protected with Microsoft Purview Information Protection sensitivity labels and read them using OneDrive mobile apps in read-only mode. Only authorized users will be able to access these PDF files.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {
+      "guid": "407386",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407386",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "OneDrive",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: View PDFs with Purview Information Protection sensitivity labels on OneDrive Mobile",
+      "description": "With this capability, OneDrive users can open PDF files that are protected with Microsoft Purview Information Protection sensitivity labels and read them using OneDrive mobile apps in read-only mode. Only authorized users will be able to access these PDF files.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-27T23:15:04Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    }
+  },
+  {
+    "Path": "data/412617.json",
+    "CurrentVersion": {
+      "guid": "412617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412617",
+      "category": [
+        "Current Channel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: OneDrive in Outlook for Mac",
+      "description": "Quickly access your OneDrive without having to leave Outlook! Users can find and use the OneDrive app in Outlook for Mac, for a consistent and fast experience.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "412617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412617",
+      "category": [
+        "Current Channel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: OneDrive in Outlook for Mac",
+      "description": "Quickly access your OneDrive without having to leave Outlook! Users can find and use the OneDrive app in Outlook for Mac, for a consistent and fast experience.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-08-19T23:45:33Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/413110.json",
+    "CurrentVersion": {
+      "guid": "413110",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413110",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Ground prompts using SharePoint Sites",
+      "description": "Users will be able to search for and select SharePoint Sites in CIQ to scope their prompts to.",
+      "pubDate": "Wed, 18 Sep 2024 23:15:03 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/415415.json",
+    "CurrentVersion": {
+      "guid": "415415",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415415",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Users can opt-in to try the new calendar in Teams",
+      "description": "The new calendar in Teams combines rich productivity features and the latest innovations like Microsoft Copilot, to help users more seamlessly manage their schedules, prepare for and recap meetings, and even identify optimal days for in-office collaboration. The new calendar in Teams is designed to be familiar and reliable, as it’s one unified calendar that works across new Outlook for Windows, Outlook on the web, Microsoft Places, and now Microsoft Teams. With this update, users will see the ‘New calendar’ toggle at the top right of the calendar app in Teams. New calendar is off by default, and users can toggle to try the new experience.",
+      "pubDate": "Wed, 18 Sep 2024 23:15:03 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/416296.json",
+    "CurrentVersion": {
+      "guid": "416296",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416296",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Checking feedback policy across all accounts",
+      "description": "Currently, when we determine whether a user is entitled to submit feedback, we only look at the feedback policy for their primary (global) account. Going forward, we are going to make the feedback policy check more restrictive which is more secure. We'll be looking at feedback policies for all users' accounts and basing their eligibility off the most restrictive policy value found. For example, if any of the users' accounts have Feedback disabled by a policy, we won't show the Feedback button in the Help tab of the ribbon for any of their accounts. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416296",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416296",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Checking feedback policy across all accounts",
+      "description": "Currently, when we determine whether a user is entitled to submit feedback, we only look at the feedback policy for their primary (global) account. Going forward, we are going to make the feedback policy check more restrictive which is more secure. We'll be looking at feedback policies for all users' accounts and basing their eligibility off the most restrictive policy value found. For example, if any of the users' accounts have Feedback disabled by a policy, we won't show the Feedback button in the Help tab of the ribbon for any of their accounts. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-12T00:00:50Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417064.json",
+    "CurrentVersion": {
+      "guid": "417064",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417064",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: RSVP response in meeting invite message for shared calendars",
+      "description": "Managers and delegates will be able to see the user who has responded to meeting invites in shared calendars. This feature will be available in the new Outlook for Windows and web #newoutlookforwindows",
+      "pubDate": "Wed, 18 Sep 2024 23:15:03 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/117587/v0015.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "117587",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=117587",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Mon, 03 Apr 2023 23:19:09 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "January CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124843/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "124843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
+      "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions.",
+      "pubDate": "Tue, 02 May 2023 23:25:18 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167531/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "167531",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167531",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Audit Search Graph API",
+      "description": "Microsoft Graph offers a unified API endpoint for accessing data from multiple Microsoft cloud services in a single response. This feature allows our customers to programmatically access the new async Audit Search experience, which also provides improved reliability and search completeness, through Microsoft Graph API.",
+      "pubDate": "Fri, 08 Sep 2023 00:02:18 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/189826/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "189826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189826",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "Excel",
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "PowerPoint",
+        "Preview",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Modernized user-defined permissions experience",
+      "description": "A modernized experience for selecting which users should have which permissions when a sensitivity label configured for user-defined permissions is applied to a file in M365 apps or when a user applies protection using standalone Information Rights Management.",
+      "pubDate": "Thu, 07 Dec 2023 00:05:31 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375500/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "375500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375500",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Customize your individual sites and experiences with fonts and themes",
+      "description": "Site owners will now be able to create branded fonts and themes for their sites and experiences in the brand center by combining the branding assets that the organization provides or by creating their own.",
+      "pubDate": "Thu, 04 Jan 2024 00:15:15 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381750/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "381750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381750",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Optical character recognition (OCR) support for embedded images in endpoint",
+      "description": "This release will extend OCR support from standalone images (JPEG, JPG, PNG, BMP, TIFF, and PDF) to images embedded inside the following files and file types: Office files (XLSX, DOCX, PPTX), container files (zip, rar, 7z, and more), and PDF files. Image-only PDF files are already supported, and this this release will support hybrid PDF files containing images and searchable text.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2025",
+      "publicPreviewDate": "August CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383726/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "383726",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383726",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint -Update UI/UX admin experience ",
+      "description": "Update UI/UX admin experience for advanced configuration settings.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395788/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "395788",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395788",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Chat with Copilot in Outlook for Mac",
+      "description": "The same Microsoft Copilot experience you can get in the Microsoft Teams app, at copilot.microsoft.com (work mode) and in other places is now available from within Microsoft Outlook for Mac. You can find the Copilot app in the left app bar.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397092/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "397092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397092",
+      "category": [
+        "Android",
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New Copilot Compose experience",
+      "description": "Major improvements to our Copilot Compose experience include a polished, lightweight UI.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/406165/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "406165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406165",
+      "category": [
+        "DoD",
+        "Exchange",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Create allow directly in Tenant Allow/Block List",
+      "description": "Admins can create an allow inside the Tenant Allow/Block List to override bulk, spam, and regular confidence phish verdicts directly.",
+      "pubDate": "Fri, 12 Jul 2024 22:30:02 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/406913/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "406913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406913",
+      "category": [
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Viva",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Org Explorer in Outlook for Mac",
+      "description": "Org Explorer for Outlook helps you to visualize and explore your company’s internal structure, work teams, and individual roles. This feature will now also be available in Outlook for Mac.",
+      "pubDate": "Fri, 12 Jul 2024 22:30:02 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407386/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "407386",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407386",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Information Protection",
+        "Microsoft Purview compliance portal",
+        "OneDrive",
+        "Preview",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: View PDFs with Purview Information Protection sensitivity labels on OneDrive Mobile",
+      "description": "With this capability, OneDrive users can open PDF files that are protected with Microsoft Purview Information Protection sensitivity labels and read them using OneDrive mobile apps in read-only mode. Only authorized users will be able to access these PDF files.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412617/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "412617",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412617",
+      "category": [
+        "Current Channel",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: OneDrive in Outlook for Mac",
+      "description": "Quickly access your OneDrive without having to leave Outlook! Users can find and use the OneDrive app in Outlook for Mac, for a consistent and fast experience.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/413110/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "413110",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413110",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Ground prompts using SharePoint Sites",
+      "description": "Users will be able to search for and select SharePoint Sites in CIQ to scope their prompts to.",
+      "pubDate": "Wed, 18 Sep 2024 23:15:03 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415415/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "415415",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415415",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Users can opt-in to try the new calendar in Teams",
+      "description": "The new calendar in Teams combines rich productivity features and the latest innovations like Microsoft Copilot, to help users more seamlessly manage their schedules, prepare for and recap meetings, and even identify optimal days for in-office collaboration. The new calendar in Teams is designed to be familiar and reliable, as it’s one unified calendar that works across new Outlook for Windows, Outlook on the web, Microsoft Places, and now Microsoft Teams. With this update, users will see the ‘New calendar’ toggle at the top right of the calendar app in Teams. New calendar is off by default, and users can toggle to try the new experience.",
+      "pubDate": "Wed, 18 Sep 2024 23:15:03 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416296/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "416296",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416296",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Checking feedback policy across all accounts",
+      "description": "Currently, when we determine whether a user is entitled to submit feedback, we only look at the feedback policy for their primary (global) account. Going forward, we are going to make the feedback policy check more restrictive which is more secure. We'll be looking at feedback policies for all users' accounts and basing their eligibility off the most restrictive policy value found. For example, if any of the users' accounts have Feedback disabled by a policy, we won't show the Feedback button in the Help tab of the ribbon for any of their accounts. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417064/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-19T02:22:51.3269524+00:00",
+      "guid": "417064",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417064",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: RSVP response in meeting invite message for shared calendars",
+      "description": "Managers and delegates will be able to see the user who has responded to meeting invites in shared calendars. This feature will be available in the new Outlook for Windows and web #newoutlookforwindows",
+      "pubDate": "Wed, 18 Sep 2024 23:15:03 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
