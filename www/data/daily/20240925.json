@@ -1,0 +1,2009 @@
+[
+  {
+    "Path": "data/145802.json",
+    "CurrentVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "OneDrive",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-08-08T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/156014.json",
+    "CurrentVersion": {
+      "guid": "156014",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156014",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 31 Jul 2023 23:16:10 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {
+      "guid": "156014",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156014",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 31 Jul 2023 23:16:10 Z",
+      "updated": "2024-01-17T00:15:05Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "August CY2023"
+    }
+  },
+  {
+    "Path": "data/156015.json",
+    "CurrentVersion": {
+      "guid": "156015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:47 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "156015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:47 Z",
+      "updated": "2024-01-17T00:15:05Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/162943.json",
+    "CurrentVersion": {
+      "guid": "162943",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162943",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Spell check in Viva Learning search",
+      "description": "<div><span style=\"\">User queries will be spell checked and corrected for all in-app Search.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "162943",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162943",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Spell check in Viva Learning search",
+      "description": "<div><span style=\"\">User queries will be spell checked and corrected for all in-app Search.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 Z",
+      "updated": "2024-08-28T23:30:30Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/171586.json",
+    "CurrentVersion": {
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/374375.json",
+    "CurrentVersion": {
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/382128.json",
+    "CurrentVersion": {
+      "guid": "382128",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382128",
+      "category": [
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "SharePoint Syntex",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: DocuSign Integration with SharePoint eSignature",
+      "description": "SharePoint users who are also DocuSign customers can initiate eSignatures directly from PDF documents. The eSignature request will be processed by DocuSign and a copy of the signed document will be automatically saved in SharePoint after signing. This reduces the risks of potential data leakage that customers often report as they move sensitive documents between SharePoint and 3rd party eSignature platforms. Manual download or upload of documents will no longer be required when initiating the request or when saving the signed documents back to SharePoint for long term storage.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "382128",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382128",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "SharePoint Syntex",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: DocuSign Integration with SharePoint eSignature",
+      "description": "SharePoint users who are also DocuSign customers can initiate eSignatures directly from PDF documents. The eSignature request will be processed by DocuSign and a copy of the signed document will be automatically saved in SharePoint after signing. This reduces the risks of potential data leakage that customers often report as they move sensitive documents between SharePoint and 3rd party eSignature platforms. Manual download or upload of documents will no longer be required when initiating the request or when saving the signed documents back to SharePoint for long term storage.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 Z",
+      "updated": "2024-06-25T23:30:01Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383019.json",
+    "CurrentVersion": {
+      "guid": "383019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383019",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Teams Meetings will take the meeting chat into account",
+      "description": "When you ask Copilot in Teams Meetings a question, it will use the chat and transcript as the source.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383019",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Teams Meetings will take the meeting chat into account",
+      "description": "When you ask Copilot in Teams Meetings a question, it will use the chat and transcript as the source.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 Z",
+      "updated": "2024-09-10T23:15:45Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383535.json",
+    "CurrentVersion": {
+      "guid": "383535",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383535",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Redesigned Message Bars on Outlook on the Web and the New Outlook for Windows",
+      "description": "Infobars on Outlook on the Web and the New Outlook for Windows are redesigned to be more effective at conveying relevant information and communicating possible actions. They are also dismissible in the Compose form. #newoutlookforwindows",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383535",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383535",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Redesigned Message Bars on Outlook on the Web and the New Outlook for Windows",
+      "description": "Infobars on Outlook on the Web and the New Outlook for Windows are redesigned to be more effective at conveying relevant information and communicating possible actions. They are also dismissible in the Compose form. #newoutlookforwindows",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2024-06-05T23:15:07Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383656.json",
+    "CurrentVersion": {
+      "guid": "383656",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383656",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Notifications and Nudges in Teams",
+      "description": "Users can receive survey notifications and nudges in Teams",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "383656",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383656",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Notifications and Nudges in Teams",
+      "description": "Users can receive survey notifications and nudges in Teams",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 Z",
+      "updated": "2024-08-01T17:30:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/384067.json",
+    "CurrentVersion": {
+      "guid": "384067",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384067",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Learner Record Sync (LRS) logs",
+      "description": "Sync logs in the Viva Learning admin tab with information about assignment and completion-related ingestion errors.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "384067",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384067",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Learner Record Sync (LRS) logs",
+      "description": "Sync logs in the Viva Learning admin tab with information about assignment and completion-related ingestion errors.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-07-03T22:15:21Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394681.json",
+    "CurrentVersion": {
+      "guid": "394681",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394681",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New RSVP settings in the new Outlook for Windows and web",
+      "description": "Two new settings to improve the user experience when responding to meeting invitations: (1) do not delete invitation email after RSVPing and (2) auto-decline if the attendee's calendar shows as busy. These features will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 02 May 2024 23:15:25 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394681",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394681",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New RSVP settings in the new Outlook for Windows and web",
+      "description": "Two new settings to improve the user experience when responding to meeting invitations: (1) do not delete invitation email after RSVPing and (2) auto-decline if the attendee's calendar shows as busy. These features will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 02 May 2024 23:15:25 Z",
+      "updated": "2024-06-27T18:00:04Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395940.json",
+    "CurrentVersion": {
+      "guid": "395940",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395940",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Topic Subscription notification",
+      "description": "This feature allows users to subscribe to notifications for Viva Engage topics they follow. Users will receive a Viva Engage bell notification when a new post is tagged with a topic they are subscribed to or when the topic is added to an existing post.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395940",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395940",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Topic Subscription notification",
+      "description": "This feature allows users to subscribe to notifications for Viva Engage topics they follow. Users will receive a Viva Engage bell notification when a new post is tagged with a topic they are subscribed to or when the topic is added to an existing post.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 Z",
+      "updated": "2024-09-09T23:30:38Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396168.json",
+    "CurrentVersion": {
+      "guid": "396168",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396168",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Mute user for network",
+      "description": "With this feature, Engage admins can remove specific users' posts from the Engage home feed, storylines feed, and all email digests. Selected users are not notified about this change. \nEngage admins may find this feature helps to moderate the visibility of content in the network. Mute user for network is part of a suite of moderation features in Engage, including view-only mode, close conversations, and more.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396168",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396168",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Mute user for network",
+      "description": "With this feature, Engage admins can remove specific users' posts from the Engage home feed, storylines feed, and all email digests. Selected users are not notified about this change. \nEngage admins may find this feature helps to moderate the visibility of content in the network. Mute user for network is part of a suite of moderation features in Engage, including view-only mode, close conversations, and more.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-08-13T23:15:23Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396729.json",
+    "CurrentVersion": {
+      "guid": "396729",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396729",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Intune policy available for specific primary account in the new Outlook for Windows",
+      "description": "This adds Intune policy in the new Outlook for Windows to a specific primary account based on Active Directory Primary SMTP address. This will ease the setup process for new managed devices and guarantee that company policies will always be respected. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396729",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396729",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Intune policy available for specific primary account in the new Outlook for Windows",
+      "description": "This adds Intune policy in the new Outlook for Windows to a specific primary account based on Active Directory Primary SMTP address. This will ease the setup process for new managed devices and guarantee that company policies will always be respected. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-08-21T23:45:23Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397771.json",
+    "CurrentVersion": {
+      "guid": "397771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "This adds the ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "This adds the ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-08-07T23:15:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/403108.json",
+    "CurrentVersion": {
+      "guid": "403108",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=403108",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Go to folder shortcut in the new Outlook for Windows and web",
+      "description": "When focused on the folder pane, users can now press CTRL + Y to quickly navigate to a folder. Simply press the first letter of the folder name to move focus directly to that folder. #newoutlookforwindows",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "403108",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=403108",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Go to folder shortcut in the new Outlook for Windows and web",
+      "description": "When focused on the folder pane, users can now press CTRL + Y to quickly navigate to a folder. Simply press the first letter of the folder name to move focus directly to that folder. #newoutlookforwindows",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-08-09T22:00:51Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/405118.json",
+    "CurrentVersion": {
+      "guid": "405118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=405118",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New workload for Copilot in Content Explorer",
+      "description": "With this change, customers will start seeing a new Copilot location within the Content Explorer. This will have all the sensitive information which is present in Copilot conversations",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "405118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=405118",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New workload for Copilot in Content Explorer",
+      "description": "With this change, customers will start seeing a new Copilot location within the Content Explorer. This will have all the sensitive information which is present in Copilot conversations",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-09-23T23:30:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/406948.json",
+    "CurrentVersion": {
+      "guid": "406948",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406948",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Replace quick compose pop-up with inline appointment creation in new Outlook for Windows and web",
+      "description": "When single clicking on an empty time slot on the calendar surface, the quick compose pop-up will no longer be shown - instead, you will be able to create an appointment by typing directly in the time slot on the calendar grid, just as you can in classic Outlook for Windows. There will be no change to double click behavior, the full compose form will still open as it does today. #newoutlookforwindows",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "406948",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406948",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Replace quick compose pop-up with inline appointment creation in new Outlook for Windows and web",
+      "description": "When single clicking on an empty time slot on the calendar surface, the quick compose pop-up will no longer be shown - instead, you will be able to create an appointment by typing directly in the time slot on the calendar grid, just as you can in classic Outlook for Windows. There will be no change to double click behavior, the full compose form will still open as it does today. #newoutlookforwindows",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-07-16T23:15:43Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410218.json",
+    "CurrentVersion": {
+      "guid": "410218",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410218",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "OneDrive",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: OneDrive colored folders in File Explorer",
+      "description": "A user will be able to view and manage OneDrive colored folders within Windows File Explorer.",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410218",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410218",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: OneDrive colored folders in File Explorer",
+      "description": "A user will be able to view and manage OneDrive colored folders within Windows File Explorer.",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-08-22T23:30:29Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410397.json",
+    "CurrentVersion": {
+      "guid": "410397",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410397",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention- Network Share Coverage and Exclusion Support on Mac Endpoints",
+      "description": "With this feature, Sensitive data in files that are stored in network shares and mapped network drives will be protected by DLP policies across Mac endpoints as well.",
+      "pubDate": "Tue, 13 Aug 2024 23:15:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "410397",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410397",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention- Network Share Coverage and Exclusion Support on Mac Endpoints",
+      "description": "With this feature, Sensitive data in files that are stored in network shares and mapped network drives will be protected by DLP policies across Mac endpoints as well.",
+      "pubDate": "Tue, 13 Aug 2024 23:15:23 Z",
+      "updated": "2024-08-13T23:15:23Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/410986.json",
+    "CurrentVersion": {
+      "guid": "410986",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410986",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "Microsoft 365",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pinned ability to always see who is in the office based on Work Hours and Location",
+      "description": "This roadmap item was released earlier than expected and unfortunately, we missed making this update. We apologize for the inconvenience this may have caused.\nThis introduces an \"always on\" ability to see who is in the office based on Work Hours and Location. This information will be pinned (available) on the top-right corner of the Calendar surface in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410986",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410986",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pinned ability to always see who is in the office based on Work Hours and Location",
+      "description": "This introduces an \"always on\" ability to see who is in the office based on Work Hours and Location. This information will be pinned (available) on the top-right corner of the Calendar surface in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-08-12T23:00:27Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412618.json",
+    "CurrentVersion": {
+      "guid": "412618",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412618",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Work Hours and Location in My Day",
+      "description": "Work Hours and Location information will now be available in My Day pane in Outlook when using agenda view. Users will be able to update their Work Hours and Location information from My Day and also see who is coming to Office. This feature will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Wed, 28 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412618",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412618",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Work Hours and Location in My Day",
+      "description": "Work Hours and Location information will now be available in My Day pane in Outlook when using agenda view. Users will be able to update their Work Hours and Location information from My Day and also see who is coming to Office. This feature will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Wed, 28 Aug 2024 23:30:30 Z",
+      "updated": "2024-08-29T23:30:30Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412936.json",
+    "CurrentVersion": {
+      "guid": "412936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multi-Account Support for Add-Ins and Apps in new Outlook for Windows",
+      "description": "Currently, new Outlook for for Windows supports apps and add-ins for the user's primary account only. We will be enabling apps and add-ins to be supported across all of the accounts added to new Outlook, dynamically switching to the active identity. #newoutlookforwindows",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "412936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multi-Account Support for Add-Ins and Apps in new Outlook for Windows",
+      "description": "Currently, new Outlook for for Windows supports apps and add-ins for the user's primary account only. We will be enabling apps and add-ins to be supported across all of the accounts added to new Outlook, dynamically switching to the active identity. #newoutlookforwindows",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-08-22T23:30:29Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412938.json",
+    "CurrentVersion": {
+      "guid": "412938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412938",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort Meeting Attendees",
+      "description": "Allow user to sort meeting attendees in the tracking list alphabetically. #newoutlookforwindows",
+      "pubDate": "Wed, 21 Aug 2024 23:45:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412938",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort Meeting Attendees",
+      "description": "Allow user to sort meeting attendees in the tracking list alphabetically. #newoutlookforwindows",
+      "pubDate": "Wed, 21 Aug 2024 23:45:23 Z",
+      "updated": "2024-08-21T23:45:23Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412939.json",
+    "CurrentVersion": {
+      "guid": "412939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412939",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Filter Meeting Attendees",
+      "description": "Allow user to filter meeting attendees by name in the tracking list. #newoutlookforwindows",
+      "pubDate": "Wed, 21 Aug 2024 23:45:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412939",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Filter Meeting Attendees",
+      "description": "Allow user to filter meeting attendees by name in the tracking list. #newoutlookforwindows",
+      "pubDate": "Wed, 21 Aug 2024 23:45:23 Z",
+      "updated": "2024-08-21T23:45:23Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/413711.json",
+    "CurrentVersion": {
+      "guid": "413711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413711",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Participant roster grouping in Teams BYOD meeting rooms",
+      "description": "When participants join a Teams meeting with their laptop in bring your own device (BYOD) meeting rooms, they will appear in the ‘in-room’ participant section of the roster enabling individual identification and meeting intelligence capabilities.",
+      "pubDate": "Thu, 29 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "413711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413711",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Participant roster grouping in Teams BYOD meeting rooms",
+      "description": "When participants join a Teams meeting with their laptop in bring your own device (BYOD) meeting rooms, they will appear in the ‘in-room’ participant section of the roster enabling individual identification and meeting intelligence capabilities.",
+      "pubDate": "Thu, 29 Aug 2024 23:30:30 Z",
+      "updated": "2024-08-29T23:30:30Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/415705.json",
+    "CurrentVersion": {
+      "guid": "415705",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415705",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "OneDrive",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Sync - Shared Item Delete and Local Mass Delete Confirmation Dialogs ",
+      "description": "We are shipping an items delete confirmation that will trigger when the user is about to delete shared items. This UI format will also replace the existing mass delete experience. These confirmations will occur when files are deleted from File Explorer when the user is running OneDrive and not paused.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "415705",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415705",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "OneDrive",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Sync - Shared Item Delete and Local Mass Delete Confirmation Dialogs ",
+      "description": "We are shipping an items delete confirmation that will trigger when the user is about to delete shared items. This UI format will also replace the existing mass delete experience. These confirmations will occur when files are deleted from File Explorer when the user is running OneDrive and not paused.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-12T23:15:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416481.json",
+    "CurrentVersion": {
+      "guid": "416481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416481",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416481",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417063.json",
+    "CurrentVersion": {
+      "guid": "417063",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417063",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Grant mail delegate sharing permissions from the new Outlook",
+      "description": "Delegate access for mailbox and folders can be granted from the new Outlook app. Users will be able to view the permissions granted for a mailboxes and folders. #newoutlookforwindows",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "July CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/418120.json",
+    "CurrentVersion": {
+      "guid": "418120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418120",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices update only when idle",
+      "description": "Updates from Teams admin center for Teams devices will happen only when they are idle. This will minimise end-user disruption.",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/145802/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "OneDrive",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156014/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "156014",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156014",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Mon, 31 Jul 2023 23:16:10 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "August CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/156015/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "156015",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=156015",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Sensitivity analysis for policy tuning",
+      "description": "<div>With this update, admins with appropriate permissions will have the ability to view a sensitivity analysis, which shows the  count of users in the organization that would meet specific indicator thresholds. The sensitivity analysis is presented as a bar chart, with potential inputs of an indicator threshold on the x-axis and the corresponding count of users on the y-axis. Admins can utilize this chart to make informed decisions on which threshold to apply for each indicator. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy. </div>",
+      "pubDate": "Thu, 27 Jul 2023 23:39:47 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/162943/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "162943",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=162943",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Spell check in Viva Learning search",
+      "description": "<div><span style=\"\">User queries will be spell checked and corrected for all in-app Search.</span> </div>",
+      "pubDate": "Thu, 21 Sep 2023 07:00:00 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171586/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374375/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382128/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "382128",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382128",
+      "category": [
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "SharePoint Syntex",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: DocuSign Integration with SharePoint eSignature",
+      "description": "SharePoint users who are also DocuSign customers can initiate eSignatures directly from PDF documents. The eSignature request will be processed by DocuSign and a copy of the signed document will be automatically saved in SharePoint after signing. This reduces the risks of potential data leakage that customers often report as they move sensitive documents between SharePoint and 3rd party eSignature platforms. Manual download or upload of documents will no longer be required when initiating the request or when saving the signed documents back to SharePoint for long term storage.",
+      "pubDate": "Thu, 08 Feb 2024 01:00:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383019/v0011.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "383019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383019",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Teams Meetings will take the meeting chat into account",
+      "description": "When you ask Copilot in Teams Meetings a question, it will use the chat and transcript as the source.",
+      "pubDate": "Fri, 16 Feb 2024 00:45:00 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383535/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "383535",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383535",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Redesigned Message Bars on Outlook on the Web and the New Outlook for Windows",
+      "description": "Infobars on Outlook on the Web and the New Outlook for Windows are redesigned to be more effective at conveying relevant information and communicating possible actions. They are also dismissible in the Compose form. #newoutlookforwindows",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383656/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "383656",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383656",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Notifications and Nudges in Teams",
+      "description": "Users can receive survey notifications and nudges in Teams",
+      "pubDate": "Sat, 17 Feb 2024 00:30:40 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384067/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "384067",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384067",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Learner Record Sync (LRS) logs",
+      "description": "Sync logs in the Viva Learning admin tab with information about assignment and completion-related ingestion errors.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394681/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "394681",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394681",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: New RSVP settings in the new Outlook for Windows and web",
+      "description": "Two new settings to improve the user experience when responding to meeting invitations: (1) do not delete invitation email after RSVPing and (2) auto-decline if the attendee's calendar shows as busy. These features will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 02 May 2024 23:15:25 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395940/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "395940",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395940",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Topic Subscription notification",
+      "description": "This feature allows users to subscribe to notifications for Viva Engage topics they follow. Users will receive a Viva Engage bell notification when a new post is tagged with a topic they are subscribed to or when the topic is added to an existing post.",
+      "pubDate": "Mon, 06 May 2024 23:45:36 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396168/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "396168",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396168",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Mute user for network",
+      "description": "With this feature, Engage admins can remove specific users' posts from the Engage home feed, storylines feed, and all email digests. Selected users are not notified about this change. \nEngage admins may find this feature helps to moderate the visibility of content in the network. Mute user for network is part of a suite of moderation features in Engage, including view-only mode, close conversations, and more.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396729/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "396729",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396729",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Intune policy available for specific primary account in the new Outlook for Windows",
+      "description": "This adds Intune policy in the new Outlook for Windows to a specific primary account based on Active Directory Primary SMTP address. This will ease the setup process for new managed devices and guarantee that company policies will always be respected. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397771/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "397771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "This adds the ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Mon, 10 Jun 2024 23:30:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/403108/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "403108",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=403108",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Go to folder shortcut in the new Outlook for Windows and web",
+      "description": "When focused on the folder pane, users can now press CTRL + Y to quickly navigate to a folder. Simply press the first letter of the folder name to move focus directly to that folder. #newoutlookforwindows",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/405118/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "405118",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=405118",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New workload for Copilot in Content Explorer",
+      "description": "With this change, customers will start seeing a new Copilot location within the Content Explorer. This will have all the sensitive information which is present in Copilot conversations",
+      "pubDate": "Wed, 03 Jul 2024 00:00:28 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/406948/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "406948",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406948",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Replace quick compose pop-up with inline appointment creation in new Outlook for Windows and web",
+      "description": "When single clicking on an empty time slot on the calendar surface, the quick compose pop-up will no longer be shown - instead, you will be able to create an appointment by typing directly in the time slot on the calendar grid, just as you can in classic Outlook for Windows. There will be no change to double click behavior, the full compose form will still open as it does today. #newoutlookforwindows",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410218/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "410218",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410218",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "OneDrive",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: OneDrive colored folders in File Explorer",
+      "description": "A user will be able to view and manage OneDrive colored folders within Windows File Explorer.",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410397/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "410397",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410397",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention- Network Share Coverage and Exclusion Support on Mac Endpoints",
+      "description": "With this feature, Sensitive data in files that are stored in network shares and mapped network drives will be protected by DLP policies across Mac endpoints as well.",
+      "pubDate": "Tue, 13 Aug 2024 23:15:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410986/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "410986",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410986",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "Microsoft 365",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Pinned ability to always see who is in the office based on Work Hours and Location",
+      "description": "This roadmap item was released earlier than expected and unfortunately, we missed making this update. We apologize for the inconvenience this may have caused.\nThis introduces an \"always on\" ability to see who is in the office based on Work Hours and Location. This information will be pinned (available) on the top-right corner of the Calendar surface in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412618/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "412618",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412618",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Work Hours and Location in My Day",
+      "description": "Work Hours and Location information will now be available in My Day pane in Outlook when using agenda view. Users will be able to update their Work Hours and Location information from My Day and also see who is coming to Office. This feature will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Wed, 28 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412936/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "412936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multi-Account Support for Add-Ins and Apps in new Outlook for Windows",
+      "description": "Currently, new Outlook for for Windows supports apps and add-ins for the user's primary account only. We will be enabling apps and add-ins to be supported across all of the accounts added to new Outlook, dynamically switching to the active identity. #newoutlookforwindows",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412938/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "412938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412938",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort Meeting Attendees",
+      "description": "Allow user to sort meeting attendees in the tracking list alphabetically. #newoutlookforwindows",
+      "pubDate": "Wed, 21 Aug 2024 23:45:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412939/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "412939",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412939",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Filter Meeting Attendees",
+      "description": "Allow user to filter meeting attendees by name in the tracking list. #newoutlookforwindows",
+      "pubDate": "Wed, 21 Aug 2024 23:45:23 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/413711/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "413711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413711",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Participant roster grouping in Teams BYOD meeting rooms",
+      "description": "When participants join a Teams meeting with their laptop in bring your own device (BYOD) meeting rooms, they will appear in the ‘in-room’ participant section of the roster enabling individual identification and meeting intelligence capabilities.",
+      "pubDate": "Thu, 29 Aug 2024 23:30:30 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415705/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "415705",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415705",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "OneDrive",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Sync - Shared Item Delete and Local Mass Delete Confirmation Dialogs ",
+      "description": "We are shipping an items delete confirmation that will trigger when the user is about to delete shared items. This UI format will also replace the existing mass delete experience. These confirmations will occur when files are deleted from File Explorer when the user is running OneDrive and not paused.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416481/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "416481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416481",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.",
+      "pubDate": "Fri, 13 Sep 2024 22:15:36 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417063/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "417063",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417063",
+      "category": [
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Grant mail delegate sharing permissions from the new Outlook",
+      "description": "Delegate access for mailbox and folders can be granted from the new Outlook app. Users will be able to view the permissions granted for a mailboxes and folders. #newoutlookforwindows",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "July CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418120/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-09-25T02:25:22.0163379+00:00",
+      "guid": "418120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418120",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices update only when idle",
+      "description": "Updates from Teams admin center for Teams devices will happen only when they are idle. This will minimise end-user disruption.",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
