@@ -1,0 +1,1219 @@
+[
+  {
+    "Path": "data/124827.json",
+    "CurrentVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 Z",
+      "updated": "2024-08-19T23:45:33Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/145802.json",
+    "CurrentVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "OneDrive",
+        "Preview",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/161829.json",
+    "CurrentVersion": {
+      "guid": "161829",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161829",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions",
+      "description": "<div>Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals. </div>",
+      "pubDate": "Tue, 08 Aug 2023 23:14:13 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {
+      "guid": "161829",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161829",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions",
+      "description": "<div>Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals. </div>",
+      "pubDate": "Tue, 08 Aug 2023 23:14:13 Z",
+      "updated": "2024-06-27T18:00:04Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/186956.json",
+    "CurrentVersion": {
+      "guid": "186956",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186956",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Stream",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Video trim feature",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Microsoft Stream (on\nSharePoint) will soon introduce a video trimming feature which will allow users\nwith edit permissions to trim the start, end and any parts in the middle of a\nvideo.<span style=\"\">&nbsp; </span>When you trim a video, Stream\nwon’t change the original video file itself. Instead, it just hides the trimmed\nparts from your viewers.<span style=\"\">&nbsp; </span>When you're\ndone trimming you can toggle to the preview mode to see the trimmed video just\nlike your viewers will see. When a video is trimmed the transcript and chapters\nwill be adjusted automatically to reflect only what is shown in the video.\nPeople with edit permission will be able to see full original content and edit\nor delete those trimmed parts. When available this feature can be accessed by\nopening a video in the Stream web app and taping the edit button.</span> </div>",
+      "pubDate": "Tue, 21 Nov 2023 00:44:10 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186956",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186956",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Microsoft Stream",
+        "Preview",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Video trim feature",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Microsoft Stream (on\nSharePoint) will soon introduce a video trimming feature which will allow users\nwith edit permissions to trim the start, end and any parts in the middle of a\nvideo.<span style=\"\">&nbsp; </span>When you trim a video, Stream\nwon’t change the original video file itself. Instead, it just hides the trimmed\nparts from your viewers.<span style=\"\">&nbsp; </span>When you're\ndone trimming you can toggle to the preview mode to see the trimmed video just\nlike your viewers will see. When a video is trimmed the transcript and chapters\nwill be adjusted automatically to reflect only what is shown in the video.\nPeople with edit permission will be able to see full original content and edit\nor delete those trimmed parts. When available this feature can be accessed by\nopening a video in the Stream web app and taping the edit button.</span> </div>",
+      "pubDate": "Tue, 21 Nov 2023 00:44:10 Z",
+      "updated": "2024-04-16T23:45:53Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/387795.json",
+    "CurrentVersion": {
+      "guid": "387795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387795",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Delete option in Stream Web App",
+      "description": "Stream is adding a delete option to the Stream Web App. If a user has editing permissions to a video in Stream, they will be able to delete a video directly from the Stream Web App by clicking the delete button on the command bar and confirming the action. The video file will be sent to the Recycle Bin of the OneDrive or SharePoint page the video was hosted on and any access to the video will lead to a page informing the user that the video has been removed.",
+      "pubDate": "Fri, 15 Mar 2024 23:00:39 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "387795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387795",
+      "category": [
+        "General Availability",
+        "Microsoft Stream",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Delete option in Stream Web App",
+      "description": "Stream is adding a delete option to the Stream Web App. If a user has editing permissions to a video in Stream, they will be able to delete a video directly from the Stream Web App by clicking the delete button on the command bar and confirming the action. The video file will be sent to the Recycle Bin of the OneDrive or SharePoint page the video was hosted on and any access to the video will lead to a page informing the user that the video has been removed.",
+      "pubDate": "Fri, 15 Mar 2024 23:00:39 Z",
+      "updated": "2024-07-05T22:15:57Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395378.json",
+    "CurrentVersion": {
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "GCC",
+        "General Availability",
+        "OneDrive",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-08-15T23:15:05Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395931.json",
+    "CurrentVersion": {
+      "guid": "395931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395931",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Rename general channel",
+      "description": "In our efforts to bridge the gaps between general and other channels, introducing the ability to rename the general channel in your team. General channel in a team can be renamed by the team owner, or member (if they have permissions), to show up in the teams and channels list in alphabetical order.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395931",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Rename general channel",
+      "description": "In our efforts to bridge the gaps between general and other channels, introducing the ability to rename the general channel in your team. General channel in a team can be renamed by the team owner, or member (if they have permissions), to show up in the teams and channels list in alphabetical order.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-08-06T23:45:25Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/411138.json",
+    "CurrentVersion": {
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-09-12T23:15:19Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412077.json",
+    "CurrentVersion": {
+      "guid": "412077",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412077",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Audio zones enable Mesh creators to craft custom audio experiences",
+      "description": "We will not release Audio Zones for Mesh Toolkit at this time. We are sorry for any inconvenience and will continue to share updated roadmap entries as additional Mesh features and functionality become available in Teams. Spatial audio in Mesh provides a realistic recreation of how sound moves in the real world, with the volume of people speaking or media playing getting lower of as you move away from the source of the sound. The introduction of audio zones enables creators to craft custom audio experiences for the intended use of a space with features such as extended audio drop off distances for conversations that happen in a large area, or restricting what audio can enter a given area, to allow smaller groups to have lively conversations without disrupting their neighbors.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412077",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412077",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Audio zones enable Mesh creators to craft custom audio experiences",
+      "description": "Spatial audio in Mesh provides a realistic recreation of how sound moves in the real world, with the volume of people speaking or media playing getting lower of as you move away from the source of the sound.  The introduction of audio zones enables creators to craft custom audio experiences for the intended use of a space with features such as extended audio drop off distances for conversations that happen in a large area, or restricting what audio can enter a given area, to allow smaller groups to have lively conversations without disrupting their neighbors.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-09-03T23:45:05Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414516.json",
+    "CurrentVersion": {
+      "guid": "414516",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414516",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Offline app boot",
+      "description": "This introduces the ability to open or restart the new Outlook for Windows when not connected to the internet. Previously, you needed a connection to the internet to open or restart the new Outlook. Offline access is only supported when the app is already running and then goes offline. Opening and restarting the app while offline will be introduced with this rollout. #newoutlookforwindows",
+      "pubDate": "Tue, 03 Sep 2024 23:45:05 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "414516",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414516",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Offline app boot",
+      "description": "This introduces the ability to open or restart the new Outlook for Windows when not connected to the internet. Previously, you needed a connection to the internet to open or restart the new Outlook. Offline access is only supported when the app is already running and then goes offline. Opening and restarting the app while offline will be introduced with this rollout. #newoutlookforwindows",
+      "pubDate": "Tue, 03 Sep 2024 23:45:05 Z",
+      "updated": "2024-10-04T23:15:50Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416282.json",
+    "CurrentVersion": {
+      "guid": "416282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416282",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app on Teams phone devices",
+      "description": "Queues app on Teams phone devices enhances call management capabilities by allowing agents to handle incoming calls, view call queues, and manage call history directly from their Teams phone devices, improving efficiency and ensuring effortless communication for agents.",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416282",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app on Teams phone devices",
+      "description": "Queues app on Teams phone devices enhances call management capabilities by allowing agents to handle incoming calls, view call queues, and manage call history directly from their Teams phone devices, improving efficiency and ensuring effortless communication for agents.",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-09-12T23:15:19Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416288.json",
+    "CurrentVersion": {
+      "guid": "416288",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416288",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Collaborative call delegation on Teams phone devices",
+      "description": "Teams phone device users will be able to share access to their phone line with a specific group of users, without a structured delegation system. This enables group members to receive calls and initiate calls on behalf of others, enabling a simple and collaborative communication experience.",
+      "pubDate": "Thu, 03 Oct 2024 18:16:00 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416288",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416288",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Collaborative call delegation on Teams phone devices",
+      "description": "Teams phone device users will be able to share access to their phone line with a specific group of users, without a structured delegation system. This enables group members to receive calls and initiate calls on behalf of others, enabling a simple and collaborative communication experience.",
+      "pubDate": "Thu, 03 Oct 2024 18:16:00 Z",
+      "updated": "2024-10-03T18:16:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416292.json",
+    "CurrentVersion": {
+      "guid": "416292",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416292",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for call delegation on Teams phone devices",
+      "description": "Call delegators and their delegates can now view shared call history records for the shared line directly on their Teams phone devices. This enhancement promotes greater transparency and collaboration. All delegates associated with a user will be able to monitor incoming and outgoing calls for the shared line, irrespective of their participation in the call.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416292",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416292",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for call delegation on Teams phone devices",
+      "description": "Call delegators and their delegates can now view shared call history records for the shared line directly on their Teams phone devices. This enhancement promotes greater transparency and collaboration. All delegates associated with a user will be able to monitor incoming and outgoing calls for the shared line, irrespective of their participation in the call.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-09-17T23:30:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/418125.json",
+    "CurrentVersion": {
+      "guid": "418125",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418125",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Email verification for external attendees to join Teams meetings",
+      "description": "Meeting organizers can have greater confidence about external attendees joining Teams meetings, this capability enables sending a one-time passcode to the external attendee’s email address for that individual to use during a verification step when joining a Teams meeting.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/420327.json",
+    "CurrentVersion": {
+      "guid": "420327",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420327",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to give and take control during screensharing on Web",
+      "description": "The new update will allow the users to be able to use the give and take control function during screenshare on web similarly to how the users are used to do on the desktop version of the application.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/420330.json",
+    "CurrentVersion": {
+      "guid": "420330",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420330",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Web grounding for Microsoft 365 Copilot Business Chat in Teams and Outlook",
+      "description": "Ground conversations in the latest information from the web in Business Chat web mode.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/420334.json",
+    "CurrentVersion": {
+      "guid": "420334",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420334",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose between Copilot Business Chat with web or work grounding",
+      "description": "In Outlook for iOS and Android, you will soon be able to choose whether Microsoft 365 Copilot Business Chat uses Microsoft 365 Graph (work) or Web grounding via a Work/Web toggle within the chat interface, just like you can at microsoft365.com/chat. Web grounding will be available for all commercial Microsoft 365 customers, while Graph grounding will require a Copilot for Microsoft 365 license.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/420338.json",
+    "CurrentVersion": {
+      "guid": "420338",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420338",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Recommended comments",
+      "description": "Viva Engage will offer a new way to see contributions from close contacts and leaders within conversation threads. In the home feed and More for You feed, users see two comments that are meaningful to them and the overall conversation. Users can see the rest of the conversation with one click. There are no changes to the comment, reply, or reaction experiences with this new feature.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/420938.json",
+    "CurrentVersion": {
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/81379.json",
+    "CurrentVersion": {
+      "guid": "81379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81379",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Contact sync to Android-based Teams devices from Teams admin center",
+      "description": "IT admins can push a set of contacts from the Teams admin center (TAC) to Teams devices as speed dial contacts.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "81379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81379",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Contact sync to Android-based Teams devices from Teams admin center",
+      "description": "IT admins can push a set of contacts from the Teams admin center (TAC) to Teams devices as speed dial contacts.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-09-23T23:30:03Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/124827/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "124827",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124827",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Targeted Release",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Content Pane for SharePoint Pages and News.",
+      "description": "The content pane is a new place for relevant panes that help authors create their publications. With the introduction of this centralized location, a new toolbox will help authors quickly browse and add content to create rich and engaging pages. The content pane will include additional panes such as configuration tools, design ideas, etc. Within Viva Amplify, the content pane is also used to host the distribution channel selection, writing guidance, and audience selection.",
+      "pubDate": "Tue, 02 May 2023 23:25:11 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/145802/v0013.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "145802",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=145802",
+      "category": [
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Improvements for document library version history limits ",
+      "description": "We are introducing new version controls that help tenant and site admins or document library owners reduce the storage footprint driven by low value file versions. Today, document library owners can set count-based version limits at the individual document library level. With the upcoming changes, tenant and site admins or document library owners will have two version history settings: 1) Automatic mode that intelligently expires new and existing version based on their age and restore probability, and 2) Manual mode that will allow admins to set time-based version expiration and count limits on new and existing versions. These controls enable admins to set an appropriate level of recoverability and auditability for their organization balanced with storage usage considerations. Version history limits and management also apply to OneDrive for Business.",
+      "pubDate": "Thu, 29 Jun 2023 23:29:58 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/161829/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "161829",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=161829",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance: Enhanced Policy Conditions",
+      "description": "<div>Three updates are coming to enhance policy conditions. First, our updated policy conditions enable the detection of messages sent and received both to and from external email addresses, allowing you to identify specific instances of information being shared with external contacts. Secondly, with the new OR condition capability, you can combine multiple conditions within the same policy, creating custom logic to suit your unique compliance requirements. Lastly, to make policy creation and updates a seamless process, we've introduced the ability to test conditions before implementing them. By using sample messages, you can evaluate how your conditions will perform and fine-tune them to align with your compliance goals. </div>",
+      "pubDate": "Tue, 08 Aug 2023 23:14:13 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "April CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186956/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "186956",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186956",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Stream",
+        "Preview",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Video trim feature",
+      "description": "<div><span style=\"font-size:9.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;\">Microsoft Stream (on\nSharePoint) will soon introduce a video trimming feature which will allow users\nwith edit permissions to trim the start, end and any parts in the middle of a\nvideo.<span style=\"\">&nbsp; </span>When you trim a video, Stream\nwon’t change the original video file itself. Instead, it just hides the trimmed\nparts from your viewers.<span style=\"\">&nbsp; </span>When you're\ndone trimming you can toggle to the preview mode to see the trimmed video just\nlike your viewers will see. When a video is trimmed the transcript and chapters\nwill be adjusted automatically to reflect only what is shown in the video.\nPeople with edit permission will be able to see full original content and edit\nor delete those trimmed parts. When available this feature can be accessed by\nopening a video in the Stream web app and taping the edit button.</span> </div>",
+      "pubDate": "Tue, 21 Nov 2023 00:44:10 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/387795/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "387795",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387795",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Stream",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Stream: Delete option in Stream Web App",
+      "description": "Stream is adding a delete option to the Stream Web App. If a user has editing permissions to a video in Stream, they will be able to delete a video directly from the Stream Web App by clicking the delete button on the command bar and confirming the action. The video file will be sent to the Recycle Bin of the OneDrive or SharePoint page the video was hosted on and any access to the video will lead to a page informing the user that the video has been removed.",
+      "pubDate": "Fri, 15 Mar 2024 23:00:39 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395378/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "395378",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395378",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Change to shared folder experience in OneDrive",
+      "description": "We're making a change to the shared folder experience in OneDrive. Currently, when a user opens a shared folder in OneDrive, they are taken to a view of that folder within the sharers OneDrive. In the new experience, opening a shared folder will take the user to the shared folder within the People view of their own OneDrive. This view, organized by people, shows and allows access to all the files and folders that have been shared with the user.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395931/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "395931",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395931",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Rename general channel",
+      "description": "In our efforts to bridge the gaps between general and other channels, introducing the ability to rename the general channel in your team. General channel in a team can be renamed by the team owner, or member (if they have permissions), to show up in the teams and channels list in alphabetical order.",
+      "pubDate": "Tue, 07 May 2024 23:30:56 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/411138/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412077/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "412077",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412077",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Audio zones enable Mesh creators to craft custom audio experiences",
+      "description": "We will not release Audio Zones for Mesh Toolkit at this time. We are sorry for any inconvenience and will continue to share updated roadmap entries as additional Mesh features and functionality become available in Teams. Spatial audio in Mesh provides a realistic recreation of how sound moves in the real world, with the volume of people speaking or media playing getting lower of as you move away from the source of the sound. The introduction of audio zones enables creators to craft custom audio experiences for the intended use of a space with features such as extended audio drop off distances for conversations that happen in a large area, or restricting what audio can enter a given area, to allow smaller groups to have lively conversations without disrupting their neighbors.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414516/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "414516",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414516",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Offline app boot",
+      "description": "This introduces the ability to open or restart the new Outlook for Windows when not connected to the internet. Previously, you needed a connection to the internet to open or restart the new Outlook. Offline access is only supported when the app is already running and then goes offline. Opening and restarting the app while offline will be introduced with this rollout. #newoutlookforwindows",
+      "pubDate": "Tue, 03 Sep 2024 23:45:05 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416282/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "416282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416282",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Queues app on Teams phone devices",
+      "description": "Queues app on Teams phone devices enhances call management capabilities by allowing agents to handle incoming calls, view call queues, and manage call history directly from their Teams phone devices, improving efficiency and ensuring effortless communication for agents.",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416288/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "416288",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416288",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Collaborative call delegation on Teams phone devices",
+      "description": "Teams phone device users will be able to share access to their phone line with a specific group of users, without a structured delegation system. This enables group members to receive calls and initiate calls on behalf of others, enabling a simple and collaborative communication experience.",
+      "pubDate": "Thu, 03 Oct 2024 18:16:00 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416292/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "416292",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416292",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared call history for call delegation on Teams phone devices",
+      "description": "Call delegators and their delegates can now view shared call history records for the shared line directly on their Teams phone devices. This enhancement promotes greater transparency and collaboration. All delegates associated with a user will be able to monitor incoming and outgoing calls for the shared line, irrespective of their participation in the call.",
+      "pubDate": "Tue, 17 Sep 2024 23:30:46 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418125/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "418125",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418125",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Email verification for external attendees to join Teams meetings",
+      "description": "Meeting organizers can have greater confidence about external attendees joining Teams meetings, this capability enables sending a one-time passcode to the external attendee’s email address for that individual to use during a verification step when joining a Teams meeting.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420327/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "420327",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420327",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to give and take control during screensharing on Web",
+      "description": "The new update will allow the users to be able to use the give and take control function during screenshare on web similarly to how the users are used to do on the desktop version of the application.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420330/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "420330",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420330",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Web grounding for Microsoft 365 Copilot Business Chat in Teams and Outlook",
+      "description": "Ground conversations in the latest information from the web in Business Chat web mode.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420334/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "420334",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420334",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose between Copilot Business Chat with web or work grounding",
+      "description": "In Outlook for iOS and Android, you will soon be able to choose whether Microsoft 365 Copilot Business Chat uses Microsoft 365 Graph (work) or Web grounding via a Work/Web toggle within the chat interface, just like you can at microsoft365.com/chat. Web grounding will be available for all commercial Microsoft 365 customers, while Graph grounding will require a Copilot for Microsoft 365 license.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420338/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "420338",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420338",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Recommended comments",
+      "description": "Viva Engage will offer a new way to see contributions from close contacts and leaders within conversation threads. In the home feed and More for You feed, users see two comments that are meaningful to them and the overall conversation. Users can see the rest of the conversation with one click. There are no changes to the comment, reply, or reaction experiences with this new feature.",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420938/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/81379/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-09T02:24:26.1143335+00:00",
+      "guid": "81379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=81379",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Contact sync to Android-based Teams devices from Teams admin center",
+      "description": "IT admins can push a set of contacts from the Teams admin center (TAC) to Teams devices as speed dial contacts.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
