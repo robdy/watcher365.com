@@ -1,0 +1,790 @@
+[
+  {
+    "Path": "data/181623.json",
+    "CurrentVersion": {
+      "guid": "181623",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181623",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints-Support for Two New Predicates on Endpoint DLP",
+      "description": "With this capability, admins can extend the two below mentioned predicates to Microsoft Purview DLP for Endpoint \n- Document Property is\n- Document name contains words or phrases",
+      "pubDate": "Wed, 25 Oct 2023 23:30:49 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "181623",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181623",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints-Support for Two New Predicates on Endpoint DLP",
+      "description": "With this capability, admins can extend the two below mentioned predicates to Microsoft Purview DLP for Endpoint \n- Document Property is\n- Document name contains words or phrases",
+      "pubDate": "Wed, 25 Oct 2023 23:30:49 Z",
+      "updated": "2024-05-06T23:45:36Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/375631.json",
+    "CurrentVersion": {
+      "guid": "375631",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375631",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: UX improvements for Multi-Tenant Organization (MTO) users",
+      "description": "This release features user experience improvements when Microsoft Teams users interact with users in another tenant that belongs to their organization (e.g., for conglomerates, as a result of mergers and acquisitions). Key changes include removing the possibility of split 1:1 chat threads, richer profile information, removal of the \"External\" label, and introducing support for an optional admin configurable label.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "375631",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375631",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: UX improvements for Multi-Tenant Organization (MTO) users",
+      "description": "This release features user experience improvements when Microsoft Teams users interact with users in another tenant that belongs to their organization (e.g., for conglomerates, as a result of mergers and acquisitions). Key changes include removing the possibility of split 1:1 chat threads, richer profile information, removal of the \"External\" label, and introducing support for an optional admin configurable label.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-06-12T23:15:10Z",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392826.json",
+    "CurrentVersion": {
+      "guid": "392826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392826",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to block Attendee Emails from Teams Webinars",
+      "description": "This feature allows the organizers of webinars to block the sending of attendee emails from Microsoft Teams.",
+      "pubDate": "Tue, 09 Apr 2024 21:30:00 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392826",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to block Attendee Emails from Teams Webinars",
+      "description": "This feature allows the organizers of webinars to block the sending of attendee emails from Microsoft Teams.",
+      "pubDate": "Tue, 09 Apr 2024 21:30:00 Z",
+      "updated": "2024-08-29T23:30:30Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393227.json",
+    "CurrentVersion": {
+      "guid": "393227",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393227",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to block Attendee Emails from Teams Town Halls",
+      "description": "This feature allows the organizers of town halls to block the sending of attendee emails from Microsoft Teams.",
+      "pubDate": "Fri, 12 Apr 2024 22:15:37 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393227",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393227",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to block Attendee Emails from Teams Town Halls",
+      "description": "This feature allows the organizers of town halls to block the sending of attendee emails from Microsoft Teams.",
+      "pubDate": "Fri, 12 Apr 2024 22:15:37 Z",
+      "updated": "2024-08-29T23:30:30Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396286.json",
+    "CurrentVersion": {
+      "guid": "396286",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396286",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Edit Learning Paths in Viva Learning",
+      "description": "Admin will be able to edit learning paths metadata and content. Latest updates will be shown to learner after the LP is edited.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396286",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396286",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Edit Learning Paths in Viva Learning",
+      "description": "Admin will be able to edit learning paths metadata and content. Latest updates will be shown to learner after the LP is edited.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-05-14T23:30:08Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/407897.json",
+    "CurrentVersion": {
+      "guid": "407897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407897",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Separation of the Copilot for Microsoft 365 retention policy location from Microsoft Teams chats",
+      "description": "Today, admins must manage retention and deletion for Copilot for Microsoft 365 interactions using a retention policy location that also includes Microsoft Teams chats. This feature will provide a new location option to manage only Copilot interactions, separate from Microsoft Teams chats.",
+      "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "407897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407897",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Separation of the Copilot for Microsoft 365 retention policy location from Microsoft Teams chats",
+      "description": "Today, admins must manage retention and deletion for Copilot for Microsoft 365 interactions using a retention policy location that also includes Microsoft Teams chats. This feature will provide a new location option to manage only Copilot interactions, separate from Microsoft Teams chats.",
+      "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+      "updated": "2024-08-01T23:15:01Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "September CY2024"
+    }
+  },
+  {
+    "Path": "data/412942.json",
+    "CurrentVersion": {
+      "guid": "412942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412942",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - User exclusion",
+      "description": "This introduces the ability to exclude users and groups from IRM policies. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 05 Sep 2024 23:30:49 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412942",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - User exclusion",
+      "description": "This introduces the ability to exclude users and groups from IRM policies. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 05 Sep 2024 23:30:49 Z",
+      "updated": "2024-09-05T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417476.json",
+    "CurrentVersion": {
+      "guid": "417476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417476",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot on OneNote canvas",
+      "description": "Use Copilot right in your workflow by invoking Copilot to generate a summary, a to-do list, or help you rewrite the content on the page or based on your selection.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/418117.json",
+    "CurrentVersion": {
+      "guid": "418117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418117",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Event Chat for town halls",
+      "description": "Previously in a town hall, only presenters and organizers could chat with each other. With this new update, attendees, presenters and organizers can now chat together during a town hall using the new Event Chat feature. Presenters and organizers can still chat privately during the town hall as well.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "418117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418117",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Targeted Release"
+      ],
+      "title": "Microsoft Teams: Event Chat for town halls",
+      "description": "Previously in a town hall, only presenters and organizers could chat with each other. With this new update, attendees, presenters and organizers can now chat together during a town hall using the new Event Chat feature. Presenters and organizers can still chat privately during the town hall as well.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420329.json",
+    "CurrentVersion": {
+      "guid": "420329",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420329",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Name pronunciation",
+      "description": "You can now record and share the correct pronunciation of your name, promoting inclusivity and helping colleagues avoid mispronunciations. With a click, you can play and listen to your colleagues' name pronunciations.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "420329",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420329",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Name pronunciation",
+      "description": "You can now record and share the correct pronunciation of your name, promoting inclusivity and helping colleagues avoid mispronunciations. With a click, you can play and listen to your colleagues' name pronunciations.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-10-10T23:15:45Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/421185.json",
+    "CurrentVersion": {
+      "guid": "421185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421185",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Best practice configuration monitoring dashboard in Teams admin center",
+      "description": "Microsoft recommends best practices to ensure a smooth collaborative experience on Teams. Best Practices dashboard in Teams admin center allows administrators to monitor and promptly address any non-conformance across their organization.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/421192.json",
+    "CurrentVersion": {
+      "guid": "421192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Enable admins to inherit document library label from container label of a group/site/team",
+      "description": "This enables admins to inherit document library label from the container label of a group/site/team. New and edited documents within the default document library will be labeled automatically. If the SharePoint admin had already configured a default document library labeling, this setting will not override it.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/421361.json",
+    "CurrentVersion": {
+      "guid": "421361",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421361",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Delivery and read receipts in Outlook mobile",
+      "description": "Now you will be able to request both delivery and read receipts while composing an email in Outlook for iOS and Android. You will also easily be able to respond to requests for read receipts on emails you receive and set preferences for future read receipts.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/181623/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "181623",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=181623",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints-Support for Two New Predicates on Endpoint DLP",
+      "description": "With this capability, admins can extend the two below mentioned predicates to Microsoft Purview DLP for Endpoint \n- Document Property is\n- Document name contains words or phrases",
+      "pubDate": "Wed, 25 Oct 2023 23:30:49 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "April CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375631/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "375631",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375631",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: UX improvements for Multi-Tenant Organization (MTO) users",
+      "description": "This release features user experience improvements when Microsoft Teams users interact with users in another tenant that belongs to their organization (e.g., for conglomerates, as a result of mergers and acquisitions). Key changes include removing the possibility of split 1:1 chat threads, richer profile information, removal of the \"External\" label, and introducing support for an optional admin configurable label.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392826/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "392826",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392826",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to block Attendee Emails from Teams Webinars",
+      "description": "This feature allows the organizers of webinars to block the sending of attendee emails from Microsoft Teams.",
+      "pubDate": "Tue, 09 Apr 2024 21:30:00 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393227/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "393227",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393227",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability to block Attendee Emails from Teams Town Halls",
+      "description": "This feature allows the organizers of town halls to block the sending of attendee emails from Microsoft Teams.",
+      "pubDate": "Fri, 12 Apr 2024 22:15:37 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396286/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "396286",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396286",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Edit Learning Paths in Viva Learning",
+      "description": "Admin will be able to edit learning paths metadata and content. Latest updates will be shown to learner after the LP is edited.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407897/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "407897",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407897",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Separation of the Copilot for Microsoft 365 retention policy location from Microsoft Teams chats",
+      "description": "Today, admins must manage retention and deletion for Copilot for Microsoft 365 interactions using a retention policy location that also includes Microsoft Teams chats. This feature will provide a new location option to manage only Copilot interactions, separate from Microsoft Teams chats.",
+      "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412942/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "412942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412942",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - User exclusion",
+      "description": "This introduces the ability to exclude users and groups from IRM policies. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 05 Sep 2024 23:30:49 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417476/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "417476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417476",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot on OneNote canvas",
+      "description": "Use Copilot right in your workflow by invoking Copilot to generate a summary, a to-do list, or help you rewrite the content on the page or based on your selection.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418117/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "418117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418117",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Event Chat for town halls",
+      "description": "Previously in a town hall, only presenters and organizers could chat with each other. With this new update, attendees, presenters and organizers can now chat together during a town hall using the new Event Chat feature. Presenters and organizers can still chat privately during the town hall as well.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420329/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "420329",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420329",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Name pronunciation",
+      "description": "You can now record and share the correct pronunciation of your name, promoting inclusivity and helping colleagues avoid mispronunciations. With a click, you can play and listen to your colleagues' name pronunciations.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421185/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "421185",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421185",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Best practice configuration monitoring dashboard in Teams admin center",
+      "description": "Microsoft recommends best practices to ensure a smooth collaborative experience on Teams. Best Practices dashboard in Teams admin center allows administrators to monitor and promptly address any non-conformance across their organization.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421192/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "421192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Enable admins to inherit document library label from container label of a group/site/team",
+      "description": "This enables admins to inherit document library label from the container label of a group/site/team. New and edited documents within the default document library will be labeled automatically. If the SharePoint admin had already configured a default document library labeling, this setting will not override it.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421361/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-12T02:22:21.2329288+00:00",
+      "guid": "421361",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421361",
+      "category": [
+        "Android",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Delivery and read receipts in Outlook mobile",
+      "description": "Now you will be able to request both delivery and read receipts while composing an email in Outlook for iOS and Android. You will also easily be able to respond to requests for read receipts on emails you receive and set preferences for future read receipts.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
