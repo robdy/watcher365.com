@@ -1,0 +1,378 @@
+[
+  {
+    "Path": "data/387790.json",
+    "CurrentVersion": {
+      "guid": "387790",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387790",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Webinars in GCC-High",
+      "description": "Teams Webinars is available for GCC-High clouds. This includes similar functionality that is already available for worldwide multi-tenant, such as interactivity for up to 1,000 attendees, registration support,  co-organizer support, breakout rooms, attendee reporting, and Dynamics 365 marketing integration.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "387790",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387790",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out"
+      ],
+      "title": "Microsoft Teams: Webinars in GCC-High",
+      "description": "Teams Webinars is available for GCC-High clouds. This includes similar functionality that is already available for worldwide multi-tenant, such as interactivity for up to 1,000 attendees, registration support,  co-organizer support, breakout rooms, attendee reporting, and Dynamics 365 marketing integration.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-09-26T23:15:19Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/400706.json",
+    "CurrentVersion": {
+      "guid": "400706",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400706",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Dynamic video tile resizing based on occupancy count from Teams Rooms on Windows",
+      "description": "The room video tile dynamically adjusts size based on the number of people in the room. When one person is in the room, the tile matches the remote participant's size. With two or more people, the room tile expands to be four times larger. Admins can enable or disable the people count feature.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "400706",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400706",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Dynamic video tile resizing based on occupancy count from Teams Rooms on Windows",
+      "description": "The room video tile dynamically adjusts size based on the number of people in the room. When one person is in the room, the tile matches the remote participant's size. With two or more people, the room tile expands to be four times larger. Admins can enable or disable the people count feature.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 Z",
+      "updated": "2024-09-27T22:45:32Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412359.json",
+    "CurrentVersion": {
+      "guid": "412359",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412359",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voice isolation on MacOS",
+      "description": "With voice isolation, you can enjoy clear and uninterrupted calls or meetings, no matter where you are. Voice isolation is an AI based advanced noise suppression feature that eliminates unwanted background noise including other human voices. The technology recognizes your voice profile and ensures only your voice is transmitted. Voice isolation can be enabled for calls and meetings and will now be available on MacOS.",
+      "pubDate": "Tue, 20 Aug 2024 23:30:55 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412359",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412359",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voice isolation on MacOS",
+      "description": "With voice isolation, you can enjoy clear and uninterrupted calls or meetings, no matter where you are. Voice isolation is an AI based advanced noise suppression feature that eliminates unwanted background noise including other human voices. The technology recognizes your voice profile and ensures only your voice is transmitted. Voice isolation can be enabled for calls and meetings and will now be available on MacOS.",
+      "pubDate": "Tue, 20 Aug 2024 23:30:55 Z",
+      "updated": "2024-10-01T23:30:20Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420938.json",
+    "CurrentVersion": {
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-08T23:15:42Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/422808.json",
+    "CurrentVersion": {
+      "guid": "422808",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422808",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+      "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422808",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422808",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+      "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-10-17T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422816.json",
+    "CurrentVersion": {
+      "guid": "422816",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422816",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sync folder order",
+      "description": "The order of folders in Outlook mobile will now sync to match the folder order on other Outlook apps.",
+      "pubDate": "Fri, 18 Oct 2024 22:15:52 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/387790/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-19T02:23:36.6070725+00:00",
+      "guid": "387790",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=387790",
+      "category": [
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Webinars in GCC-High",
+      "description": "Teams Webinars is available for GCC-High clouds. This includes similar functionality that is already available for worldwide multi-tenant, such as interactivity for up to 1,000 attendees, registration support,  co-organizer support, breakout rooms, attendee reporting, and Dynamics 365 marketing integration.",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400706/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-19T02:23:36.6070725+00:00",
+      "guid": "400706",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400706",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Dynamic video tile resizing based on occupancy count from Teams Rooms on Windows",
+      "description": "The room video tile dynamically adjusts size based on the number of people in the room. When one person is in the room, the tile matches the remote participant's size. With two or more people, the room tile expands to be four times larger. Admins can enable or disable the people count feature.",
+      "pubDate": "Tue, 18 Jun 2024 23:15:54 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412359/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-19T02:23:36.6070725+00:00",
+      "guid": "412359",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412359",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Voice isolation on MacOS",
+      "description": "With voice isolation, you can enjoy clear and uninterrupted calls or meetings, no matter where you are. Voice isolation is an AI based advanced noise suppression feature that eliminates unwanted background noise including other human voices. The technology recognizes your voice profile and ensures only your voice is transmitted. Voice isolation can be enabled for calls and meetings and will now be available on MacOS.",
+      "pubDate": "Tue, 20 Aug 2024 23:30:55 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420938/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-19T02:23:36.6070725+00:00",
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422808/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-19T02:23:36.6070725+00:00",
+      "guid": "422808",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422808",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+      "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422816/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-10-19T02:23:36.6070725+00:00",
+      "guid": "422816",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422816",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sync folder order",
+      "description": "The order of folders in Outlook mobile will now sync to match the folder order on other Outlook apps.",
+      "pubDate": "Fri, 18 Oct 2024 22:15:52 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
