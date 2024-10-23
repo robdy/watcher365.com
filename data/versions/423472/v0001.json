@@ -1,0 +1,20 @@
+{
+  "timestamp": "2024-10-23T02:24:54.7049572+00:00",
+  "guid": "423472",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423472",
+  "category": [
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Targeted Release",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: VDI Status Indicator",
+  "description": "This feature provides a visual optimization status indicator in Teams for VDI users. It will provide the user with an easy to understand status message (like ‘Optimized', or 'Not Optimized'), some contextual information about the optimization mode (optimized with the WebRTC-based solution or the new SlimCore-based solution), and in the not optimized case it will provide a brief description of the problem and an error code, for better supportability. It will also provide an option to repair Teams optimization mode if the user is not optimized (through a restart).",
+  "pubDate": "Tue, 22 Oct 2024 23:00:59 Z",
+  "updated": "2024-10-22T23:00:59Z",
+  "publicDisclosureAvailabilityDate": "January CY2025",
+  "publicPreviewDate": null
+}
