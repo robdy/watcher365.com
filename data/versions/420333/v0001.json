@@ -1,0 +1,19 @@
+{
+  "timestamp": "2024-10-29T02:25:38.9466952+00:00",
+  "guid": "420333",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420333",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence (Microsoft managed storage)",
+  "description": "With this capability, Admins can choose to store a copy of the file that resulted in a DLP policy match. The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity. To configure Microsoft managed storage, similar to customer managed storage, the user can go to endpoint DLP settings and select Microsoft managed storage. As compared to customer managed storage, the admin need not configure any additional settings like adding a blob, assigning permissions, or selecting storage in policy workflow.",
+  "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+  "updated": "2024-10-29T00:00:51Z",
+  "publicDisclosureAvailabilityDate": "January CY2025",
+  "publicPreviewDate": "November CY2024"
+}
