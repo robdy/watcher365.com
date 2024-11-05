@@ -1,0 +1,19 @@
+{
+  "timestamp": "2024-11-05T02:23:14.6170413+00:00",
+  "guid": "422730",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422730",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - IRM alerts in XDR",
+  "description": "With this feature, IRM alerts and other supporting data will be available in the following Microsoft Defender XDR experiences: 1. IRM alerts will be surfaced in unified alert and Incident queue in Microsoft Defender XDR. 2. IRM alerts, Indicators, and enriched events will be available in Microsoft Defender XDR advanced hunting. Analysts can leverage KQL queries to identify potentially hidden risky patterns in data security related user activity. 3. IRM alert, Indicators, and enriched events will be exposed through Graph API. This feature can be enabled through “Share data with Microsoft Defender XDR” within Microsoft Insider Risk Management settings. To ensure privacy of the data, all IRM data in Microsoft Defender XDR can only be accessed by users with Insider risk analyst or Insider risk investigator permissions in Purview. Existing analysts accessing IRM data in purview will continue to access IRM data in Microsoft Defender XDR. IRM data in Microsoft Defender XDR does not honor anonymization. This is to enable effective correlation of IRM alerts with alerts from other solutions in Microsoft Defender XDR platform (such as Defender for Endpoint, Defender for Cloud apps, etc.). Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Tue, 05 Nov 2024 00:30:50 Z",
+  "updated": "2024-11-05T00:30:50Z",
+  "publicDisclosureAvailabilityDate": "April CY2025",
+  "publicPreviewDate": "December CY2024"
+}
