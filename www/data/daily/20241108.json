@@ -1,0 +1,1042 @@
+[
+  {
+    "Path": "data/163976.json",
+    "CurrentVersion": {
+      "guid": "163976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163976",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for bulk custom access",
+      "description": "This feature will allow a Glint Admin to apply custom access in bulk through Roles",
+      "pubDate": "Tue, 29 Aug 2023 23:20:56 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "163976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163976",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for bulk custom access",
+      "description": "This feature will allow a Glint Admin to apply custom access in bulk through Roles",
+      "pubDate": "Tue, 29 Aug 2023 23:20:56 Z",
+      "updated": "2024-08-16T22:30:02Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/165301.json",
+    "CurrentVersion": {
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-08-19T23:45:33Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392838.json",
+    "CurrentVersion": {
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    }
+  },
+  {
+    "Path": "data/396727.json",
+    "CurrentVersion": {
+      "guid": "396727",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396727",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar split view when surface is set to month view",
+      "description": "When viewing multiple calendars in month view, users will be able to select \"split view\" to see those calendars displayed side by side. This feature will be available in new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396727",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396727",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar split view when surface is set to month view",
+      "description": "When viewing multiple calendars in month view, users will be able to select \"split view\" to see those calendars displayed side by side. This feature will be available in new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-06-11T23:30:01Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397089.json",
+    "CurrentVersion": {
+      "guid": "397089",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397089",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced app discovery",
+      "description": "With enhanced app discovery users can easily discover and use apps they've previously used in group chats, channels, and meetings, allowing them to consent to use the app everywhere in Teams with one click.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397089",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397089",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced app discovery",
+      "description": "With enhanced app discovery users can easily discover and use apps they've previously used in group chats, channels, and meetings, allowing them to consent to use the app everywhere in Teams with one click.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-10-29T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397755.json",
+    "CurrentVersion": {
+      "guid": "397755",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397755",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Retention Labels are available for Loop pages and components",
+      "description": "Organizations that rely on Microsoft's records management capabilities in Purview can now include Loop content in their workflows with Retention Labels on Loop pages and components. There's an in-app experience when a label is applied or a record is locked.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397755",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397755",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Retention Labels are available for Loop pages and components",
+      "description": "Organizations that rely on Microsoft's records management capabilities in Purview can now include Loop content in their workflows with Retention Labels on Loop pages and components. There's an in-app experience when a label is applied or a record is locked.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-10-09T23:15:44Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397769.json",
+    "CurrentVersion": {
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399467.json",
+    "CurrentVersion": {
+      "guid": "399467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: First phase of PST support in new Outlook for Windows",
+      "description": "The first phase PST (a.k.a. Outlook Data File) support in the new Outlook for Windows provides read-only access to Mail items within *.pst files. Users will be able to open *.pst files, read their emails within *.pst files, and search *.pst files for emails. All Calendar, Contacts, and Tasks data saved in the *.pst files are still there, but they cannot be accessed in this preview. Next releases will expand PST support capabilities.\n",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Initial version of PST support in new Outlook for Windows",
+      "description": "The initial version of PST support in new Outlook for Windows will enable users to open \"*.pst\" files (a.k.a. Outlook Data Files), read all e-mail messages within the \"*.pst\" file, and search e-mail messages within the \".pst\" file. This initial support is limited to Mail items and is read-only. All Calendar, Contacts, and Tasks data saved in the \"*.pst\" files are still there, but they cannot be accessed in this initial version. #newoutlookforwindows",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-06-06T23:30:13Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402517.json",
+    "CurrentVersion": {
+      "guid": "402517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402517",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Multiple camera view for Teams Room on Windows",
+      "description": "Teams Room on Windows will support up to four single stream cameras that will be shown to remote meeting attendees. With multiple camera view, remote meeting attendees will have the ability to follow all the action in the room and manually toggle between views from the room that they want to see.",
+      "pubDate": "Wed, 26 Jun 2024 22:00:28 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Multiple camera view for Teams Room on Windows",
+      "description": "Teams Room on Windows will support up to four single stream cameras that will be shown to remote meeting attendees. With multiple camera view, remote meeting attendees will have the ability to follow all the action in the room and manually toggle between views from the room that they want to see.",
+      "pubDate": "Wed, 26 Jun 2024 22:00:28 Z",
+      "updated": "2024-10-29T23:15:28Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/407636.json",
+    "CurrentVersion": {
+      "guid": "407636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407636",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Viva: Viva Pulse - Pulse administrators can export Pulse data",
+      "description": "Viva Pulse administrators can now search for and export a user's Pulse report, user level, and tenant-level data to a .xlsx file.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "407636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407636",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Viva: Viva Pulse - Pulse administrators can export Pulse data",
+      "description": "Viva Pulse administrators can now search for and export a user's Pulse report, user level, and tenant-level data to a .xlsx file.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-08-07T19:30:38Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410988.json",
+    "CurrentVersion": {
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "In development",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-09-13T22:15:36Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412078.json",
+    "CurrentVersion": {
+      "guid": "412078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412078",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Host and attendee interaction visibility for multi-room Mesh events",
+      "description": "Mesh event attendees can now see raised hands and reactions from attendees in other rooms during large, multi-room Mesh events. This creates a greater sense of audience feedback as a whole across all rooms in a Mesh event and increases total audience engagement.  Additionally, event hosts will now be able to move between all rooms in a multi-room Mesh event.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412078",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Host and attendee interaction visibility for multi-room Mesh events",
+      "description": "Mesh event attendees can now see raised hands and reactions from attendees in other rooms during large, multi-room Mesh events. This creates a greater sense of audience feedback as a whole across all rooms in a Mesh event and increases total audience engagement.  Additionally, event hosts will now be able to move between all rooms in a multi-room Mesh event.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/413114.json",
+    "CurrentVersion": {
+      "guid": "413114",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413114",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: People Hub improvements in new Outlook for Windows",
+      "description": "In new Outlook for Windows, the People Hub offers a streamlined contacts interface with a single view of each person, automatically linking duplicates and enriching them with organizational profiles. #newoutlookforwindows",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "413114",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413114",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: People module improvements on new Outlook for Windows",
+      "description": "In the new Outlook for Windows, the people module offers a streamlined contacts interface with a single view of each person, automatically linking duplicates and enriching them with organizational profiles.  #newoutlookforwindows",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/421616.json",
+    "CurrentVersion": {
+      "guid": "421616",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421616",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop - Multi-geo support for shared Loop workspaces",
+      "description": "This ensures data storage for shared Loop workspaces is in the correct geo. M365 group-owned workspaces are created in the group's geo, while non-M365 group-owned workspaces are created in the creator's preferred data location.",
+      "pubDate": "Wed, 16 Oct 2024 23:15:13 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "421616",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421616",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop - Multi-geo support for shared Loop workspaces",
+      "description": "This ensures data storage for shared Loop workspaces is in the correct geo. M365 group-owned workspaces are created in the group's geo, while non-M365 group-owned workspaces are created in the creator's preferred data location.",
+      "pubDate": "Wed, 16 Oct 2024 23:15:13 Z",
+      "updated": "2024-10-16T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422814.json",
+    "CurrentVersion": {
+      "guid": "422814",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422814",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Archived Teams' schedules no longer visible",
+      "description": "We've improved the schedule view by hiding archived teams' schedules. This reduces clutter, allowing you to focus on active teams and their schedules.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422814",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422814",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Archived Teams' schedules no longer visible",
+      "description": "We've improved the schedule view by hiding archived teams' schedules. This reduces clutter, allowing you to focus on active teams and their schedules.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-10-22T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/423485.json",
+    "CurrentVersion": {
+      "guid": "423485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights - Data export for Viva Glint and Viva Insights data",
+      "description": "This feature will allow Viva Insights Analyst to download a CSV file containing Viva Glint survey results joined with Viva Insights organizational data.",
+      "pubDate": "Fri, 08 Nov 2024 00:30:21 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/466737.json",
+    "CurrentVersion": {
+      "guid": "466737",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466737",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Math Progress",
+      "description": "Accelerate student math skills with Microsoft Teams: Math Progress.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "466737",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466737",
+      "category": [
+        "Android",
+        "Desktop",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Math Progress",
+      "description": "Accelerate student math skills with Microsoft Teams: Math Progress.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2024-11-06T00:30:44Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/163976/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "163976",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=163976",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Self service for bulk custom access",
+      "description": "This feature will allow a Glint Admin to apply custom access in bulk through Roles",
+      "pubDate": "Tue, 29 Aug 2023 23:20:56 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/165301/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "165301",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165301",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence | customer managed storage",
+      "description": "<div><span>In the alerts triage &amp; incident management experience, the admin can access a copy of the file that was restricted by DLP. The original file is uploaded to a customer managed storage (Azure blob). The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity.</span><span></span> </div>",
+      "pubDate": "Mon, 28 Aug 2023 23:40:41 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392838/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396727/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "396727",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396727",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar split view when surface is set to month view",
+      "description": "When viewing multiple calendars in month view, users will be able to select \"split view\" to see those calendars displayed side by side. This feature will be available in new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 16 May 2024 23:15:55 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397089/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "397089",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397089",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced app discovery",
+      "description": "With enhanced app discovery users can easily discover and use apps they've previously used in group chats, channels, and meetings, allowing them to consent to use the app everywhere in Teams with one click.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397755/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "397755",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397755",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Retention Labels are available for Loop pages and components",
+      "description": "Organizations that rely on Microsoft's records management capabilities in Purview can now include Loop content in their workflows with Retention Labels on Loop pages and components. There's an in-app experience when a label is applied or a record is locked.",
+      "pubDate": "Tue, 11 Jun 2024 23:30:01 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397769/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "397769",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397769",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Scheduling Assistant Updates",
+      "description": "We are updating the scheduling assistant view to help users have better readability. Some of these changes are in alignment to customer the feedback. These changes will also improve the grid lines, availability view, adding combined availability bar and much more. These updates will be available in the new Outlook for Windows and web. #newoutlookforwindows",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399467/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "399467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: First phase of PST support in new Outlook for Windows",
+      "description": "The first phase PST (a.k.a. Outlook Data File) support in the new Outlook for Windows provides read-only access to Mail items within *.pst files. Users will be able to open *.pst files, read their emails within *.pst files, and search *.pst files for emails. All Calendar, Contacts, and Tasks data saved in the *.pst files are still there, but they cannot be accessed in this preview. Next releases will expand PST support capabilities.\n",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402517/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "402517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402517",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Multiple camera view for Teams Room on Windows",
+      "description": "Teams Room on Windows will support up to four single stream cameras that will be shown to remote meeting attendees. With multiple camera view, remote meeting attendees will have the ability to follow all the action in the room and manually toggle between views from the room that they want to see.",
+      "pubDate": "Wed, 26 Jun 2024 22:00:28 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407636/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "407636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407636",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Viva: Viva Pulse - Pulse administrators can export Pulse data",
+      "description": "Viva Pulse administrators can now search for and export a user's Pulse report, user level, and tenant-level data to a .xlsx file.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410988/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "410988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410988",
+      "category": [
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Forms: New data sync solution replaces old data sync solution for syncing forms responses to Excel",
+      "description": "Forms is introducing a new data sync solution with higher reliability to sync forms responses data to Excel. The older version of live data sync will be replaced by the newer solution.",
+      "pubDate": "Wed, 07 Aug 2024 23:15:02 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412078/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "412078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412078",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Host and attendee interaction visibility for multi-room Mesh events",
+      "description": "Mesh event attendees can now see raised hands and reactions from attendees in other rooms during large, multi-room Mesh events. This creates a greater sense of audience feedback as a whole across all rooms in a Mesh event and increases total audience engagement.  Additionally, event hosts will now be able to move between all rooms in a multi-room Mesh event.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/413114/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "413114",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=413114",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: People Hub improvements in new Outlook for Windows",
+      "description": "In new Outlook for Windows, the People Hub offers a streamlined contacts interface with a single view of each person, automatically linking duplicates and enriching them with organizational profiles. #newoutlookforwindows",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421616/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "421616",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421616",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop - Multi-geo support for shared Loop workspaces",
+      "description": "This ensures data storage for shared Loop workspaces is in the correct geo. M365 group-owned workspaces are created in the group's geo, while non-M365 group-owned workspaces are created in the creator's preferred data location.",
+      "pubDate": "Wed, 16 Oct 2024 23:15:13 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422814/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "422814",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422814",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Archived Teams' schedules no longer visible",
+      "description": "We've improved the schedule view by hiding archived teams' schedules. This reduces clutter, allowing you to focus on active teams and their schedules.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423485/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "423485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights - Data export for Viva Glint and Viva Insights data",
+      "description": "This feature will allow Viva Insights Analyst to download a CSV file containing Viva Glint survey results joined with Viva Insights organizational data.",
+      "pubDate": "Fri, 08 Nov 2024 00:30:21 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/466737/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-08T02:23:28.5232948+00:00",
+      "guid": "466737",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466737",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Math Progress",
+      "description": "Accelerate student math skills with Microsoft Teams: Math Progress.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
