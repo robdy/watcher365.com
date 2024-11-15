@@ -1,0 +1,949 @@
+[
+  {
+    "Path": "data/189809.json",
+    "CurrentVersion": {
+      "guid": "189809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189809",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "<div><span style=\"\">With the new sync window, you can choose how many days' worth of emails and attachments you want to\ndownload to your device so you can always access them even while offline.</span> </div>",
+      "pubDate": "Thu, 30 Nov 2023 00:07:16 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "189809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189809",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "<div><span style=\"\">With the new sync window, you can choose how many days' worth of emails and attachments you want to\ndownload to your device so you can always access them even while offline.</span> </div>",
+      "pubDate": "Thu, 30 Nov 2023 00:07:16 Z",
+      "updated": "2024-06-06T23:30:13Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/393333.json",
+    "CurrentVersion": {
+      "guid": "393333",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393333",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "OneDrive"
+      ],
+      "title": "OneDrive: Sync admin reports - GCC",
+      "description": "We are adding support for the OneDrive Sync admin reports for the GCC environment.",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "393333",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393333",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "OneDrive"
+      ],
+      "title": "OneDrive: Sync admin reports - GCC",
+      "description": "We are adding support for the OneDrive Sync admin reports for the GCC environment.",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 Z",
+      "updated": "2024-08-09T22:00:51Z",
+      "publicDisclosureAvailabilityDate": "August CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/395215.json",
+    "CurrentVersion": {
+      "guid": "395215",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395215",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Blanket custom retention policies which apply to all Audit recordTypes",
+      "description": "Microsoft Purview is enhancing the Audit custom retention policy experience. With this change, customers can now create blanket custom retention policies which will apply to all Audit recordTypes. This capability will become available in addition to the existing support of manually selecting specific recordTypes in the custom policy.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "395215",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395215",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Blanket custom retention policies which apply to all Audit recordTypes",
+      "description": "Microsoft Purview is enhancing the Audit custom retention policy experience. With this change, customers can now create blanket custom retention policies which will apply to all Audit recordTypes. This capability will become available in addition to the existing support of manually selecting specific recordTypes in the custom policy.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-10-09T23:15:44Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/406947.json",
+    "CurrentVersion": {
+      "guid": "406947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406947",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar grid keyboard navigation via arrow keys in new Outlook for Windows and web",
+      "description": "When focused on the calendar grid, you will be able to navigate the time slots on the calendar via left/right/up/down arrow keys in day, week, and work week views. #newoutlookforwindows\n\nWhile rolling out this feature, we detected an issue specifically affecting Outlook on the Web in the Safari browser. Because of this, we have opted to roll back the existing progression to temporarily remove support for Safari. We have now restarted the rollout and support for Safari is planned to be added by mid-2025.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "406947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406947",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar grid keyboard navigation via arrow keys in new Outlook for Windows and web",
+      "description": "When focused on the calendar grid, you will be able to navigate the time slots on the calendar via left/right/up/down arrow keys in day, week, and work week views. #newoutlookforwindows",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408533.json",
+    "CurrentVersion": {
+      "guid": "408533",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408533",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance- Customize communication compliance policies with language-specific trainable classifier conditions",
+      "description": "Tailor your policy conditions to run Trainable Classifiers for specific languages. By restricting the languages for classifiers, you can reduce false positives and bring precision to your policy conditions. Update your existing policies with ease for a more language-specific compliance approach.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "408533",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408533",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance- Customize communication compliance policies with language-specific trainable classifier conditions",
+      "description": "Tailor your policy conditions to run Trainable Classifiers for specific languages. By restricting the languages for classifiers, you can reduce false positives and bring precision to your policy conditions. Update your existing policies with ease for a more language-specific compliance approach.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-10-29T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    }
+  },
+  {
+    "Path": "data/410201.json",
+    "CurrentVersion": {
+      "guid": "410201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410201",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights- Copilot for Sales Metrics & PBI Report",
+      "description": "Providing Copilot for Sales metrics for Viva Insights analysts in Advanced insights. Copilot for Sales adoption PBI report to provide a starter template to explore Copilot for Sales adoption across the organization.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410201",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights- Copilot for Sales Metrics & PBI Report",
+      "description": "Providing Copilot for Sales metrics for Viva Insights analysts in Advanced insights. Copilot for Sales adoption PBI report to provide a starter template to explore Copilot for Sales adoption across the organization.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-09-16T23:30:04Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412078.json",
+    "CurrentVersion": {
+      "guid": "412078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412078",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Host and attendee interaction visibility for multi-room Mesh events",
+      "description": "Mesh event attendees can now see raised hands and reactions from attendees in other rooms during large, multi-room Mesh events. This creates a greater sense of audience feedback as a whole across all rooms in a Mesh event and increases total audience engagement.  Additionally, event hosts will now be able to move between all rooms in a multi-room Mesh event.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412078",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Host and attendee interaction visibility for multi-room Mesh events",
+      "description": "Mesh event attendees can now see raised hands and reactions from attendees in other rooms during large, multi-room Mesh events. This creates a greater sense of audience feedback as a whole across all rooms in a Mesh event and increases total audience engagement.  Additionally, event hosts will now be able to move between all rooms in a multi-room Mesh event.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-11-08T00:30:21Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/415170.json",
+    "CurrentVersion": {
+      "guid": "415170",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415170",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enrich triage in Communication Compliance with Insider Risk context",
+      "description": "Enhance the triage experience in communication compliance with Insider Risk Insights. This integration provides investigators with a deeper understanding of the risk profile of message senders, along with a more comprehensive view of the sender’s risk severity and historical risk-related actions. With this enriched context, investigators are empowered to make more informed and effective remediation decisions, ensuring a robust compliance posture.",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "415170",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415170",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enrich triage in Communication Compliance with Insider Risk context",
+      "description": "Enhance the triage experience in communication compliance with Insider Risk Insights. This integration provides investigators with a deeper understanding of the risk profile of message senders, along with a more comprehensive view of the sender’s risk severity and historical risk-related actions. With this enriched context, investigators are empowered to make more informed and effective remediation decisions, ensuring a robust compliance posture.",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417483.json",
+    "CurrentVersion": {
+      "guid": "417483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Notify Users about Hidden Content Matches in Communication Compliance",
+      "description": "This feature is designed to enhance transparency by introducing a notification banner that alerts users when keywords embedded in hidden content, such as hyperlinks or encoded strings, trigger a compliance policy match. With this update, investigators will be able to quickly recognize that some or all keyword matches are not immediately visible in the main content body, saving time and ensuring a more efficient triage experience.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "417483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Notify Users about Hidden Content Matches in Communication Compliance",
+      "description": "This feature is designed to enhance transparency by introducing a notification banner that alerts users when keywords embedded in hidden content, such as hyperlinks or encoded strings, trigger a compliance policy match. With this update, investigators will be able to quickly recognize that some or all keyword matches are not immediately visible in the main content body, saving time and ensuring a more efficient triage experience.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-09-20T22:15:31Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/420942.json",
+    "CurrentVersion": {
+      "guid": "420942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420942",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated Hyperlink Insertion",
+      "description": "You can now insert a hyperlink in your chat message text in fewer clicks. Select the text you want to display and paste the URL, without needing to use the traditional hyperlink dialog box.\n\n",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "420942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420942",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated Hyperlink Insertion",
+      "description": "You can now insert a hyperlink in your chat message text in fewer clicks. Select the text you want to display and paste the URL, without needing to use the traditional hyperlink dialog box.\n\n",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-10-31T23:30:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422808.json",
+    "CurrentVersion": {
+      "guid": "422808",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422808",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+      "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422808",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422808",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+      "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-10-18T22:15:52Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/464984.json",
+    "CurrentVersion": {
+      "guid": "464984",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464984",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Copilot general availability for GCC",
+      "description": "Microsoft Copilot with enterprise data protection for the GCC environment is available at no additional cost for Microsoft 365 GCC users who sign in with their Microsoft Entra account (no Microsoft 365 Copilot license required).  The general availability of this release will be delivered to the users with web grounding OFF by default to meet US Government requirements.  This will help protect sensitive information which should not leave the GCC compliance boundary.",
+      "pubDate": "Thu, 31 Oct 2024 23:30:09 Z",
+      "updated": "2024-11-15T01:00:34Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "464984",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464984",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Copilot general availability for GCC",
+      "description": "Microsoft Copilot will be generally available for the GCC environment and will be delivered with web grounding OFF by default. This is required to help protect US government sensitive information which should not leave the GCC compliance boundary.",
+      "pubDate": "Thu, 31 Oct 2024 23:30:09 Z",
+      "updated": "2024-11-07T00:30:03Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/467252.json",
+    "CurrentVersion": {
+      "guid": "467252",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467252",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Outlook: Reset people suggestions in Outlook search for GCC, GCC High, and DoD",
+      "description": "This feature will allow users to reset, export, and/or opt out of people suggestions in search through settings in the Outlook on the web and the new Outlook for Windows. When a reset is done, all versions of Outlook will reflect the change. This feature is already available in worldwide multitenant and will now be available for customers in GCC, GCC High, and DoD #newoutlookforwindows",
+      "pubDate": "Thu, 07 Nov 2024 00:30:03 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "467252",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467252",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Outlook: Reset people suggestions in Outlook search for GCC and DoD",
+      "description": "This feature will allow users to reset, export, and/or opt out of people suggestions in search through settings in the Outlook on the web and the new Outlook for Windows. When a reset is done, all versions of Outlook will reflect the change. This feature is already available in worldwide multitenant and will now be available for customers in GCC and DoD. #newoutlookforwindows",
+      "pubDate": "Thu, 07 Nov 2024 00:30:03 Z",
+      "updated": "2024-11-07T00:30:03Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/467445.json",
+    "CurrentVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469032.json",
+    "CurrentVersion": {
+      "guid": "469032",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469032",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: New enrollment policies experience for iOS/iPadOS ADE",
+      "description": "These enrollment policies for iOS/iPadOS contains enrollment time grouping, improved UI, and removes automatic deployment of the Company Portal app and deprecated settings.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/189809/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "189809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=189809",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "<div><span style=\"\">With the new sync window, you can choose how many days' worth of emails and attachments you want to\ndownload to your device so you can always access them even while offline.</span> </div>",
+      "pubDate": "Thu, 30 Nov 2023 00:07:16 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/393333/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "393333",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=393333",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "OneDrive"
+      ],
+      "title": "OneDrive: Sync admin reports - GCC",
+      "description": "We are adding support for the OneDrive Sync admin reports for the GCC environment.",
+      "pubDate": "Fri, 19 Apr 2024 22:15:35 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395215/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "395215",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395215",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - Blanket custom retention policies which apply to all Audit recordTypes",
+      "description": "Microsoft Purview is enhancing the Audit custom retention policy experience. With this change, customers can now create blanket custom retention policies which will apply to all Audit recordTypes. This capability will become available in addition to the existing support of manually selecting specific recordTypes in the custom policy.",
+      "pubDate": "Mon, 29 Apr 2024 23:45:13 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/406947/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "406947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=406947",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar grid keyboard navigation via arrow keys in new Outlook for Windows and web",
+      "description": "When focused on the calendar grid, you will be able to navigate the time slots on the calendar via left/right/up/down arrow keys in day, week, and work week views. #newoutlookforwindows\n\nWhile rolling out this feature, we detected an issue specifically affecting Outlook on the Web in the Safari browser. Because of this, we have opted to roll back the existing progression to temporarily remove support for Safari. We have now restarted the rollout and support for Safari is planned to be added by mid-2025.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408533/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "408533",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408533",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance- Customize communication compliance policies with language-specific trainable classifier conditions",
+      "description": "Tailor your policy conditions to run Trainable Classifiers for specific languages. By restricting the languages for classifiers, you can reduce false positives and bring precision to your policy conditions. Update your existing policies with ease for a more language-specific compliance approach.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410201/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "410201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410201",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights- Copilot for Sales Metrics & PBI Report",
+      "description": "Providing Copilot for Sales metrics for Viva Insights analysts in Advanced insights. Copilot for Sales adoption PBI report to provide a starter template to explore Copilot for Sales adoption across the organization.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412078/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "412078",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412078",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Host and attendee interaction visibility for multi-room Mesh events",
+      "description": "Mesh event attendees can now see raised hands and reactions from attendees in other rooms during large, multi-room Mesh events. This creates a greater sense of audience feedback as a whole across all rooms in a Mesh event and increases total audience engagement.  Additionally, event hosts will now be able to move between all rooms in a multi-room Mesh event.",
+      "pubDate": "Thu, 15 Aug 2024 23:15:05 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415170/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "415170",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415170",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Enrich triage in Communication Compliance with Insider Risk context",
+      "description": "Enhance the triage experience in communication compliance with Insider Risk Insights. This integration provides investigators with a deeper understanding of the risk profile of message senders, along with a more comprehensive view of the sender’s risk severity and historical risk-related actions. With this enriched context, investigators are empowered to make more informed and effective remediation decisions, ensuring a robust compliance posture.",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417483/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "417483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Notify Users about Hidden Content Matches in Communication Compliance",
+      "description": "This feature is designed to enhance transparency by introducing a notification banner that alerts users when keywords embedded in hidden content, such as hyperlinks or encoded strings, trigger a compliance policy match. With this update, investigators will be able to quickly recognize that some or all keyword matches are not immediately visible in the main content body, saving time and ensuring a more efficient triage experience.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420942/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "420942",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420942",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Updated Hyperlink Insertion",
+      "description": "You can now insert a hyperlink in your chat message text in fewer clicks. Select the text you want to display and paste the URL, without needing to use the traditional hyperlink dialog box.\n\n",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422808/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "422808",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422808",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+      "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/464984/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "464984",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464984",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Microsoft Copilot general availability for GCC",
+      "description": "Microsoft Copilot with enterprise data protection for the GCC environment is available at no additional cost for Microsoft 365 GCC users who sign in with their Microsoft Entra account (no Microsoft 365 Copilot license required).  The general availability of this release will be delivered to the users with web grounding OFF by default to meet US Government requirements.  This will help protect sensitive information which should not leave the GCC compliance boundary.",
+      "pubDate": "Thu, 31 Oct 2024 23:30:09 Z",
+      "updated": "2024-11-15T01:00:34Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/467252/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "467252",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467252",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web"
+      ],
+      "title": "Outlook: Reset people suggestions in Outlook search for GCC, GCC High, and DoD",
+      "description": "This feature will allow users to reset, export, and/or opt out of people suggestions in search through settings in the Outlook on the web and the new Outlook for Windows. When a reset is done, all versions of Outlook will reflect the change. This feature is already available in worldwide multitenant and will now be available for customers in GCC, GCC High, and DoD #newoutlookforwindows",
+      "pubDate": "Thu, 07 Nov 2024 00:30:03 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/467445/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469032/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-15T02:27:24.2094534+00:00",
+      "guid": "469032",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469032",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: New enrollment policies experience for iOS/iPadOS ADE",
+      "description": "These enrollment policies for iOS/iPadOS contains enrollment time grouping, improved UI, and removes automatic deployment of the Company Portal app and deprecated settings.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
