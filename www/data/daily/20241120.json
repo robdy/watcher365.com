@@ -1,0 +1,2102 @@
+[
+  {
+    "Path": "data/160009.json",
+    "CurrentVersion": {
+      "guid": "160009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Estimating the Cost of Optical Character Recognition (OCR) for Exchange Online, Microsoft Teams, SharePoint, OneDrive and EndPoint",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">With OCR cost estimator, without incurring any bill\nand without providing azure subscription, admins will be able to estimate how\nmuch they will pay once they turn “ON” the OCR configuration for the selected\nlocations and scope.</span></span> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:09 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {
+      "guid": "160009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Estimating the Cost of Optical Character Recognition (OCR) for Exchange Online, Microsoft Teams, SharePoint, OneDrive and EndPoint",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">With OCR cost estimator, without incurring any bill\nand without providing azure subscription, admins will be able to estimate how\nmuch they will pay once they turn “ON” the OCR configuration for the selected\nlocations and scope.</span></span> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:09 Z",
+      "updated": "2024-08-27T23:15:04Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": "August CY2024"
+    }
+  },
+  {
+    "Path": "data/187140.json",
+    "CurrentVersion": {
+      "guid": "187140",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187140",
+      "category": [
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Preview",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Portfolio capabilities in Planner  ",
+      "description": "Structure plans into portfolios and get insights on top of your portfolios",
+      "pubDate": "Wed, 15 Nov 2023 00:19:53 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "187140",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187140",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Project",
+        "Planner",
+        "Preview",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Portfolio capabilities in Planner  ",
+      "description": "Structure plans into portfolios and get insights on top of your portfolios",
+      "pubDate": "Wed, 15 Nov 2023 00:19:53 Z",
+      "updated": "2024-09-16T23:30:04Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/325873.json",
+    "CurrentVersion": {
+      "guid": "325873",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=325873",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams can analyze content shared on-screen during a meeting",
+      "description": "Now, Copilot in Teams can analyze content shared on-screen during a meeting when recording is enabled. This, along with meeting transcript and meeting chat, enables users to ask Copilot to summarize or find specific information from screen-shared content (e.g., ‘Which products had the highest sales?’), consolidate insights across both the conversation and presentation (e.g., 'What was the feedback per slide?'), and draft new content based on the entire meeting (e.g., 'Rewrite the paragraph shared on the screen incorporating the feedback from the chat’). This works for any content shared while sharing your desktop screen (including but not limited to documents, slides, spreadsheets, and websites, irrespective of platform or app). Support for PowerPoint Live and Whiteboard in Teams will be available at a later date.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/382130.json",
+    "CurrentVersion": {
+      "guid": "382130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382130",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular trigger throttling",
+      "description": "With this update, we are introducing more granular trigger throttling limits to isolate the impact of a surge in noisy trigger volumes and prevent other policies from being affected. This ensures that organizations can receive critical alerts without being throttled by these limits. By default, the throttling limits will be applied as follows: All sensitive triggers, including HR signals, Azure AD leavers, and custom triggers, will be limited to 15,000 per day per trigger. All other triggers will be limited to 5,000 per day per trigger. Additionally, the policy health warning messages will be enhanced to assist admins with appropriate permissions in identifying and addressing noisy triggers effectively. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "382130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382130",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular trigger throttling",
+      "description": "With this update, we are introducing more granular trigger throttling limits to isolate the impact of a surge in noisy trigger volumes and prevent other policies from being affected. This ensures that organizations can receive critical alerts without being throttled by these limits. By default, the throttling limits will be applied as follows: All sensitive triggers, including HR signals, Azure AD leavers, and custom triggers, will be limited to 15,000 per day per trigger. All other triggers will be limited to 5,000 per day per trigger. Additionally, the policy health warning messages will be enhanced to assist admins with appropriate permissions in identifying and addressing noisy triggers effectively. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-09-05T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/384067.json",
+    "CurrentVersion": {
+      "guid": "384067",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384067",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Learner Record Sync (LRS) logs",
+      "description": "Sync logs in the Viva Learning admin tab with information about assignment and completion-related ingestion errors.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {
+      "guid": "384067",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384067",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Learner Record Sync (LRS) logs",
+      "description": "Sync logs in the Viva Learning admin tab with information about assignment and completion-related ingestion errors.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/384068.json",
+    "CurrentVersion": {
+      "guid": "384068",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384068",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Custom user mapping for learner record sync (LRS)",
+      "description": "Admins can now use advance mapping options to link AAD and Workday.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {
+      "guid": "384068",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384068",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Custom user mapping for learner record sync (LRS)",
+      "description": "Admins can now use advance mapping options to link AAD and Workday.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-11-19T00:15:55Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/394682.json",
+    "CurrentVersion": {
+      "guid": "394682",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394682",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook themes generated by Microsoft Copilot",
+      "description": "Make Outlook yours with themes generated by Copilot. You will be able to find these themes in Settings.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "394682",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394682",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook themes generated by Microsoft Copilot",
+      "description": "Make Outlook yours with themes generated by Copilot. You will be able to find these themes in Settings.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-10-16T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397090.json",
+    "CurrentVersion": {
+      "guid": "397090",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397090",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security",
+      "description": "Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "397090",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397090",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security",
+      "description": "Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-05-21T23:15:05Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/402192.json",
+    "CurrentVersion": {
+      "guid": "402192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Microsoft Copilot (Microsoft 365)",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Video creation in Copilot Visual Creator powered by Clipchamp",
+      "description": "Clipchamp brings video creation skills to Visual Creator in Copilot. Type your prompt and Clipchamp will write a bespoke script, source high quality stock footage, and assemble a video project with music, voiceover, text overlays and transitions. Open your video project draft in Clipchamp app to continue editing, export and share. Great for informational videos, video messaging, how-to, demo and video presentations.",
+      "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Microsoft Copilot (Microsoft 365)",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Video drafting in Copilot powered by Clipchamp",
+      "description": "Clipchamp brings video creation skills to Copilot. Type your prompt and Clipchamp will write a bespoke script, source high quality stock footage, and assemble a video project with music, voiceover, text overlays and transitions. Open your video project draft in the Clipchamp app to continue to edit, export, and share. This feature is great for informational videos, video messaging, how-to videos, demos, and video presentations.",
+      "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+      "updated": "2024-08-01T23:15:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409969.json",
+    "CurrentVersion": {
+      "guid": "409969",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409969",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Fonts in Outlook for iOS and Android",
+      "description": "We heard feedback from you, our customers, and are adding support for choosing fonts while you compose in Outlook for iOS and Android. There is also improved support for fonts in the reading pane.",
+      "pubDate": "Wed, 31 Jul 2024 23:45:06 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "409969",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409969",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Fonts in Outlook for iOS and Android",
+      "description": "We heard feedback from you, our customers, and are adding support for choosing fonts while you compose in Outlook for iOS and Android. There is also improved support for fonts in the reading pane.",
+      "pubDate": "Wed, 31 Jul 2024 23:45:06 Z",
+      "updated": "2024-10-22T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/411583.json",
+    "CurrentVersion": {
+      "guid": "411583",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411583",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Mute conversations",
+      "description": "Corporate communicators, network admins, and Engage admins can remove chosen conversation threads from the Engage Home Feed, storylines feed, and email digests. Conversations continue to show in community feeds, user profiles, and search. Muting a conversation does not affect notifications.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "411583",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411583",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Mute conversations",
+      "description": "Corporate communicators, network admins, and Engage admins can remove chosen conversation threads from the Engage Home Feed, storylines feed, and email digests. Conversations continue to show in community feeds, user profiles, and search. Muting a conversation does not affect notifications.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-10-09T23:15:44Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414522.json",
+    "CurrentVersion": {
+      "guid": "414522",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414522",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Manual sync trigger options for provider data",
+      "description": "Customers can manually trigger sync for different data types on Manage providers in Viva Learning admin page.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {
+      "guid": "414522",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414522",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Manual sync trigger options for provider data",
+      "description": "Customers can manually trigger sync for different data types on Manage providers in Viva Learning admin page.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2024-09-16T23:30:04Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414523.json",
+    "CurrentVersion": {
+      "guid": "414523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414523",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Sync provider data from a specific date range",
+      "description": "We are introducing flexibility on provider setup form where admins can sync data from specific dates for a provider instead of full data sync.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {
+      "guid": "414523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414523",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Sync provider data from a specific date range",
+      "description": "We are introducing flexibility on provider setup form where admins can sync data from specific dates for a provider instead of full data sync.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2024-09-16T23:30:04Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414527.json",
+    "CurrentVersion": {
+      "guid": "414527",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414527",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Setup wizard UX improvements for Workday integration",
+      "description": "The Workday setup wizard will be modular and more intuitive going forward.",
+      "pubDate": "Mon, 23 Sep 2024 23:30:03 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {
+      "guid": "414527",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414527",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Setup wizard UX improvements for Workday integration",
+      "description": "The Workday setup wizard will be modular and more intuitive going forward.",
+      "pubDate": "Mon, 23 Sep 2024 23:30:03 Z",
+      "updated": "2024-09-23T23:30:03Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417155.json",
+    "CurrentVersion": {
+      "guid": "417155",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417155",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution available in additional meeting spaces",
+      "description": "You can now take advantage of speaker recognition and transcript attribution, and AI capabilities in additional meeting spaces, from those equipped with a Teams Room to those relying on a user's PC in a bring you own device (BYOD) room. This feature identifies and attributes people in live transcripts, utilizing a unique voice profile for each participant enabling intelligent recaps and maximum value from Microsoft 365 Copilot in Teams meetings. Users can easily and securely enroll voices via Teams Settings. A Teams Premium license is required on the host desktop in a BYOD room.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/417476.json",
+    "CurrentVersion": {
+      "guid": "417476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417476",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot on OneNote canvas",
+      "description": "Use Copilot right in your workflow by invoking Copilot to generate a summary, a to-do list, or help you rewrite the content on the page or based on your selection.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "417476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417476",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot on OneNote canvas",
+      "description": "Use Copilot right in your workflow by invoking Copilot to generate a summary, a to-do list, or help you rewrite the content on the page or based on your selection.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/418130.json",
+    "CurrentVersion": {
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-10-25T00:00:13Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420330.json",
+    "CurrentVersion": {
+      "guid": "420330",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420330",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot web grounding now available in the Copilot app in Teams and Outlook",
+      "description": "Ground your Copilot chat conversations with the latest information from the web in the Copilot app in Teams and Outlook",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "420330",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420330",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot web grounding now available in the Copilot app in Teams and Outlook",
+      "description": "Ground your Copilot chat conversations with the latest information from the web in the Copilot app in Teams and Outlook",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-10-17T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420941.json",
+    "CurrentVersion": {
+      "guid": "420941",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420941",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Data Security Analytics ",
+      "description": "Data Security analytics will serve as a launchpad for administrators, enabling them to swiftly navigate day-to-day tasks. It will provide a comprehensive overview of an organization’s sensitive data landscape, visibility into potential risks, and offer contextual recommendations to strengthen the organization's data security posture. The Data Security Copilot will serve as an intelligent AI assistant layered on top of data security analytics, supporting tasks related to administration, risk assessment, alert triage, and reporting. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/421607.json",
+    "CurrentVersion": {
+      "guid": "421607",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421607",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: In-meeting Chat, Copilot, and Notes panes can be popped out from the meeting window",
+      "description": "When you are in meetings or calls, you will be able to pop out, drag, and resize your meeting panes from the meeting window. This includes Chat, Copilot, and Notes side panes.",
+      "pubDate": "Tue, 19 Nov 2024 00:15:55 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "421607",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421607",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: In-meeting Chat, Copilot, Notes, panes can be popped out from the meeting window",
+      "description": "When you are in meetings or calls, you will be able to pop out, drag, and resize your meeting panes from the meeting window. This includes Chat, Copilot, and Notes side panes.",
+      "pubDate": "Tue, 19 Nov 2024 00:15:55 Z",
+      "updated": "2024-11-19T00:15:55Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422334.json",
+    "CurrentVersion": {
+      "guid": "422334",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422334",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Detect prompt injection attacks and mentions of protected materials in GenAI prompts and responses",
+      "description": "In Communication Compliance, we're introducing the ability to detect potentially risky Generative AI interactions using Azure Content Safety's Prompt shields and Protected materials classifiers. Detect risk of jailbreak prompt exploitation by malicious users and identify if GenAI responses contain branded/copyrighted material so organizations can maintain content originality and protect their reputations.\n\nMicrosoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 16 Oct 2024 23:15:13 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "422334",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422334",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Detect prompt injection attacks and mentions of protected materials in GenAI prompts and responses?",
+      "description": "In Communication Compliance, we're introducing the ability to detect potentially risky Generative AI interactions using Azure Content Safety's Prompt shields and Protected materials classifiers. Detect risk of jailbreak prompt exploitation by malicious users and identify if GenAI responses contain branded/copyrighted material so organizations can maintain content originality and protect their reputations.\n\nMicrosoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 16 Oct 2024 23:15:13 Z",
+      "updated": "2024-10-16T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/422501.json",
+    "CurrentVersion": {
+      "guid": "422501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422501",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Restrict access action support for semantic models in Fabric",
+      "description": "Your organization can now control who can access your data depending on the sensitive information detected in Fabric semantic models. DLP restrict access action allows you to block access to guest users or all users depending on what labels or sensitive information types match your sematic models. This is in addition to the ability already supported by DLP policies to audit and notify users via Policy Tips based on sensitive content within Fabric semantic models and lakehouses.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/423476.json",
+    "CurrentVersion": {
+      "guid": "423476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423476",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Configure External access policies in TAC",
+      "description": "External access policies can be managed in Teams admin center. These policies were previously only supported in PowerShell, and we are bringing the same capabilities into the Teams admin center user experience.",
+      "pubDate": "Wed, 23 Oct 2024 23:15:28 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "423476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423476",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Configure External access policies in TAC",
+      "description": "External access policies can be managed in Teams admin center. These policies were previously only supported in PowerShell, and we are bringing the same capabilities into the Teams admin center user experience.",
+      "pubDate": "Wed, 23 Oct 2024 23:15:28 Z",
+      "updated": "2024-11-16T00:00:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/423483.json",
+    "CurrentVersion": {
+      "guid": "423483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Data Loss Prevention to restrict Microsoft 365 Copilot processing on content with sensitivity labels",
+      "description": "Microsoft Purview Data Loss Prevention is extended to Microsoft 365 Copilot. This feature will allow DLP policies to provide detection of sensitivity labels in enterprise grounding data and restrict access of the content in Microsoft 365 Copilot.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/429537.json",
+    "CurrentVersion": {
+      "guid": "429537",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429537",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Automatic installation and update of the Network Device Interface (NDI) in Teams (Windows Only)",
+      "description": "This update now enables users to install and update the Network Device Interface (NDI) automatically in Microsoft Teams without any manual process. This allows organizations to broadcast audio and video streams from Teams instances to a user's local network. It is currently only available on Windows devices.",
+      "pubDate": "Thu, 31 Oct 2024 23:30:09 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "429537",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429537",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Automatic installation and update of the Network Device Interface (NDI) in Teams (Windows Only)",
+      "description": "This update now enables users to install and update the Network Device Interface (NDI) automatically in Microsoft Teams without any manual process. This allows organizations to broadcast audio and video streams from Teams instances to a user's local network. It is currently only available on Windows devices.",
+      "pubDate": "Thu, 31 Oct 2024 23:30:09 Z",
+      "updated": "2024-11-12T00:45:33Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/429873.json",
+    "CurrentVersion": {
+      "guid": "429873",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429873",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Create with Copilot in Excel generates templates and tables",
+      "description": "Create with Copilot in Excel helps customers write prompts to generate tailored templates and tables, using multi-turn conversion to refine the table schema, formulas, and visuals.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/464988.json",
+    "CurrentVersion": {
+      "guid": "464988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464988",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot agents in Teams group chats",
+      "description": "Now users can discover and add Copilot agents to group chats in Teams to extend Microsoft Copilot to their flow of work.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "464988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464988",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot agents in Teams group chats",
+      "description": "Now users can discover and add Copilot agents to group chats in Teams to extend Microsoft Copilot to their flow of work.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-05T00:30:50Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/464997.json",
+    "CurrentVersion": {
+      "guid": "464997",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464997",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview AI Hub – Data Assessments",
+      "description": "Data assessments in Microsoft Purview AI Hub provides a way for admins to drive data security outcomes by creating scoped assessments, reviewing the data sensitivity and user accesses on locations, and performing remediation actions to mitigate risk.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/467445.json",
+    "CurrentVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/468884.json",
+    "CurrentVersion": {
+      "guid": "468884",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468884",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): BizChat - Edge contextual capabilities in Business Chat work mode",
+      "description": "In Business Chat work mode, users can ask Copilot questions about web pages and PDFs opened in the Edge browser using page context, such as “summarize this page\". This feature is currently also available in Business Chat web mode.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469497.json",
+    "CurrentVersion": {
+      "guid": "469497",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469497",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): BizChat – File Sensitivity Labels in Copilot web grounding chat",
+      "description": "Copilot web grounding chat responses will now show content sensitivity labels for prompts in which a user has attached or uploaded a Microsoft 365 file like Word, Excel, and PowerPoint in Business Chat web mode and Microsoft Copilot chat.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469498.json",
+    "CurrentVersion": {
+      "guid": "469498",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469498",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Catch up with Copilot",
+      "description": "With Copilot, you will be able to catch up on important updates such as a summary of new \"at\" mentions that need your attention, new changes made to files you've been active in, and quick snippets of new files shared with you. Catch up will be available in OneDrive Web for our commercial customers and requires a Microsoft Copilot for Microsoft 365 license. Catch up will initially work for Word, Excel, and PowerPoint files.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469500.json",
+    "CurrentVersion": {
+      "guid": "469500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469500",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Ask Copilot questions on meeting recordings",
+      "description": "Select a meeting recording in your OneDrive and ask Copilot to recap the meeting, highlight parts where you were mentioned, or recommend action items and next steps. This feature requires a Microsoft Copilot for Microsoft 365 license and will be available to commercial customers on OneDrive Web.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469501.json",
+    "CurrentVersion": {
+      "guid": "469501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469501",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Create a presentation from a Word file",
+      "description": "With Copilot, you can create the first draft of your presentation using a Word file in just a single click. This feature requires a Microsoft Copilot for Microsoft 365 license and will be available to commercial customers on OneDrive Web.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469502.json",
+    "CurrentVersion": {
+      "guid": "469502",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469502",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Convert Copilot response into a Word file",
+      "description": "Like a summary or FAQ that Copilot generated for you? Now, with one click, you can convert any Copilot response into a Word document. This feature requires a Microsoft Copilot for Microsoft 365 license and will be available to commercial customers on OneDrive Web.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469509.json",
+    "CurrentVersion": {
+      "guid": "469509",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469509",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: AI hub in Microsoft Purview",
+      "description": "Microsoft Purview AI Hub is released to general availability. Along with this release, the name has been rebranded to Microsoft Purview Data Security Posture Management for AI (DSPM for AI) and capabilities have been added that include supporting admin units, displaying AI policies that were created in Purview solutions, and supporting additional AI apps. A version of DSPM for AI is also available to additional licensing, specifically Microsoft 365 E3 and Microsoft 365 Copilot licenses. \n\nThe AI hub in Microsoft Purview is a centralized location to gain insights into generative AI activity, including the sensitive data flowing in AI prompts, both for Microsoft Copilot for Microsoft 365 and non-Microsoft AI applications.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469510.json",
+    "CurrentVersion": {
+      "guid": "469510",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469510",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: New EWS usage report",
+      "description": "We are introducing an Exchange Web Services (EWS) usage report in the Microsoft 365 admin center that provides comprehensive insights into the applications in your tenant that use EWS. The report provides detailed information on the specific actions performed by these applications along with their respective call volumes over a selected period. This new report enhances your ability to understand EWS activity prior to EWS deprecation in Exchange Online.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/160009/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "160009",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=160009",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Estimating the Cost of Optical Character Recognition (OCR) for Exchange Online, Microsoft Teams, SharePoint, OneDrive and EndPoint",
+      "description": "<div><span style=\"font-size:11.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\"><span style=\"font-size:12.0pt;font-family:&quot;Aptos Narrow&quot;,sans-serif;color:black;\">With OCR cost estimator, without incurring any bill\nand without providing azure subscription, admins will be able to estimate how\nmuch they will pay once they turn “ON” the OCR configuration for the selected\nlocations and scope.</span></span> </div>",
+      "pubDate": "Wed, 08 Nov 2023 00:22:09 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "August CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/187140/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "187140",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187140",
+      "category": [
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Preview",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Portfolio capabilities in Planner  ",
+      "description": "Structure plans into portfolios and get insights on top of your portfolios",
+      "pubDate": "Wed, 15 Nov 2023 00:19:53 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/325873/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "325873",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=325873",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot in Teams can analyze content shared on-screen during a meeting",
+      "description": "Now, Copilot in Teams can analyze content shared on-screen during a meeting when recording is enabled. This, along with meeting transcript and meeting chat, enables users to ask Copilot to summarize or find specific information from screen-shared content (e.g., ‘Which products had the highest sales?’), consolidate insights across both the conversation and presentation (e.g., 'What was the feedback per slide?'), and draft new content based on the entire meeting (e.g., 'Rewrite the paragraph shared on the screen incorporating the feedback from the chat’). This works for any content shared while sharing your desktop screen (including but not limited to documents, slides, spreadsheets, and websites, irrespective of platform or app). Support for PowerPoint Live and Whiteboard in Teams will be available at a later date.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382130/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "382130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382130",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Granular trigger throttling",
+      "description": "With this update, we are introducing more granular trigger throttling limits to isolate the impact of a surge in noisy trigger volumes and prevent other policies from being affected. This ensures that organizations can receive critical alerts without being throttled by these limits. By default, the throttling limits will be applied as follows: All sensitive triggers, including HR signals, Azure AD leavers, and custom triggers, will be limited to 15,000 per day per trigger. All other triggers will be limited to 5,000 per day per trigger. Additionally, the policy health warning messages will be enhanced to assist admins with appropriate permissions in identifying and addressing noisy triggers effectively. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384067/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "384067",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384067",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Learner Record Sync (LRS) logs",
+      "description": "Sync logs in the Viva Learning admin tab with information about assignment and completion-related ingestion errors.",
+      "pubDate": "Thu, 29 Feb 2024 00:15:43 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384068/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "384068",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384068",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Custom user mapping for learner record sync (LRS)",
+      "description": "Admins can now use advance mapping options to link AAD and Workday.",
+      "pubDate": "Wed, 28 Feb 2024 00:45:58 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/394682/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "394682",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=394682",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Outlook themes generated by Microsoft Copilot",
+      "description": "Make Outlook yours with themes generated by Copilot. You will be able to find these themes in Settings.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397090/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "397090",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=397090",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery - Generate keyword query language from natural language prompt in eDiscovery with Copilot for Security",
+      "description": "Copilot for Security is embedded in eDiscovery to enable users to provide a search prompt in natural language and will translate into keyword query language to help expedite the start of an eDiscovery search.",
+      "pubDate": "Tue, 21 May 2024 23:15:05 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402192/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "402192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Clipchamp",
+        "Microsoft Copilot (Microsoft 365)",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Video creation in Copilot Visual Creator powered by Clipchamp",
+      "description": "Clipchamp brings video creation skills to Visual Creator in Copilot. Type your prompt and Clipchamp will write a bespoke script, source high quality stock footage, and assemble a video project with music, voiceover, text overlays and transitions. Open your video project draft in Clipchamp app to continue editing, export and share. Great for informational videos, video messaging, how-to, demo and video presentations.",
+      "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409969/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "409969",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409969",
+      "category": [
+        "Android",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Fonts in Outlook for iOS and Android",
+      "description": "We heard feedback from you, our customers, and are adding support for choosing fonts while you compose in Outlook for iOS and Android. There is also improved support for fonts in the reading pane.",
+      "pubDate": "Wed, 31 Jul 2024 23:45:06 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/411583/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "411583",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411583",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Mute conversations",
+      "description": "Corporate communicators, network admins, and Engage admins can remove chosen conversation threads from the Engage Home Feed, storylines feed, and email digests. Conversations continue to show in community feeds, user profiles, and search. Muting a conversation does not affect notifications.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414522/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "414522",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414522",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Manual sync trigger options for provider data",
+      "description": "Customers can manually trigger sync for different data types on Manage providers in Viva Learning admin page.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414523/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "414523",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414523",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Sync provider data from a specific date range",
+      "description": "We are introducing flexibility on provider setup form where admins can sync data from specific dates for a provider instead of full data sync.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414527/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "414527",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414527",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Setup wizard UX improvements for Workday integration",
+      "description": "The Workday setup wizard will be modular and more intuitive going forward.",
+      "pubDate": "Mon, 23 Sep 2024 23:30:03 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417155/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "417155",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417155",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Speaker recognition and attribution available in additional meeting spaces",
+      "description": "You can now take advantage of speaker recognition and transcript attribution, and AI capabilities in additional meeting spaces, from those equipped with a Teams Room to those relying on a user's PC in a bring you own device (BYOD) room. This feature identifies and attributes people in live transcripts, utilizing a unique voice profile for each participant enabling intelligent recaps and maximum value from Microsoft 365 Copilot in Teams meetings. Users can easily and securely enroll voices via Teams Settings. A Teams Premium license is required on the host desktop in a BYOD room.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417476/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "417476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417476",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot on OneNote canvas",
+      "description": "Use Copilot right in your workflow by invoking Copilot to generate a summary, a to-do list, or help you rewrite the content on the page or based on your selection.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418130/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420330/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "420330",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420330",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot web grounding now available in the Copilot app in Teams and Outlook",
+      "description": "Ground your Copilot chat conversations with the latest information from the web in the Copilot app in Teams and Outlook",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420941/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "420941",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420941",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Data Security Analytics ",
+      "description": "Data Security analytics will serve as a launchpad for administrators, enabling them to swiftly navigate day-to-day tasks. It will provide a comprehensive overview of an organization’s sensitive data landscape, visibility into potential risks, and offer contextual recommendations to strengthen the organization's data security posture. The Data Security Copilot will serve as an intelligent AI assistant layered on top of data security analytics, supporting tasks related to administration, risk assessment, alert triage, and reporting. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421607/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "421607",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421607",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: In-meeting Chat, Copilot, and Notes panes can be popped out from the meeting window",
+      "description": "When you are in meetings or calls, you will be able to pop out, drag, and resize your meeting panes from the meeting window. This includes Chat, Copilot, and Notes side panes.",
+      "pubDate": "Tue, 19 Nov 2024 00:15:55 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422334/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "422334",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422334",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Detect prompt injection attacks and mentions of protected materials in GenAI prompts and responses",
+      "description": "In Communication Compliance, we're introducing the ability to detect potentially risky Generative AI interactions using Azure Content Safety's Prompt shields and Protected materials classifiers. Detect risk of jailbreak prompt exploitation by malicious users and identify if GenAI responses contain branded/copyrighted material so organizations can maintain content originality and protect their reputations.\n\nMicrosoft Purview Communication Compliance provides the tools to help organizations detect regulatory compliance violations (e.g. SEC or FINRA), such as sensitive or confidential information, harassing or threatening language, and sharing of adult content. Built with privacy by design, usernames are pseudonymized by default, role-based access controls are built in, investigators are opted in by an admin, and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 16 Oct 2024 23:15:13 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422501/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "422501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422501",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Restrict access action support for semantic models in Fabric",
+      "description": "Your organization can now control who can access your data depending on the sensitive information detected in Fabric semantic models. DLP restrict access action allows you to block access to guest users or all users depending on what labels or sensitive information types match your sematic models. This is in addition to the ability already supported by DLP policies to audit and notify users via Policy Tips based on sensitive content within Fabric semantic models and lakehouses.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423476/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "423476",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423476",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Configure External access policies in TAC",
+      "description": "External access policies can be managed in Teams admin center. These policies were previously only supported in PowerShell, and we are bringing the same capabilities into the Teams admin center user experience.",
+      "pubDate": "Wed, 23 Oct 2024 23:15:28 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423483/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "423483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Data Loss Prevention to restrict Microsoft 365 Copilot processing on content with sensitivity labels",
+      "description": "Microsoft Purview Data Loss Prevention is extended to Microsoft 365 Copilot. This feature will allow DLP policies to provide detection of sensitivity labels in enterprise grounding data and restrict access of the content in Microsoft 365 Copilot.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/429537/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "429537",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429537",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Automatic installation and update of the Network Device Interface (NDI) in Teams (Windows Only)",
+      "description": "This update now enables users to install and update the Network Device Interface (NDI) automatically in Microsoft Teams without any manual process. This allows organizations to broadcast audio and video streams from Teams instances to a user's local network. It is currently only available on Windows devices.",
+      "pubDate": "Thu, 31 Oct 2024 23:30:09 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/429873/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "429873",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429873",
+      "category": [
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Create with Copilot in Excel generates templates and tables",
+      "description": "Create with Copilot in Excel helps customers write prompts to generate tailored templates and tables, using multi-turn conversion to refine the table schema, formulas, and visuals.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/464988/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "464988",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464988",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Copilot agents in Teams group chats",
+      "description": "Now users can discover and add Copilot agents to group chats in Teams to extend Microsoft Copilot to their flow of work.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/464997/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "464997",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=464997",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview AI Hub – Data Assessments",
+      "description": "Data assessments in Microsoft Purview AI Hub provides a way for admins to drive data security outcomes by creating scoped assessments, reviewing the data sensitivity and user accesses on locations, and performing remediation actions to mitigate risk.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/467445/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/468884/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "468884",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468884",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): BizChat - Edge contextual capabilities in Business Chat work mode",
+      "description": "In Business Chat work mode, users can ask Copilot questions about web pages and PDFs opened in the Edge browser using page context, such as “summarize this page\". This feature is currently also available in Business Chat web mode.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469497/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469497",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469497",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): BizChat – File Sensitivity Labels in Copilot web grounding chat",
+      "description": "Copilot web grounding chat responses will now show content sensitivity labels for prompts in which a user has attached or uploaded a Microsoft 365 file like Word, Excel, and PowerPoint in Business Chat web mode and Microsoft Copilot chat.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469498/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469498",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469498",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Catch up with Copilot",
+      "description": "With Copilot, you will be able to catch up on important updates such as a summary of new \"at\" mentions that need your attention, new changes made to files you've been active in, and quick snippets of new files shared with you. Catch up will be available in OneDrive Web for our commercial customers and requires a Microsoft Copilot for Microsoft 365 license. Catch up will initially work for Word, Excel, and PowerPoint files.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469500/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469500",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469500",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Ask Copilot questions on meeting recordings",
+      "description": "Select a meeting recording in your OneDrive and ask Copilot to recap the meeting, highlight parts where you were mentioned, or recommend action items and next steps. This feature requires a Microsoft Copilot for Microsoft 365 license and will be available to commercial customers on OneDrive Web.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469501/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469501",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469501",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Create a presentation from a Word file",
+      "description": "With Copilot, you can create the first draft of your presentation using a Word file in just a single click. This feature requires a Microsoft Copilot for Microsoft 365 license and will be available to commercial customers on OneDrive Web.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469502/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469502",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469502",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneDrive",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneDrive: Convert Copilot response into a Word file",
+      "description": "Like a summary or FAQ that Copilot generated for you? Now, with one click, you can convert any Copilot response into a Word document. This feature requires a Microsoft Copilot for Microsoft 365 license and will be available to commercial customers on OneDrive Web.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469509/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469509",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469509",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: AI hub in Microsoft Purview",
+      "description": "Microsoft Purview AI Hub is released to general availability. Along with this release, the name has been rebranded to Microsoft Purview Data Security Posture Management for AI (DSPM for AI) and capabilities have been added that include supporting admin units, displaying AI policies that were created in Purview solutions, and supporting additional AI apps. A version of DSPM for AI is also available to additional licensing, specifically Microsoft 365 E3 and Microsoft 365 Copilot licenses. \n\nThe AI hub in Microsoft Purview is a centralized location to gain insights into generative AI activity, including the sensitive data flowing in AI prompts, both for Microsoft Copilot for Microsoft 365 and non-Microsoft AI applications.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469510/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-20T02:26:56.4184863+00:00",
+      "guid": "469510",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469510",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: New EWS usage report",
+      "description": "We are introducing an Exchange Web Services (EWS) usage report in the Microsoft 365 admin center that provides comprehensive insights into the applications in your tenant that use EWS. The report provides detailed information on the specific actions performed by these applications along with their respective call volumes over a selected period. This new report enhances your ability to understand EWS activity prior to EWS deprecation in Exchange Online.",
+      "pubDate": "Wed, 20 Nov 2024 00:15:49 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
