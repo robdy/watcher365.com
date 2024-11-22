@@ -1,0 +1,1784 @@
+[
+  {
+    "Path": "data/171586.json",
+    "CurrentVersion": {
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-09-24T23:15:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    }
+  },
+  {
+    "Path": "data/377303.json",
+    "CurrentVersion": {
+      "guid": "377303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377303",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat for organizers and presenters in town hall",
+      "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+      "pubDate": "Thu, 01 Feb 2024 00:45:41 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "377303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377303",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat for organizers and presenters in town hall",
+      "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+      "pubDate": "Thu, 01 Feb 2024 00:45:41 Z",
+      "updated": "2024-11-01T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/380722.json",
+    "CurrentVersion": {
+      "guid": "380722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380722",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Trigger Power automate workflows as outcome of DLP rule match",
+      "description": "This introduces a new DLP rule action to trigger custom Power automate workflows when a DLP rule is violated.",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "380722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380722",
+      "category": [
+        "Current Channel",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Trigger Power automate workflows as outcome of DLP rule match",
+      "description": "This introduces a new DLP rule action to trigger custom Power automate workflows when a DLP rule is violated.",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-09-19T23:15:45Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/384092.json",
+    "CurrentVersion": {
+      "guid": "384092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384092",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New filters in Audit Search",
+      "description": "Audit Search allows customers to retrieve audit logs relevant to a security or compliance investigation. With this change, customers will now be able to search for relevant audit logs using additional fields such as Record ID, UserKey, UserType, and ClientIP.",
+      "pubDate": "Fri, 23 Feb 2024 00:15:24 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {
+      "guid": "384092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384092",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New filters in Audit Search",
+      "description": "Audit Search allows customers to retrieve audit logs relevant to a security or compliance investigation. With this change, customers will now be able to search for relevant audit logs using additional fields such as Record ID, UserKey, UserType, and ClientIP.",
+      "pubDate": "Fri, 23 Feb 2024 00:15:24 Z",
+      "updated": "2024-09-05T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/388913.json",
+    "CurrentVersion": {
+      "guid": "388913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388913",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Add Shared Folders to Favorites in the new Outlook for Windows and web",
+      "description": "Customers will have the ability to add shared folders to their favorites. This enhancement offers users increased flexibility and convenience, allowing easy and quick access to important shared content directly from their Favorites list. #newoutlookforwindows",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "388913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388913",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Add Shared Folders to Favorites in the new Outlook for Windows and web",
+      "description": "Customers will have the ability to add shared folders to their favorites. This enhancement offers users increased flexibility and convenience, allowing easy and quick access to important shared content directly from their Favorites list. #newoutlookforwindows",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-10-16T23:15:13Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/391636.json",
+    "CurrentVersion": {
+      "guid": "391636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391636",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Outlook",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Lab - Share a prompt to a Microsoft Teams team ",
+      "description": "Share custom prompts with members of a Microsoft Teams team, allowing team members to easily discover and utilize these prompts in Copilot Lab.",
+      "pubDate": "Wed, 19 Jun 2024 23:30:51 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "391636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391636",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Outlook",
+        "SharePoint",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Lab - Share a prompt to a Microsoft Teams team ",
+      "description": "Share custom prompts with members of a Microsoft Teams team, allowing team members to easily discover and utilize these prompts in Copilot Lab.",
+      "pubDate": "Wed, 19 Jun 2024 23:30:51 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392842.json",
+    "CurrentVersion": {
+      "guid": "392842",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392842",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New filters in Audit Search",
+      "description": "Audit Search allows customers to retrieve audit logs relevant to a security or compliance investigation. With this change, customers will now be able to search for relevant audit logs using additional fields such as Record ID, UserKey, UserType, and ClientIP.",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392842",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392842",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New filters in Audit Search",
+      "description": "Audit Search allows customers to retrieve audit logs relevant to a security or compliance investigation. With this change, customers will now be able to search for relevant audit logs using additional fields such as Record ID, UserKey, UserType, and ClientIP.",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 Z",
+      "updated": "2024-09-04T23:30:32Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399918.json",
+    "CurrentVersion": {
+      "guid": "399918",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399918",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399918",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399918",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 Z",
+      "updated": "2024-09-04T23:30:32Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/399919.json",
+    "CurrentVersion": {
+      "guid": "399919",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399919",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399919",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399919",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 Z",
+      "updated": "2024-09-04T23:30:32Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/400711.json",
+    "CurrentVersion": {
+      "guid": "400711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400711",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Edge",
+        "Microsoft Viva",
+        "OneNote",
+        "Outlook",
+        "SharePoint",
+        "Web",
+        "Whiteboard",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Lab - New and trending prompts",
+      "description": "Keep track of new and trending prompts in your organization in Copilot Lab.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "400711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400711",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Edge",
+        "Microsoft Viva",
+        "OneNote",
+        "Outlook",
+        "SharePoint",
+        "Web",
+        "Whiteboard",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Lab - New and trending prompts",
+      "description": "Keep track of new and trending prompts in your organization in Copilot Lab.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/401125.json",
+    "CurrentVersion": {
+      "guid": "401125",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401125",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New ChatGPT Enterprise connector to discover and bring prompts and responses into the scope of Purview features",
+      "description": "Using the unified Purview portal, organizations will be able to establish a connection to their ChatGPT Enterprise workspaces to discover, collect, and store contents of interactions of users with ChatGPT Enterprise into the scope of Purview capabilities and policies.",
+      "pubDate": "Thu, 18 Jul 2024 23:30:49 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {
+      "guid": "401125",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401125",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New ChatGPT Enterprise connector to discover and bring prompts and responses into the scope of Purview features",
+      "description": "Using the unified Purview portal, organizations will be able to establish a connection to their ChatGPT Enterprise workspaces to discover, collect, and store contents of interactions of users with ChatGPT Enterprise into the scope of Purview capabilities and policies.",
+      "pubDate": "Thu, 18 Jul 2024 23:30:49 Z",
+      "updated": "2024-07-18T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/407379.json",
+    "CurrentVersion": {
+      "guid": "407379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407379",
+      "category": [
+        "Android",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Email Auto-advance setting",
+      "description": "The Email Auto-advance option is available in Mail settings. This will allow users to choose whether they return to the message list after taking certain actions or if they move to the next message.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "407379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407379",
+      "category": [
+        "Android",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Email Auto-advance setting",
+      "description": "The Email Auto-advance option is available in Mail settings. This will allow users to choose whether they return to the message list after taking certain actions or if they move to the next message.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 Z",
+      "updated": "2024-07-19T22:30:23Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/409957.json",
+    "CurrentVersion": {
+      "guid": "409957",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409957",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move menu improvements",
+      "description": "Two improvements are coming to the move menu on Outlook for iOS and Android. Users will now be able to expand and collapse folders within the move menu and see folder hierarchy when searching in the move menu.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "409957",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409957",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move menu improvements",
+      "description": "Two improvements are coming to the move menu on Outlook for iOS and Android. Users will now be able to expand and collapse folders within the move menu and see folder hierarchy when searching in the move menu.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-10-10T23:15:45Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412075.json",
+    "CurrentVersion": {
+      "guid": "412075",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412075",
+      "category": [
+        "Android",
+        "Cancelled",
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Whiteboard can be added to Mesh event",
+      "description": "We will not release this feature at this time. We are sorry for any inconvenience and will continue to share updated roadmap entries as additional Mesh features and functionality become available. Mesh event participants can now use Microsoft Whiteboard in Mesh 3D environments. This functionality will enable users to collaborate spatially as avatars on a 2D whiteboard present in the virtual space, available on PC and Meta Quest devices. Mesh event attendees can use inking, annotation, and other built-in tools to brainstorm, plan, and share with others on a digital canvas in real time. Copilot integration with Whiteboard helps suggest and organize ideas directly on your canvas while in Mesh.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412075",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412075",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Whiteboard can be added to Mesh event",
+      "description": "Mesh event participants can now use Microsoft Whiteboard in Mesh 3D environments. This functionality will enable users to collaborate spatially as avatars on a 2D whiteboard present in the virtual space, available on PC and Meta Quest devices. Mesh event attendees can use inking, annotation, and other built-in tools to brainstorm, plan, and share with others on a digital canvas in real time. Copilot integration with Whiteboard helps suggest and organize ideas directly on your canvas while in Mesh.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-10-21T23:30:37Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412076.json",
+    "CurrentVersion": {
+      "guid": "412076",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412076",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New collaborative Project Studio environment in Microsoft Mesh",
+      "description": "The Project Studio environment is a new space for immersive meetings and Mesh events. This space has been designed for synchronous teamwork and productivity for small groups to collaborate on content. Collaboration tools like whiteboards will be added to the environment as they become available.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412076",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412076",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New collaborative Project Studio environment in Microsoft Mesh",
+      "description": "The Project Studio environment is a new space for immersive meetings and Mesh events. This space has been designed for synchronous teamwork and productivity for small groups to collaborate on content. Collaboration tools like whiteboards will be added to the environment as they become available.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-11-14T00:45:04Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412360.json",
+    "CurrentVersion": {
+      "guid": "412360",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412360",
+      "category": [
+        "Android",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Mesh app on Meta Quest headsets supports hand interactions",
+      "description": "Microsoft Mesh app users on Meta Quest 2, 3, and Pro headsets can now use their hands to use the app, move around in event environments, and interact with objects. Motion controllers continue to be supported, and users can switch between using controllers or their hands while using the app.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412360",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412360",
+      "category": [
+        "Android",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Mesh app on Meta Quest headsets supports hand interactions",
+      "description": "Microsoft Mesh app users on Meta Quest 2, 3, and Pro headsets can now use their hands to use the app, move around in event environments, and interact with objects. Motion controllers continue to be supported, and users can switch between using controllers or their hands while using the app.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-16T00:00:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/418130.json",
+    "CurrentVersion": {
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420329.json",
+    "CurrentVersion": {
+      "guid": "420329",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420329",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Name pronunciation",
+      "description": "You can now record and share the correct pronunciation of your name, promoting inclusivity and helping colleagues avoid mispronunciations. With a click, you can play and listen to your colleagues' name pronunciations.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "420329",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420329",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Name pronunciation",
+      "description": "You can now record and share the correct pronunciation of your name, promoting inclusivity and helping colleagues avoid mispronunciations. With a click, you can play and listen to your colleagues' name pronunciations.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-10-22T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422718.json",
+    "CurrentVersion": {
+      "guid": "422718",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422718",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics with Copilot",
+      "description": "?In space analytics, use Copilot to analyze and explain key data points and trends in your space utilization graphs. It compares current utilization metrics such as occupancy, desk usage, and room bookings against previous time periods (e.g. last month, last quarter), highlighting important changes and trends.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422718",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422718",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics with Copilot",
+      "description": "?In space analytics, use Copilot to analyze and explain key data points and trends in your space utilization graphs. It compares current utilization metrics such as occupancy, desk usage, and room bookings against previous time periods (e.g. last month, last quarter), highlighting important changes and trends.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-01T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422719.json",
+    "CurrentVersion": {
+      "guid": "422719",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422719",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics",
+      "description": "Space analytics in Places provides dashboards for buildings, bookable rooms, and desk pools, providing a unified view of key metrics. Users can pick the space type of their interest and dive deeper to know more about its utilization.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422719",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422719",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics",
+      "description": "Space analytics in Places provides dashboards for buildings, bookable rooms, and desk pools, providing a unified view of key metrics. Users can pick the space type of their interest and dive deeper to know more about its utilization.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-01T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/429868.json",
+    "CurrentVersion": {
+      "guid": "429868",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429868",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Optimized hover actions in the message list on Outlook on the Web and New Outlook for Windows",
+      "description": "The hover actions in the message list will be modified to be more space efficient and minimize unnecessary mouse travel. This change primarily affects users with the multicolumn (wider) message list. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/468868.json",
+    "CurrentVersion": {
+      "guid": "468868",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468868",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom Meeting Branding - Support multiple meeting themes per customization policy",
+      "description": "Admins can now create and assign multiple meeting themes to a customization policy in the Teams Admin Center. This will allow meeting organizers who are assigned to a customization policy the ability to select from different meeting theme options while scheduling their meetings. Note - this feature requires a Teams Premium license.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/468886.json",
+    "CurrentVersion": {
+      "guid": "468886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468886",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enhanced functionalities to manage SharePoint Embedded Containers through SharePoint Admin Center ",
+      "description": "The new update empowers the SharePoint Embedded Administrators (SPE Admins) to manage their containers better through sorting and filtering capabilities as well as set sensitivity labels on containers. The SPE Admins now also have user role management capabilities to add, reassign, or remove users from various roles of a container.",
+      "pubDate": "Thu, 21 Nov 2024 00:15:42 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "468886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468886",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enhanced functionalities to manage SharePoint Embedded Containers through SharePoint Admin Center ",
+      "description": "The new update empowers the SharePoint Embedded Administrators (SPE Admins) to manage their containers better through sorting and filtering capabilities as well as set sensitivity labels on containers. The SPE Admins now also have user role management capabilities to add, reassign, or remove users from various roles of a container.",
+      "pubDate": "Thu, 21 Nov 2024 00:15:42 Z",
+      "updated": "2024-11-21T00:15:42Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/469491.json",
+    "CurrentVersion": {
+      "guid": "469491",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469491",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Customize the location of toast notification",
+      "description": "You can now customize where your notification toasts appear on your screen. Options include bottom right, top right, bottom left, and top left, allowing you to choose the most convenient and least intrusive location for a better experience and productivity.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469507.json",
+    "CurrentVersion": {
+      "guid": "469507",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469507",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forwarding loop components",
+      "description": "You can now forward chat messages containing Loop components, allowing for seamless sharing and real-time collaboration across different chats. To forward a message, navigate to it, click on the ellipsis, and select ‘Forward’ from the menu.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/469508.json",
+    "CurrentVersion": {
+      "guid": "469508",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469508",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forward messages to and from channels",
+      "description": "You can now forward messages between channels, allowing you to efficiently share important information with relevant team members. To forward a channel message post, channel post reply, or chat message to another channel, 1:1 or group chat, select the message’s ellipsis menu and choose Forward.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/470018.json",
+    "CurrentVersion": {
+      "guid": "470018",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470018",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move emails between accounts in the New Outlook for Windows",
+      "description": "We’re excited to announce a new feature in Outlook that makes it easier to manage emails across multiple accounts. All personal accounts in the new Outlook for Windows can seamlessly move emails between all their personal accounts, streamlining organization and productivity. For work or school users, this feature is controlled by a policy managed by administrators. By enabling this policy, admins can grant their users the ability to move emails between accounts in a way that aligns with organizational needs and policies. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/470020.json",
+    "CurrentVersion": {
+      "guid": "470020",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470020",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Setting to toggle comma as recipient delimiter",
+      "description": "By default, Outlook Web and the New Outlook support separating recipients by using either a semicolon or a comma. This new setting allows users to choose if the comma should be used as a recipient separator or instead allowed as part of the contact name. This is helpful for organizations where contacts follow the \"Last name, First name\" format. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/470022.json",
+    "CurrentVersion": {
+      "guid": "470022",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470022",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Tips pane entry point moving from Suite Header to Ribbon",
+      "description": "The Tips pane's entry point is moving from the Suite Header (found at the top of the window) to the Help tab of the Ribbon. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/171586/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "171586",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=171586",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Enhanced content extraction and file type coverage for DLP on Windows devices",
+      "description": "<div><span style=\"\">With this release, the file type coverage to scan, classify and protect sensitive content on windows endpoint devices with Microsoft Purview Data Loss Prevention policies will increase from current ~40 file types to 100+ file types. This release will make the coverage of file types on endpoint consistent with other locations such as Exchange, SharePoint, and OneDrive. This will also include other enhancements like detecting label from pfile, detecting sensitive content in metadata, and detecting sensitive content in PDF forms.</span> </div>",
+      "pubDate": "Mon, 18 Sep 2023 23:13:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "June CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377303/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "377303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377303",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Chat for organizers and presenters in town hall",
+      "description": "Organizers, co-organizers, and presenters can chat privately in a separate chat from attendees. This chat is available to access before, during, and after the event.",
+      "pubDate": "Thu, 01 Feb 2024 00:45:41 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380722/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "380722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380722",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Trigger Power automate workflows as outcome of DLP rule match",
+      "description": "This introduces a new DLP rule action to trigger custom Power automate workflows when a DLP rule is violated.",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/384092/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "384092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=384092",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New filters in Audit Search",
+      "description": "Audit Search allows customers to retrieve audit logs relevant to a security or compliance investigation. With this change, customers will now be able to search for relevant audit logs using additional fields such as Record ID, UserKey, UserType, and ClientIP.",
+      "pubDate": "Fri, 23 Feb 2024 00:15:24 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388913/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "388913",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388913",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Add Shared Folders to Favorites in the new Outlook for Windows and web",
+      "description": "Customers will have the ability to add shared folders to their favorites. This enhancement offers users increased flexibility and convenience, allowing easy and quick access to important shared content directly from their Favorites list. #newoutlookforwindows",
+      "pubDate": "Tue, 26 Mar 2024 23:15:09 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/391636/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "391636",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391636",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Outlook",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Whiteboard",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Lab - Share a prompt to a Microsoft Teams team ",
+      "description": "Share custom prompts with members of a Microsoft Teams team, allowing team members to easily discover and utilize these prompts in Copilot Lab.",
+      "pubDate": "Wed, 19 Jun 2024 23:30:51 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392842/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "392842",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392842",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Audit - New filters in Audit Search",
+      "description": "Audit Search allows customers to retrieve audit logs relevant to a security or compliance investigation. With this change, customers will now be able to search for relevant audit logs using additional fields such as Record ID, UserKey, UserType, and ClientIP.",
+      "pubDate": "Mon, 15 Apr 2024 23:15:00 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399918/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "399918",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399918",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Word: Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399919/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "399919",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399919",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Get started on a draft immediately with example prompts",
+      "description": "On blank documents, Copilot in Word will provide one-click examples of prompts that quickly help you get going on your document.",
+      "pubDate": "Wed, 12 Jun 2024 23:15:10 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/400711/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "400711",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=400711",
+      "category": [
+        "Desktop",
+        "Excel",
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Edge",
+        "Microsoft Viva",
+        "OneNote",
+        "Outlook",
+        "SharePoint",
+        "Web",
+        "Whiteboard",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot Lab - New and trending prompts",
+      "description": "Keep track of new and trending prompts in your organization in Copilot Lab.",
+      "pubDate": "Fri, 05 Jul 2024 22:15:57 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/401125/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "401125",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=401125",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - New ChatGPT Enterprise connector to discover and bring prompts and responses into the scope of Purview features",
+      "description": "Using the unified Purview portal, organizations will be able to establish a connection to their ChatGPT Enterprise workspaces to discover, collect, and store contents of interactions of users with ChatGPT Enterprise into the scope of Purview capabilities and policies.",
+      "pubDate": "Thu, 18 Jul 2024 23:30:49 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/407379/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "407379",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=407379",
+      "category": [
+        "Android",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Email Auto-advance setting",
+      "description": "The Email Auto-advance option is available in Mail settings. This will allow users to choose whether they return to the message list after taking certain actions or if they move to the next message.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/409957/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "409957",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=409957",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move menu improvements",
+      "description": "Two improvements are coming to the move menu on Outlook for iOS and Android. Users will now be able to expand and collapse folders within the move menu and see folder hierarchy when searching in the move menu.",
+      "pubDate": "Thu, 08 Aug 2024 23:15:13 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412075/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "412075",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412075",
+      "category": [
+        "Android",
+        "Cancelled",
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Whiteboard can be added to Mesh event",
+      "description": "We will not release this feature at this time. We are sorry for any inconvenience and will continue to share updated roadmap entries as additional Mesh features and functionality become available. Mesh event participants can now use Microsoft Whiteboard in Mesh 3D environments. This functionality will enable users to collaborate spatially as avatars on a 2D whiteboard present in the virtual space, available on PC and Meta Quest devices. Mesh event attendees can use inking, annotation, and other built-in tools to brainstorm, plan, and share with others on a digital canvas in real time. Copilot integration with Whiteboard helps suggest and organize ideas directly on your canvas while in Mesh.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412076/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "412076",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412076",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: New collaborative Project Studio environment in Microsoft Mesh",
+      "description": "The Project Studio environment is a new space for immersive meetings and Mesh events. This space has been designed for synchronous teamwork and productivity for small groups to collaborate on content. Collaboration tools like whiteboards will be added to the environment as they become available.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412360/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "412360",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412360",
+      "category": [
+        "Android",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Mesh app on Meta Quest headsets supports hand interactions",
+      "description": "Microsoft Mesh app users on Meta Quest 2, 3, and Pro headsets can now use their hands to use the app, move around in event environments, and interact with objects. Motion controllers continue to be supported, and users can switch between using controllers or their hands while using the app.",
+      "pubDate": "Fri, 16 Aug 2024 22:30:02 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418130/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420329/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "420329",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420329",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Name pronunciation",
+      "description": "You can now record and share the correct pronunciation of your name, promoting inclusivity and helping colleagues avoid mispronunciations. With a click, you can play and listen to your colleagues' name pronunciations.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422718/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "422718",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422718",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics with Copilot",
+      "description": "?In space analytics, use Copilot to analyze and explain key data points and trends in your space utilization graphs. It compares current utilization metrics such as occupancy, desk usage, and room bookings against previous time periods (e.g. last month, last quarter), highlighting important changes and trends.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422719/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "422719",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422719",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics",
+      "description": "Space analytics in Places provides dashboards for buildings, bookable rooms, and desk pools, providing a unified view of key metrics. Users can pick the space type of their interest and dive deeper to know more about its utilization.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/429868/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "429868",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429868",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Optimized hover actions in the message list on Outlook on the Web and New Outlook for Windows",
+      "description": "The hover actions in the message list will be modified to be more space efficient and minimize unnecessary mouse travel. This change primarily affects users with the multicolumn (wider) message list. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/468868/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "468868",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468868",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Custom Meeting Branding - Support multiple meeting themes per customization policy",
+      "description": "Admins can now create and assign multiple meeting themes to a customization policy in the Teams Admin Center. This will allow meeting organizers who are assigned to a customization policy the ability to select from different meeting theme options while scheduling their meetings. Note - this feature requires a Teams Premium license.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/468886/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "468886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468886",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enhanced functionalities to manage SharePoint Embedded Containers through SharePoint Admin Center ",
+      "description": "The new update empowers the SharePoint Embedded Administrators (SPE Admins) to manage their containers better through sorting and filtering capabilities as well as set sensitivity labels on containers. The SPE Admins now also have user role management capabilities to add, reassign, or remove users from various roles of a container.",
+      "pubDate": "Thu, 21 Nov 2024 00:15:42 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469491/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "469491",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469491",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Customize the location of toast notification",
+      "description": "You can now customize where your notification toasts appear on your screen. Options include bottom right, top right, bottom left, and top left, allowing you to choose the most convenient and least intrusive location for a better experience and productivity.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469507/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "469507",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469507",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forwarding loop components",
+      "description": "You can now forward chat messages containing Loop components, allowing for seamless sharing and real-time collaboration across different chats. To forward a message, navigate to it, click on the ellipsis, and select ‘Forward’ from the menu.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469508/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "469508",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469508",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forward messages to and from channels",
+      "description": "You can now forward messages between channels, allowing you to efficiently share important information with relevant team members. To forward a channel message post, channel post reply, or chat message to another channel, 1:1 or group chat, select the message’s ellipsis menu and choose Forward.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470018/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "470018",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470018",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move emails between accounts in the New Outlook for Windows",
+      "description": "We’re excited to announce a new feature in Outlook that makes it easier to manage emails across multiple accounts. All personal accounts in the new Outlook for Windows can seamlessly move emails between all their personal accounts, streamlining organization and productivity. For work or school users, this feature is controlled by a policy managed by administrators. By enabling this policy, admins can grant their users the ability to move emails between accounts in a way that aligns with organizational needs and policies. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470020/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "470020",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470020",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Setting to toggle comma as recipient delimiter",
+      "description": "By default, Outlook Web and the New Outlook support separating recipients by using either a semicolon or a comma. This new setting allows users to choose if the comma should be used as a recipient separator or instead allowed as part of the contact name. This is helpful for organizations where contacts follow the \"Last name, First name\" format. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470022/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-11-22T02:27:25.9885482+00:00",
+      "guid": "470022",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470022",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Tips pane entry point moving from Suite Header to Ribbon",
+      "description": "The Tips pane's entry point is moving from the Suite Header (found at the top of the window) to the Help tab of the Ribbon. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
