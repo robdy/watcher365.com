@@ -2,13 +2,15 @@ import React from "react";
 import EntryTileVew from "./EntryTileView";
 const fs = require('fs');
 
-const EntryTile: any = async ({ entryID, version }: any) => {
+const EntryTile: any = async ({ entryID, version, searchTerms }: any) => {
   if (version.match(/v\d{4}\.json/) === null) return (<div>Invalid version</div>)
   // List files in data/versions/{entryID} folder
   const versionsFolderPath = `../data/versions/${entryID}`;
   
   const afterData = await fs.promises.readFile(`${versionsFolderPath}/${version}`);
   const afterObj = JSON.parse(afterData)
+
+  if (searchTerms && searchTerms !== '' && JSON.stringify(afterObj).toLowerCase().indexOf(searchTerms.toLowerCase()) === -1) return (<></>)
 
   const getBeforeVersion = (afterVersion: string) => {
     if (afterVersion === 'v0001.json') return ''
