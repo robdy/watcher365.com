@@ -1,0 +1,20 @@
+{
+  "timestamp": "2024-12-07T02:28:16.6917919+00:00",
+  "guid": "471010",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=471010",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - New email scoring capabilities",
+  "description": "Insider risk management (IRM) email scoring logic is being updated. With current logic, a single email to multiple recipients (say “n”) is counted multiple times (n times), and this is creating noise by increasing the risk score. In the new logic, a single email to multiple recipients is counted once, and this new principle is applicable to the email containing multiple unallowed domains or priority content. Once this is rolled out, all the email insights in alerts will display the new count and score.  \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Fri, 06 Dec 2024 23:15:49 Z",
+  "updated": "2024-12-06T23:15:49Z",
+  "publicDisclosureAvailabilityDate": "February CY2025",
+  "publicPreviewDate": null
+}
