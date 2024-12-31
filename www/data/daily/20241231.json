@@ -1,0 +1,467 @@
+[
+  {
+    "Path": "data/374811.json",
+    "CurrentVersion": {
+      "guid": "374811",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374811",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Support for Four New predicates on Endpoint DLP",
+      "description": "With this capability, admins can extend the below mentioned predicates to Microsoft Purview DLP for Endpoint\n- Document is unscannable\n- Document didn't complete scanning\n- Document name matches patterns\n- Document size equals or is greater than",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "374811",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374811",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Support for Four New predicates on Endpoint DLP",
+      "description": "With this capability, admins can extend the below mentioned predicates to Microsoft Purview DLP for Endpoint\n- Document is unscannable\n- Document didn't complete scanning\n- Document name matches patterns\n- Document size equals or is greater than",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-09-05T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/377676.json",
+    "CurrentVersion": {
+      "guid": "377676",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377676",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: New usage reports for Microsoft Copilot with enterprise data protection",
+      "description": "The new report for Copilot (enterprise data protection) will include total active users, average daily active users, and active users of per app. The report will initially be limited to Copilot usage in the Microsoft 365 App and Microsoft Edge by users with a Microsoft 365 license. In the future, the report will include more apps. Admins can view usage insights as totals and can view trends for the last 7, 30, 90, or 180 days. The report will also show the last activity date per user, anonymized by default.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "377676",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377676",
+      "category": [
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: New usage reports for Microsoft Copilot with enterprise data protection",
+      "description": "The new report for Copilot (enterprise data protection) will include total active users, average daily active users, and active users of per app. The report will initially be limited to Copilot usage in the Microsoft 365 App and Microsoft Edge by users with a Microsoft 365 license. In the future, the report will include more apps. Admins can view usage insights as totals and can view trends for the last 7, 30, 90, or 180 days. The report will also show the last activity date per user, anonymized by default.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 Z",
+      "updated": "2024-12-02T18:00:37Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408172.json",
+    "CurrentVersion": {
+      "guid": "408172",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408172",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "408172",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408172",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-12-04T00:15:03Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408534.json",
+    "CurrentVersion": {
+      "guid": "408534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408534",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance- Enrich triage in Communication compliance with Insider Risk context",
+      "description": "Enhance the triage experience in communication compliance with Insider Risk Insights. This integration provides investigators a deeper understanding of the risk profile of message senders along with a more comprehensive view of the sender's risk severity and historical risk-related actions. With this enriched context, investigators are empowered to make more informed and effective remediation decisions, ensuring a robust compliance posture.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "408534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408534",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance- Enrich triage in Communication compliance with Insider Risk context",
+      "description": "Enhance the triage experience in communication compliance with Insider Risk Insights. This integration provides investigators a deeper understanding of the risk profile of message senders along with a more comprehensive view of the sender's risk severity and historical risk-related actions. With this enriched context, investigators are empowered to make more informed and effective remediation decisions, ensuring a robust compliance posture.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-10-22T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/416449.json",
+    "CurrentVersion": {
+      "guid": "416449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416449",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Unified Create button in Viva Engage",
+      "description": "This feature brings a new way for users to create posts, communities etc. through a centralized creation button in Viva Engage. Currently, Engage users need to go to different locations in the application for different creation types - a post, community, etc. Starting in October 2024, a Viva Engage user will be able to create the different types of content already enabled for them, using a centralized creation button. This new feature eases the process of creation and helps users quickly discover the various creation options they are licensed to use.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416449",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Unified Create button in Viva Engage",
+      "description": "This feature brings a new way for users to create posts, communities etc. through a centralized creation button in Viva Engage. Currently, Engage users need to go to different locations in the application for different creation types - a post, community, etc. Starting in October 2024, a Viva Engage user will be able to create the different types of content already enabled for them, using a centralized creation button. This new feature eases the process of creation and helps users quickly discover the various creation options they are licensed to use.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-10-17T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422307.json",
+    "CurrentVersion": {
+      "guid": "422307",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422307",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Updated Context IQ menu in Business Chat",
+      "description": "Updates to Copilot Context IQ menu provides an intuitive and seamless interaction improving reliability and performance.",
+      "pubDate": "Mon, 21 Oct 2024 23:30:37 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422307",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422307",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Updated Context IQ menu in Business Chat",
+      "description": "Updates to Copilot Context IQ menu provides an intuitive and seamless interaction improving reliability and performance.",
+      "pubDate": "Mon, 21 Oct 2024 23:30:37 Z",
+      "updated": "2024-12-02T18:00:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/472919.json",
+    "CurrentVersion": {
+      "guid": "472919",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472919",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Additional support on SPAC to identify different types of Embedded containers and their principal owner",
+      "description": "The update enables SharePoint Embedded Administrators (SPE Admins) to identify the different kind of containers (user, tenant, and group) and the principal owner associated with the container.",
+      "pubDate": "Tue, 31 Dec 2024 00:00:51 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/473453.json",
+    "CurrentVersion": {
+      "guid": "473453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473453",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Ability to increase configuration of CPU and GPU device resource utilization limits in Forensic Evidence",
+      "description": "Insider Risk Management Administrators will now be able to increase the CPU and GPU device resource utilization limit for all devices uploading Forensic Evidence clips in their organization. Forensic Evidence will now allow up to 31% CPU and GPU device resource utilization, up from the prior maximum limit of 5%. This enhancement reduces interruptions in the recording and uploading of clips.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 31 Dec 2024 00:00:51 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374811/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "374811",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374811",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention for endpoints - Support for Four New predicates on Endpoint DLP",
+      "description": "With this capability, admins can extend the below mentioned predicates to Microsoft Purview DLP for Endpoint\n- Document is unscannable\n- Document didn't complete scanning\n- Document name matches patterns\n- Document size equals or is greater than",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377676/v0012.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "377676",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377676",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: New usage reports for Microsoft Copilot with enterprise data protection",
+      "description": "The new report for Copilot (enterprise data protection) will include total active users, average daily active users, and active users of per app. The report will initially be limited to Copilot usage in the Microsoft 365 App and Microsoft Edge by users with a Microsoft 365 license. In the future, the report will include more apps. Admins can view usage insights as totals and can view trends for the last 7, 30, 90, or 180 days. The report will also show the last activity date per user, anonymized by default.",
+      "pubDate": "Thu, 04 Apr 2024 23:15:16 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408172/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "408172",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408172",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408534/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "408534",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408534",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance- Enrich triage in Communication compliance with Insider Risk context",
+      "description": "Enhance the triage experience in communication compliance with Insider Risk Insights. This integration provides investigators a deeper understanding of the risk profile of message senders along with a more comprehensive view of the sender's risk severity and historical risk-related actions. With this enriched context, investigators are empowered to make more informed and effective remediation decisions, ensuring a robust compliance posture.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416449/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "416449",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416449",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Unified Create button in Viva Engage",
+      "description": "This feature brings a new way for users to create posts, communities etc. through a centralized creation button in Viva Engage. Currently, Engage users need to go to different locations in the application for different creation types - a post, community, etc. Starting in October 2024, a Viva Engage user will be able to create the different types of content already enabled for them, using a centralized creation button. This new feature eases the process of creation and helps users quickly discover the various creation options they are licensed to use.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422307/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "422307",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422307",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Updated Context IQ menu in Business Chat",
+      "description": "Updates to Copilot Context IQ menu provides an intuitive and seamless interaction improving reliability and performance.",
+      "pubDate": "Mon, 21 Oct 2024 23:30:37 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/472919/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "472919",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472919",
+      "category": [
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Additional support on SPAC to identify different types of Embedded containers and their principal owner",
+      "description": "The update enables SharePoint Embedded Administrators (SPE Admins) to identify the different kind of containers (user, tenant, and group) and the principal owner associated with the container.",
+      "pubDate": "Tue, 31 Dec 2024 00:00:51 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473453/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2024-12-31T02:23:17.3168101+00:00",
+      "guid": "473453",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473453",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Ability to increase configuration of CPU and GPU device resource utilization limits in Forensic Evidence",
+      "description": "Insider Risk Management Administrators will now be able to increase the CPU and GPU device resource utilization limit for all devices uploading Forensic Evidence clips in their organization. Forensic Evidence will now allow up to 31% CPU and GPU device resource utilization, up from the prior maximum limit of 5%. This enhancement reduces interruptions in the recording and uploading of clips.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 31 Dec 2024 00:00:51 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
