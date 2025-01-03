@@ -1,0 +1,620 @@
+[
+  {
+    "Path": "data/414524.json",
+    "CurrentVersion": {
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417481.json",
+    "CurrentVersion": {
+      "guid": "417481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417481",
+      "category": [
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enterprise Application Insights for SharePoint sites",
+      "description": "Enterprise Application Insights is a powerful report which helps SharePoint Administrators to discover all the SharePoint sites that are allowed access by third-party applications registered in your tenant. The report also provides details on the application's permission and requests count to help admins take further action to strengthen the security of the site.\n\nIt is part of SharePoint Advanced Management capabilities.",
+      "pubDate": "Thu, 19 Sep 2024 23:15:45 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "417481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417481",
+      "category": [
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enterprise Application Insights for SharePoint sites",
+      "description": "Enterprise Application Insights is a powerful report which helps SharePoint Administrators to discover all the SharePoint sites that are allowed access by third-party applications registered in your tenant. The report also provides details on the application's permission and requests count to help admins take further action to strengthen the security of the site.\n\nIt is part of SharePoint Advanced Management capabilities.",
+      "pubDate": "Thu, 19 Sep 2024 23:15:45 Z",
+      "updated": "2024-11-22T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/468282.json",
+    "CurrentVersion": {
+      "guid": "468282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468282",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Default enable transcription policy for new tenants",
+      "description": "We are updating the default policy for Transcription from “off” to “on” for any new tenant. This change doesn’t mean that every meeting will automatically have transcription enabled, but it will allow users to turn on transcription if needed. This adjustment aligns the default Transcription policy with that of Recording, supporting broader adoption of Transcription and all AI features.",
+      "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "468282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468282",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Default enable transcription policy for new tenants",
+      "description": "We are updating the default policy for Transcription from “off” to “on” for any new tenant. This change doesn’t mean that every meeting will automatically have transcription enabled, but it will allow users to turn on transcription if needed. This adjustment aligns the default Transcription policy with that of Recording, supporting broader adoption of Transcription and all AI features.",
+      "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
+      "updated": "2024-12-05T00:15:07Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470020.json",
+    "CurrentVersion": {
+      "guid": "470020",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470020",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Setting to toggle comma as recipient delimiter",
+      "description": "By default, Outlook Web and the New Outlook support separating recipients by using either a semicolon or a comma. This new setting allows users to choose if the comma should be used as a recipient separator or instead allowed as part of the contact name. This is helpful for organizations where contacts follow the \"Last name, First name\" format. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470020",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470020",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Setting to toggle comma as recipient delimiter",
+      "description": "By default, Outlook Web and the New Outlook support separating recipients by using either a semicolon or a comma. This new setting allows users to choose if the comma should be used as a recipient separator or instead allowed as part of the contact name. This is helpful for organizations where contacts follow the \"Last name, First name\" format. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470027.json",
+    "CurrentVersion": {
+      "guid": "470027",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470027",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - New Insider Risk Management reporting capabilities",
+      "description": "Insider risk management is introducing one central location for all reports including analytics and user activity reports. Additional reports will also be available that will summarize trends in alerts generated and cases created. Sample reports include alerts generated over time, alerts actioned over time, alerts and cases generated by region and department, top triggering events of alerts generated, and average time to triage alerts and cases.\n\nThe ability to filter reports will also be introduced. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/470597.json",
+    "CurrentVersion": {
+      "guid": "470597",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470597",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared tab in channel",
+      "description": "he Files tab in channels is now \"Shared\". In addition to files that are currently shown from document library, new experience will also show all the files and links shared in the channel conversations. This makes it easier to find content all in one place.",
+      "pubDate": "Tue, 10 Dec 2024 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470597",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470597",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared tab in channel",
+      "description": "he Files tab in channels is now \"Shared\". In addition to files that are currently shown from document library, new experience will also show all the files and links shared in the channel conversations. This makes it easier to find content all in one place.",
+      "pubDate": "Tue, 10 Dec 2024 00:15:43 Z",
+      "updated": "2024-12-11T00:15:40Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470602.json",
+    "CurrentVersion": {
+      "guid": "470602",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470602",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Account descriptions",
+      "description": "Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
+      "pubDate": "Mon, 02 Dec 2024 18:00:37 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470602",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470602",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Account descriptions",
+      "description": "Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
+      "pubDate": "Mon, 02 Dec 2024 18:00:37 Z",
+      "updated": "2024-12-02T18:00:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/472022.json",
+    "CurrentVersion": {
+      "guid": "472022",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472022",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365 app",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop –  Add a Loop Workspace to your Teams Channel",
+      "description": "Channels in Microsoft Teams streamline collaboration by bringing people, content, and apps together and helping to organize them by project or topic. You will be able to add a Loop workspace tab to standard channels enabling your team to brainstorm, co-create, collect, and organize content—together in real-time. Everyone in the Team gets access to the Loop workspace, even as Team membership changes, and the workspace adheres to the governance, lifecycle, and compliance standards set by the Microsoft 365 Group backing the team. To get started, click the plus sign (+) at the top of the channel and select Loop from the app list.",
+      "pubDate": "Fri, 20 Dec 2024 00:00:02 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "472022",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472022",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop –  Add a Loop Workspace to your Teams Channel",
+      "description": "Channels in Microsoft Teams streamline collaboration by bringing people, content, and apps together and helping to organize them by project or topic. You will be able to add a Loop workspace tab to standard channels enabling your team to brainstorm, co-create, collect, and organize content—together in real-time. Everyone in the Team gets access to the Loop workspace, even as Team membership changes, and the workspace adheres to the governance, lifecycle, and compliance standards set by the Microsoft 365 Group backing the team. To get started, click the plus sign (+) at the top of the channel and select Loop from the app list.",
+      "pubDate": "Fri, 20 Dec 2024 00:00:02 Z",
+      "updated": "2024-12-20T00:00:02Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/473886.json",
+    "CurrentVersion": {
+      "guid": "473886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473886",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Separate policies to control transcription for Town halls and Webinars",
+      "description": "Town halls and webinars will now have separate policies to allow or disable transcription in instances. Previously, the transcription policies for town halls and webinars automatically inherited the transcription policy set for meetings. This option to implement different policies for town hall and webinars is available for users on all licenses.",
+      "pubDate": "Mon, 23 Dec 2024 23:00:26 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "473886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473886",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Separate policies to control transcription for Town halls and Webinars",
+      "description": "Town halls and webinars will now have separate policies to allow or disable transcription in instances. Previously, the transcription policies for town halls and webinars automatically inherited the transcription policy set for meetings. This option to implement different policies for town hall and webinars is available for users on all licenses.",
+      "pubDate": "Mon, 23 Dec 2024 23:00:26 Z",
+      "updated": "2024-12-23T23:00:26Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/474441.json",
+    "CurrentVersion": {
+      "guid": "474441",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=474441",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Occupancy status on Teams panels",
+      "description": "Teams panels can now smartly utilize signals from Teams Rooms devices or occupancy sensors paired with panels to indicate when a room is in use (e.g. LED glow), so you’re not surprised to find an available room is actually occupied.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414524/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417481/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "417481",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417481",
+      "category": [
+        "General Availability",
+        "In development",
+        "Preview",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enterprise Application Insights for SharePoint sites",
+      "description": "Enterprise Application Insights is a powerful report which helps SharePoint Administrators to discover all the SharePoint sites that are allowed access by third-party applications registered in your tenant. The report also provides details on the application's permission and requests count to help admins take further action to strengthen the security of the site.\n\nIt is part of SharePoint Advanced Management capabilities.",
+      "pubDate": "Thu, 19 Sep 2024 23:15:45 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/468282/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "468282",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468282",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Default enable transcription policy for new tenants",
+      "description": "We are updating the default policy for Transcription from “off” to “on” for any new tenant. This change doesn’t mean that every meeting will automatically have transcription enabled, but it will allow users to turn on transcription if needed. This adjustment aligns the default Transcription policy with that of Recording, supporting broader adoption of Transcription and all AI features.",
+      "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470020/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "470020",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470020",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Setting to toggle comma as recipient delimiter",
+      "description": "By default, Outlook Web and the New Outlook support separating recipients by using either a semicolon or a comma. This new setting allows users to choose if the comma should be used as a recipient separator or instead allowed as part of the contact name. This is helpful for organizations where contacts follow the \"Last name, First name\" format. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470027/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "470027",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470027",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - New Insider Risk Management reporting capabilities",
+      "description": "Insider risk management is introducing one central location for all reports including analytics and user activity reports. Additional reports will also be available that will summarize trends in alerts generated and cases created. Sample reports include alerts generated over time, alerts actioned over time, alerts and cases generated by region and department, top triggering events of alerts generated, and average time to triage alerts and cases.\n\nThe ability to filter reports will also be introduced. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470597/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "470597",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470597",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Shared tab in channel",
+      "description": "he Files tab in channels is now \"Shared\". In addition to files that are currently shown from document library, new experience will also show all the files and links shared in the channel conversations. This makes it easier to find content all in one place.",
+      "pubDate": "Tue, 10 Dec 2024 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470602/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "470602",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470602",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Account descriptions",
+      "description": "Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
+      "pubDate": "Mon, 02 Dec 2024 18:00:37 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/472022/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "472022",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472022",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365 app",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop –  Add a Loop Workspace to your Teams Channel",
+      "description": "Channels in Microsoft Teams streamline collaboration by bringing people, content, and apps together and helping to organize them by project or topic. You will be able to add a Loop workspace tab to standard channels enabling your team to brainstorm, co-create, collect, and organize content—together in real-time. Everyone in the Team gets access to the Loop workspace, even as Team membership changes, and the workspace adheres to the governance, lifecycle, and compliance standards set by the Microsoft 365 Group backing the team. To get started, click the plus sign (+) at the top of the channel and select Loop from the app list.",
+      "pubDate": "Fri, 20 Dec 2024 00:00:02 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473886/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "473886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473886",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Separate policies to control transcription for Town halls and Webinars",
+      "description": "Town halls and webinars will now have separate policies to allow or disable transcription in instances. Previously, the transcription policies for town halls and webinars automatically inherited the transcription policy set for meetings. This option to implement different policies for town hall and webinars is available for users on all licenses.",
+      "pubDate": "Mon, 23 Dec 2024 23:00:26 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/474441/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-03T02:24:18.8852771+00:00",
+      "guid": "474441",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=474441",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Occupancy status on Teams panels",
+      "description": "Teams panels can now smartly utilize signals from Teams Rooms devices or occupancy sensors paired with panels to indicate when a room is in use (e.g. LED glow), so you’re not surprised to find an available room is actually occupied.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
