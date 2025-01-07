@@ -1,0 +1,19 @@
+{
+  "guid": "473460",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473460",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Microsoft Purview Endpoint DLP blanket protections for unscannable file types",
+  "description": "Purview Endpoint DLP supports a set of specific file extensions and types. For file extensions not listed in this document, customers must use the 'File extension is' or 'File type is' rule condition. However, this approach can be challenging, as it requires manually enumerate all desired file extensions. This feature will enable protection for files outside the standard Purview Endpoint DLP monitoring scope.<br>More info: https://learn.microsoft.com/en-us/purview/dlp-create-deploy-policy?tabs=purview#scenario-3-apply-controls-to-supported-files-that-fail-scanning",
+  "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+  "updated": "2025-01-07T00:01:00Z",
+  "publicDisclosureAvailabilityDate": "January CY2025",
+  "publicPreviewDate": null
+}
