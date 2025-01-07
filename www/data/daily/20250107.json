@@ -1,0 +1,980 @@
+[
+  {
+    "Path": "data/186576.json",
+    "CurrentVersion": {
+      "guid": "186576",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186576",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Auto-Remediation of Malicious Entity Clusters Identified in Automated Investigation and Response (AIR)",
+      "description": "The feature will expand upon the automated investigation and response (AIR) by enabling AIR to automatically remediate malicious entity clusters. AIR currently recommends actions for SecOps to approve or decline and this enhancement will allow customers to enable auto-remediation to allow AIR to act on recommendations and soft delete messages included in a malicious URL or malicious file cluster.",
+      "pubDate": "Tue, 28 Nov 2023 02:15:04 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186576",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186576",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Auto-Remediation of Malicious Entity Clusters Identified in Automated Investigation and Response (AIR)",
+      "description": "The feature will expand upon the automated investigation and response (AIR) by enabling AIR to automatically remediate malicious entity clusters. AIR currently recommends actions for SecOps to approve or decline and this enhancement will allow customers to enable auto-remediation to allow AIR to act on recommendations and soft delete messages included in a malicious URL or malicious file cluster.",
+      "pubDate": "Tue, 28 Nov 2023 02:15:04 Z",
+      "updated": "2024-07-03T00:00:28Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/381950.json",
+    "CurrentVersion": {
+      "guid": "381950",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381950",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Purview support for Webinars",
+      "description": "IT admins can leverage Microsoft Purview for eDiscovery and legal hold needs to maintain compliance for webinars.",
+      "pubDate": "Fri, 09 Feb 2024 01:00:53 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "381950",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381950",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Purview support for Webinars",
+      "description": "IT admins can leverage Microsoft Purview for eDiscovery and legal hold needs to maintain compliance for webinars.",
+      "pubDate": "Fri, 09 Feb 2024 01:00:53 Z",
+      "updated": "2024-05-06T23:45:36Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/383530.json",
+    "CurrentVersion": {
+      "guid": "383530",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383530",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Purview support for town hall",
+      "description": "IT admins can leverage Microsoft Purview for eDiscovery and legal hold needs to maintain compliance for town halls.",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "383530",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383530",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Purview support for town hall",
+      "description": "IT admins can leverage Microsoft Purview for eDiscovery and legal hold needs to maintain compliance for town halls.",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2024-05-07T23:30:56Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408171.json",
+    "CurrentVersion": {
+      "guid": "408171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408171",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "Exchange",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Ability to add apps to meetings",
+      "description": "With this update, customers will be able to add apps to their meetings, similar to how they can do that in classic Outlook for Windows. #newoutlookforwindows. We are pausing development of this feature for the time being. We apologize for any inconveniences this may cause.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "408171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408171",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Ability to add apps to meetings",
+      "description": "With this update, customers will be able to add apps to their meetings, similar to how they can do that in classic Outlook for Windows. #newoutlookforwindows",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 Z",
+      "updated": "2024-09-05T23:30:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410201.json",
+    "CurrentVersion": {
+      "guid": "410201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410201",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights- Copilot for Sales Metrics & PBI Report",
+      "description": "Providing Copilot for Sales metrics for Viva Insights analysts in Advanced insights. Copilot for Sales adoption PBI report to provide a starter template to explore Copilot for Sales adoption across the organization.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410201",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights- Copilot for Sales Metrics & PBI Report",
+      "description": "Providing Copilot for Sales metrics for Viva Insights analysts in Advanced insights. Copilot for Sales adoption PBI report to provide a starter template to explore Copilot for Sales adoption across the organization.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2024-12-27T23:15:23Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410246.json",
+    "CurrentVersion": {
+      "guid": "410246",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410246",
+      "category": [
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Microsoft 365 Copilot usage report - Admins can view line of business agent usage",
+      "description": "Admins can view line of business Copilot agent usage in their tenant from the Microsoft 365 admin center.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410246",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410246",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Microsoft 365 Copilot usage report - Admins can view line of business agent usage",
+      "description": "Admins can view line of business Copilot agent usage in their tenant from the Microsoft 365 admin center.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-10-25T00:00:13Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416093.json",
+    "CurrentVersion": {
+      "guid": "416093",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416093",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Elevating top settings and improving settings page navigability",
+      "description": "To make finding browser settings more efficient, Microsoft Edge is introducing three navigation improvements to Edge Settings. We are making no changes to the functionality of any setting and all settings will remain on the same page as they are today but will be behind clickable sections. The first is introducing quick access to the most used actions on the landing page of Edge Settings. Second, each densely populated page—Privacy, search, and services; Appearance; Cookies and site permissions; System and performance—will feature quick access to its most used actions. Third, for these same pages, each section will now click-through to its respective sub-settings (similar to a table of contents).",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416093",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416093",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Elevating top settings and improving settings page navigability",
+      "description": "To make finding browser settings more efficient, Microsoft Edge is introducing three navigation improvements to Edge Settings. We are making no changes to the functionality of any setting and all settings will remain on the same page as they are today but will be behind clickable sections. The first is introducing quick access to the most used actions on the landing page of Edge Settings. Second, each densely populated page—Privacy, search, and services; Appearance; Cookies and site permissions; System and performance—will feature quick access to its most used actions. Third, for these same pages, each section will now click-through to its respective sub-settings (similar to a table of contents).",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2024-12-05T00:15:07Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417475.json",
+    "CurrentVersion": {
+      "guid": "417475",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417475",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Take notes with Copilot in OneNote directly in the flow from the canvas",
+      "description": "Gather and create notes with Copilot in your personal non-shared OneNote notebooks directly on the page.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "417475",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417475",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Quick rewrite, summarize, and to do actions with Copilot on OneNote canvas",
+      "description": "Use Copilot right in your workflow by invoking Copilot to generate a summary, a to-do list, or help you rewrite the content on the page or based on your selection.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2024-12-17T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/418117.json",
+    "CurrentVersion": {
+      "guid": "418117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418117",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Event Chat for town halls (Premium)",
+      "description": "Previously in a town hall, only presenters and organizers could chat with each other. With this new update, attendees, presenters and organizers can now chat together during a town hall using the new Event Chat feature. Presenters and organizers can still chat privately during the town hall as well. A Teams Premium license is required for the organizer role to deploy this feature within town hall instances.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "418117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418117",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Event Chat for town halls (Premium)",
+      "description": "Previously in a town hall, only presenters and organizers could chat with each other. With this new update, attendees, presenters and organizers can now chat together during a town hall using the new Event Chat feature. Presenters and organizers can still chat privately during the town hall as well. A Teams Premium license is required for the organizer role to deploy this feature within town hall instances.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2024-11-01T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422814.json",
+    "CurrentVersion": {
+      "guid": "422814",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422814",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Archived Teams' schedules no longer visible",
+      "description": "We've improved the schedule view by hiding archived teams' schedules. This reduces clutter, allowing you to focus on active teams and their schedules.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422814",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422814",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Archived Teams' schedules no longer visible",
+      "description": "We've improved the schedule view by hiding archived teams' schedules. This reduces clutter, allowing you to focus on active teams and their schedules.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2024-12-06T00:00:08Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470019.json",
+    "CurrentVersion": {
+      "guid": "470019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470019",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Copilot chat-assisted scheduling",
+      "description": "Copilot now helps you schedule simple meetings such as 1:1s and focus time. Just ask Copilot to find some time with someone in your org and it will find the optimal time. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 23:15:35 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470019",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Copilot chat-assisted scheduling",
+      "description": "Copilot now helps you schedule simple meetings such as 1:1s and focus time. Just ask Copilot to find some time with someone in your org and it will find the optimal time. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 23:15:35 Z",
+      "updated": "2024-11-22T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/473459.json",
+    "CurrentVersion": {
+      "guid": "473459",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473459",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel with Python for Web",
+      "description": "Using everyday language, ask Copilot to perform advanced analytics that would usually take you hours or is beyond your skillset like machine learning, predictive forecasting, and more. Copilot will write Python code for you and insert it on the grid, resulting in deeper insights and stunning visuals. Now available for Web in all supported languages.",
+      "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/473460.json",
+    "CurrentVersion": {
+      "guid": "473460",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473460",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Microsoft Purview Endpoint DLP blanket protections for unscannable file types",
+      "description": "Purview Endpoint DLP supports a set of specific file extensions and types. For file extensions not listed in this document, customers must use the 'File extension is' or 'File type is' rule condition. However, this approach can be challenging, as it requires manually enumerate all desired file extensions. This feature will enable protection for files outside the standard Purview Endpoint DLP monitoring scope.<br>More info: https://learn.microsoft.com/en-us/purview/dlp-create-deploy-policy?tabs=purview#scenario-3-apply-controls-to-supported-files-that-fail-scanning",
+      "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/473570.json",
+    "CurrentVersion": {
+      "guid": "473570",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473570",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ad-hoc individual desk booking in Teams",
+      "description": "While previously able to reserve a spot within a desk pool, now you can book an individual desk when plugging into a shared desk peripheral. In addition, IT admins can get valuable individual desk utilization data in the Teams Rooms Pro Management portal making flexible work environments better for users and IT. This feature requires a Teams Premium license.",
+      "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/473803.json",
+    "CurrentVersion": {
+      "guid": "473803",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473803",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: FSLogix support for the new Outlook for Windows",
+      "description": "FSLogix support for the new Outlook for Windows includes registering the new Outlook for Windows package by family name and persisting the user data in LocalAppData. It will allow the roaming of user data in new Outlook for non-persistent VDI. #newoutlookforwindows<br>More info: https://learn.microsoft.com/microsoft-365-apps/outlook/get-started/virtualized-desktop-infrastructure",
+      "pubDate": "Fri, 20 Dec 2024 00:00:02 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "473803",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473803",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: FSLogix support for the new Outlook for Windows",
+      "description": "FSLogix support for the new Outlook for Windows includes registering the new Outlook for Windows package by family name and persisting the user data in LocalAppData. It will allow the roaming of user data in new Outlook for non-persistent VDI. #newoutlookforwindows",
+      "pubDate": "Fri, 20 Dec 2024 00:00:02 Z",
+      "updated": "2024-12-20T00:00:02Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/65632.json",
+    "CurrentVersion": {
+      "guid": "65632",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=65632",
+      "category": [
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Excel: Refresh queries from Authenticated Data Sources in Excel for the Web",
+      "description": "<div>You can now refresh Power Query data from data sources that require authentication in Excel for the Web. </div>",
+      "pubDate": "Tue, 22 Aug 2023 23:16:17 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "65632",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=65632",
+      "category": [
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Excel: Refresh queries from Authenticated Data Sources in Excel for the Web",
+      "description": "<div>You can now refresh Power Query data from data sources that require authentication in Excel for the Web. </div>",
+      "pubDate": "Tue, 22 Aug 2023 23:16:17 Z",
+      "updated": "2024-11-26T00:15:41Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/versions/186576/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "186576",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186576",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Defender for Office 365",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Office 365: Auto-Remediation of Malicious Entity Clusters Identified in Automated Investigation and Response (AIR)",
+      "description": "The feature will expand upon the automated investigation and response (AIR) by enabling AIR to automatically remediate malicious entity clusters. AIR currently recommends actions for SecOps to approve or decline and this enhancement will allow customers to enable auto-remediation to allow AIR to act on recommendations and soft delete messages included in a malicious URL or malicious file cluster.",
+      "pubDate": "Tue, 28 Nov 2023 02:15:04 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/381950/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "381950",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=381950",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Purview support for Webinars",
+      "description": "IT admins can leverage Microsoft Purview for eDiscovery and legal hold needs to maintain compliance for webinars.",
+      "pubDate": "Fri, 09 Feb 2024 01:00:53 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/383530/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "383530",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=383530",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Purview support for town hall",
+      "description": "IT admins can leverage Microsoft Purview for eDiscovery and legal hold needs to maintain compliance for town halls.",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408171/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "408171",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408171",
+      "category": [
+        "Cancelled",
+        "Desktop",
+        "Exchange",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Ability to add apps to meetings",
+      "description": "With this update, customers will be able to add apps to their meetings, similar to how they can do that in classic Outlook for Windows. #newoutlookforwindows. We are pausing development of this feature for the time being. We apologize for any inconveniences this may cause.",
+      "pubDate": "Fri, 19 Jul 2024 22:30:23 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410201/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "410201",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410201",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Viva",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights- Copilot for Sales Metrics & PBI Report",
+      "description": "Providing Copilot for Sales metrics for Viva Insights analysts in Advanced insights. Copilot for Sales adoption PBI report to provide a starter template to explore Copilot for Sales adoption across the organization.",
+      "pubDate": "Mon, 19 Aug 2024 23:45:33 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410246/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "410246",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410246",
+      "category": [
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Microsoft 365 Copilot usage report - Admins can view line of business agent usage",
+      "description": "Admins can view line of business Copilot agent usage in their tenant from the Microsoft 365 admin center.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416093/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "416093",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416093",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Elevating top settings and improving settings page navigability",
+      "description": "To make finding browser settings more efficient, Microsoft Edge is introducing three navigation improvements to Edge Settings. We are making no changes to the functionality of any setting and all settings will remain on the same page as they are today but will be behind clickable sections. The first is introducing quick access to the most used actions on the landing page of Edge Settings. Second, each densely populated page—Privacy, search, and services; Appearance; Cookies and site permissions; System and performance—will feature quick access to its most used actions. Third, for these same pages, each section will now click-through to its respective sub-settings (similar to a table of contents).",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417475/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "417475",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417475",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Take notes with Copilot in OneNote directly in the flow from the canvas",
+      "description": "Gather and create notes with Copilot in your personal non-shared OneNote notebooks directly on the page.",
+      "pubDate": "Wed, 09 Oct 2024 23:15:44 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418117/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "418117",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418117",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Event Chat for town halls (Premium)",
+      "description": "Previously in a town hall, only presenters and organizers could chat with each other. With this new update, attendees, presenters and organizers can now chat together during a town hall using the new Event Chat feature. Presenters and organizers can still chat privately during the town hall as well. A Teams Premium license is required for the organizer role to deploy this feature within town hall instances.",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422814/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "422814",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422814",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Archived Teams' schedules no longer visible",
+      "description": "We've improved the schedule view by hiding archived teams' schedules. This reduces clutter, allowing you to focus on active teams and their schedules.",
+      "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470019/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "470019",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470019",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Copilot chat-assisted scheduling",
+      "description": "Copilot now helps you schedule simple meetings such as 1:1s and focus time. Just ask Copilot to find some time with someone in your org and it will find the optimal time. #newoutlookforwindows",
+      "pubDate": "Fri, 22 Nov 2024 23:15:35 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473459/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "473459",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473459",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel with Python for Web",
+      "description": "Using everyday language, ask Copilot to perform advanced analytics that would usually take you hours or is beyond your skillset like machine learning, predictive forecasting, and more. Copilot will write Python code for you and insert it on the grid, resulting in deeper insights and stunning visuals. Now available for Web in all supported languages.",
+      "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473460/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "473460",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473460",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Microsoft Purview Endpoint DLP blanket protections for unscannable file types",
+      "description": "Purview Endpoint DLP supports a set of specific file extensions and types. For file extensions not listed in this document, customers must use the 'File extension is' or 'File type is' rule condition. However, this approach can be challenging, as it requires manually enumerate all desired file extensions. This feature will enable protection for files outside the standard Purview Endpoint DLP monitoring scope.<br>More info: https://learn.microsoft.com/en-us/purview/dlp-create-deploy-policy?tabs=purview#scenario-3-apply-controls-to-supported-files-that-fail-scanning",
+      "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473570/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "473570",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473570",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ad-hoc individual desk booking in Teams",
+      "description": "While previously able to reserve a spot within a desk pool, now you can book an individual desk when plugging into a shared desk peripheral. In addition, IT admins can get valuable individual desk utilization data in the Teams Rooms Pro Management portal making flexible work environments better for users and IT. This feature requires a Teams Premium license.",
+      "pubDate": "Tue, 07 Jan 2025 00:01:00 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473803/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "473803",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473803",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: FSLogix support for the new Outlook for Windows",
+      "description": "FSLogix support for the new Outlook for Windows includes registering the new Outlook for Windows package by family name and persisting the user data in LocalAppData. It will allow the roaming of user data in new Outlook for non-persistent VDI. #newoutlookforwindows<br>More info: https://learn.microsoft.com/microsoft-365-apps/outlook/get-started/virtualized-desktop-infrastructure",
+      "pubDate": "Fri, 20 Dec 2024 00:00:02 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/65632/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-07T02:24:55.4596996+00:00",
+      "guid": "65632",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=65632",
+      "category": [
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Targeted Release (Entire Organization)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Excel: Refresh queries from Authenticated Data Sources in Excel for the Web",
+      "description": "<div>You can now refresh Power Query data from data sources that require authentication in Excel for the Web. </div>",
+      "pubDate": "Tue, 22 Aug 2023 23:16:17 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
