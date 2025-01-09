@@ -1,0 +1,1350 @@
+[
+  {
+    "Path": "data/124796.json",
+    "CurrentVersion": {
+      "guid": "124796",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124796",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery (Premium) - Review set: Advanced filters",
+      "description": "Updates to eDiscovery (Premium) review filters experience that allow admins to construct compound nested filters with either “AND” or “OR” conditions, go back and forth (undo/redo) between different iterations of filters, manage saved filter queries without navigating to a different panel, and use “Is empty/Is not empty” condition for each filter.",
+      "pubDate": "Thu, 13 Apr 2023 23:11:54 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "June CY2023"
+    },
+    "OldVersion": {
+      "guid": "124796",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124796",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery (Premium) - Review set: Advanced filters",
+      "description": "Updates to eDiscovery (Premium) review filters experience that allow admins to construct compound nested filters with either “AND” or “OR” conditions, go back and forth (undo/redo) between different iterations of filters, manage saved filter queries without navigating to a different panel, and use “Is empty/Is not empty” condition for each filter.",
+      "pubDate": "Thu, 13 Apr 2023 23:11:54 Z",
+      "updated": "2024-05-08T23:45:39Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "June CY2023"
+    }
+  },
+  {
+    "Path": "data/334010.json",
+    "CurrentVersion": {
+      "guid": "334010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=334010",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Multilayer structuring, customization, and branding for learning academies",
+      "description": "This feature set brings new functionality to learning academies. Multi-layer structuring allows users to organize content and learning paths under multiple levels. Branding capabilities include the customization of the academy logo and the background image. Customization allows users to hide or show individual components of an academy like featured sets and  learner profile cards.",
+      "pubDate": "Tue, 27 Aug 2024 23:15:04 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "334010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=334010",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Multilayer structuring, customization, and branding for learning academies",
+      "description": "This feature set brings new functionality to learning academies. Multi-layer structuring allows users to organize content and learning paths under multiple levels. Branding capabilities include the customization of the academy logo and the background image. Customization allows users to hide or show individual components of an academy like featured sets and  learner profile cards.",
+      "pubDate": "Tue, 27 Aug 2024 23:15:04 Z",
+      "updated": "2024-08-27T23:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/335856.json",
+    "CurrentVersion": {
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2024-10-22T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/377674.json",
+    "CurrentVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 Z",
+      "updated": "2024-11-06T00:30:44Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/396286.json",
+    "CurrentVersion": {
+      "guid": "396286",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396286",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Edit Learning Paths in Viva Learning",
+      "description": "Admin will be able to edit learning paths metadata and content. Latest updates will be shown to learner after the LP is edited.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "396286",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396286",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Edit Learning Paths in Viva Learning",
+      "description": "Admin will be able to edit learning paths metadata and content. Latest updates will be shown to learner after the LP is edited.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2024-10-11T22:15:46Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/398983.json",
+    "CurrentVersion": {
+      "guid": "398983",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398983",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updating Conversation Actions on Outlook for iOS",
+      "description": "After further review we have decided not to proceed with this change at this time. We apologize for any inconvenience. Currently, when viewing a message, you can access the available actions in the top-right corner. We are updating these actions to be at the bottom of the screen with the ability to customize the order and placement of the actions to suit your needs. With this update, you will also be able to access all conversation actions from the inbox view by long-pressing a message.\n\nFeature ID: 398983",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "398983",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398983",
+      "category": [
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updating Conversation Actions on Outlook for iOS",
+      "description": "Currently, when viewing a message, you can access the available actions in the top-right corner. We are updating these actions to be at the bottom of the screen with the ability to customize the order and placement of the actions to suit your needs. With this update, you will also be able to access all conversation actions from the inbox view by long-pressing a message.",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2024-09-04T23:30:32Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/412936.json",
+    "CurrentVersion": {
+      "guid": "412936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multi-Account Support for Add-Ins and Apps in new Outlook for Windows",
+      "description": "Currently, new Outlook for for Windows supports apps and add-ins for the user's primary account only. We will be enabling apps and add-ins to be supported across all of the accounts added to new Outlook, dynamically switching to the active identity. #newoutlookforwindows",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "412936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multi-Account Support for Add-Ins and Apps in new Outlook for Windows",
+      "description": "Currently, new Outlook for for Windows supports apps and add-ins for the user's primary account only. We will be enabling apps and add-ins to be supported across all of the accounts added to new Outlook, dynamically switching to the active identity. #newoutlookforwindows",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2024-10-30T23:30:52Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/415467.json",
+    "CurrentVersion": {
+      "guid": "415467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updates to mail sharing functionality with Cloud Policy Service when setting \"Turn off sharing recommendation\"",
+      "description": "Updates to the office Cloud Policy Service setting \"Turn off sharing recommendation\" will disable the ability for users to share folders with individual users. Currently, the policy blocked users' ability to update default and anonymous permission levels for shared folders. This functionality will remain and will not be changed. The current policy and how it works with calendar sharing will not be impacted by this change and will remain as implemented. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "415467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updates to mail sharing functionality with Cloud Policy Service when setting \"Turn off sharing recommendation\"",
+      "description": "Updates to the office Cloud Policy Service setting \"Turn off sharing recommendation\" will disable the ability for users to share folders with individual users. Currently, the policy blocked users' ability to update default and anonymous permission levels for shared folders. This functionality will remain and will not be changed. The current policy and how it works with calendar sharing will not be impacted by this change and will remain as implemented. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-10-14T23:15:48Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/421360.json",
+    "CurrentVersion": {
+      "guid": "421360",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421360",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft 365 Admin Center",
+        "Microsoft Entra",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: AI administrator role",
+      "description": "We are introducing a new admin role for AI and Microsoft Copilot administration. Admin users assigned with the AI Administrator role can efficiently manage Microsoft Copilot without the vast privileges of Global admin permissions.",
+      "pubDate": "Thu, 10 Oct 2024 23:15:45 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "421360",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421360",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Entra",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: AI administrator role",
+      "description": "We are introducing a new admin role for AI and Microsoft Copilot administration. Admin users assigned with the AI Administrator role can efficiently manage Microsoft Copilot without the vast privileges of Global admin permissions.",
+      "pubDate": "Thu, 10 Oct 2024 23:15:45 Z",
+      "updated": "2024-10-10T23:15:45Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422719.json",
+    "CurrentVersion": {
+      "guid": "422719",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422719",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics",
+      "description": "Space analytics in Places provides dashboards for buildings, bookable rooms, and desk pools, providing a unified view of key metrics. Users can pick the space type of their interest and dive deeper to know more about its utilization.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422719",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422719",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics",
+      "description": "Space analytics in Places provides dashboards for buildings, bookable rooms, and desk pools, providing a unified view of key metrics. Users can pick the space type of their interest and dive deeper to know more about its utilization.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422721.json",
+    "CurrentVersion": {
+      "guid": "422721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422721",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Managed booking with Copilot",
+      "description": "Building on booking suggestions, Copilot's managed booking feature rebooks room declines for single and recurring meetings, especially when room availability varies week to week. Additionally, Copilot will handle any changes, updates, and conflicts to guarantee a room for your meetings.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422721",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Managed booking with Copilot",
+      "description": "Building on booking suggestions, Copilot's managed booking feature rebooks room declines for single and recurring meetings, especially when room availability varies week to week. Additionally, Copilot will handle any changes, updates, and conflicts to guarantee a room for your meetings.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2024-11-26T00:15:41Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/422723.json",
+    "CurrentVersion": {
+      "guid": "422723",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422723",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Intelligent suggestions in calendar",
+      "description": "Intelligent suggestions will appear in the Places card in calendar and the Places people tab when users have actions to complete to organize their day. Users will be prompted to \"quick book\" rooms for in-person meetings and desks for in-office days. They will also see recommendations to update their work location to ‘Office’ when needed for in-person events.",
+      "pubDate": "Wed, 30 Oct 2024 23:30:52 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422723",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422723",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Intelligent suggestions in calendar",
+      "description": "Intelligent suggestions will appear in the Places card in calendar and the Places people tab when users have actions to complete to organize their day. Users will be prompted to \"quick book\" rooms for in-person meetings and desks for in-office days. They will also see recommendations to update their work location to ‘Office’ when needed for in-person events.",
+      "pubDate": "Wed, 30 Oct 2024 23:30:52 Z",
+      "updated": "2024-11-19T00:15:55Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/423478.json",
+    "CurrentVersion": {
+      "guid": "423478",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423478",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls now available in GCC-High",
+      "description": "Set up and host large scale events across a GCC-High organization with the familiar Teams app you use for webinars and meetings using town hall. Town hall capabilities include a new meeting template, capacity for up to 10k attendees, green room, the ability to manage what attendees see, RTMP-in, live translated captions, and more.",
+      "pubDate": "Tue, 29 Oct 2024 23:15:28 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "423478",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423478",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls now available in GCC-High",
+      "description": "Set up and host large scale events across a GCC-High organization with the familiar Teams app you use for webinars and meetings using town hall. Town hall capabilities include a new meeting template, capacity for up to 10k attendees, green room, the ability to manage what attendees see, RTMP-in, live translated captions, and more.",
+      "pubDate": "Tue, 29 Oct 2024 23:15:28 Z",
+      "updated": "2024-12-02T18:00:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/423479.json",
+    "CurrentVersion": {
+      "guid": "423479",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423479",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in GCC-High (Premium)",
+      "description": "Set up and host large scale events across a GCC-High organization with the familiar Teams app you use for meetings using town hall. Town hall capabilities include a new meeting template, capacity for up to 20k attendees, green room, the ability to manage what attendees see, RTMP-in, live translated captions, and more.",
+      "pubDate": "Tue, 29 Oct 2024 23:15:28 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "423479",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423479",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in GCC-High (Premium)",
+      "description": "Set up and host large scale events across a GCC-High organization with the familiar Teams app you use for meetings using town hall. Town hall capabilities include a new meeting template, capacity for up to 20k attendees, green room, the ability to manage what attendees see, RTMP-in, live translated captions, and more.",
+      "pubDate": "Tue, 29 Oct 2024 23:15:28 Z",
+      "updated": "2024-12-02T18:00:37Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/466737.json",
+    "CurrentVersion": {
+      "guid": "466737",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466737",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Math Progress",
+      "description": "Accelerate student math skills with Microsoft Teams: Math Progress.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "466737",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466737",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Math Progress",
+      "description": "Accelerate student math skills with Microsoft Teams: Math Progress.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2024-12-11T00:15:40Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/469492.json",
+    "CurrentVersion": {
+      "guid": "469492",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469492",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Allow Presenters to moderate Q&A",
+      "description": "Organizers of town halls and webinars can now select and assign presenters to also be Q&A moderators, allowing them to manage and publish questions asked during the event. This feature lets organizers make changes to the group of moderators at any time, before or during the event, and it is available to all users organizing a town hall or webinar, regardless of license.",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "469492",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469492",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Allow Presenters to moderate Q&A",
+      "description": "Organizers of town halls and webinars can now select and assign presenters to also be Q&A moderators, allowing them to manage and publish questions asked during the event. This feature lets organizers make changes to the group of moderators at any time, before or during the event, and it is available to all users organizing a town hall or webinar, regardless of license.",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2024-12-12T00:15:03Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470027.json",
+    "CurrentVersion": {
+      "guid": "470027",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470027",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - New Insider Risk Management reporting capabilities",
+      "description": "Insider risk management is introducing one central location for all reports including analytics and user activity reports. Additional reports will also be available that will summarize trends in alerts generated and cases created. Sample reports include alerts generated over time, alerts actioned over time, alerts and cases generated by region and department, top triggering events of alerts generated, and average time to triage alerts and cases.\n\nThe ability to filter reports will also be introduced. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470027",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470027",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - New Insider Risk Management reporting capabilities",
+      "description": "Insider risk management is introducing one central location for all reports including analytics and user activity reports. Additional reports will also be available that will summarize trends in alerts generated and cases created. Sample reports include alerts generated over time, alerts actioned over time, alerts and cases generated by region and department, top triggering events of alerts generated, and average time to triage alerts and cases.\n\nThe ability to filter reports will also be introduced. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470600.json",
+    "CurrentVersion": {
+      "guid": "470600",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470600",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced spell check with multi-language support",
+      "description": "Enhanced spell check will help ensure that your messages are clear and professional. When you type your message in the Teams compose box, any issue found will be marked. You can then choose to correct them from options suggested in a dropdown menu, ignore them or add to dictionary. With multi-language support, you can switch between up to three languages.",
+      "pubDate": "Mon, 02 Dec 2024 19:15:05 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470600",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470600",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced spell check with multi-language support",
+      "description": "Enhanced spell check will help ensure that your messages are clear and professional. When you type your message in the Teams compose box, any issue found will be marked. You can then choose to correct them from options suggested in a dropdown menu, ignore them or add to dictionary. With multi-language support, you can switch between up to three languages.",
+      "pubDate": "Mon, 02 Dec 2024 19:15:05 Z",
+      "updated": "2024-12-02T19:15:05Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/473448.json",
+    "CurrentVersion": {
+      "guid": "473448",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473448",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Approvals in Teams within DoD",
+      "description": "Users within DoD will now be able to use the Approvals app within Microsoft Teams.",
+      "pubDate": "Tue, 17 Dec 2024 00:15:02 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "473448",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473448",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams"
+      ],
+      "title": "Microsoft Teams: Approvals in Teams within DoD",
+      "description": "Users within DoD will now be able to use the Approvals app within Microsoft Teams.",
+      "pubDate": "Tue, 17 Dec 2024 00:15:02 Z",
+      "updated": "2024-12-17T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/475063.json",
+    "CurrentVersion": {
+      "guid": "475063",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475063",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention- OCR Cost Estimator Support for MAC Endpoints",
+      "description": "OCR Cost Estimator allows you to estimate the potential cost for using Optical Character Recognition. This means that you will no longer be required to set up an Azure Subscription for billing first and can accurately estimate the cost you would have incurred while using OCR. This will help you to identify the optimal configuration settings for OCR as per your requirements. Cost Estimator can be used for 30 days and will not scan images for sensitive content.",
+      "pubDate": "Thu, 09 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124796/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "124796",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124796",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: eDiscovery (Premium) - Review set: Advanced filters",
+      "description": "Updates to eDiscovery (Premium) review filters experience that allow admins to construct compound nested filters with either “AND” or “OR” conditions, go back and forth (undo/redo) between different iterations of filters, manage saved filter queries without navigating to a different panel, and use “Is empty/Is not empty” condition for each filter.",
+      "pubDate": "Thu, 13 Apr 2023 23:11:54 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": "June CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/334010/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "334010",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=334010",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Multilayer structuring, customization, and branding for learning academies",
+      "description": "This feature set brings new functionality to learning academies. Multi-layer structuring allows users to organize content and learning paths under multiple levels. Branding capabilities include the customization of the academy logo and the background image. Customization allows users to hide or show individual components of an academy like featured sets and  learner profile cards.",
+      "pubDate": "Tue, 27 Aug 2024 23:15:04 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/335856/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "335856",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=335856",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection",
+      "description": "Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Thu, 21 Dec 2023 00:30:17 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/377674/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "377674",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=377674",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection in Gov Cloud",
+      "description": "Adaptive Protection will now be available in Government clouds. Adaptive Protection is a capability of Microsoft Purview that dynamically assigns appropriate Data Loss Prevention policies to users based on the risk levels analyzed by the machine learning models in Insider Risk Management. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 23 Jan 2024 00:15:55 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/396286/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "396286",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=396286",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning – Edit Learning Paths in Viva Learning",
+      "description": "Admin will be able to edit learning paths metadata and content. Latest updates will be shown to learner after the LP is edited.",
+      "pubDate": "Tue, 14 May 2024 23:30:08 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/398983/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "398983",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=398983",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "iOS",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updating Conversation Actions on Outlook for iOS",
+      "description": "After further review we have decided not to proceed with this change at this time. We apologize for any inconvenience. Currently, when viewing a message, you can access the available actions in the top-right corner. We are updating these actions to be at the bottom of the screen with the ability to customize the order and placement of the actions to suit your needs. With this update, you will also be able to access all conversation actions from the inbox view by long-pressing a message.\n\nFeature ID: 398983",
+      "pubDate": "Tue, 04 Jun 2024 23:15:18 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "July CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412936/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "412936",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412936",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Multi-Account Support for Add-Ins and Apps in new Outlook for Windows",
+      "description": "Currently, new Outlook for for Windows supports apps and add-ins for the user's primary account only. We will be enabling apps and add-ins to be supported across all of the accounts added to new Outlook, dynamically switching to the active identity. #newoutlookforwindows",
+      "pubDate": "Thu, 22 Aug 2024 23:30:29 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415467/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "415467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415467",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Updates to mail sharing functionality with Cloud Policy Service when setting \"Turn off sharing recommendation\"",
+      "description": "Updates to the office Cloud Policy Service setting \"Turn off sharing recommendation\" will disable the ability for users to share folders with individual users. Currently, the policy blocked users' ability to update default and anonymous permission levels for shared folders. This functionality will remain and will not be changed. The current policy and how it works with calendar sharing will not be impacted by this change and will remain as implemented. #newoutlookforwindows",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421360/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "421360",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421360",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft 365 Admin Center",
+        "Microsoft Entra",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: AI administrator role",
+      "description": "We are introducing a new admin role for AI and Microsoft Copilot administration. Admin users assigned with the AI Administrator role can efficiently manage Microsoft Copilot without the vast privileges of Global admin permissions.",
+      "pubDate": "Thu, 10 Oct 2024 23:15:45 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422719/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "422719",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422719",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Space analytics",
+      "description": "Space analytics in Places provides dashboards for buildings, bookable rooms, and desk pools, providing a unified view of key metrics. Users can pick the space type of their interest and dive deeper to know more about its utilization.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422721/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "422721",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422721",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Managed booking with Copilot",
+      "description": "Building on booking suggestions, Copilot's managed booking feature rebooks room declines for single and recurring meetings, especially when room availability varies week to week. Additionally, Copilot will handle any changes, updates, and conflicts to guarantee a room for your meetings.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422723/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "422723",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422723",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft 365 app",
+        "Microsoft Teams",
+        "Outlook",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Places - Intelligent suggestions in calendar",
+      "description": "Intelligent suggestions will appear in the Places card in calendar and the Places people tab when users have actions to complete to organize their day. Users will be prompted to \"quick book\" rooms for in-person meetings and desks for in-office days. They will also see recommendations to update their work location to ‘Office’ when needed for in-person events.",
+      "pubDate": "Wed, 30 Oct 2024 23:30:52 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423478/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "423478",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423478",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls now available in GCC-High",
+      "description": "Set up and host large scale events across a GCC-High organization with the familiar Teams app you use for webinars and meetings using town hall. Town hall capabilities include a new meeting template, capacity for up to 10k attendees, green room, the ability to manage what attendees see, RTMP-in, live translated captions, and more.",
+      "pubDate": "Tue, 29 Oct 2024 23:15:28 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423479/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "423479",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423479",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC High",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Town halls in GCC-High (Premium)",
+      "description": "Set up and host large scale events across a GCC-High organization with the familiar Teams app you use for meetings using town hall. Town hall capabilities include a new meeting template, capacity for up to 20k attendees, green room, the ability to manage what attendees see, RTMP-in, live translated captions, and more.",
+      "pubDate": "Tue, 29 Oct 2024 23:15:28 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/466737/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "466737",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466737",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Math Progress",
+      "description": "Accelerate student math skills with Microsoft Teams: Math Progress.",
+      "pubDate": "Wed, 06 Nov 2024 00:30:44 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469492/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "469492",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469492",
+      "category": [
+        "Android",
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Allow Presenters to moderate Q&A",
+      "description": "Organizers of town halls and webinars can now select and assign presenters to also be Q&A moderators, allowing them to manage and publish questions asked during the event. This feature lets organizers make changes to the group of moderators at any time, before or during the event, and it is available to all users organizing a town hall or webinar, regardless of license.",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470027/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "470027",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470027",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - New Insider Risk Management reporting capabilities",
+      "description": "Insider risk management is introducing one central location for all reports including analytics and user activity reports. Additional reports will also be available that will summarize trends in alerts generated and cases created. Sample reports include alerts generated over time, alerts actioned over time, alerts and cases generated by region and department, top triggering events of alerts generated, and average time to triage alerts and cases.\n\nThe ability to filter reports will also be introduced. \n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Fri, 03 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470600/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "470600",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470600",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Enhanced spell check with multi-language support",
+      "description": "Enhanced spell check will help ensure that your messages are clear and professional. When you type your message in the Teams compose box, any issue found will be marked. You can then choose to correct them from options suggested in a dropdown menu, ignore them or add to dictionary. With multi-language support, you can switch between up to three languages.",
+      "pubDate": "Mon, 02 Dec 2024 19:15:05 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473448/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "473448",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473448",
+      "category": [
+        "Android",
+        "Desktop",
+        "DoD",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Web"
+      ],
+      "title": "Microsoft Teams: Approvals in Teams within DoD",
+      "description": "Users within DoD will now be able to use the Approvals app within Microsoft Teams.",
+      "pubDate": "Tue, 17 Dec 2024 00:15:02 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/475063/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-09T02:34:51.9099658+00:00",
+      "guid": "475063",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475063",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention- OCR Cost Estimator Support for MAC Endpoints",
+      "description": "OCR Cost Estimator allows you to estimate the potential cost for using Optical Character Recognition. This means that you will no longer be required to set up an Azure Subscription for billing first and can accurately estimate the cost you would have incurred while using OCR. This will help you to identify the optimal configuration settings for OCR as per your requirements. Cost Estimator can be used for 30 days and will not scan images for sensitive content.",
+      "pubDate": "Thu, 09 Jan 2025 00:15:43 Z",
+      "updated": "2025-01-09T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  }
+]
