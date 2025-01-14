@@ -1,0 +1,1546 @@
+[
+  {
+    "Path": "data/124970.json",
+    "CurrentVersion": {
+      "guid": "124970",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124970",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Sequence detections for obfuscation involving excluded events",
+      "description": "This change enhances sequence detection to improve its effectiveness in identifying users who are performing obfuscation activities that may result in a data security incident, such as file renaming, to evade detection. With this improvement, Insider Risk Management can detect sequences that may result in potential data security incidents, even if the obfuscation activities in those sequences involve excluded events, such as an excluded keyword. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 30 May 2023 23:33:21 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {
+      "guid": "124970",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124970",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Sequence detections for obfuscation involving excluded events",
+      "description": "This change enhances sequence detection to improve its effectiveness in identifying users who are performing obfuscation activities that may result in a data security incident, such as file renaming, to evade detection. With this improvement, Insider Risk Management can detect sequences that may result in potential data security incidents, even if the obfuscation activities in those sequences involve excluded events, such as an excluded keyword. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 30 May 2023 23:33:21 Z",
+      "updated": "2023-10-05T23:40:40Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "September CY2023"
+    }
+  },
+  {
+    "Path": "data/124973.json",
+    "CurrentVersion": {
+      "guid": "124973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124973",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management | Adaptive Protection - Multi-policy selection",
+      "description": "Admins can now select multiple Insider Risk Management policies in the &quot;Risk levels for Adaptive Protection&quot; settings to assign risk levels in Adaptive Protection. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 06 Jun 2023 23:21:46 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {
+      "guid": "124973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124973",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management | Adaptive Protection - Multi-policy selection",
+      "description": "Admins can now select multiple Insider Risk Management policies in the &quot;Risk levels for Adaptive Protection&quot; settings to assign risk levels in Adaptive Protection. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 06 Jun 2023 23:21:46 Z",
+      "updated": "2024-09-06T22:30:01Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "November CY2023"
+    }
+  },
+  {
+    "Path": "data/167221.json",
+    "CurrentVersion": {
+      "guid": "167221",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167221",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Microsoft Information Protection (MIP) trainable classifiers",
+      "description": "<div>Leverage trainable classifiers from Microsoft Information Protection (MIP) to recognize various content types specific to your organization. Insider Risk Management in Microsoft 365 correlates various signals from the chip to the cloud to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to ensure user-level privacy. </div>",
+      "pubDate": "Wed, 06 Sep 2023 00:29:58 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "167221",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167221",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Microsoft Information Protection (MIP) trainable classifiers",
+      "description": "<div>Leverage trainable classifiers from Microsoft Information Protection (MIP) to recognize various content types specific to your organization. Insider Risk Management in Microsoft 365 correlates various signals from the chip to the cloud to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to ensure user-level privacy. </div>",
+      "pubDate": "Wed, 06 Sep 2023 00:29:58 Z",
+      "updated": "2024-12-03T01:00:54Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/187140.json",
+    "CurrentVersion": {
+      "guid": "187140",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187140",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Project",
+        "Planner",
+        "Preview",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Portfolio capabilities in Planner  ",
+      "description": "Structure plans into portfolios and get insights on top of your portfolios",
+      "pubDate": "Wed, 15 Nov 2023 00:19:53 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "187140",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187140",
+      "category": [
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Preview",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Portfolio capabilities in Planner  ",
+      "description": "Structure plans into portfolios and get insights on top of your portfolios",
+      "pubDate": "Wed, 15 Nov 2023 00:19:53 Z",
+      "updated": "2024-11-21T00:15:42Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/388736.json",
+    "CurrentVersion": {
+      "guid": "388736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388736",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection - Enhancements to insider risk level settings",
+      "description": "This roadmap item was updated to 'launched' unintentionally. We apologize for the inconvenience. With this new feature, an admin can choose whether they want to expire the Adaptive Protection insider risk level. Today, this expiration happens automatically, but you can now choose to keep the Adaptive Protection insider risk level for a user, even if their alert is dismissed or case is closed. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {
+      "guid": "388736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388736",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection - Enhancements to insider risk level settings",
+      "description": "This roadmap item was updated to 'launched' unintentionally. We apologize for the inconvenience. With this new feature, an admin can choose whether they want to expire the Adaptive Protection insider risk level. Today, this expiration happens automatically, but you can now choose to keep the Adaptive Protection insider risk level for a user, even if their alert is dismissed or case is closed. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 Z",
+      "updated": "2024-08-16T22:30:02Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    }
+  },
+  {
+    "Path": "data/391669.json",
+    "CurrentVersion": {
+      "guid": "391669",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391669",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Engage content in Workplace Search",
+      "description": "As users search in office.com, sharepoint.com, bing at work they will find content from Viva Engage in the search results. We will first start with question posts and then roll out discussion posts from Engage.",
+      "pubDate": "Mon, 08 Apr 2024 23:15:13 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "391669",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391669",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Engage content in Workplace Search",
+      "description": "As users search in office.com, sharepoint.com, bing at work they will find content from Viva Engage in the search results. We will first start with question posts and then roll out discussion posts from Engage.",
+      "pubDate": "Mon, 08 Apr 2024 23:15:13 Z",
+      "updated": "2024-10-09T23:15:44Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402540.json",
+    "CurrentVersion": {
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer—OneNote (Desktop) - Protected—for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 Z",
+      "updated": "2024-11-14T00:45:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408172.json",
+    "CurrentVersion": {
+      "guid": "408172",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408172",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "408172",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408172",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Rolling out",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2024-12-31T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/410245.json",
+    "CurrentVersion": {
+      "guid": "410245",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410245",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: Multi-Geo In-Region Routing",
+      "description": "Multi-Geo In-Region Routing (IRR) enables customers to control the routing of inbound emails to comply with regional data regulations. Using IRR, customers can set the geo-region that inbound mail should be routed to for specific Accepted Domains. By setting Accepted Domains to specific geo-regions and then adding users to that Accepted Domain that are located in the same geo-region as the Accepted Domain is set to route mail to, IRR ensures that emails are fully processed and stored in the user's region. This keeps data within the user’s Preferred Data Location (PDL), enhancing data sovereignty and compliance.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "April CY2025"
+    },
+    "OldVersion": {
+      "guid": "410245",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410245",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: Multi-Geo In-Region Routing",
+      "description": "Multi-Geo In-Region Routing (IRR) enables customers to control the routing of inbound emails to comply with regional data regulations. Using IRR, customers can set the geo-region that inbound mail should be routed to for specific Accepted Domains. By setting Accepted Domains to specific geo-regions and then adding users to that Accepted Domain that are located in the same geo-region as the Accepted Domain is set to route mail to, IRR ensures that emails are fully processed and stored in the user's region. This keeps data within the user’s Preferred Data Location (PDL), enhancing data sovereignty and compliance.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-12-10T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "April CY2024"
+    }
+  },
+  {
+    "Path": "data/412619.json",
+    "CurrentVersion": {
+      "guid": "412619",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412619",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "With the new sync window, you can choose how many days' worth of emails and attachments you want to download to your device so you can always access them even while offline.",
+      "pubDate": "Tue, 20 Aug 2024 23:30:55 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "May CY2025"
+    },
+    "OldVersion": {
+      "guid": "412619",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412619",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "With the new sync window, you can choose how many days' worth of emails and attachments you want to download to your device so you can always access them even while offline.",
+      "pubDate": "Tue, 20 Aug 2024 23:30:55 Z",
+      "updated": "2024-08-20T23:30:55Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    }
+  },
+  {
+    "Path": "data/415468.json",
+    "CurrentVersion": {
+      "guid": "415468",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415468",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Microsoft 365 Copilot Usage report - Business Chat",
+      "description": "The Microsoft 365 Copilot usage report in the Microsoft 365 admin center will be updated to include usage of Microsoft 365 Copilot Business Chat (web) along with the existing usage data for Business Chat (work). It will also include enabled users and active users adoption information for new entry points Edge and Microsoft 365 App for Microsoft 365 Copilot.",
+      "pubDate": "Thu, 26 Sep 2024 23:15:19 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "415468",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415468",
+      "category": [
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Microsoft 365 Copilot Usage report - Business Chat",
+      "description": "The Microsoft 365 Copilot usage report in the Microsoft 365 admin center will be updated to include usage of Microsoft 365 Copilot Business Chat (web) along with the existing usage data for Business Chat (work). It will also include enabled users and active users adoption information for new entry points Edge and Microsoft 365 App for Microsoft 365 Copilot.",
+      "pubDate": "Thu, 26 Sep 2024 23:15:19 Z",
+      "updated": "2024-12-11T00:15:40Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416091.json",
+    "CurrentVersion": {
+      "guid": "416091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416091",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort by Flag option",
+      "description": "We are adding support for sort by flag status, flag due date and flag start date.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {
+      "guid": "416091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416091",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort by Flag option",
+      "description": "We are adding support for sort by flag status, flag due date and flag start date.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2024-12-03T18:30:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/416092.json",
+    "CurrentVersion": {
+      "guid": "416092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416092",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort by category",
+      "description": "This adds the ability to sort by category in Outlook for Mac.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {
+      "guid": "416092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416092",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort by category",
+      "description": "This adds the ability to sort by category in Outlook for Mac.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-12-03T18:30:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/417483.json",
+    "CurrentVersion": {
+      "guid": "417483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Notify Users about Hidden Content Matches in Communication Compliance",
+      "description": "This feature is designed to enhance transparency by introducing a notification banner that alerts users when keywords embedded in hidden content, such as hyperlinks or encoded strings, trigger a compliance policy match. With this update, investigators will be able to quickly recognize that some or all keyword matches are not immediately visible in the main content body, saving time and ensuring a more efficient triage experience.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "417483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Notify Users about Hidden Content Matches in Communication Compliance",
+      "description": "This feature is designed to enhance transparency by introducing a notification banner that alerts users when keywords embedded in hidden content, such as hyperlinks or encoded strings, trigger a compliance policy match. With this update, investigators will be able to quickly recognize that some or all keyword matches are not immediately visible in the main content body, saving time and ensuring a more efficient triage experience.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-12-20T00:00:02Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/418130.json",
+    "CurrentVersion": {
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2024-12-10T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    }
+  },
+  {
+    "Path": "data/419809.json",
+    "CurrentVersion": {
+      "guid": "419809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=419809",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Edge Settings Improvements",
+      "description": "Edge Settings is migrating to WebUI2 to boost page responsiveness and introducing a series of minor visual and content upgrades to improve overall usability and utility. This includes optimizing for concise wording of individual settings, simplifying the number of pages and reorganizing content, and creating a cohesive user interface.",
+      "pubDate": "Tue, 01 Oct 2024 23:30:20 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "419809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=419809",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Edge Settings Improvements",
+      "description": "Edge Settings is migrating to WebUI2 to boost page responsiveness and introducing a series of minor visual and content upgrades to improve overall usability and utility. This includes optimizing for concise wording of individual settings, simplifying the number of pages and reorganizing content, and creating a cohesive user interface.",
+      "pubDate": "Tue, 01 Oct 2024 23:30:20 Z",
+      "updated": "2024-10-01T23:30:20Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/421604.json",
+    "CurrentVersion": {
+      "guid": "421604",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421604",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Usage reports for bookable desks in the Pro Management portal",
+      "description": "IT admins can now access reports on bookable desk spaces in the Teams Rooms Pro Management portal to assist with workspace optimization and planning. Reports include analytics on peripherals, usage, reservations, and occupancy.",
+      "pubDate": "Mon, 14 Oct 2024 23:15:48 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "421604",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421604",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Usage reports for bookable desks in the Pro Management portal",
+      "description": "With a Teams Shared Device license assigned to a desk pool, admins can view valuable analytics for these spaces including number of peripherals, usage, reservations, and occupancy under 'Reports' in the portal.",
+      "pubDate": "Mon, 14 Oct 2024 23:15:48 Z",
+      "updated": "2024-11-22T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/467445.json",
+    "CurrentVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2024-11-20T00:15:49Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/468886.json",
+    "CurrentVersion": {
+      "guid": "468886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468886",
+      "category": [
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enhanced functionalities to manage SharePoint Embedded Containers through SharePoint Admin Center ",
+      "description": "The new update empowers the SharePoint Embedded Administrators (SPE Admins) to manage their containers better through sorting and filtering capabilities as well as set sensitivity labels on containers. The SPE Admins now also have user role management capabilities to add, reassign, or remove users from various roles of a container.",
+      "pubDate": "Thu, 21 Nov 2024 00:15:42 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "468886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468886",
+      "category": [
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enhanced functionalities to manage SharePoint Embedded Containers through SharePoint Admin Center ",
+      "description": "The new update empowers the SharePoint Embedded Administrators (SPE Admins) to manage their containers better through sorting and filtering capabilities as well as set sensitivity labels on containers. The SPE Admins now also have user role management capabilities to add, reassign, or remove users from various roles of a container.",
+      "pubDate": "Thu, 21 Nov 2024 00:15:42 Z",
+      "updated": "2024-11-27T00:00:04Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/469507.json",
+    "CurrentVersion": {
+      "guid": "469507",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469507",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forwarding loop components",
+      "description": "You can now forward chat messages containing Loop components, allowing for seamless sharing and real-time collaboration across different chats. To forward a message, navigate to it, click on the ellipsis, and select ‘Forward’ from the menu.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "469507",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469507",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forwarding loop components",
+      "description": "You can now forward chat messages containing Loop components, allowing for seamless sharing and real-time collaboration across different chats. To forward a message, navigate to it, click on the ellipsis, and select ‘Forward’ from the menu.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-12-06T00:00:08Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/469508.json",
+    "CurrentVersion": {
+      "guid": "469508",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469508",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forward messages to and from channels",
+      "description": "You can now forward messages between channels, allowing you to efficiently share important information with relevant team members. To forward a channel message post, channel post reply, or chat message to another channel, 1:1 or group chat, select the message’s ellipsis menu and choose Forward.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "469508",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469508",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forward messages to and from channels",
+      "description": "You can now forward messages between channels, allowing you to efficiently share important information with relevant team members. To forward a channel message post, channel post reply, or chat message to another channel, 1:1 or group chat, select the message’s ellipsis menu and choose Forward.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2024-12-05T00:15:07Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/472025.json",
+    "CurrentVersion": {
+      "guid": "472025",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472025",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Information Protection: Protect your most sensitive content with double key encryption",
+      "description": "Double Key Encryption (DKE) provides organizations with a second encryption key for your most sensitive content.<br>More info: https://learn.microsoft.com/microsoft-365/compliance/double-key-encryption",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "472025",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472025",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Information Protection: Protect your most sensitive content with double key encryption",
+      "description": "Double Key Encryption (DKE) provides organizations with a second encryption key for your most sensitive content.<br>More info: https://learn.microsoft.com/microsoft-365/compliance/double-key-encryption",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2024-12-12T00:15:03Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/473458.json",
+    "CurrentVersion": {
+      "guid": "473458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473458",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel with Python Language Expansion for Windows",
+      "description": "Using everyday language, ask Copilot to perform advanced analytics that would usually take you hours or is beyond your skillset like machine learning, predictive forecasting, and more. Copilot will write Python code for you and insert it on the grid, resulting in deeper insights and stunning visuals. Available on Excel for Windows in English, Simplified Chinese, French, German, Italian, Japanese, Brazilian Portuguese, and Spanish, with additional languages coming soon.",
+      "pubDate": "Tue, 14 Jan 2025 00:15:48 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/475246.json",
+    "CurrentVersion": {
+      "guid": "475246",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475246",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Preview",
+        "Windows 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Windows 365: Resize is enabled for Windows 365 Frontline Cloud PCs",
+      "description": "When changing the Cloud PC size on a specific assignment within the provisioning policy for W365 Frontline, all of the Cloud PCs in that assignment will be resized to the newly selected Cloud PC size.",
+      "pubDate": "Tue, 14 Jan 2025 00:15:48 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": "May CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124970/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "124970",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124970",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Sequence detections for obfuscation involving excluded events",
+      "description": "This change enhances sequence detection to improve its effectiveness in identifying users who are performing obfuscation activities that may result in a data security incident, such as file renaming, to evade detection. With this improvement, Insider Risk Management can detect sequences that may result in potential data security incidents, even if the obfuscation activities in those sequences involve excluded events, such as an excluded keyword. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 30 May 2023 23:33:21 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "September CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124973/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "124973",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124973",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management | Adaptive Protection - Multi-policy selection",
+      "description": "Admins can now select multiple Insider Risk Management policies in the &quot;Risk levels for Adaptive Protection&quot; settings to assign risk levels in Adaptive Protection. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Tue, 06 Jun 2023 23:21:46 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": "November CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/167221/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "167221",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=167221",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Microsoft Information Protection (MIP) trainable classifiers",
+      "description": "<div>Leverage trainable classifiers from Microsoft Information Protection (MIP) to recognize various content types specific to your organization. Insider Risk Management in Microsoft 365 correlates various signals from the chip to the cloud to identify potential malicious or inadvertent insider risks, such as IP theft, security and policy violations, and more. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to ensure user-level privacy. </div>",
+      "pubDate": "Wed, 06 Sep 2023 00:29:58 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/187140/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "187140",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=187140",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Project",
+        "Planner",
+        "Preview",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Portfolio capabilities in Planner  ",
+      "description": "Structure plans into portfolios and get insights on top of your portfolios",
+      "pubDate": "Wed, 15 Nov 2023 00:19:53 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/388736/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "388736",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=388736",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Adaptive Protection - Enhancements to insider risk level settings",
+      "description": "This roadmap item was updated to 'launched' unintentionally. We apologize for the inconvenience. With this new feature, an admin can choose whether they want to expire the Adaptive Protection insider risk level. Today, this expiration happens automatically, but you can now choose to keep the Adaptive Protection insider risk level for a user, even if their alert is dismissed or case is closed. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+      "pubDate": "Wed, 03 Apr 2024 23:15:22 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": "May CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/391669/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "391669",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=391669",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Engage content in Workplace Search",
+      "description": "As users search in office.com, sharepoint.com, bing at work they will find content from Viva Engage in the search results. We will first start with question posts and then roll out discussion posts from Engage.",
+      "pubDate": "Mon, 08 Apr 2024 23:15:13 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402540/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer—OneNote (Desktop) - Protected—for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408172/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "408172",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408172",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Default sensitivity labels and policies enhancements",
+      "description": "Eligible customers can activate default labels and policies for Microsoft Purview Information Protection that now extend to meetings.",
+      "pubDate": "Tue, 23 Jul 2024 23:30:44 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410245/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "410245",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410245",
+      "category": [
+        "Desktop",
+        "Exchange",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft 365",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365: Multi-Geo In-Region Routing",
+      "description": "Multi-Geo In-Region Routing (IRR) enables customers to control the routing of inbound emails to comply with regional data regulations. Using IRR, customers can set the geo-region that inbound mail should be routed to for specific Accepted Domains. By setting Accepted Domains to specific geo-regions and then adding users to that Accepted Domain that are located in the same geo-region as the Accepted Domain is set to route mail to, IRR ensures that emails are fully processed and stored in the user's region. This keeps data within the user’s Preferred Data Location (PDL), enhancing data sovereignty and compliance.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "April CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/412619/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "412619",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=412619",
+      "category": [
+        "Current Channel",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Choose how many days of emails sync to your device for offline usage",
+      "description": "With the new sync window, you can choose how many days' worth of emails and attachments you want to download to your device so you can always access them even while offline.",
+      "pubDate": "Tue, 20 Aug 2024 23:30:55 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "May CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415468/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "415468",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415468",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Microsoft 365 Copilot Usage report - Business Chat",
+      "description": "The Microsoft 365 Copilot usage report in the Microsoft 365 admin center will be updated to include usage of Microsoft 365 Copilot Business Chat (web) along with the existing usage data for Business Chat (work). It will also include enabled users and active users adoption information for new entry points Edge and Microsoft 365 App for Microsoft 365 Copilot.",
+      "pubDate": "Thu, 26 Sep 2024 23:15:19 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416091/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "416091",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416091",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort by Flag option",
+      "description": "We are adding support for sort by flag status, flag due date and flag start date.",
+      "pubDate": "Thu, 12 Sep 2024 00:00:50 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416092/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "416092",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416092",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Outlook",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Sort by category",
+      "description": "This adds the ability to sort by category in Outlook for Mac.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417483/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "417483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Communication Compliance - Notify Users about Hidden Content Matches in Communication Compliance",
+      "description": "This feature is designed to enhance transparency by introducing a notification banner that alerts users when keywords embedded in hidden content, such as hyperlinks or encoded strings, trigger a compliance policy match. With this update, investigators will be able to quickly recognize that some or all keyword matches are not immediately visible in the main content body, saving time and ensuring a more efficient triage experience.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418130/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "418130",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418130",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
+      "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+      "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/419809/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "419809",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=419809",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Edge Settings Improvements",
+      "description": "Edge Settings is migrating to WebUI2 to boost page responsiveness and introducing a series of minor visual and content upgrades to improve overall usability and utility. This includes optimizing for concise wording of individual settings, simplifying the number of pages and reorganizing content, and creating a cohesive user interface.",
+      "pubDate": "Tue, 01 Oct 2024 23:30:20 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421604/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "421604",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=421604",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Usage reports for bookable desks in the Pro Management portal",
+      "description": "IT admins can now access reports on bookable desk spaces in the Teams Rooms Pro Management portal to assist with workspace optimization and planning. Reports include analytics on peripherals, usage, reservations, and occupancy.",
+      "pubDate": "Mon, 14 Oct 2024 23:15:48 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/467445/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/468886/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "468886",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468886",
+      "category": [
+        "General Availability",
+        "Launched",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Enhanced functionalities to manage SharePoint Embedded Containers through SharePoint Admin Center ",
+      "description": "The new update empowers the SharePoint Embedded Administrators (SPE Admins) to manage their containers better through sorting and filtering capabilities as well as set sensitivity labels on containers. The SPE Admins now also have user role management capabilities to add, reassign, or remove users from various roles of a container.",
+      "pubDate": "Thu, 21 Nov 2024 00:15:42 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469507/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "469507",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469507",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forwarding loop components",
+      "description": "You can now forward chat messages containing Loop components, allowing for seamless sharing and real-time collaboration across different chats. To forward a message, navigate to it, click on the ellipsis, and select ‘Forward’ from the menu.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469508/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "469508",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469508",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Forward messages to and from channels",
+      "description": "You can now forward messages between channels, allowing you to efficiently share important information with relevant team members. To forward a channel message post, channel post reply, or chat message to another channel, 1:1 or group chat, select the message’s ellipsis menu and choose Forward.",
+      "pubDate": "Fri, 22 Nov 2024 00:00:46 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/472025/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "472025",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472025",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Information Protection: Protect your most sensitive content with double key encryption",
+      "description": "Double Key Encryption (DKE) provides organizations with a second encryption key for your most sensitive content.<br>More info: https://learn.microsoft.com/microsoft-365/compliance/double-key-encryption",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473458/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "473458",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473458",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Copilot (Microsoft 365)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Excel with Python Language Expansion for Windows",
+      "description": "Using everyday language, ask Copilot to perform advanced analytics that would usually take you hours or is beyond your skillset like machine learning, predictive forecasting, and more. Copilot will write Python code for you and insert it on the grid, resulting in deeper insights and stunning visuals. Available on Excel for Windows in English, Simplified Chinese, French, German, Italian, Japanese, Brazilian Portuguese, and Spanish, with additional languages coming soon.",
+      "pubDate": "Tue, 14 Jan 2025 00:15:48 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/475246/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-01-14T02:20:13.2830713+00:00",
+      "guid": "475246",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475246",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Preview",
+        "Windows 365",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Windows 365: Resize is enabled for Windows 365 Frontline Cloud PCs",
+      "description": "When changing the Cloud PC size on a specific assignment within the provisioning policy for W365 Frontline, all of the Cloud PCs in that assignment will be resized to the newly selected Cloud PC size.",
+      "pubDate": "Tue, 14 Jan 2025 00:15:48 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": "May CY2025"
+    },
+    "OldVersion": {}
+  }
+]
