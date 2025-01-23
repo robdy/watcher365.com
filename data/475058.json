@@ -1,0 +1,21 @@
+{
+  "guid": "475058",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475058",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management- Insider risk management user analytics",
+  "description": "With this feature, Insights will be generated for potentially risky behaviors at a user level and will be surfaced across the following experiences: 1) Insider risk management context in DLP alert investigation 2) Insider risk management context in Communication compliance alert investigation 3) Insider risk management context in Microsoft Defender XDR user entity page 4) Advanced hunting in Microsoft Defender XDR. User analytics will cover all eligible users in the tenant including users not in the scope of any Insider risk management policy. During the initial rollout, user analytics will be enabled by default for all customers who have enabled Insider risk management analytics. This will help customers benefit from this additional intelligence right from the start. Customers can enable/disable user analytics in your tenant from Insider risk management Global settings. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+  "updated": "2025-01-23T00:15:18Z",
+  "publicDisclosureAvailabilityDate": "July CY2025",
+  "publicPreviewDate": "March CY2025"
+}
