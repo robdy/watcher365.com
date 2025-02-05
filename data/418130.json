@@ -10,9 +10,9 @@
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Viva: Viva Glint - Custom question benchmark mapping",
-  "description": "Viva Glint survey creators will be able to associate a custom question with a Viva Glint benchmark to leverage the benchmark in the reporting UI.",
+  "description": "Viva Glint survey creators will be able to associate custom questions with standard Viva Glint questions to utilize benchmark comparisons in the reporting UI. \n\nThis feature allows survey creators to tailor standard questions to better fit their needs while still benefiting from benchmark data. \n\nFor example, the standard question might be: \n\"How happy are you working at {{company name}}?\" \n\nYou can create and map multiple similar questions to this standard question, such as: \n- \"How happy are you working at {{company name}} this quarter?\" \n- \"How happy are you working at {{company name}} this year?\" \n\nBy doing so, you can leverage benchmark comparisons for custom questions, ensuring you get the most relevant insights.",
   "pubDate": "Fri, 25 Oct 2024 00:00:13 Z",
-  "updated": "2025-01-14T00:15:48Z",
+  "updated": "2025-02-05T00:15:53Z",
   "publicDisclosureAvailabilityDate": "February CY2025",
   "publicPreviewDate": "December CY2024"
 }
