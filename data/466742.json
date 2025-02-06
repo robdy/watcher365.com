@@ -12,7 +12,7 @@
   "title": "Microsoft Purview compliance portal: Insider Risk Management - Downgrade/remove sensitivity label",
   "description": "This feature is an enhancement to the existing IRM Office Indicator - Downgrading sensitivity labels applied to SharePoint files and removing sensitivity labels from SharePoint files.\n\nIn the current version, only sensitivity label changes on SharePoint Web app are captured in IRM. But with the latest update, this indicator captures the sensitivity label changes (downgrade/remove) when performed on OneDrive, AIP, and Endpoint (SharePoint file opened in Office app or any sensitivity label change on the local files on your device).\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
   "pubDate": "Tue, 05 Nov 2024 00:30:50 Z",
-  "updated": "2024-11-05T00:30:50Z",
-  "publicDisclosureAvailabilityDate": "January CY2025",
+  "updated": "2025-02-06T00:15:02Z",
+  "publicDisclosureAvailabilityDate": "March CY2025",
   "publicPreviewDate": "November CY2024"
 }
