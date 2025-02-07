@@ -1,0 +1,1525 @@
+[
+  {
+    "Path": "data/124789.json",
+    "CurrentVersion": {
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": "A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    },
+    "OldVersion": {
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": "A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 Z",
+      "updated": "2024-05-29T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    }
+  },
+  {
+    "Path": "data/186968.json",
+    "CurrentVersion": {
+      "guid": "186968",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186968",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Add premium capabilities to Planner",
+      "description": "Add premium capabilities like sprint planning, people view, goals, custom fields, and task history to your plans within the Planner Teams app.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:12 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "186968",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186968",
+      "category": [
+        "General Availability",
+        "Microsoft Project",
+        "Planner",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Add premium capabilities to Planner",
+      "description": "Add premium capabilities like sprint planning, people view, goals, custom fields, and task history to your plans within the Planner Teams app.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:12 Z",
+      "updated": "2024-09-30T23:30:14Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/369345.json",
+    "CurrentVersion": {
+      "guid": "369345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369345",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: ‘Add emoji’ updated keyboard shortcut",
+      "description": "Insert emojis directly from your keyboard without any distractions. Use colons (e.g. :smile:) in the compose box to add any emoji, even your custom ones, making it quicker to express yourself.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "369345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369345",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: ‘Add emoji’ updated keyboard shortcut",
+      "description": "Insert emojis directly from your keyboard without any distractions. Use colons (e.g. :smile:) in the compose box to add any emoji, even your custom ones, making it quicker to express yourself.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-01-23T01:15:16Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/371588.json",
+    "CurrentVersion": {
+      "guid": "371588",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371588",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Intelligent Event Recap in Town hall and webinar (Premium)",
+      "description": "Intelligent recap is now available for town hall and webinar event instances, just like the intelligent recap experience you are used to in meetings. Event organizer, co-organizers and presenters can now easily explore the meeting recording by speakers and topics, and access AI-generated meeting notes, AI-generated tasks, and name mentions. In addition to availability with a Teams Premium license, intelligent event recap features are also available in Copilot for Microsoft 365 licenses.",
+      "pubDate": "Fri, 22 Nov 2024 23:15:35 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "371588",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371588",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Intelligent Event Recap in Town hall and webinar (Premium)",
+      "description": "Intelligent recap is now available for town hall and webinar event instances, just like the intelligent recap experience you are used to in meetings. Event organizer, co-organizers and presenters can now easily explore the meeting recording by speakers and topics, and access AI-generated meeting notes, AI-generated tasks, and name mentions. In addition to availability with a Teams Premium license, intelligent event recap features are also available in Copilot for Microsoft 365 licenses.",
+      "pubDate": "Fri, 22 Nov 2024 23:15:35 Z",
+      "updated": "2024-12-12T00:15:03Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/374375.json",
+    "CurrentVersion": {
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2025-01-10T23:15:46Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/380722.json",
+    "CurrentVersion": {
+      "guid": "380722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380722",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Trigger Power automate workflows as outcome of DLP rule match",
+      "description": "This introduces a new DLP rule action to trigger custom Power automate workflows when a DLP rule is violated.",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "380722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380722",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Trigger Power automate workflows as outcome of DLP rule match",
+      "description": "This introduces a new DLP rule action to trigger custom Power automate workflows when a DLP rule is violated.",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2024-11-22T00:00:46Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/382655.json",
+    "CurrentVersion": {
+      "guid": "382655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382655",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Remove recommendations in Recommended to You",
+      "description": "This gives users the ability to remove the recommendations which they do not need in the Recommended to you section.",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {
+      "guid": "382655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382655",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Remove recommendations in Recommended to You",
+      "description": "This gives users the ability to remove the recommendations which they do not need in the Recommended to you section.",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2025-01-31T00:15:03Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "July CY2024"
+    }
+  },
+  {
+    "Path": "data/395213.json",
+    "CurrentVersion": {
+      "guid": "395213",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395213",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Flexible Layouts",
+      "description": "New flexible layout sections allow authors to build pages without the strict column structure. Web parts can be dynamically resized and moved within the flexible section.",
+      "pubDate": "Fri, 26 Apr 2024 22:45:30 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "395213",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395213",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Flexible Layouts",
+      "description": "New flexible layout sections allow authors to build pages without the strict column structure. Web parts can be dynamically resized and moved within the flexible section.",
+      "pubDate": "Fri, 26 Apr 2024 22:45:30 Z",
+      "updated": "2024-04-29T23:45:13Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/411302.json",
+    "CurrentVersion": {
+      "guid": "411302",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411302",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Prioritize my inbox by Copilot",
+      "description": "Prioritize my inbox by Copilot marks high priority mails in your inbox and provides a short summary of the mail's importance in the message list and the reading pane. Mails can be sorted and filtered by Copilot's priority. In Web and New Outlook for Windows, you can also choose to have Copilot mark low priority mails. #newoutlookforwindows",
+      "pubDate": "Mon, 16 Sep 2024 23:30:04 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "September CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {
+      "guid": "411302",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411302",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Prioritize my inbox by Copilot",
+      "description": "Prioritize my inbox by Copilot marks high priority mails in your inbox and provides a short summary of the mail's importance in the message list and the reading pane. Mails can be sorted and filtered by Copilot's priority. In Web and New Outlook for Windows, you can also choose to have Copilot mark low priority mails. #newoutlookforwindows",
+      "pubDate": "Mon, 16 Sep 2024 23:30:04 Z",
+      "updated": "2024-11-22T23:15:35Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "March CY2025"
+    }
+  },
+  {
+    "Path": "data/414524.json",
+    "CurrentVersion": {
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2025-01-03T00:15:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/415452.json",
+    "CurrentVersion": {
+      "guid": "415452",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415452",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot for leaders in Viva Insights",
+      "description": "Empower leaders to ask questions about their organization and how their team is doing through responses that leverage Viva Insights behavioral metrics and organizational context data.",
+      "pubDate": "Tue, 15 Oct 2024 23:15:51 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {
+      "guid": "415452",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415452",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot for leaders in Viva Insights",
+      "description": "Empower leaders to ask questions about their organization and how their team is doing through responses that leverage Viva Insights behavioral metrics and organizational context data.",
+      "pubDate": "Tue, 15 Oct 2024 23:15:51 Z",
+      "updated": "2024-12-19T00:15:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    }
+  },
+  {
+    "Path": "data/418120.json",
+    "CurrentVersion": {
+      "guid": "418120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418120",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices update only when idle",
+      "description": "Updates from Teams admin center for Teams devices will happen only when they are idle. This will minimise end-user disruption.",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "418120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418120",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices update only when idle",
+      "description": "Updates from Teams admin center for Teams devices will happen only when they are idle. This will minimise end-user disruption.",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2024-12-06T00:00:08Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420333.json",
+    "CurrentVersion": {
+      "guid": "420333",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420333",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence (Microsoft managed storage)",
+      "description": "With this capability, Admins can choose to store a copy of the file that resulted in a DLP policy match. The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity. To configure Microsoft managed storage, similar to customer managed storage, the user can go to endpoint DLP settings and select Microsoft managed storage. As compared to customer managed storage, the admin need not configure any additional settings like adding a blob, assigning permissions, or selecting storage in policy workflow.",
+      "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "420333",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420333",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence (Microsoft managed storage)",
+      "description": "With this capability, Admins can choose to store a copy of the file that resulted in a DLP policy match. The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity. To configure Microsoft managed storage, similar to customer managed storage, the user can go to endpoint DLP settings and select Microsoft managed storage. As compared to customer managed storage, the admin need not configure any additional settings like adding a blob, assigning permissions, or selecting storage in policy workflow.",
+      "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+      "updated": "2024-11-06T00:30:44Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/420938.json",
+    "CurrentVersion": {
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2024-12-11T00:15:40Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "December CY2024"
+    }
+  },
+  {
+    "Path": "data/422728.json",
+    "CurrentVersion": {
+      "guid": "422728",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422728",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Loop",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop – Microsoft 365 Groups for Managing New Loop workspaces",
+      "description": "When creating a new Loop workspace, users can specify an existing Teams enabled Microsoft 365 Group to manage the workspace's lifetime, governance, and compliance.",
+      "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "422728",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422728",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Loop",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop – Microsoft 365 Groups for Managing New Loop workspaces",
+      "description": "When creating a new Loop workspace, users can specify an existing Teams enabled Microsoft 365 Group to manage the workspace's lifetime, governance, and compliance.",
+      "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+      "updated": "2025-02-05T00:15:53Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/423483.json",
+    "CurrentVersion": {
+      "guid": "423483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Data Loss Prevention to restrict Microsoft 365 Copilot processing on content with sensitivity labels",
+      "description": "Microsoft Purview Data Loss Prevention is extended to Microsoft 365 Copilot. This feature will allow DLP policies to provide detection of sensitivity labels in enterprise grounding data and restrict access of the content in Microsoft 365 Copilot.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "423483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Data Loss Prevention to restrict Microsoft 365 Copilot processing on content with sensitivity labels",
+      "description": "Microsoft Purview Data Loss Prevention is extended to Microsoft 365 Copilot. This feature will allow DLP policies to provide detection of sensitivity labels in enterprise grounding data and restrict access of the content in Microsoft 365 Copilot.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2024-11-19T18:30:19Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/429876.json",
+    "CurrentVersion": {
+      "guid": "429876",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429876",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - MIP auto-labeling for Azure SQL & Storage",
+      "description": "Extend your sensitivity labels to specific or all subscriptions within Azure Storage and Azure SQL Server via auto-labeling policy. Clearly define labeling conditions for data sources beyond M365 without fear of it interfering with existing M365 files configurations.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {
+      "guid": "429876",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429876",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - MIP auto-labeling for Azure SQL & Storage",
+      "description": "Extend your sensitivity labels to specific or all subscriptions within Azure Storage and Azure SQL Server via auto-labeling policy. Clearly define labeling conditions for data sources beyond M365 without fear of it interfering with existing M365 files configurations.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-11-01T23:00:59Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "November CY2024"
+    }
+  },
+  {
+    "Path": "data/466739.json",
+    "CurrentVersion": {
+      "guid": "466739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466739",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Viva",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Connections insights and recommendations digest",
+      "description": "This creates a periodic digest email to editors of Viva Connections, informing them of the analytics summary of their Connections experience and recommendations to improve engagement.",
+      "pubDate": "Tue, 05 Nov 2024 00:30:50 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "466739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466739",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Viva",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Connections insights and recommendations digest",
+      "description": "This creates a periodic digest email to editors of Viva Connections, informing them of the analytics summary of their Connections experience and recommendations to improve engagement.",
+      "pubDate": "Tue, 05 Nov 2024 00:30:50 Z",
+      "updated": "2024-12-20T00:00:02Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470303.json",
+    "CurrentVersion": {
+      "guid": "470303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470303",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Keyword monitoring email notification enhancements",
+      "description": "This revamps the existing content alert (keyword monitoring) emails that admins receive to include added context on the content being monitored and minor security enhancements.",
+      "pubDate": "Fri, 06 Dec 2024 00:00:08 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470303",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Keyword monitoring email notification enhancements",
+      "description": "This revamps the existing content alert (keyword monitoring) emails that admins receive to include added context on the content being monitored and minor security enhancements.",
+      "pubDate": "Fri, 06 Dec 2024 00:00:08 Z",
+      "updated": "2025-01-16T00:00:43Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470603.json",
+    "CurrentVersion": {
+      "guid": "470603",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470603",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Pages authoring accessibility checker",
+      "description": "SharePoint Accessibility Assistant empowers content creators to ensure their SharePoint Pages meet accessibility standards.",
+      "pubDate": "Thu, 05 Dec 2024 00:15:07 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470603",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470603",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Pages authoring accessibility checker",
+      "description": "SharePoint Accessibility Assistant empowers content creators to ensure their SharePoint Pages meet accessibility standards.",
+      "pubDate": "Thu, 05 Dec 2024 00:15:07 Z",
+      "updated": "2024-12-05T00:15:07Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/476487.json",
+    "CurrentVersion": {
+      "guid": "476487",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=476487",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: CVI support for Townhall and Webinar presenters",
+      "description": "Presenters can now join Teams Townhall and Teams Webinar sessions using third-party video teleconferencing devices (VTC) through Cloud Video Interop (CVI) coordinates provided in presenter invites.  Only trusted CVI devices can join the event and use presenter features like Green Room.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "476487",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=476487",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Add CVI Coordinates to Townhall and webinar invites",
+      "description": "With CVI coordinates in invites, now non-Teams users—such as external customers or partners—can easily join Teams Townhall and webinar meetings using a third-party teleconferencing device.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/476489.json",
+    "CurrentVersion": {
+      "guid": "476489",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=476489",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter joins Townhalls via dial-in",
+      "description": "Teams Townhall presenters will now have the ability to join their townhalls using dial-in details. These details will be available in the body of the invite email they receive from Teams.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "476489",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=476489",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Townhall Attendee/Presenter email dial in details.",
+      "description": "With the release of this feature, the Townhall attendee and presenter invites will have dial in details available in the body of the email.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/479744.json",
+    "CurrentVersion": {
+      "guid": "479744",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=479744",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Create channels with ease",
+      "description": "Efficiently create channels directly from the header menu, eliminating the need to scroll down to the specific team. As a channel creator, you will have the flexibility to choose from all the teams you can create a channel in to host your new channel.",
+      "pubDate": "Fri, 07 Feb 2025 00:15:04 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124789/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "124789",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=124789",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Defender for Cloud Apps",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Defender for Cloud Apps: Behaviors",
+      "description": "A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+      "pubDate": "Tue, 04 Apr 2023 23:36:05 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "May CY2024",
+      "publicPreviewDate": "May CY2023"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/186968/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "186968",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=186968",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Project",
+        "Planner",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Planner: Add premium capabilities to Planner",
+      "description": "Add premium capabilities like sprint planning, people view, goals, custom fields, and task history to your plans within the Planner Teams app.",
+      "pubDate": "Thu, 16 Nov 2023 00:27:12 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "June CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/369345/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "369345",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=369345",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: ‘Add emoji’ updated keyboard shortcut",
+      "description": "Insert emojis directly from your keyboard without any distractions. Use colons (e.g. :smile:) in the compose box to add any emoji, even your custom ones, making it quicker to express yourself.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/371588/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "371588",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=371588",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Intelligent Event Recap in Town hall and webinar (Premium)",
+      "description": "Intelligent recap is now available for town hall and webinar event instances, just like the intelligent recap experience you are used to in meetings. Event organizer, co-organizers and presenters can now easily explore the meeting recording by speakers and topics, and access AI-generated meeting notes, AI-generated tasks, and name mentions. In addition to availability with a Teams Premium license, intelligent event recap features are also available in Copilot for Microsoft 365 licenses.",
+      "pubDate": "Fri, 22 Nov 2024 23:15:35 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/374375/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "374375",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=374375",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - Save filters for Activity Explorer",
+      "description": "Ability to save the filters applied to Activity Explorer and use them later.",
+      "pubDate": "Tue, 12 Dec 2023 23:45:07 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/380722/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "380722",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=380722",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Trigger Power automate workflows as outcome of DLP rule match",
+      "description": "This introduces a new DLP rule action to trigger custom Power automate workflows when a DLP rule is violated.",
+      "pubDate": "Wed, 31 Jan 2024 01:00:33 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/382655/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "382655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=382655",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Remove recommendations in Recommended to You",
+      "description": "This gives users the ability to remove the recommendations which they do not need in the Recommended to you section.",
+      "pubDate": "Thu, 15 Feb 2024 00:15:19 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "July CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/395213/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "395213",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=395213",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Flexible Layouts",
+      "description": "New flexible layout sections allow authors to build pages without the strict column structure. Web parts can be dynamically resized and moved within the flexible section.",
+      "pubDate": "Fri, 26 Apr 2024 22:45:30 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/411302/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "411302",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411302",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Prioritize my inbox by Copilot",
+      "description": "Prioritize my inbox by Copilot marks high priority mails in your inbox and provides a short summary of the mail's importance in the message list and the reading pane. Mails can be sorted and filtered by Copilot's priority. In Web and New Outlook for Windows, you can also choose to have Copilot mark low priority mails. #newoutlookforwindows",
+      "pubDate": "Mon, 16 Sep 2024 23:30:04 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "September CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414524/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "414524",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=414524",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Editorial Card web part in SharePoint Pages and News",
+      "description": "We are introducing a Web Part called the Editorial Card to enhance page experiences. This card-like container allows for manual creation tailored to your needs, creating eye-catching content to capture viewers’ attentions.",
+      "pubDate": "Fri, 06 Sep 2024 22:30:01 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/415452/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "415452",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=415452",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Viva",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Copilot for leaders in Viva Insights",
+      "description": "Empower leaders to ask questions about their organization and how their team is doing through responses that leverage Viva Insights behavioral metrics and organizational context data.",
+      "pubDate": "Tue, 15 Oct 2024 23:15:51 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418120/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "418120",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418120",
+      "category": [
+        "GCC",
+        "General Availability",
+        "Microsoft Teams",
+        "Rolling out",
+        "Teams and Surface Devices",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Teams devices update only when idle",
+      "description": "Updates from Teams admin center for Teams devices will happen only when they are idle. This will minimise end-user disruption.",
+      "pubDate": "Tue, 24 Sep 2024 23:15:37 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420333/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "420333",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420333",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Ability to fetch the original file resulting in policy match as evidence (Microsoft managed storage)",
+      "description": "With this capability, Admins can choose to store a copy of the file that resulted in a DLP policy match. The admin uses this data to analyze the contents to confirm the full set of data that was exfiltrated to assess severity. To configure Microsoft managed storage, similar to customer managed storage, the user can go to endpoint DLP settings and select Microsoft managed storage. As compared to customer managed storage, the admin need not configure any additional settings like adding a blob, assigning permissions, or selecting storage in policy workflow.",
+      "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420938/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "420938",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420938",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+      "description": "With this feature, IRM analysts can identify if the user being investigated has any compromise user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. Microsoft Entra offers two types of compromised user detections: 1. Sign in risk detections - Compromise risk associated with a specific sign-in. 2. User risk detections - Compromise risk associated with a specific user. - Insider risk management admins can opt into each of the above risk detections from Insider risk management global settings. - Risk detections will be available in the indicator timeline within the alert investigation experience. - Risk detections will not impact the risk score or severity of Insider risk management alerts. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.<br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+      "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "December CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/422728/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "422728",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=422728",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 app",
+        "Microsoft Loop",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 app: Microsoft Loop – Microsoft 365 Groups for Managing New Loop workspaces",
+      "description": "When creating a new Loop workspace, users can specify an existing Teams enabled Microsoft 365 Group to manage the workspace's lifetime, governance, and compliance.",
+      "pubDate": "Tue, 29 Oct 2024 00:00:51 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423483/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "423483",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=423483",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Loss Prevention - Data Loss Prevention to restrict Microsoft 365 Copilot processing on content with sensitivity labels",
+      "description": "Microsoft Purview Data Loss Prevention is extended to Microsoft 365 Copilot. This feature will allow DLP policies to provide detection of sensitivity labels in enterprise grounding data and restrict access of the content in Microsoft 365 Copilot.",
+      "pubDate": "Tue, 19 Nov 2024 18:30:19 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/429876/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "429876",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=429876",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Information Protection - MIP auto-labeling for Azure SQL & Storage",
+      "description": "Extend your sensitivity labels to specific or all subscriptions within Azure Storage and Azure SQL Server via auto-labeling policy. Clearly define labeling conditions for data sources beyond M365 without fear of it interfering with existing M365 files configurations.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "November CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/466739/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "466739",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=466739",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Viva",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Connections insights and recommendations digest",
+      "description": "This creates a periodic digest email to editors of Viva Connections, informing them of the analytics summary of their Connections experience and recommendations to improve engagement.",
+      "pubDate": "Tue, 05 Nov 2024 00:30:50 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470303/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "470303",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470303",
+      "category": [
+        "Android",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Keyword monitoring email notification enhancements",
+      "description": "This revamps the existing content alert (keyword monitoring) emails that admins receive to include added context on the content being monitored and minor security enhancements.",
+      "pubDate": "Fri, 06 Dec 2024 00:00:08 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470603/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "470603",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=470603",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Pages authoring accessibility checker",
+      "description": "SharePoint Accessibility Assistant empowers content creators to ensure their SharePoint Pages meet accessibility standards.",
+      "pubDate": "Thu, 05 Dec 2024 00:15:07 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/476487/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "476487",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=476487",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: CVI support for Townhall and Webinar presenters",
+      "description": "Presenters can now join Teams Townhall and Teams Webinar sessions using third-party video teleconferencing devices (VTC) through Cloud Video Interop (CVI) coordinates provided in presenter invites.  Only trusted CVI devices can join the event and use presenter features like Green Room.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/476489/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "476489",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=476489",
+      "category": [
+        "Desktop",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter joins Townhalls via dial-in",
+      "description": "Teams Townhall presenters will now have the ability to join their townhalls using dial-in details. These details will be available in the body of the invite email they receive from Teams.",
+      "pubDate": "Thu, 23 Jan 2025 00:15:18 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/479744/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-07T02:23:22.0762981+00:00",
+      "guid": "479744",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=479744",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Create channels with ease",
+      "description": "Efficiently create channels directly from the header menu, eliminating the need to scroll down to the specific team. As a channel creator, you will have the flexibility to choose from all the teams you can create a channel in to host your new channel.",
+      "pubDate": "Fri, 07 Feb 2025 00:15:04 Z",
+      "updated": "2025-02-07T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
