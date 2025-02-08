@@ -1,0 +1,1568 @@
+[
+  {
+    "Path": "data/165697.json",
+    "CurrentVersion": {
+      "guid": "165697",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165697",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Simplified Goal Creation",
+      "description": "Users can save time in adding or creating Goals with the new simplified creation experience. This item is no longer accurate and is being removed from the roadmap.  We apologize for any inconvenience.",
+      "pubDate": "Thu, 24 Aug 2023 23:14:28 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "165697",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165697",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Simplified Goal Creation",
+      "description": "Users can save time in adding or creating Goals\nwith the new simplified creation experience.",
+      "pubDate": "Thu, 24 Aug 2023 23:14:28 Z",
+      "updated": "2023-08-24T23:09:50Z",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/375635.json",
+    "CurrentVersion": {
+      "guid": "375635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375635",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Shared Mailboxes as Accounts",
+      "description": "Shared Mailboxes can be added as Accounts in the new Outlook for Windows. The Shared Mailbox will appear at the Account Level in the Folder list. Access to the Shared Mailbox requires the user's credentials and associated permissions. #newoutlookforwindows",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "May CY2025"
+    },
+    "OldVersion": {
+      "guid": "375635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375635",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Shared Mailboxes as Accounts",
+      "description": "Shared Mailboxes can be added as Accounts in the new Outlook for Windows. The Shared Mailbox will appear at the Account Level in the Folder list. Access to the Shared Mailbox requires the user's credentials and associated permissions. #newoutlookforwindows",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 Z",
+      "updated": "2025-02-04T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/392838.json",
+    "CurrentVersion": {
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2024-12-13T23:15:08Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "February CY2025"
+    }
+  },
+  {
+    "Path": "data/399467.json",
+    "CurrentVersion": {
+      "guid": "399467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: First phase of PST support in new Outlook for Windows",
+      "description": "The first phase PST (a.k.a. Outlook Data File) support in the new Outlook for Windows provides read-only access to Mail items within *.pst files. Users will be able to open *.pst files, read their emails within *.pst files, and search *.pst files for emails. All Calendar, Contacts, and Tasks data saved in the *.pst files are still there, but they cannot be accessed in this preview. Next releases will expand PST support capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "399467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: First phase of PST support in new Outlook for Windows",
+      "description": "The first phase PST (a.k.a. Outlook Data File) support in the new Outlook for Windows provides read-only access to Mail items within *.pst files. Users will be able to open *.pst files, read their emails within *.pst files, and search *.pst files for emails. All Calendar, Contacts, and Tasks data saved in the *.pst files are still there, but they cannot be accessed in this preview. Next releases will expand PST support capabilities. #newoutlookforwindows",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2025-01-08T00:15:04Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/408165.json",
+    "CurrentVersion": {
+      "guid": "408165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408165",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – Verified Answers",
+      "description": "Certain users like experts and admins will be able to mark answers to questions as verified answers to signal a credible and accurate answer. Questions with verified answers will receive its own special verified label and badge at the top of the question and on the verified answer. The goal of verified answers is to help enhance the trust and utility of knowledge in Viva Engage.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "408165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408165",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – Verified Answers",
+      "description": "Certain users like experts and admins will be able to mark answers to questions as verified answers to signal a credible and accurate answer. Questions with verified answers will receive its own special verified label and badge at the top of the question and on the verified answer. The goal of verified answers is to help enhance the trust and utility of knowledge in Viva Engage.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2024-12-13T00:30:04Z",
+      "publicDisclosureAvailabilityDate": "February CY2024",
+      "publicPreviewDate": "January CY2024"
+    }
+  },
+  {
+    "Path": "data/410771.json",
+    "CurrentVersion": {
+      "guid": "410771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Conditional branching in Microsoft Lists forms",
+      "description": "Microsoft Lists forms will enable users to create dynamic forms featuring branching and conditional logic. This update allows users to customize their forms to display relevant questions based on conditions applied to previous responses, empowering them to design smarter forms that adapt to their data collection needs.",
+      "pubDate": "Fri, 09 Aug 2024 22:00:51 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "410771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Conditional branching in Microsoft Lists forms",
+      "description": "Microsoft Lists forms will enable users to create dynamic forms featuring branching and conditional logic. This update allows users to customize their forms to display relevant questions based on conditions applied to previous responses, empowering them to design smarter forms that adapt to their data collection needs.",
+      "pubDate": "Fri, 09 Aug 2024 22:00:51 Z",
+      "updated": "2024-12-17T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/411138.json",
+    "CurrentVersion": {
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2025-01-28T00:00:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/416093.json",
+    "CurrentVersion": {
+      "guid": "416093",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416093",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Elevating top settings and improving settings page navigability",
+      "description": "To make finding browser settings more efficient, Microsoft Edge is introducing three navigation improvements to Edge Settings. We are making no changes to the functionality of any setting and all settings will remain on the same page as they are today but will be behind clickable sections. The first is introducing quick access to the most used actions on the landing page of Edge Settings. Second, each densely populated page—Privacy, search, and services; Appearance; Cookies and site permissions; System and performance—will feature quick access to its most used actions. Third, for these same pages, each section will now click-through to its respective sub-settings (similar to a table of contents).",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "416093",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416093",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Elevating top settings and improving settings page navigability",
+      "description": "To make finding browser settings more efficient, Microsoft Edge is introducing three navigation improvements to Edge Settings. We are making no changes to the functionality of any setting and all settings will remain on the same page as they are today but will be behind clickable sections. The first is introducing quick access to the most used actions on the landing page of Edge Settings. Second, each densely populated page—Privacy, search, and services; Appearance; Cookies and site permissions; System and performance—will feature quick access to its most used actions. Third, for these same pages, each section will now click-through to its respective sub-settings (similar to a table of contents).",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2025-01-07T00:01:00Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/417005.json",
+    "CurrentVersion": {
+      "guid": "417005",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417005",
+      "category": [
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Copilot Chat on OneNote for web and in Teams",
+      "description": "Bringing the power of Microsoft Copilot to OneNote for web and in Teams.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "417005",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417005",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Copilot Chat on OneNote for web and in Teams",
+      "description": "Bringing the power of Microsoft Copilot to OneNote for web and in Teams.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2024-09-20T22:15:31Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/418564.json",
+    "CurrentVersion": {
+      "guid": "418564",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418564",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Summarize files shared in Teams chat with Copilot",
+      "description": "Summarize action on files shared in Teams chat, will allow users to summarize files with one click using Copilot within one-on-one or group chats. It will work on common file types like Word and PDF to start with and other formats will be added over due course. This requires a Microsoft Copilot for Microsoft 365 license.",
+      "pubDate": "Tue, 19 Nov 2024 00:15:55 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "418564",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418564",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Summarize files shared in Teams chat with Copilot",
+      "description": "Summarize action on files shared in Teams chat, will allow users to summarize files with one click using Copilot within one-on-one or group chats. It will work on common file types like Word and PDF to start with and other formats will be added over due course. This requires a Microsoft Copilot for Microsoft 365 license.",
+      "pubDate": "Tue, 19 Nov 2024 00:15:55 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/420335.json",
+    "CurrentVersion": {
+      "guid": "420335",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420335",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Rewrite by Copilot in Edge is being upgraded to include enterprise data protection compliance standards",
+      "description": "Rewrite by Copilot in Edge, which lets users edit typed text for tone, format, and length within an open page in Microsoft Edge, is being updated to include enterprise data protection for commercial customers. Once Rewrite is available, users signed in with a Microsoft Entra ID will have enterprise data protection when using the feature in Microsoft Edge.<br>More info: https://learn.microsoft.com/en-us/copilot/edge",
+      "pubDate": "Thu, 03 Oct 2024 23:30:37 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "420335",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420335",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Rewrite by Copilot in Edge is being upgraded to include enterprise data protection compliance standards",
+      "description": "Rewrite by Copilot in Edge, which lets users edit typed text for tone, format, and length within an open page in Microsoft Edge, is being updated to include enterprise data protection for commercial customers. Once Rewrite is available, users signed in with a Microsoft Entra ID will have enterprise data protection when using the feature in Microsoft Edge.<br>More info: https://learn.microsoft.com/en-us/copilot/edge",
+      "pubDate": "Thu, 03 Oct 2024 23:30:37 Z",
+      "updated": "2024-10-03T23:30:37Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/467445.json",
+    "CurrentVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/469035.json",
+    "CurrentVersion": {
+      "guid": "469035",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469035",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: \"None\" color category for Mail and Calendar in the New Outlook for Windows and Web",
+      "description": "We’ve introduced a new \"None\" color category for Mail and Calendar in the New Outlook for Windows and Web. This update provides more flexibility and customization in categorizing your emails and calendar events. By selecting the \"None\" option, users can now choose to have items without a designated color, allowing for cleaner organization and more control over which items stand out visually. Updated February 6, 2025: This item was changed to \"Launched\" by mistake. The correct status is currently \"Rolling out.\" #newoutlookforwindows",
+      "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "469035",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469035",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: \"None\" color category for Mail and Calendar in the New Outlook for Windows and Web",
+      "description": "We’ve introduced a new \"None\" color category for Mail and Calendar in the New Outlook for Windows and Web. This update provides more flexibility and customization in categorizing your emails and calendar events. By selecting the \"None\" option, users can now choose to have items without a designated color, allowing for cleaner organization and more control over which items stand out visually. #newoutlookforwindows",
+      "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
+      "updated": "2024-12-06T23:15:49Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/471426.json",
+    "CurrentVersion": {
+      "guid": "471426",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=471426",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the transcription experience in meetings",
+      "description": "We’re making improvements to enhance the transcription experience in meetings. First, when transcription, recording, or Copilot are enabled before or during the meeting, users will be prompted to select the spoken language to ensure transcription accuracy. Second, when transcription is enabled (whether by itself or when recording or Copilot are enabled) only the meeting organizer, co-organizers, and transcript initiator will be able to change the spoken language. Next, we’re simplifying the settings by creating a new settings page for meeting spoken language and translation language for live translated captions at Caption settings > Language settings > Meeting spoken language and transcript found at Transcript > Language settings > Meeting spoken language.  Lastly, when participants speak a language that doesn’t match the selected language in the spoken language setting, the meeting organizer, co-organizer and initiator will get a notification that the language is mismatched.",
+      "pubDate": "Fri, 13 Dec 2024 00:15:57 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "471426",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=471426",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the transcription experience in meetings",
+      "description": "We’re making improvements to enhance the transcription experience in meetings. First, when transcription, recording, or Copilot are enabled before or during the meeting, users will be prompted to select the spoken language to ensure transcription accuracy. Second, when transcription is enabled (whether by itself or when recording or Copilot are enabled) only the meeting organizer, co-organizers, and transcript initiator will be able to change the spoken language. Next, we’re simplifying the settings by creating a new settings page for meeting spoken language and translation language for live translated captions at Caption settings > Language settings > Meeting spoken language and transcript found at Transcript > Language settings > Meeting spoken language.  Lastly, when participants speak a language that doesn’t match the selected language in the spoken language setting, the meeting organizer, co-organizer and initiator will get a notification that the language is mismatched.",
+      "pubDate": "Fri, 13 Dec 2024 00:15:57 Z",
+      "updated": "2025-01-23T00:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/472025.json",
+    "CurrentVersion": {
+      "guid": "472025",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472025",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Information Protection: Protect your most sensitive content with double key encryption",
+      "description": "Double Key Encryption (DKE) provides organizations with a second encryption key for your most sensitive content.<br>More info: https://learn.microsoft.com/microsoft-365/compliance/double-key-encryption",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "472025",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472025",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Rolling out",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Information Protection: Protect your most sensitive content with double key encryption",
+      "description": "Double Key Encryption (DKE) provides organizations with a second encryption key for your most sensitive content.<br>More info: https://learn.microsoft.com/microsoft-365/compliance/double-key-encryption",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-01-14T00:15:48Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/473993.json",
+    "CurrentVersion": {
+      "guid": "473993",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473993",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move email between mailbox and PST file in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook data files) in the new Outlook for Windows, users will be able move (drag and drop) emails from a .pst file to a mailbox and vice versa. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Fri, 20 Dec 2024 23:15:46 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "473993",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473993",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move email between mailbox and PST file in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook data files) in the new Outlook for Windows, users will be able move (drag and drop) emails from a .pst file to a mailbox and vice versa. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows",
+      "pubDate": "Fri, 20 Dec 2024 23:15:46 Z",
+      "updated": "2025-01-28T00:00:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/473995.json",
+    "CurrentVersion": {
+      "guid": "473995",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473995",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Manage email in PST files in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook data files) in the new Outlook for Windows, users will be able to move, copy, delete, flag/unflag, mark as read/unread, and set categories for email within .pst files. Additionally, users will be able to create, delete, move, and rename folders within .pst files. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Fri, 20 Dec 2024 23:15:46 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "473995",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473995",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Manage email in PST files in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook data files) in the new Outlook for Windows, users will be able to move, copy, delete, flag/unflag, mark as read/unread, and set categories for email within .pst files. Additionally, users will be able to create, delete, move, and rename folders within .pst files. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows",
+      "pubDate": "Fri, 20 Dec 2024 23:15:46 Z",
+      "updated": "2025-01-28T00:00:21Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/474450.json",
+    "CurrentVersion": {
+      "guid": "474450",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=474450",
+      "category": [
+        "Developer",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot extensibility – Copilot Chat developer mode",
+      "description": "Developers can use Microsoft 365 Copilot Chat and enable developer mode to debug.",
+      "pubDate": "Fri, 10 Jan 2025 00:15:38 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "474450",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=474450",
+      "category": [
+        "Developer",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot extensibility – Copilot Chat developer mode",
+      "description": "Developers can use Microsoft 365 Copilot Chat and enable developer mode to debug.",
+      "pubDate": "Fri, 10 Jan 2025 00:15:38 Z",
+      "updated": "2025-01-10T00:15:38Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/475967.json",
+    "CurrentVersion": {
+      "guid": "475967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475967",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Read aloud available in Microsoft 365 Copilot Chat",
+      "description": "Play back Copilot responses as audio with read aloud in Copilot Chat.",
+      "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {
+      "guid": "475967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475967",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Read aloud available in Microsoft 365 Copilot Chat",
+      "description": "Play back Copilot responses as audio with read aloud in Copilot Chat.",
+      "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+      "updated": "2025-01-24T00:00:21Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/478654.json",
+    "CurrentVersion": {
+      "guid": "478654",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=478654",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Updates to Copilot Chat prompt input box",
+      "description": "This update aligns Copilot Chat prompt input box across chat experiences.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/478655.json",
+    "CurrentVersion": {
+      "guid": "478655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=478655",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Feature Access Management for Copilot in Viva Glint",
+      "description": "Admins will have the ability to enable or disable Microsoft 365 Copilot in Viva Glint for specific users through the M365 admin center.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/478927.json",
+    "CurrentVersion": {
+      "guid": "478927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=478927",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Support for inline videos and GIFs in articles",
+      "description": "This adds support for inline videos and GIFs in Viva Engage articles.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/479412.json",
+    "CurrentVersion": {
+      "guid": "479412",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=479412",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Group messages as conversation for PST files in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to group messages as conversation for emails within .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Fri, 31 Jan 2025 00:15:03 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "479412",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=479412",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Group messages as conversation for PST files in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to group messages as conversation for emails within .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows",
+      "pubDate": "Fri, 31 Jan 2025 00:15:03 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/480720.json",
+    "CurrentVersion": {
+      "guid": "480720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=480720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Customize the location of Teams notifications on web",
+      "description": "You can now customize where your Teams notification appear on your screen when using Teams on web. Options include bottom right, top right, bottom left, and top left, allowing you to choose the most convenient and least intrusive location for a better experience and productivity.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/93395.json",
+    "CurrentVersion": {
+      "guid": "93395",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93395",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Experience insights for Microsoft 365 admins",
+      "description": "The Experience insights in the Microsoft 365 admin center offers admins consistent data across usage, feedback, Net Promoter Score, and Help articles consumption. Admins can use such data to increase user satisfaction by launching relevant trainings and awareness campaigns in the organization. This experience would be particularly valuable to those roles in the IT organization who are responsible for understanding and improving the user experience for Microsoft 365. Note: We apologize for stating that this has rolled out, when in fact it will not until December 2023. Note: This item is no longer accurate and will be removed from the roadmap.",
+      "pubDate": "Mon, 08 Aug 2022 23:19:44 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "August CY2022"
+    },
+    "OldVersion": {
+      "guid": "93395",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93395",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Experience insights for Microsoft 365 admins",
+      "description": "The Experience insights in the Microsoft 365 admin center offers admins consistent data across usage, feedback, Net Promoter Score, and Help articles consumption. Admins can use such data to increase user satisfaction by launching relevant trainings and awareness campaigns in the organization. This experience would be particularly valuable to those roles in the IT organization who are responsible for understanding and improving the user experience for Microsoft 365. Note: We apologize for stating that this has rolled out, when in fact it will not until December 2023.  We value your patience and appreciate your understanding.",
+      "pubDate": "Mon, 08 Aug 2022 23:19:44 Z",
+      "updated": "2023-07-11T23:36:37Z",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "August CY2022"
+    }
+  },
+  {
+    "Path": "data/versions/165697/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "165697",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=165697",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Goals - Simplified Goal Creation",
+      "description": "Users can save time in adding or creating Goals with the new simplified creation experience. This item is no longer accurate and is being removed from the roadmap.  We apologize for any inconvenience.",
+      "pubDate": "Thu, 24 Aug 2023 23:14:28 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/375635/v0009.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "375635",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=375635",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Preview",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Shared Mailboxes as Accounts",
+      "description": "Shared Mailboxes can be added as Accounts in the new Outlook for Windows. The Shared Mailbox will appear at the Account Level in the Folder list. Access to the Shared Mailbox requires the user's credentials and associated permissions. #newoutlookforwindows",
+      "pubDate": "Fri, 05 Jan 2024 00:15:03 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": "May CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392838/v0008.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "392838",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=392838",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Introduction of secure workflow to bypass legal holds and retention policies",
+      "description": "The first release of Priority cleanup enables admins to create a recurring exception to delete items under a broader retention policy and/or legal hold on Exchange workload. Creating a Priority cleanup will require a separate security role, multiple approvers, and will have a complete audit trail.",
+      "pubDate": "Wed, 22 May 2024 23:30:29 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "February CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/399467/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "399467",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=399467",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: First phase of PST support in new Outlook for Windows",
+      "description": "The first phase PST (a.k.a. Outlook Data File) support in the new Outlook for Windows provides read-only access to Mail items within *.pst files. Users will be able to open *.pst files, read their emails within *.pst files, and search *.pst files for emails. All Calendar, Contacts, and Tasks data saved in the *.pst files are still there, but they cannot be accessed in this preview. Next releases will expand PST support capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Thu, 06 Jun 2024 23:30:13 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/408165/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "408165",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=408165",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Teams and Surface Devices",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage – Verified Answers",
+      "description": "Certain users like experts and admins will be able to mark answers to questions as verified answers to signal a credible and accurate answer. Questions with verified answers will receive its own special verified label and badge at the top of the question and on the verified answer. The goal of verified answers is to help enhance the trust and utility of knowledge in Viva Engage.",
+      "pubDate": "Tue, 06 Aug 2024 00:00:26 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/410771/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "410771",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=410771",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Rolling out",
+        "SharePoint",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Microsoft Lists - Conditional branching in Microsoft Lists forms",
+      "description": "Microsoft Lists forms will enable users to create dynamic forms featuring branching and conditional logic. This update allows users to customize their forms to display relevant questions based on conditions applied to previous responses, empowering them to design smarter forms that adapt to their data collection needs.",
+      "pubDate": "Fri, 09 Aug 2024 22:00:51 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/411138/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "411138",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=411138",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Launched",
+        "Mac",
+        "Microsoft Teams",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Block a user for your organization",
+      "description": "With the availability of the delete API (removeallaccessforuser API), it does not stop the malicious user from resending the message to the same victim. To help prevent that, a block user API will allow the admin to block the malicious user from reaching out again. To make this even more effective, we will utilize a similar feature as the allow/block list in federation to block the malicious user from the entire organization.",
+      "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/416093/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "416093",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=416093",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Elevating top settings and improving settings page navigability",
+      "description": "To make finding browser settings more efficient, Microsoft Edge is introducing three navigation improvements to Edge Settings. We are making no changes to the functionality of any setting and all settings will remain on the same page as they are today but will be behind clickable sections. The first is introducing quick access to the most used actions on the landing page of Edge Settings. Second, each densely populated page—Privacy, search, and services; Appearance; Cookies and site permissions; System and performance—will feature quick access to its most used actions. Third, for these same pages, each section will now click-through to its respective sub-settings (similar to a table of contents).",
+      "pubDate": "Thu, 12 Sep 2024 23:15:19 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/417005/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "417005",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=417005",
+      "category": [
+        "General Availability",
+        "Microsoft Copilot (Microsoft 365)",
+        "OneNote",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Copilot Chat on OneNote for web and in Teams",
+      "description": "Bringing the power of Microsoft Copilot to OneNote for web and in Teams.",
+      "pubDate": "Fri, 20 Sep 2024 22:15:31 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/418564/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "418564",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=418564",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Copilot (Microsoft 365)",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Summarize files shared in Teams chat with Copilot",
+      "description": "Summarize action on files shared in Teams chat, will allow users to summarize files with one click using Copilot within one-on-one or group chats. It will work on common file types like Word and PDF to start with and other formats will be added over due course. This requires a Microsoft Copilot for Microsoft 365 license.",
+      "pubDate": "Tue, 19 Nov 2024 00:15:55 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/420335/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "420335",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=420335",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Rewrite by Copilot in Edge is being upgraded to include enterprise data protection compliance standards",
+      "description": "Rewrite by Copilot in Edge, which lets users edit typed text for tone, format, and length within an open page in Microsoft Edge, is being updated to include enterprise data protection for commercial customers. Once Rewrite is available, users signed in with a Microsoft Entra ID will have enterprise data protection when using the feature in Microsoft Edge.<br>More info: https://learn.microsoft.com/en-us/copilot/edge",
+      "pubDate": "Thu, 03 Oct 2024 23:30:37 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/467445/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "467445",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467445",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Presenter Chat while screensharing",
+      "description": "Enable presenters to more easily access the meeting chat while screensharing by adding an entry point in the presenter toolbar.",
+      "pubDate": "Fri, 15 Nov 2024 00:30:25 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/469035/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "469035",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=469035",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: \"None\" color category for Mail and Calendar in the New Outlook for Windows and Web",
+      "description": "We’ve introduced a new \"None\" color category for Mail and Calendar in the New Outlook for Windows and Web. This update provides more flexibility and customization in categorizing your emails and calendar events. By selecting the \"None\" option, users can now choose to have items without a designated color, allowing for cleaner organization and more control over which items stand out visually. Updated February 6, 2025: This item was changed to \"Launched\" by mistake. The correct status is currently \"Rolling out.\" #newoutlookforwindows",
+      "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/471426/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "471426",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=471426",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Improvements to the transcription experience in meetings",
+      "description": "We’re making improvements to enhance the transcription experience in meetings. First, when transcription, recording, or Copilot are enabled before or during the meeting, users will be prompted to select the spoken language to ensure transcription accuracy. Second, when transcription is enabled (whether by itself or when recording or Copilot are enabled) only the meeting organizer, co-organizers, and transcript initiator will be able to change the spoken language. Next, we’re simplifying the settings by creating a new settings page for meeting spoken language and translation language for live translated captions at Caption settings > Language settings > Meeting spoken language and transcript found at Transcript > Language settings > Meeting spoken language.  Lastly, when participants speak a language that doesn’t match the selected language in the spoken language setting, the meeting organizer, co-organizer and initiator will get a notification that the language is mismatched.",
+      "pubDate": "Fri, 13 Dec 2024 00:15:57 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/472025/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "472025",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=472025",
+      "category": [
+        "Android",
+        "Current Channel",
+        "DoD",
+        "Excel",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Launched",
+        "Microsoft Information Protection",
+        "PowerPoint",
+        "Word",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Information Protection: Protect your most sensitive content with double key encryption",
+      "description": "Double Key Encryption (DKE) provides organizations with a second encryption key for your most sensitive content.<br>More info: https://learn.microsoft.com/microsoft-365/compliance/double-key-encryption",
+      "pubDate": "Thu, 12 Dec 2024 00:15:03 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473993/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "473993",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473993",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Move email between mailbox and PST file in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook data files) in the new Outlook for Windows, users will be able move (drag and drop) emails from a .pst file to a mailbox and vice versa. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Fri, 20 Dec 2024 23:15:46 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/473995/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "473995",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=473995",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Manage email in PST files in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook data files) in the new Outlook for Windows, users will be able to move, copy, delete, flag/unflag, mark as read/unread, and set categories for email within .pst files. Additionally, users will be able to create, delete, move, and rename folders within .pst files. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Fri, 20 Dec 2024 23:15:46 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "January CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/474450/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "474450",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=474450",
+      "category": [
+        "Developer",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot extensibility – Copilot Chat developer mode",
+      "description": "Developers can use Microsoft 365 Copilot Chat and enable developer mode to debug.",
+      "pubDate": "Fri, 10 Jan 2025 00:15:38 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/475967/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "475967",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=475967",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365",
+        "Microsoft Copilot (Microsoft 365)",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Read aloud available in Microsoft 365 Copilot Chat",
+      "description": "Play back Copilot responses as audio with read aloud in Copilot Chat.",
+      "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/478654/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "478654",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=478654",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Updates to Copilot Chat prompt input box",
+      "description": "This update aligns Copilot Chat prompt input box across chat experiences.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/478655/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "478655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=478655",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Feature Access Management for Copilot in Viva Glint",
+      "description": "Admins will have the ability to enable or disable Microsoft 365 Copilot in Viva Glint for specific users through the M365 admin center.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/478927/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "478927",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=478927",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Engage - Support for inline videos and GIFs in articles",
+      "description": "This adds support for inline videos and GIFs in Viva Engage articles.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/479412/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "479412",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=479412",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Group messages as conversation for PST files in new Outlook for Windows",
+      "description": "With this update of support for .pst files (a.k.a. Outlook Data File) in the new Outlook for Windows, users will be able to group messages as conversation for emails within .pst file. Future releases of new Outlook will expand the support for .pst file capabilities. #newoutlookforwindows, #pstfilesupport",
+      "pubDate": "Fri, 31 Jan 2025 00:15:03 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/480720/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "480720",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=480720",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Customize the location of Teams notifications on web",
+      "description": "You can now customize where your Teams notification appear on your screen when using Teams on web. Options include bottom right, top right, bottom left, and top left, allowing you to choose the most convenient and least intrusive location for a better experience and productivity.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/93395/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-02-08T02:20:15.2409119+00:00",
+      "guid": "93395",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=93395",
+      "category": [
+        "Cancelled",
+        "General Availability",
+        "Microsoft 365 Admin Center",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Experience insights for Microsoft 365 admins",
+      "description": "The Experience insights in the Microsoft 365 admin center offers admins consistent data across usage, feedback, Net Promoter Score, and Help articles consumption. Admins can use such data to increase user satisfaction by launching relevant trainings and awareness campaigns in the organization. This experience would be particularly valuable to those roles in the IT organization who are responsible for understanding and improving the user experience for Microsoft 365. Note: We apologize for stating that this has rolled out, when in fact it will not until December 2023. Note: This item is no longer accurate and will be removed from the roadmap.",
+      "pubDate": "Mon, 08 Aug 2022 23:19:44 Z",
+      "updated": "2025-02-07T23:15:09Z",
+      "publicDisclosureAvailabilityDate": "December CY2023",
+      "publicPreviewDate": "August CY2022"
+    },
+    "OldVersion": {}
+  }
+]
