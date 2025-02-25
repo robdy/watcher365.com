@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "124789",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=124789",
+  "category": [
+    "General Availability",
+    "Launched",
+    "Microsoft Defender for Cloud Apps",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Defender for Cloud Apps: Behaviors",
+  "description": "A new data type in Microsoft 365 Defender Advanced Hunting. Behaviors will optimize the alerts queue by enabling security teams to focus on the most relevant alerts in their environment.&nbsp;They will indicate what took place in a descriptive form, attached to the MITRE tactics and techniques that are common measure most organizations follow and test their coverage against. This new data type which sits between the raw data and alert, will enable your security teams to prioritize critical alerts in your environment without having to compromise contextual information provided in a behavior that may be important to an investigation. The behaviors data will also enrich the context of related incidents and only correlate anomalies when relevant. Within Defender for Cloud Apps, we have identified some detections that are better suited as behaviors, and we are transforming them to the new data type to reflect it that can be retrieved via advanced hunting.",
+  "pubDate": "Tue, 04 Apr 2023 23:36:05 Z",
+  "updated": "2025-02-07T00:15:04Z",
+  "publicDisclosureAvailabilityDate": "May CY2024",
+  "publicPreviewDate": "May CY2023"
+}

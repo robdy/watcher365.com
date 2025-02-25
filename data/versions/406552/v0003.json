@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "406552",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=406552",
+  "category": [
+    "General Availability",
+    "Rolling out",
+    "SharePoint",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "SharePoint: Using Data Access Governance to understand the tenant's current permission landscape",
+  "description": "SharePoint admins can now use Data Access Governance (DAG) to understand their tenant's current permission landscape and make better decisions regarding applications based on permissions such as Copilot. DAG now provides a report that will reflect the latest state of permissions in the entire tenant and return sites that have a greater count of permissioned users than the SharePoint admin specified number. This count considers users accessing sites via site membership and users accessing via unique permissions, as well and acts like a potential threshold for oversharing. Along with the permissioned user count, the report also provides information on the number of existing sharing links (Anyone and People-in-your-org) in those sites and enables SharePoint admins to identify potential root causes for oversharing. You can find more details about this report at the link below.<br>More info: https://aka.ms/DAGReportOnPermissions",
+  "pubDate": "Thu, 01 Aug 2024 23:15:01 Z",
+  "updated": "2024-11-21T00:15:42Z",
+  "publicDisclosureAvailabilityDate": "November CY2024",
+  "publicPreviewDate": null
+}

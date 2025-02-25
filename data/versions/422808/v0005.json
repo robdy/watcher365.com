@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "422808",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=422808",
+  "category": [
+    "Android",
+    "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "iOS",
+    "Mac",
+    "Microsoft Teams",
+    "Targeted Release",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Admin Center – Admins can disable ability to send messages in meeting chat before and after the meeting",
+  "description": "We are expanding the existing ‘Meeting chat’ control in Teams Admin Center with two new values, “In-meeting only for everyone” and “In-meeting only except anonymous users.” In Teams Admin Center, admins will see a setting called ‘Meeting chat’ under Meetings > Meeting Policies > Meeting Engagement. Admins can now select from five options in the ‘Meeting chat’ setting: (1) “On for everyone” (2) “On for everyone but anonymous users” (3) “Off” (4) “In-meeting only for everyone” (5) “In-meeting only except anonymous users.”  Admins can select the “In-meeting only” values to disable participants’ ability to send messages in the meeting chat before or after the meeting, for meetings organized by specific users in their tenant. When one of these “In-meeting only” values are selected, participants can read past chat history but no one can send messages in the meeting chat unless the meeting is active.",
+  "pubDate": "Thu, 17 Oct 2024 23:15:03 Z",
+  "updated": "2024-12-11T00:15:40Z",
+  "publicDisclosureAvailabilityDate": "March CY2025",
+  "publicPreviewDate": null
+}

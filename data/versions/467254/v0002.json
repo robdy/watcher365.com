@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "467254",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=467254",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Information Protection - SharePoint Online extends library permissions to downloaded files.",
+  "description": "This new capability ties together SharePoint Online library permissions with Purview sensitivity labeling and protection. SharePoint Online document library owners can set a label on the library, automatically applying that label to all unprotected and unlabeled Word, Excel, PowerPoint, and PDF files at rest in the target library. This simplifies labeling in bulk across document libraries in an organization. This capability also helps protect files as they egress from the original document library, such as for collaboration purposes or attempted exfiltration. Files downloaded from these libraries are protected at download. Users accessing these files outside of SharePoint Online have their rights evaluated in real time against the online copy of the document. Changes to user permissions on the online copy of the document are reflected on downloaded copy, including full access removal. This provides a more streamlined way to revoke access to documents for individual users, versus revoking access on a per-document basis.",
+  "pubDate": "Fri, 08 Nov 2024 23:45:19 Z",
+  "updated": "2024-11-08T23:45:19Z",
+  "publicDisclosureAvailabilityDate": "March CY2025",
+  "publicPreviewDate": "November CY2024"
+}

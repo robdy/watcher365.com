@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "481356",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=481356",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Add Allow/Off mode for each Action type overall enforcement",
+  "description": "Currently Endpoint DLP only supports Audit only, Block, Block with override. This feature will add Off and Allow. Off means Endpoint DLP will not fire any event/Alert and will not trigger any toast. Customer can use this enforcement mode to have restriction for specific group. Allow means Endpoint DLP will not fire any Alert and will not trigger any toast but will fire event on Activity Explorer.",
+  "pubDate": "Fri, 14 Feb 2025 23:15:12 Z",
+  "updated": "2025-02-14T23:15:12Z",
+  "publicDisclosureAvailabilityDate": "May CY2025",
+  "publicPreviewDate": null
+}

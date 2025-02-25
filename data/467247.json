@@ -1,6 +1,6 @@
 {
   "guid": "467247",
-  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=467247",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=467247",
   "category": [
     "Android",
     "Desktop",
@@ -8,19 +8,19 @@
     "GCC",
     "GCC High",
     "General Availability",
-    "In development",
     "iOS",
     "Mac",
     "Microsoft Purview compliance portal",
     "Microsoft Teams",
     "Preview",
+    "Rolling out",
     "Web",
     "Worldwide (Standard Multi-Tenant)"
   ],
   "title": "Microsoft Teams: Microsoft Purview supports inheriting sensitivity labels from shared files to Teams meetings (Premium)",
   "description": "For Microsoft 365 E5 and Teams Premium customers, we are making it easier to leverage sensitivity labels from Microsoft Purview Information Protection to help set the right protection settings to meetings. Admins can now set a label inheritance policy for meeting, so that when an attendee shares a file that has a higher sensitivity than the meeting itself in meeting chat or via Live share, the meeting's sensitivity can be updated either automatically or via a recommendation to the organizer, to match with the sensitivity of the shared file.",
   "pubDate": "Thu, 07 Nov 2024 00:30:03 Z",
-  "updated": "2025-01-31T23:15:55Z",
+  "updated": "2025-02-20T00:15:26Z",
   "publicDisclosureAvailabilityDate": "February CY2025",
   "publicPreviewDate": "January CY2025"
 }

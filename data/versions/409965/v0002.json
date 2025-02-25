@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "409965",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=409965",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management- Adaptive scopes",
+  "description": "Ability to target IRM policies using global Adaptive Scopes. Adaptive scopes within IRM policies allow admins to use existing adaptive scopes created on the Microsoft Purview compliance portal within IRM policies, Adaptive scopes can be created using queries to define user groups dynamically. This feature provides more powerful targeting for policies, allowing different settings to be assigned to users based on attributes from Entra ID without the administrative burden of creating and maintaining groups.\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 16 Sep 2024 23:30:04 Z",
+  "updated": "2025-02-24T18:30:16Z",
+  "publicDisclosureAvailabilityDate": "April CY2025",
+  "publicPreviewDate": "August CY2024"
+}

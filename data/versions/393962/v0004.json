@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "393962",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=393962",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Data Lifecycle Management - Enable associated SharePoint sites to be excluded from retention policies after deletion of Modern Group",
+  "description": "If a modern M365 group is deleted, the associated SharePoint has a retention policy, a file with a retention label, or a legal hold, it remains active but orphaned. These sites cannot be excluded from the retention policy after the deletion of the group because of designed modern group scope. The site-level holds are applied when a group is added to a retention policy and the Tenant-level holds are applied when the complete modern group workload is added to a retention policy. Currently, to remove such a hold, the customer has to raise an escalation. With the rollout of this feature, users will be able to exclude the orphaned SPO site from both site-level holds and tenant-level holds as a self-service.",
+  "pubDate": "Mon, 22 Apr 2024 23:15:43 Z",
+  "updated": "2024-06-18T23:15:54Z",
+  "publicDisclosureAvailabilityDate": "May CY2024",
+  "publicPreviewDate": null
+}

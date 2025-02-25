@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "124970",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=124970",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Sequence detections for obfuscation involving excluded events",
+  "description": "This change enhances sequence detection to improve its effectiveness in identifying users who are performing obfuscation activities that may result in a data security incident, such as file renaming, to evade detection. With this improvement, Insider Risk Management can detect sequences that may result in potential data security incidents, even if the obfuscation activities in those sequences involve excluded events, such as an excluded keyword. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Tue, 30 May 2023 23:33:21 Z",
+  "updated": "2025-01-14T00:15:48Z",
+  "publicDisclosureAvailabilityDate": "February CY2024",
+  "publicPreviewDate": "September CY2023"
+}

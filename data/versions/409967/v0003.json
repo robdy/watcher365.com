@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "409967",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=409967",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management- Alert Spotlighting",
+  "description": "On the alert list page, high priority alerts will be spotlighted to help analysts prioritize the most important alerts first. Alerts are spotlighted based on predefined rules which are common across all tenants across all industries. Alert Spotlighting feature was developed to assist admins in prioritizing alerts to be triaged.  Every generated alert has a risk score, a list of activities performed, tags, and triggers. The Alert Spotlighting feature uses this information to decide whether an alert can be spotlighted. Based on a detailed study of alert triage patterns across tenants, we have developed a rule-based algorithm to spotlight alerts that would be of importance to admins, based on historical volume analysis. \nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 12 Aug 2024 23:00:27 Z",
+  "updated": "2024-09-12T23:15:19Z",
+  "publicDisclosureAvailabilityDate": "December CY2024",
+  "publicPreviewDate": "October CY2024"
+}

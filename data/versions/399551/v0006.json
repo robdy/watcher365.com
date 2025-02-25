@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "399551",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=399551",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "Launched",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Exfiltration of business sensitive data to free public domain emails",
+  "description": "In this update, we are enhancing the existing email insight alerts to provide additional information when business-sensitive data is potentially leaked from a work email account to a free public domain email, potentially leading to a data security incident. The new domain detection group \"Free public domains\" will list the common domains used for personal email accounts. Admins with appropriate permissions can choose to select these domains in their indicator variants. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Fri, 07 Jun 2024 22:15:31 Z",
+  "updated": "2024-11-07T00:30:03Z",
+  "publicDisclosureAvailabilityDate": "October CY2024",
+  "publicPreviewDate": null
+}

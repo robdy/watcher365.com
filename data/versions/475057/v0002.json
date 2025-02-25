@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "475057",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=475057",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management- DLP alerts as indicators",
+  "description": "IRM admins can now select DLP alerts as indicators in IRM policies. IRM admins can select DLP policies that they would like to bring into IRM. By enabling this indicator, admins can detect if a user has alerts for the pre-selected DLP policies. When an IRM alert is generated, admin can see if there are any high-risk alerts for this user within DLP for the policies that are enabled as indicators. This feature will help admins view this information within IRM itself without having to switch to DLP.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy",
+  "pubDate": "Wed, 22 Jan 2025 00:15:32 Z",
+  "updated": "2025-01-22T00:15:32Z",
+  "publicDisclosureAvailabilityDate": "May CY2025",
+  "publicPreviewDate": "March CY2025"
+}

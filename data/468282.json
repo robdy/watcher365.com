@@ -1,18 +1,21 @@
 {
   "guid": "468282",
-  "link": "https://www.microsoft.com/microsoft-365/roadmap?featureid=468282",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=468282",
   "category": [
     "Desktop",
+    "DoD",
+    "GCC",
+    "GCC High",
     "General Availability",
     "In development",
     "Mac",
     "Microsoft Teams",
     "Worldwide (Standard Multi-Tenant)"
   ],
-  "title": "Microsoft Teams: Default enable transcription policy for new tenants",
-  "description": "We are updating the default policy for Transcription from “off” to “on” for any new tenant. This change doesn’t mean that every meeting will automatically have transcription enabled, but it will allow users to turn on transcription if needed. This adjustment aligns the default Transcription policy with that of Recording, supporting broader adoption of Transcription and all AI features.",
+  "title": "Microsoft Teams: Default enable transcription policy for new tenants for Teams meetings",
+  "description": "We are updating the default policy for Transcription in Teams meetings from “off” to “on” for any new tenant. This change doesn’t mean that every meeting will automatically have transcription enabled, but it will allow users to turn on transcription if needed. This update applies only to Teams meetings and does not affect transcription policies for calls. This adjustment aligns the default Transcription policy with that of Recording, supporting broader adoption of Transcription and all AI features.",
   "pubDate": "Sat, 16 Nov 2024 00:00:49 Z",
-  "updated": "2025-01-03T00:15:43Z",
+  "updated": "2025-02-24T18:30:16Z",
   "publicDisclosureAvailabilityDate": "February CY2025",
   "publicPreviewDate": null
 }

@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "476733",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=476733",
+  "category": [
+    "Android",
+    "General Availability",
+    "In development",
+    "Microsoft Teams",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Teams: Introducing the SCO Setting in Walkie Talkie app for Enhanced Battery Life on older Bluetooth headsets",
+  "description": "This feature introduces SCO (Synchronous Connection-Oriented) user setting in the Walkie Talkie app. This feature is designed to manage the Bluetooth headset connection to optimize battery life. When a Bluetooth headset is connected to the Walkie Talkie app, the SCO setting controls whether the microphone remains constantly connected or disconnects after a period of inactivity. This helps in reducing battery drain by allowing the headset to disconnect when not in use and reconnect when needed.  The user control feature allows users to set a timeout period after which the Bluetooth headset will automatically disconnect if there is no activity. While the SCO setting is turned on, users may experience a slight delay in transmission as the headset reconnects. However, once the headset is reconnected, users will hear a sound indicating that they can start transmitting on the app. This brief delay is a small trade-off for the substantial battery savings on older Bluetooth headsets.",
+  "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+  "updated": "2025-01-24T00:00:21Z",
+  "publicDisclosureAvailabilityDate": "March CY2025",
+  "publicPreviewDate": null
+}

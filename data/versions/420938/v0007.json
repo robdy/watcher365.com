@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-02-25T02:25:23.5032141+00:00",
+  "guid": "420938",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=420938",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Insider Risk Management - Entra compromised user signals in IRM",
+  "description": "With this feature, IRM analysts can identify if the user being investigated has any compromised user alerts in Microsoft Entra. This will help them formulate the right response action, like escalating the Incident to SOC teams for quick remediation, etc. \n\nMicrosoft Entra offers two types of compromised user detections.\n1. Sign in risk detections: compromise risk associated with a specific sign-in.\n2. User risk detections: compromise risk associated with a specific user.\n\nInsider risk management admins can opt into each of the above risk detections from Insider risk management global settings. Risk detections will be available in the indicator timeline within the alert investigation experience. Risk detections will not impact the risk score or severity of Insider risk management alerts.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.  <br>More info: https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks",
+  "pubDate": "Tue, 08 Oct 2024 23:15:42 Z",
+  "updated": "2025-02-12T00:00:39Z",
+  "publicDisclosureAvailabilityDate": "March CY2025",
+  "publicPreviewDate": "December CY2024"
+}
