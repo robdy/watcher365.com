@@ -1,0 +1,1654 @@
+[
+  {
+    "Path": "data/122934.json",
+    "CurrentVersion": {
+      "guid": "122934",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=122934",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability for meeting participants to edit their display name",
+      "description": "<div>Teams meeting participants will be able to edit their display name, enabling more flexibility in their meeting presence, regardless of their tenant set display name. Users can make this change during the meeting and it will persist throughout the duration of the meeting. </div>",
+      "pubDate": "Tue, 21 Mar 2023 23:23:13 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "122934",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=122934",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability for meeting participants to edit their display name",
+      "description": "<div>Teams meeting participants will be able to edit their display name, enabling more flexibility in their meeting presence, regardless of their tenant set display name. Users can make this change during the meeting and it will persist throughout the duration of the meeting. </div>",
+      "pubDate": "Tue, 21 Mar 2023 23:23:13 Z",
+      "updated": "2025-01-22T00:15:32Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/124843.json",
+    "CurrentVersion": {
+      "guid": "124843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=124843",
+      "category": [
+        "Cancelled",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
+      "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions. This item is being removed from the roadmap as it is no longer accurate.  We apologize for any inconvenience.",
+      "pubDate": "Tue, 02 May 2023 23:25:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "124843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=124843",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
+      "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions.",
+      "pubDate": "Tue, 02 May 2023 23:25:18 Z",
+      "updated": "2024-09-18T23:15:03Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/392848.json",
+    "CurrentVersion": {
+      "guid": "392848",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=392848",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Auto-discarding Sleeping Tabs",
+      "description": "Tabs that have been sleeping for a long time will be discarded to save memory. When a user navigates back to a discarded tab, the tab will need to be reloaded. This can be managed through the AutoDiscardSleepingTabsEnabled policy. This policy will be enabled if the SleepingTabsEnabled policy is enabled.",
+      "pubDate": "Wed, 10 Apr 2024 17:15:17 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "392848",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=392848",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Auto-discarding Sleeping Tabs",
+      "description": "Tabs that have been sleeping for a long time will be discarded to save memory. When a user navigates back to a discarded tab, the tab will need to be reloaded. This can be managed through the AutoDiscardSleepingTabsEnabled policy. This policy will be enabled if the SleepingTabsEnabled policy is enabled.",
+      "pubDate": "Wed, 10 Apr 2024 17:15:17 Z",
+      "updated": "2025-02-21T23:16:02Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/397750.json",
+    "CurrentVersion": {
+      "guid": "397750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=397750",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Guided upgrade of applications ",
+      "description": "Enterprise Application Management enables you to easily update previously provisioned EAM applications with a securely hosted enterprise catalog.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2025-03-04T20:00:26Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "397750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=397750",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Microsoft Intune",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Guided upgrade of applications ",
+      "description": "Enterprise Application Management enables you to easily update previously provisioned EAM applications with a securely hosted enterprise catalog.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2024-10-29T00:00:51Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/402540.json",
+    "CurrentVersion": {
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "OneNote",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer—OneNote (Desktop) - Protected—for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "In development",
+        "OneNote",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer—OneNote (Desktop) - Protected—for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 Z",
+      "updated": "2025-02-26T01:45:29Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/406947.json",
+    "CurrentVersion": {
+      "guid": "406947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=406947",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar grid keyboard navigation via arrow keys in new Outlook for Windows and web",
+      "description": "When focused on the calendar grid, you will be able to navigate the time slots on the calendar via left/right/up/down arrow keys in day, week, and work week views. #newoutlookforwindows\n\nWhile rolling out this feature, we detected an issue specifically affecting Outlook on the Web in the Safari browser. Because of this, we have opted to roll back the existing progression to temporarily remove support for Safari. We have now restarted the rollout and support for Safari is planned to be added by mid-2025.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2025-03-04T20:00:26Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "406947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=406947",
+      "category": [
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar grid keyboard navigation via arrow keys in new Outlook for Windows and web",
+      "description": "When focused on the calendar grid, you will be able to navigate the time slots on the calendar via left/right/up/down arrow keys in day, week, and work week views. #newoutlookforwindows\n\nWhile rolling out this feature, we detected an issue specifically affecting Outlook on the Web in the Safari browser. Because of this, we have opted to roll back the existing progression to temporarily remove support for Safari. We have now restarted the rollout and support for Safari is planned to be added by mid-2025.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2024-11-15T00:30:25Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/413114.json",
+    "CurrentVersion": {
+      "guid": "413114",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=413114",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: People Hub improvements in new Outlook for Windows",
+      "description": "In new Outlook for Windows, the People Hub offers a streamlined contacts interface with a single view of each person, automatically linking duplicates and enriching them with organizational profiles. #newoutlookforwindows",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "413114",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=413114",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: People Hub improvements in new Outlook for Windows",
+      "description": "In new Outlook for Windows, the People Hub offers a streamlined contacts interface with a single view of each person, automatically linking duplicates and enriching them with organizational profiles. #newoutlookforwindows",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-01-16T00:00:43Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414517.json",
+    "CurrentVersion": {
+      "guid": "414517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=414517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Detailed error description for LMS setup failures",
+      "description": "LMS setup form will now have detailed error description for LMS setup failures.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "414517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=414517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Detailed error description for LMS setup failures",
+      "description": "LMS setup form will now have detailed error description for LMS setup failures.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2025-02-05T00:15:53Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/414521.json",
+    "CurrentVersion": {
+      "guid": "414521",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=414521",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Edge",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Edge on MacOS now seamlessly opens links in Teams",
+      "description": "When you set the default browser to Microsoft Edge on MacOS and enable the feature, web links from the Teams desktop app sent via chats, channels, calendar, and other entry points will seamlessly open automatically in the profile that is signed into Teams app and skips the need to reauthenticate in the browser making it faster and easier to access content.  Administrators can control the availability of this feature using the \"Choose Which Browser Opens Web Links\" Microsoft 365 policy.",
+      "pubDate": "Tue, 03 Sep 2024 23:45:05 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "414521",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=414521",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Microsoft Edge",
+        "Microsoft Teams",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Edge on MacOS now seamlessly opens links in Teams",
+      "description": "When you set the default browser to Microsoft Edge on MacOS and enable the feature, web links from the Teams desktop app sent via chats, channels, calendar, and other entry points will seamlessly open automatically in the profile that is signed into Teams app and skips the need to reauthenticate in the browser making it faster and easier to access content.  Administrators can control the availability of this feature using the \"Choose Which Browser Opens Web Links\" Microsoft 365 policy.",
+      "pubDate": "Tue, 03 Sep 2024 23:45:05 Z",
+      "updated": "2024-10-30T23:30:52Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/419810.json",
+    "CurrentVersion": {
+      "guid": "419810",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=419810",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): UX Transparency for Web Queries",
+      "description": "With UX transparency of web grounding in Copilot, users will now be able to see the exact queries sent by Copilot in response to a user's prompt to the web for grounding, along with the list of websites being queried, enhancing their awareness over the process.",
+      "pubDate": "Fri, 04 Oct 2024 23:15:50 Z",
+      "updated": "2025-03-04T20:00:26Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {
+      "guid": "419810",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=419810",
+      "category": [
+        "Android",
+        "Desktop",
+        "General Availability",
+        "iOS",
+        "Microsoft Copilot (Microsoft 365)",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): UX Transparency for Web Queries",
+      "description": "With UX transparency of web grounding in Copilot, users will now be able to see the exact queries sent by Copilot in response to a user's prompt to the web for grounding, along with the list of websites being queried, enhancing their awareness over the process.",
+      "pubDate": "Fri, 04 Oct 2024 23:15:50 Z",
+      "updated": "2024-12-05T00:15:07Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    }
+  },
+  {
+    "Path": "data/421192.json",
+    "CurrentVersion": {
+      "guid": "421192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=421192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Information Protection - Enable admins to set default document library label based on container label of a group/site/team",
+      "description": "This enables admins to inherit document library label from the container label of a group/site/team. New and edited documents within the default document library will be labeled automatically. If the SharePoint admin had already configured a default document library labeling, this setting will not override it.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2025-03-05T00:30:58Z",
+      "publicDisclosureAvailabilityDate": "October CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {
+      "guid": "421192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=421192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Information Protection - Enable admins to set default document library label based on container label of a group/site/team",
+      "description": "This enables admins to inherit document library label from the container label of a group/site/team. New and edited documents within the default document library will be labeled automatically. If the SharePoint admin had already configured a default document library labeling, this setting will not override it.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2025-02-05T00:15:53Z",
+      "publicDisclosureAvailabilityDate": "October CY2025",
+      "publicPreviewDate": "June CY2025"
+    }
+  },
+  {
+    "Path": "data/423485.json",
+    "CurrentVersion": {
+      "guid": "423485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=423485",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights - Data export for Viva Glint and Viva Insights data",
+      "description": "This feature will allow Viva Insights Analyst to download a CSV file containing Viva Glint survey results joined with Viva Insights organizational data.",
+      "pubDate": "Fri, 08 Nov 2024 00:30:21 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "423485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=423485",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights - Data export for Viva Glint and Viva Insights data",
+      "description": "This feature will allow Viva Insights Analyst to download a CSV file containing Viva Glint survey results joined with Viva Insights organizational data.",
+      "pubDate": "Fri, 08 Nov 2024 00:30:21 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/466743.json",
+    "CurrentVersion": {
+      "guid": "466743",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=466743",
+      "category": [
+        "Desktop",
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Excel: Forms data sync support in Excel desktop",
+      "description": "Users can get up-to-date form responses data in Excel desktop. Users can also create a new form from Excel desktop with a data sync connection to the Excel workbook.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "466743",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=466743",
+      "category": [
+        "Desktop",
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Excel: Forms data sync support in Excel desktop",
+      "description": "Users can get up-to-date form responses data in Excel desktop. Users can also create a new form from Excel desktop with a data sync connection to the Excel workbook.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2024-12-23T23:00:26Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470602.json",
+    "CurrentVersion": {
+      "guid": "470602",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=470602",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Account descriptions",
+      "description": "New Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
+      "pubDate": "Mon, 02 Dec 2024 18:00:37 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470602",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=470602",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Account descriptions",
+      "description": "New Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
+      "pubDate": "Mon, 02 Dec 2024 18:00:37 Z",
+      "updated": "2025-02-12T00:00:39Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/470604.json",
+    "CurrentVersion": {
+      "guid": "470604",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=470604",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can help monitor response collection and insights",
+      "description": "Copilot in Forms can now help you monitor and collect responses for your forms, so you can get the data you need with much less effort. Copilot can create a collection plan, track your progress, and let you know when to take action with reminders and insights. Forms can notify you when early insights are ready, and you can easily continue your analysis with Copilot in Excel. Say goodbye to manual follow-ups and hello to smarter collection and analysis.",
+      "pubDate": "Fri, 31 Jan 2025 23:15:55 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "470604",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=470604",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Forms Copilot can now help you collect responses on your forms",
+      "description": "Copilot in Forms can now help you monitor and collect responses for your forms, so you can get the data you need on time. Copilot can send invitations, track your progress, and recommend follow-up actions such as reminders. Say goodbye to manual follow-ups and hello to smarter, stress-free data collection.",
+      "pubDate": "Fri, 31 Jan 2025 23:15:55 Z",
+      "updated": "2025-01-31T23:15:55Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/476099.json",
+    "CurrentVersion": {
+      "guid": "476099",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=476099",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Classification improvements on file read access in MacOS devices using Endpoint Data Loss Prevention",
+      "description": "Data classification on files in MacOS devices will be triggered when handling files on read access to improve classification operations.",
+      "pubDate": "Fri, 17 Jan 2025 23:15:23 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {
+      "guid": "476099",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=476099",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Classification improvements on file read access in MacOS devices using Endpoint Data Loss Prevention",
+      "description": "Data classification on files in MacOS devices will be triggered when handling files on read access to improve classification operations.",
+      "pubDate": "Fri, 17 Jan 2025 23:15:23 Z",
+      "updated": "2025-01-24T23:15:17Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    }
+  },
+  {
+    "Path": "data/477369.json",
+    "CurrentVersion": {
+      "guid": "477369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=477369",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Amplify - Support for file upload",
+      "description": "Viva Amplify will support authors uploading a file with a list of emails to make it easier for the Outlook channel to reach large audiences.",
+      "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+      "updated": "2025-03-05T00:30:58Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "477369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=477369",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Amplify - Support for file upload",
+      "description": "Viva Amplify will support authors uploading a file with a list of emails to make it easier for the Outlook channel to reach large audiences.",
+      "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+      "updated": "2025-01-24T00:00:21Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "March CY2025"
+    }
+  },
+  {
+    "Path": "data/478655.json",
+    "CurrentVersion": {
+      "guid": "478655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=478655",
+      "category": [
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Feature Access Management for Copilot in Viva Glint",
+      "description": "Admins will have the ability to enable or disable Microsoft 365 Copilot in Viva Glint for specific users through the M365 admin center.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "478655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=478655",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Feature Access Management for Copilot in Viva Glint",
+      "description": "Admins will have the ability to enable or disable Microsoft 365 Copilot in Viva Glint for specific users through the M365 admin center.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-02-13T01:15:14Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/479082.json",
+    "CurrentVersion": {
+      "guid": "479082",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=479082",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview capabilities for M365 Copilot",
+      "description": "Microsoft Purview is launching several capabilities in government cloud environments that help secure and govern data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance. These capabilities will be available once Microsoft 365 Copilot is deployed.",
+      "pubDate": "Thu, 06 Feb 2025 00:15:02 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "479082",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=479082",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview capabilities for M365 Copilot",
+      "description": "Microsoft Purview is launching several capabilities in government cloud environments that help secure and govern data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance.",
+      "pubDate": "Thu, 06 Feb 2025 00:15:02 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/479083.json",
+    "CurrentVersion": {
+      "guid": "479083",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=479083",
+      "category": [
+        "DoD",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview capabilities for M365 Copilot",
+      "description": "Microsoft Purview is launching several capabilities in government cloud environments that help secure and govern data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance. These capabilities will be available once Microsoft 365 Copilot is deployed.",
+      "pubDate": "Thu, 06 Feb 2025 00:15:02 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "479083",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=479083",
+      "category": [
+        "DoD",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview capabilities for M365 Copilot",
+      "description": "Microsoft Purview is launching several capabilities in government cloud environments that help secure and govern data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance.",
+      "pubDate": "Thu, 06 Feb 2025 00:15:02 Z",
+      "updated": "2025-02-06T00:15:02Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/480716.json",
+    "CurrentVersion": {
+      "guid": "480716",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=480716",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Teams: Send messages to attendees in the meeting lobby with lobby chat",
+      "description": "Now, meeting organizers and co-organizers can send one-way messages to attendees in the lobby via the lobby chat. The Lobby chat is intended to optimize the lobby experience for all participants, ensuring that organizers are better equipped to run external meetings have more control over meetings with external participants, and external attendees are well informed about the meeting upon meeting start.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/482199.json",
+    "CurrentVersion": {
+      "guid": "482199",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=482199",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Add Copilot.cloud.microsoft/Teams/Outlook usage for Microsoft 365 Copilot Chat usage report",
+      "description": "This feature allows organizations to monitor Microsoft 365 Copilot Chat adoption in Copilot.cloud.microsoft/Teams/Outlook for users without Microsoft 365 Copilot licenses. It enhances the Microsoft 365 Copilot Chat report by providing metrics on the number of active users of Copilot.cloud.microsoft/Teams/Outlook and the last activity date for each user.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/482200.json",
+    "CurrentVersion": {
+      "guid": "482200",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=482200",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - SharePoint storage insights, actions, and resources",
+      "description": "A new Storage tab will be added to usage report for SharePoint within the Microsoft 365 admin center. The new tab will provide visibility into storage quota consumption, a usage trend, and recommended actions and resources for storage management and optimization",
+      "pubDate": "Tue, 25 Feb 2025 18:15:03 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {
+      "guid": "482200",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=482200",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - SharePoint Quota Consumption and recommendations",
+      "description": "This feature allows organizations to monitor Microsoft 365 SharePoint Quota Consumption and their usage growth over time. It enhances the report by providing single pane access to the above metrics along with recommendations to storage decluttering and storage optimization.",
+      "pubDate": "Tue, 25 Feb 2025 18:15:03 Z",
+      "updated": "2025-02-25T18:15:03Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    }
+  },
+  {
+    "Path": "data/483158.json",
+    "CurrentVersion": {
+      "guid": "483158",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483158",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Data Loss Prevention - New predicate in Email DLP - Detect number of domains/Recipients",
+      "description": "The \"Recipient/Domain Count Over\" feature, designed to address a critical need for managing and controlling the distribution of sensitive information via email. This feature allows organizations to set specific policies that trigger alerts or actions when the number of recipients or domains in outgoing emails exceeds a defined threshold. By implementing this feature, organizations can enhance data security, ensure compliance with regulatory requirements, and prevent unauthorized data dissemination, providing peace of mind and safeguarding sensitive information.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "July CY2025",
+      "publicPreviewDate": "April CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/483252.json",
+    "CurrentVersion": {
+      "guid": "483252",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483252",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Search with apps and agents personalized suggestionss",
+      "description": "We are enhancing Teams search personalized suggestions to include apps and agents. When searching in Teams you will now also get apps and agent suggestions which dynamically update as you type.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/483486.json",
+    "CurrentVersion": {
+      "guid": "483486",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483486",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Control When Shared Content Is Visible to Attendees in 'Manage what attendees see'",
+      "description": "An enhancement to the 'Manage what attendees see' feature, allowing organizers and presenters to control when shared content is visible to attendees. This capability is available for Meetings, Webinars and Town halls.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/483490.json",
+    "CurrentVersion": {
+      "guid": "483490",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483490",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Secure password deployment in the Edge management service",
+      "description": "The secure password deployment feature in the Edge management service enables admins to deploy encrypted shared passwords to a set of users, allowing them to log into websites seamlessly without ever seeing the actual passwords. This reduces the risk of unauthorized access and enhances the organization's overall security posture.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/483882.json",
+    "CurrentVersion": {
+      "guid": "483882",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483882",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerApps",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "PowerPoint: Designer is now part of Copilot, enhanced with new template and slide Suggestions.",
+      "description": "Designer is now part of Copilot. Copilot Suggestions now brings you familiar Designer slide layout and presentation template suggestions in a vertical gallery, along with new capabilities.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/122934/v0027.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "122934",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=122934",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "Mac",
+        "Microsoft Teams",
+        "Rolling out",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Ability for meeting participants to edit their display name",
+      "description": "<div>Teams meeting participants will be able to edit their display name, enabling more flexibility in their meeting presence, regardless of their tenant set display name. Users can make this change during the meeting and it will persist throughout the duration of the meeting. </div>",
+      "pubDate": "Tue, 21 Mar 2023 23:23:13 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/124843/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "124843",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=124843",
+      "category": [
+        "Cancelled",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "SharePoint",
+        "Targeted Release (Entire Organization)",
+        "Targeted Release (Select People)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "SharePoint: Application Site Creation without Sites.FullControl.All",
+      "description": "Currently an application requires Sites.FullControl.All to create new site collections within a tenant. This work will allow applications to use a new scope, Sites.Create.All, to create new site collections without accessing any existing content. During the site creation process the application can request access to the new site, allowing for provisioning scenarios with reduced tenant permissions. This item is being removed from the roadmap as it is no longer accurate.  We apologize for any inconvenience.",
+      "pubDate": "Tue, 02 May 2023 23:25:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/392848/v0010.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "392848",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=392848",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Auto-discarding Sleeping Tabs",
+      "description": "Tabs that have been sleeping for a long time will be discarded to save memory. When a user navigates back to a discarded tab, the tab will need to be reloaded. This can be managed through the AutoDiscardSleepingTabsEnabled policy. This policy will be enabled if the SleepingTabsEnabled policy is enabled.",
+      "pubDate": "Wed, 10 Apr 2024 17:15:17 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "May CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/397750/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "397750",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=397750",
+      "category": [
+        "Desktop",
+        "GCC",
+        "General Availability",
+        "Launched",
+        "Microsoft Intune",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Intune: Guided upgrade of applications ",
+      "description": "Enterprise Application Management enables you to easily update previously provisioned EAM applications with a securely hosted enterprise catalog.",
+      "pubDate": "Thu, 23 May 2024 23:15:08 Z",
+      "updated": "2025-03-04T20:00:26Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/402540/v0007.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "402540",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=402540",
+      "category": [
+        "Current Channel",
+        "Desktop",
+        "General Availability",
+        "OneNote",
+        "Rolling out",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "OneNote: Windows app - New protected virtual printer",
+      "description": "This creates the new virtual printer—OneNote (Desktop) - Protected—for OneNote Windows app, built on top of the Microsoft IPP class print driver. This printer will be compliant and functional with Widows Protected Print (WPP) mode.",
+      "pubDate": "Thu, 27 Jun 2024 17:45:59 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/406947/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "406947",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=406947",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Outlook",
+        "Targeted Release",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Calendar grid keyboard navigation via arrow keys in new Outlook for Windows and web",
+      "description": "When focused on the calendar grid, you will be able to navigate the time slots on the calendar via left/right/up/down arrow keys in day, week, and work week views. #newoutlookforwindows\n\nWhile rolling out this feature, we detected an issue specifically affecting Outlook on the Web in the Safari browser. Because of this, we have opted to roll back the existing progression to temporarily remove support for Safari. We have now restarted the rollout and support for Safari is planned to be added by mid-2025.",
+      "pubDate": "Tue, 16 Jul 2024 23:15:43 Z",
+      "updated": "2025-03-04T20:00:26Z",
+      "publicDisclosureAvailabilityDate": "September CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/413114/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "413114",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=413114",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Outlook",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: People Hub improvements in new Outlook for Windows",
+      "description": "In new Outlook for Windows, the People Hub offers a streamlined contacts interface with a single view of each person, automatically linking duplicates and enriching them with organizational profiles. #newoutlookforwindows",
+      "pubDate": "Mon, 30 Sep 2024 23:30:14 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414517/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "414517",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=414517",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Learning - Detailed error description for LMS setup failures",
+      "description": "LMS setup form will now have detailed error description for LMS setup failures.",
+      "pubDate": "Wed, 04 Sep 2024 23:30:32 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/414521/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "414521",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=414521",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Edge",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Edge on MacOS now seamlessly opens links in Teams",
+      "description": "When you set the default browser to Microsoft Edge on MacOS and enable the feature, web links from the Teams desktop app sent via chats, channels, calendar, and other entry points will seamlessly open automatically in the profile that is signed into Teams app and skips the need to reauthenticate in the browser making it faster and easier to access content.  Administrators can control the availability of this feature using the \"Choose Which Browser Opens Web Links\" Microsoft 365 policy.",
+      "pubDate": "Tue, 03 Sep 2024 23:45:05 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "October CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/419810/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "419810",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=419810",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Launched",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): UX Transparency for Web Queries",
+      "description": "With UX transparency of web grounding in Copilot, users will now be able to see the exact queries sent by Copilot in response to a user's prompt to the web for grounding, along with the list of websites being queried, enhancing their awareness over the process.",
+      "pubDate": "Fri, 04 Oct 2024 23:15:50 Z",
+      "updated": "2025-03-04T20:00:26Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": "October CY2024"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/421192/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "421192",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=421192",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Information Protection - Enable admins to set default document library label based on container label of a group/site/team",
+      "description": "This enables admins to inherit document library label from the container label of a group/site/team. New and edited documents within the default document library will be labeled automatically. If the SharePoint admin had already configured a default document library labeling, this setting will not override it.",
+      "pubDate": "Fri, 11 Oct 2024 22:15:46 Z",
+      "updated": "2025-03-05T00:30:58Z",
+      "publicDisclosureAvailabilityDate": "October CY2025",
+      "publicPreviewDate": "June CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/423485/v0005.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "423485",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=423485",
+      "category": [
+        "General Availability",
+        "Launched",
+        "Microsoft Viva",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Insights - Data export for Viva Glint and Viva Insights data",
+      "description": "This feature will allow Viva Insights Analyst to download a CSV file containing Viva Glint survey results joined with Viva Insights organizational data.",
+      "pubDate": "Fri, 08 Nov 2024 00:30:21 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/466743/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "466743",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=466743",
+      "category": [
+        "Desktop",
+        "Excel",
+        "Forms",
+        "General Availability",
+        "Launched",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Excel: Forms data sync support in Excel desktop",
+      "description": "Users can get up-to-date form responses data in Excel desktop. Users can also create a new form from Excel desktop with a data sync connection to the Excel workbook.",
+      "pubDate": "Fri, 01 Nov 2024 23:00:59 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "November CY2024",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470602/v0006.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "470602",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=470602",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "Outlook",
+        "Rolling out",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Outlook: Account descriptions",
+      "description": "New Outlook users can now set custom descriptions for their accounts, making them easier to tell apart in the folder list and various lists and menus across the application. The description can be set in the account settings. #newoutlookforwindows",
+      "pubDate": "Mon, 02 Dec 2024 18:00:37 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/470604/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "470604",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=470604",
+      "category": [
+        "Forms",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Copilot (Microsoft 365): Copilot in Forms can help monitor response collection and insights",
+      "description": "Copilot in Forms can now help you monitor and collect responses for your forms, so you can get the data you need with much less effort. Copilot can create a collection plan, track your progress, and let you know when to take action with reminders and insights. Forms can notify you when early insights are ready, and you can easily continue your analysis with Copilot in Excel. Say goodbye to manual follow-ups and hello to smarter collection and analysis.",
+      "pubDate": "Fri, 31 Jan 2025 23:15:55 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/476099/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "476099",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=476099",
+      "category": [
+        "General Availability",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Purview compliance portal: Endpoint Data Loss Prevention - Classification improvements on file read access in MacOS devices using Endpoint Data Loss Prevention",
+      "description": "Data classification on files in MacOS devices will be triggered when handling files on read access to improve classification operations.",
+      "pubDate": "Fri, 17 Jan 2025 23:15:23 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": "January CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/477369/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "477369",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=477369",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Viva",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Viva Amplify - Support for file upload",
+      "description": "Viva Amplify will support authors uploading a file with a list of emails to make it easier for the Outlook channel to reach large audiences.",
+      "pubDate": "Fri, 24 Jan 2025 00:00:21 Z",
+      "updated": "2025-03-05T00:30:58Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/478655/v0004.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "478655",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=478655",
+      "category": [
+        "General Availability",
+        "Microsoft Viva",
+        "Rolling out",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Viva: Feature Access Management for Copilot in Viva Glint",
+      "description": "Admins will have the ability to enable or disable Microsoft 365 Copilot in Viva Glint for specific users through the M365 admin center.",
+      "pubDate": "Fri, 07 Feb 2025 23:15:09 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "February CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/479082/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "479082",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=479082",
+      "category": [
+        "GCC",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview capabilities for M365 Copilot",
+      "description": "Microsoft Purview is launching several capabilities in government cloud environments that help secure and govern data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance. These capabilities will be available once Microsoft 365 Copilot is deployed.",
+      "pubDate": "Thu, 06 Feb 2025 00:15:02 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/479083/v0003.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "479083",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=479083",
+      "category": [
+        "DoD",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "Microsoft Purview compliance portal",
+        "Web"
+      ],
+      "title": "Microsoft Purview compliance portal: Microsoft Purview capabilities for M365 Copilot",
+      "description": "Microsoft Purview is launching several capabilities in government cloud environments that help secure and govern data in Microsoft 365 Copilot. These are capabilities in Information Protection, Data Lifecycle Management, Audit, eDiscovery, and Communication Compliance. These capabilities will be available once Microsoft 365 Copilot is deployed.",
+      "pubDate": "Thu, 06 Feb 2025 00:15:02 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "June CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/480716/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "480716",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=480716",
+      "category": [
+        "Desktop",
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Microsoft Teams: Send messages to attendees in the meeting lobby with lobby chat",
+      "description": "Now, meeting organizers and co-organizers can send one-way messages to attendees in the lobby via the lobby chat. The Lobby chat is intended to optimize the lobby experience for all participants, ensuring that organizers are better equipped to run external meetings have more control over meetings with external participants, and external attendees are well informed about the meeting upon meeting start.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/482199/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "482199",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=482199",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Microsoft Copilot (Microsoft 365)",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - Add Copilot.cloud.microsoft/Teams/Outlook usage for Microsoft 365 Copilot Chat usage report",
+      "description": "This feature allows organizations to monitor Microsoft 365 Copilot Chat adoption in Copilot.cloud.microsoft/Teams/Outlook for users without Microsoft 365 Copilot licenses. It enhances the Microsoft 365 Copilot Chat report by providing metrics on the number of active users of Copilot.cloud.microsoft/Teams/Outlook and the last activity date for each user.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/482200/v0002.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "482200",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=482200",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft 365 Admin Center",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft 365 admin center: Usage reports - SharePoint storage insights, actions, and resources",
+      "description": "A new Storage tab will be added to usage report for SharePoint within the Microsoft 365 admin center. The new tab will provide visibility into storage quota consumption, a usage trend, and recommended actions and resources for storage management and optimization",
+      "pubDate": "Tue, 25 Feb 2025 18:15:03 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/483158/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "483158",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483158",
+      "category": [
+        "DoD",
+        "GCC",
+        "GCC High",
+        "General Availability",
+        "In development",
+        "Microsoft Purview compliance portal",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": " Microsoft Purview compliance portal: Data Loss Prevention - New predicate in Email DLP - Detect number of domains/Recipients",
+      "description": "The \"Recipient/Domain Count Over\" feature, designed to address a critical need for managing and controlling the distribution of sensitive information via email. This feature allows organizations to set specific policies that trigger alerts or actions when the number of recipients or domains in outgoing emails exceeds a defined threshold. By implementing this feature, organizations can enhance data security, ensure compliance with regulatory requirements, and prevent unauthorized data dissemination, providing peace of mind and safeguarding sensitive information.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "July CY2025",
+      "publicPreviewDate": "April CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/483252/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "483252",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483252",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Search with apps and agents personalized suggestionss",
+      "description": "We are enhancing Teams search personalized suggestions to include apps and agents. When searching in Teams you will now also get apps and agent suggestions which dynamically update as you type.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/483486/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "483486",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483486",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Mac",
+        "Microsoft Teams",
+        "Targeted Release",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Teams: Control When Shared Content Is Visible to Attendees in 'Manage what attendees see'",
+      "description": "An enhancement to the 'Manage what attendees see' feature, allowing organizers and presenters to control when shared content is visible to attendees. This capability is available for Meetings, Webinars and Town halls.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/483490/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "483490",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483490",
+      "category": [
+        "General Availability",
+        "In development",
+        "Microsoft Edge",
+        "Preview",
+        "Web",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "Microsoft Edge: Secure password deployment in the Edge management service",
+      "description": "The secure password deployment feature in the Edge management service enables admins to deploy encrypted shared passwords to a set of users, allowing them to log into websites seamlessly without ever seeing the actual passwords. This reduces the risk of unauthorized access and enhances the organization's overall security posture.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "April CY2025",
+      "publicPreviewDate": "March CY2025"
+    },
+    "OldVersion": {}
+  },
+  {
+    "Path": "data/versions/483882/v0001.json",
+    "CurrentVersion": {
+      "timestamp": "2025-03-05T02:26:17.0394615+00:00",
+      "guid": "483882",
+      "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483882",
+      "category": [
+        "Desktop",
+        "General Availability",
+        "In development",
+        "Microsoft Copilot (Microsoft 365)",
+        "PowerApps",
+        "Worldwide (Standard Multi-Tenant)"
+      ],
+      "title": "PowerPoint: Designer is now part of Copilot, enhanced with new template and slide Suggestions.",
+      "description": "Designer is now part of Copilot. Copilot Suggestions now brings you familiar Designer slide layout and presentation template suggestions in a vertical gallery, along with new capabilities.",
+      "pubDate": "Tue, 04 Mar 2025 23:15:18 Z",
+      "updated": "2025-03-04T23:15:18Z",
+      "publicDisclosureAvailabilityDate": "March CY2025",
+      "publicPreviewDate": null
+    },
+    "OldVersion": {}
+  }
+]
