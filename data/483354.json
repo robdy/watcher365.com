@@ -11,9 +11,9 @@
     "Microsoft Purview compliance portal"
   ],
   "title": "Microsoft Purview compliance portal: Endpoint DLP support - Just-in-time on MacOS",
-  "description": "This feature ensures that policy tips are displayed only after recipients are added to an email, minimizing user disruption from DLP policy tips. With this improvement, relevant policy tips are only shown to users as they draft emails after the proper policy conditions are met.",
+  "description": "You can use Endpoint data loss prevention (DLP) just-in-time (JIT) protection to block all egress activities on monitored files while waiting for policy evaluation to successfully complete. When JIT protection is enabled, and while policy evaluation is processing, Endpoint DLP blocks all egress activities for each user whose account is in the selected scope. Endpoint DLP audits the egress activities for all user accounts that have been excluded (via the Exclude setting) or are otherwise not in scope.",
   "pubDate": "Wed, 26 Feb 2025 23:15:50 Z",
-  "updated": "2025-02-26T23:15:50Z",
-  "publicDisclosureAvailabilityDate": "May CY2025",
+  "updated": "2025-03-07T23:15:12Z",
+  "publicDisclosureAvailabilityDate": "April CY2025",
   "publicPreviewDate": null
 }

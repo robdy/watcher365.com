@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-03-11T02:26:45.2280223+00:00",
+  "guid": "483354",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483354",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Mac",
+    "Microsoft Purview compliance portal"
+  ],
+  "title": "Microsoft Purview compliance portal: Endpoint DLP support - Just-in-time on MacOS",
+  "description": "You can use Endpoint data loss prevention (DLP) just-in-time (JIT) protection to block all egress activities on monitored files while waiting for policy evaluation to successfully complete. When JIT protection is enabled, and while policy evaluation is processing, Endpoint DLP blocks all egress activities for each user whose account is in the selected scope. Endpoint DLP audits the egress activities for all user accounts that have been excluded (via the Exclude setting) or are otherwise not in scope.",
+  "pubDate": "Wed, 26 Feb 2025 23:15:50 Z",
+  "updated": "2025-03-07T23:15:12Z",
+  "publicDisclosureAvailabilityDate": "April CY2025",
+  "publicPreviewDate": null
+}

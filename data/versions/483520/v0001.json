@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-03-11T02:26:45.2280223+00:00",
+  "guid": "483520",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483520",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: New email indicators to alert on exfiltration of business sensitive data to free public ",
+  "description": "In this update, we are adding two new email indicators to Insider Risk Management.\n1.  Sending email with attachments to free public domains: This alerts when business-sensitive data is potentially leaked from a work email account to a free public domain email, potentially leading to a data security incident. \n\n2. Sending email with attachments to self: This alerts when business-sensitive data is potentially leaked from a work email account to user's personal email account or emailing self, potentially leading to a data security incident. \nAdmins with appropriate permissions can enable these indicators from the settings page and use these new indicators in the data leaks or data theft policy template.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 10 Mar 2025 23:30:35 Z",
+  "updated": "2025-03-10T23:30:35Z",
+  "publicDisclosureAvailabilityDate": "June CY2025",
+  "publicPreviewDate": "March CY2025"
+}

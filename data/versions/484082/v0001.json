@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-03-11T02:26:45.2280223+00:00",
+  "guid": "484082",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=484082",
+  "category": [
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Preview",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Microsoft Purview compliance portal: Collection policies support in IRM",
+  "description": "With this update, IRM will start supporting collection policies. Collection policies allow customers to scope classification (SITs - Sensitive Information Types) and activities for scoped users. For device indicators based IRM policy, required collection policies will be automatically created in the background.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 10 Mar 2025 23:30:35 Z",
+  "updated": "2025-03-10T23:30:35Z",
+  "publicDisclosureAvailabilityDate": "September CY2025",
+  "publicPreviewDate": "April CY2025"
+}
