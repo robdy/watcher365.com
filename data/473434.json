@@ -7,14 +7,15 @@
     "General Availability",
     "In development",
     "Mac",
+    "Microsoft Copilot (Microsoft 365)",
     "Microsoft Teams",
     "Targeted Release",
     "Worldwide (Standard Multi-Tenant)"
   ],
-  "title": "Microsoft Teams: Meeting transcription supports multiple spoken languages",
-  "description": "Meeting participants can now set their own spoken language during meetings, allowing each participant to communicate in their preferred language. Previously, Teams meetings required a common spoken language to generate a transcript. With this update, a meeting transcript can be accurately generated reflecting each participant’s language of choice.",
+  "title": "Microsoft Teams: Meeting organizers can enable transcription in multilingual meetings (Copilot and Teams Premium)",
+  "description": "We’re introducing a new organizer-level control that no longer requires all meetings to have one common spoken language to be set across all participants. Meeting organizers with Copilot or Teams Premium licenses will see a new control in meeting options called “Enable multilingual speech recognition.” When this is enabled before a meeting, each meeting participant will be able to set their own spoken language during the meeting, and the meeting transcript can accurately reflect each participant’s language of choice.",
   "pubDate": "Wed, 26 Feb 2025 19:45:29 Z",
-  "updated": "2025-02-27T20:15:46Z",
+  "updated": "2025-03-19T23:15:02Z",
   "publicDisclosureAvailabilityDate": "April CY2025",
   "publicPreviewDate": null
 }
