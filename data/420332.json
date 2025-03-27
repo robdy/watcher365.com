@@ -9,10 +9,10 @@
     "Web",
     "Worldwide (Standard Multi-Tenant)"
   ],
-  "title": "Microsoft Purview compliance portal: Data Loss Prevention - DLP support for Fabric Lakehouse",
-  "description": "DLP policy support for Fabric will allow admins to further scope DLP policies to lakehouses  in addition to Power BI (which is supported today). Now in Fabric lakehouses, DLP policies can help audit and notify users through Policy Tips based upon sensitive content.",
+  "title": "Microsoft Purview compliance portal: Data Loss Prevention – DLP support for Fabric Lakehouse, KQL, and Mirrored databases",
+  "description": "DLP policy support for Fabric will allow admins to further scope DLP policies to lakehouses in addition to Power BI (which is supported today). Now in Fabric lakehouses, DLP policies can help audit and notify users through Policy Tips based upon sensitive content. In addition, DLP policy support will also extend to Fabric KQL databases and mirrored databases. Mirrored databases include Mirrored Azure Cosmos DB, Mirrored Azure DB for PostgreSQL, Mirrored Azure SQL Database, Mirrored Azure SQL Managed Instance, Mirrored database, Mirrored Snowflake, and Mirrored SQL Server Database.",
   "pubDate": "Fri, 04 Oct 2024 23:15:50 Z",
-  "updated": "2025-02-06T00:15:02Z",
-  "publicDisclosureAvailabilityDate": "April CY2025",
+  "updated": "2025-03-27T00:00:10Z",
+  "publicDisclosureAvailabilityDate": "October CY2025",
   "publicPreviewDate": "October CY2024"
 }

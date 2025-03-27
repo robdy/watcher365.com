@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-03-27T02:28:14.5350367+00:00",
+  "guid": "483883",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=483883",
+  "category": [
+    "Desktop",
+    "GCC",
+    "General Availability",
+    "In development",
+    "Outlook",
+    "Web",
+    "Worldwide (Standard Multi-Tenant)"
+  ],
+  "title": "Outlook: 2-click view of encrypted emails in New Outlook",
+  "description": "New Outlook for Windows will now support a two-click view for encrypted emails. This feature enables admins to require user confirmation before allowing access to encrypted emails. Admins can find the \"TwoClickMailPreviewEnabled\" setting in the Microsoft Azure directory. Alternatively, admins can access and set the value for this setting using the Microsoft PowerShell cmdlet \"-Set-OrganizationConfiquration\" in the Microsoft Exchange Online PowerShell.\n#newoutlookforwindows\n\n",
+  "pubDate": "Wed, 05 Mar 2025 23:30:41 Z",
+  "updated": "2025-03-24T23:45:04Z",
+  "publicDisclosureAvailabilityDate": "April CY2025",
+  "publicPreviewDate": null
+}

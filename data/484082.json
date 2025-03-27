@@ -9,10 +9,10 @@
     "Web",
     "Worldwide (Standard Multi-Tenant)"
   ],
-  "title": "Microsoft Purview compliance portal: Collection policies support in IRM",
-  "description": "With this update, IRM will start supporting collection policies. Collection policies allow customers to scope classification (SITs - Sensitive Information Types) and activities for scoped users. For device indicators based IRM policy, required collection policies will be automatically created in the background.\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "title": "Microsoft Purview compliance portal: Collection policies impact on IRM",
+  "description": "With this update, Microsoft Purview will start supporting collection policies. Collection policies allow customers to scope classification (SITs - Sensitive Information Types) and activities for scoped users. We recommend reviewing collection policies as they can be created by different Purview solution admins to ensure they are setup to detect the activities required by IRM policies\n\nMicrosoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies to manage security and compliance. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
   "pubDate": "Mon, 10 Mar 2025 23:30:35 Z",
-  "updated": "2025-03-10T23:30:35Z",
+  "updated": "2025-03-24T23:45:04Z",
   "publicDisclosureAvailabilityDate": "September CY2025",
   "publicPreviewDate": "April CY2025"
 }
