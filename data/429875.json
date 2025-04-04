@@ -15,7 +15,7 @@
   "title": "OneDrive: Office Files on Hold ",
   "description": "If a tenant has the (EnableHoldTheFile) GPO enabled, and the end users run into Office file conflicts, then end users can open the file in Office to merge changes. If a tenant has the GPO disabled, and the end users run into Office file conflicts, then OneDrive automatically creates a copy of the file in conflict. When tenants have this GPO disabled, it leads to end users potentially having to manually merge hundreds of conflicts because OneDrive automatically forks a file instead of allowing the users to have the option to merge conflicts in Office. The proposal no longer allows tenants to disable this GPO thus not automatically forking a file when in conflict for end users.",
   "pubDate": "Wed, 30 Oct 2024 23:30:52 Z",
-  "updated": "2024-10-30T23:30:52Z",
-  "publicDisclosureAvailabilityDate": "April CY2025",
+  "updated": "2025-04-04T00:15:21Z",
+  "publicDisclosureAvailabilityDate": "May CY2025",
   "publicPreviewDate": null
 }

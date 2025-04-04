@@ -4,14 +4,14 @@
   "category": [
     "GCC",
     "General Availability",
-    "In development",
+    "Launched",
     "Microsoft Purview compliance portal",
     "Web"
   ],
   "title": "Microsoft Purview compliance portal: eDiscovery - Hold limits increased per hold policy for eDiscovery Premium",
   "description": "The Purview eDiscovery team has increased the limits for Hold policies for eDiscovery Premium in the new purview.microsoft.com portal. \n\nThe maximum number of mailboxes in a single case hold has been increased from 1,000 to 2,000. This limit includes the combined total of user mailboxes and the mailboxes associated with Microsoft 365 Groups, Microsoft Teams, and Viva Engage Groups.\n\nThe maximum number of sites in a single case hold has been increased from 100 to 2,000. This limit includes the combined total of OneDrive for Business sites, SharePoint sites, and the sites associated with Microsoft 365 Groups, Microsoft Teams, and Viva Engage Groups. \n\nOverall, the maximum allowed locations in a premium case hold policy in a premium case is 4,000 (2,000 each). This is possible through the new user interface in Purview portal and not through the Classic eDiscovery experience. Additionally, this is not currently possible with Graph. The maximum hold limits for a standard case remain the same as earlier: 1,000 mailboxes and 100 sites. All other settings for eDiscovery hold continue as is. \n\nLastly, in case of license downgrade, the system won't remove any existing holds and won't allow adding more, such as for a policy with a higher number of locations in it (e.g. 1500 Mailbox and 1500 Sites), and if the case setting is downgraded to E3, you will not be able to add more locations in it based on E3 limits, but you will be able to remove locations from it.",
   "pubDate": "Tue, 28 Jan 2025 00:00:21 Z",
-  "updated": "2025-01-28T00:00:21Z",
+  "updated": "2025-04-01T23:30:25Z",
   "publicDisclosureAvailabilityDate": "March CY2025",
   "publicPreviewDate": null
 }

@@ -1,0 +1,19 @@
+{
+  "guid": "486826",
+  "link": "https://www.microsoft.com/microsoft-365/roadmap?id=486826",
+  "category": [
+    "DoD",
+    "GCC",
+    "GCC High",
+    "General Availability",
+    "In development",
+    "Microsoft Purview compliance portal",
+    "Web"
+  ],
+  "title": "Microsoft Purview compliance portal: Enhancements to global exclusions in IRM settings",
+  "description": "In this update, we are making the below enhancements to IRM exclusions to reduce alert noise. 1. Keyword logic update for email - An email will be excluded from scoring only when all the attachments match the keyword exclusions or email subject matches the keyword exclusions. This will be helpful to reduce the email signature noise which commonly contains keyword \"image\". 2. Keyword exclusions on both target and source file paths - For signals like file copied to removable media, keyword exclusions apply on both target and source file paths. 3. File path exclusions for removable media - We will start supporting file path exclusions for removable media. 4. Exclusion support for browser - Domain exclusions are now supported for browsing indicators. Microsoft Purview Insider Risk Management correlates various signals to identify potential malicious or inadvertent insider risks, such as IP theft, data leakage, and security violations. Insider Risk Management enables customers to create policies based on their own internal policies, governance, and organizational requirements. Built with privacy by design, users are pseudonymized by default, and role-based access controls and audit logs are in place to help ensure user-level privacy.",
+  "pubDate": "Mon, 31 Mar 2025 21:15:04 Z",
+  "updated": "2025-03-31T21:15:04Z",
+  "publicDisclosureAvailabilityDate": "April CY2025",
+  "publicPreviewDate": null
+}
