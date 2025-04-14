@@ -2,8 +2,8 @@
 import React, { useEffect, useState } from 'react';
 import useDebounce from '../libs/useDebounce'
 
-const Search = () => {
-	const [search, setSearch] = useState('');
+const Search = ({searchTerms} : {searchTerms?: string | undefined}) => {
+	const [search, setSearch] = useState(searchTerms || '');
 	// Debouncing taken from
 	// https://hackernoon.com/how-to-use-debounce-in-nextjs
 	const debouncedSearch = useDebounce(search, 500)
@@ -14,20 +14,7 @@ const Search = () => {
 
 
 	const updateView = (inputValue: string) => {
-		// Entries can be found as li with id='li-container-*'
-		const entries = document.querySelectorAll('li[id^="li-container-"]');
-		entries.forEach((entry) => {
-			const entryHTMLElement = entry as HTMLElement;
-			if (inputValue === '') {
-				entryHTMLElement.style.display = 'block';
-			}
-			if (!entryHTMLElement.innerHTML.toLowerCase().includes(inputValue.toLowerCase())) {
-				entryHTMLElement.style.display = 'none';
-			}
-			else {
-				entryHTMLElement.style.display = 'block';
-			}
-		})
+		window.history.replaceState({}, '', `/?searchterms=${inputValue}`)
 	}
 
 	return (

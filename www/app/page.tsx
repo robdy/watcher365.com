@@ -16,15 +16,20 @@ const getData = async (
   }
 };
 
-const Home = async () => {
+const Home = async ({
+  searchParams,
+}: {
+  searchParams: { [key: string]: string | string[] | undefined };
+}) => {
+  const searchTerms: string = searchParams.searchterms as string;
   const { commitList }: any = await getData();
   // Workaround from Next.JS GitHub
   // https://github.com/vercel/next.js/issues/42292#issuecomment-1464048350
-  const listContainer: JSX.Element = await ListContainer({ commitList })
+  const listContainer: JSX.Element = await ListContainer({ commitList, searchTerms })
 
   return (
     <section className="container max-w-5xl mx-auto ">
-      <Search />
+      <Search searchTerms={searchTerms} />
       <div className="my-10">
         {listContainer}
       </div>
