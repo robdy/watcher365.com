@@ -6,7 +6,7 @@ interface Props {
   commitList: string[];
 }
 
-const ListContainer = async ({ commitList } : {commitList: string[]}) => {
+const ListContainer = async ({ commitList, searchTerms } : {commitList: string[], searchTerms: string}) => {
   const getCommitData = async (sha: string) => await octokit.rest.repos.getCommit({
       owner: owner,
       repo: repo,
@@ -51,7 +51,7 @@ const ListContainer = async ({ commitList } : {commitList: string[]}) => {
         <ul className="my-3 divide-y-2 text-sm md:text-base" key={`list-${item}`}>
           {groupedData[item].map((entry: any) => {
             return (
-              <EntryTile entryID={entry.entryID} version={entry.version} key={`tile-${entry.entryID}-${entry.version}`}/>
+              <EntryTile entryID={entry.entryID} version={entry.version} key={`tile-${entry.entryID}-${entry.version}`} searchTerms={searchTerms}/>
             )
           })}
         </ul>
